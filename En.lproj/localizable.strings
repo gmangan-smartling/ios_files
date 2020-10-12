@@ -1,0 +1,8 @@
+/* Subtitle of a button appearing in the subscription screen, notifying users that by pressing this button they will be saving {0}% annualy */
+"Save {0}% per year" = "Save {0}% per year";
+
+/* Introductory Price strings */
+"Get 3 months for %@" = "Get 3 months for %@";
+
+/* Chinese welcome popup subtitle */
+"You’ve received %lu days of Pro free! You can now access all features of the app for %lu days" = "You’ve received %lu days of Pro free! You can now access all features of the app for %lu days";
