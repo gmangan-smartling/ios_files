@@ -6,3 +6,6 @@
 
 /* Chinese welcome popup subtitle */
 "You’ve received %lu days of Pro free! You can now access all features of the app for %lu days" = "You’ve received %lu days of Pro free! You can now access all features of the app for %lu days";
+
+/* Reset Slider help subtitle*/
+"Long press to reset values." = "Long press to reset values.";
