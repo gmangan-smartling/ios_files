@@ -1,11 +1,1965 @@
+/*====================================*/
+/*======= Subscription Strings =======*/
+/*====================================*/
+
+/* Subscription header */
+"Quickshot Pro" = "Quickshot Pro";
+
+/* Subscription title 10% off */
+"Quickshot Pro - now 10% off!" = "Quickshot Pro - now 10% off!";
+
+/* Subscription title 15% off */
+"Quickshot Pro - now 15% off!" = "Quickshot Pro - now 15% off!";
+
+/* Subscription title 25% off */
+"Quickshot Pro - now 25% off!" = "Quickshot Pro - now 25% off!";
+
+/* Subscription title 50% off */
+"Quickshot Pro - now 50% off!" = "Quickshot Pro - now 50% off!";
+
+/* Subscription subtitle */
+"Primers, Filters, Sky, Strobe & unlimited Batch!" = "Primers, Filters, Sky, Strobe & unlimited Batch!";
+
+/* Pro only banner (notice the line break) */
+"Pro Only\nRemove Limit" = "Pro Only\nRemove Limit";
+
+/* Pro export banner */
+"Remove Limit" = "Remove Limit";
+
+/* Pro features explanation */
+"You’ve used Pro features!" = "You’ve used Pro features!";
+
+/* Pro max number of batch explanation 1 */
+"Unlimited batch with Pro" = "Unlimited batch with Pro";
+
+/* Pro max number of batch explanation 2 */
+"Number of assets over the limit" = "Number of assets over the limit";
+
+/* Label on a button for purchasing subscription that renews every 12 months */
+"ANNUAL" = "ANNUAL";
+
+/* Label on a button for purchasing subscription that renews every month, in capital letters */
+"MONTHLY" = "MONTHLY";
+
+/* Label on a button for purchasing the product at a single one-time price, instead of a renewable subscription plan */
+"ONE-TIME\nPURCHASE" = "ONE-TIME\nPURCHASE";
+
+/* Abbreviation of the word month, representing per-month suffix of a price, as in $5/mo - $5 per month. The '/' should remain in the localized version */
+"/mo" = "/mo";
+
+/* A price displayed in the amount the user will pay for the item per year. Example: $34.99/year */
+"%@/year" = "%@/year";
+
+/* Text informing the user of the most popular payment plan among users */
+"Most Popular" = "Most Popular";
+
+/* Unlimited sky thumbnail */
+"Unlimited\nSky" = "Unlimited\nSky";
+
+/* Batch editing thumbnail */
+"Batch\nEditing" = "Batch\nEditing";
+
+/* Filters thumbnail */
+"%d+\nFilters" = "%d+\nFilters";
+
+/* Advanced tools thumbnail */
+"Advanced\nTools" = "Advanced\nTools";
+
+/* Sky thumbnail */
+"20+\nSkies" = "20+\nSkies";
+
+/* Primer thumbnail */
+"30+\nPrimers" = "30+\nPrimers";
+
+/* Subtitle appearing in the subscription screen, notifying users that by subscribing they can access all features of the app */
+"Access All Features" = "Access All Features";
+
+/* Label on a button for purchasing subscription that renews every month
+ Text shown when 1 month of free trial is offered for new subscribers */
+"1 Month" = "1 Month";
+
+/* Button appearing in the subscription screen, notifying users that by pressing this button they are choosing an anual subscription plan - 12 months */
+"12 Months" = "12 Months";
+
+/* Label on a button for purchasing the product at a single one-time price, instead of a renewable subscription plan */
+"One-Time Purchase" = "One-Time Purchase";
+
+/* Title of a button suggesting to the user to continue to payment in the subscription screen */
+"Continue" = "Continue";
+
+/* Title of a button suggesting to the user to continue to payment in the subscription screen option 2 */
+"Begin creation" = "Begin creation";
+
+/* Title of a button suggesting to the user to continue to payment in the subscription screen option 3 */
+"Begin advanced creation" = "Begin advanced creation";
+
+/* Label on a button that links to terms of use */
+"Terms of Use" = "Terms of Use";
+
+/* Label on a button that links to privacy policy */
+"Privacy Policy" = "Privacy Policy";
+
+/* Label on a button that restored previously purchased products */
+"Restore Purchases" = "Restore Purchases";
+
+/* Short terms of use for subscription */
+"Payment will be charged to your iTunes account at confirmation of purchase. Subscriptions will automatically renew unless auto-renew is turned off at least 24 hours before the end of current period. Your account will be charged according to your plan for renewal within 24 hours prior to the end of the current period. You can manage or turn off auto-renew in your Apple ID account settings at any time after purchase." = "Payment will be charged to your iTunes account at confirmation of purchase. Subscriptions will automatically renew unless auto-renew is turned off at least 24 hours before the end of current period. Your account will be charged according to your plan for renewal within 24 hours prior to the end of the current period. You can manage or turn off auto-renew in your Apple ID account settings at any time after purchase.";
+
 /* Subtitle of a button appearing in the subscription screen, notifying users that by pressing this button they will be saving {0}% annualy */
 "Save {0}% per year" = "Save {0}% per year";
+
+/* Additional data for a button appearing in the subscription screen, notifying users the total amount to pay according to the chosen plan */
+"Total" = "Total";
+
+/* Title of a pop-up informing the user that they can save {0} amount by upgrading to an annual payment plan. Example: Upgrade to yearly and save 50% now! */
+"Upgrade to yearly and save {0}% now!" = "Upgrade to yearly and save {0}% now!";
+
+/* Title of a button offering the user the continue using the monthly payment plan. Please keep as short as possible */
+"Continue with monthly" = "Continue with monthly";
+
+/* Title of a button offering the user to upgrade to an annual payment plan. Please keep as short as possible */
+"Upgrade to yearly" = "Upgrade to yearly";
+
+/* Message shown to the user if he is already a subscriber when accessing the subscription screen */
+"All the features are now available" = "All the features are now available";
+
+/* Title of a message shown to the user if he is already a subscriber when accessing the subscription screen */
+"You're already a subscriber" = "You're already a subscriber";
+
+/* Subtitle appearing in the subscription screen, notifying users that by subscribing they can access all features of the app option 1 */
+"Access All Features - 3 Days Free" = "Access All Features - 3 Days Free";
+
+/* Subtitle appearing in the subscription screen, notifying users that by subscribing they can access all features of the app option 2 */
+"Your First 3 Days Free" = "Your First 3 Days Free";
+
+/* Subtitle appearing in the subscription screen, notifying users that by subscribing they can access all features of the app option 3 */
+"Unlimited and enjoyable usage" = "Unlimited and enjoyable usage";
+
+/* Subtitle trial button option 1*/
+"Start Trial" = "Start Trial";
+
+/* Subtitle trial button option 2*/
+"Start Free Trial" = "Start Free Trial";
+
+/* Subtitle trial button option 3*/
+"Start 3 Day Trial" = "Start 3 Day Trial";
+
+/* Label above monthly subscription. */
+"Monthly subscription" = "Monthly subscription";
+
+/* Label above yearly subscription. */
+"Yearly subscription" = "Yearly subscription";
+
+/* Label above free trial. */
+"Free 3 day trial" = "Free 3 day trial";
+
+/* Label above yearly subscription and above free trial. */
+"Yearly subscription and 3 day trial" = "Yearly subscription and 3 day trial";
+
+/* String denoting that after trial ends, the user will pay the specified amount. Version 1. */
+"Afterwards" = "Afterwards";
+
+/* String denoting that after trial ends, the user will pay the specified amount. Version 2. */
+"After trial" = "After trial";
+
+/*====================================*/
+/*===== Subscription Trial Popup =====*/
+/*====================================*/
+
+/* Title of trial alert - 3 days, the translation is for "Your First 3 Days Free" */
+"Get 3 Days Free" = "Get 3 Days Free";
+
+/* Body text in a button encouraging the user to start a 3 day free trial of Quickshot Pro */
+"Get 3 Days Free!" = "Get 3 Days Free!";
+
+/* Subtitle of trial alert, the translation is for "Primers, Filters, Sky, Strobe & unlimited Batch!" */
+"Get the best results with unlimited access to Sky, Portrait, Primers, and more." = "Get the best results with unlimited access to Sky, Portrait, Primers, and more.";
+
+/* Buttons which takes the user to the subscription screen, translation is for "Show me" */
+"Claim Now" = "Claim Now";
+
+/*==============================*/
+/*===== Introductory Price =====*/
+/*==============================*/
 
 /* Introductory Price strings */
 "Get 3 months for %@" = "Get 3 months for %@";
 
-/* Chinese welcome popup subtitle */
-"You’ve received %lu days of Pro free! You can now access all features of the app for %lu days" = "You’ve received %lu days of Pro free! You can now access all features of the app for %lu days";
+/* Introductory Price strings */
+"Annual Plan" = "Annual Plan";
+
+/* Introductory Price strings */
+"3 Months for %@" = "3 Months for %@";
+
+/* Introductory Price strings */
+"then only %@ billed yearly" = "then only %@ billed yearly";
+
+/** ----------- **/
+/** Help Videos **/
+/** ----------- **/
+/* Help screen title */
+"Help" = "Help";
+
+/* Strobe mode pre capture 1 */
+"Takes multiple shots of a moving object and combines them into a single photo." = "Takes multiple shots of a moving object and combines them into a single photo.";
+
+/* Strobe mode pre capture 2 */
+"Combines multiple shots into a single photo." = "Combines multiple shots into a single photo.";
+
+/* Strobe mode pre capture 3 */
+"Combines continuous shots into a single photo." = "Combines continuous shots into a single photo.";
+
+/* Strobe mode post capture 1 */
+"Use the eraser to remove the strobe effect from unwanted areas." = "Use the eraser to remove the strobe effect from unwanted areas.";
+
+/* Strobe mode post capture 2 */
+"Use the eraser to remove the effect from unwanted areas." = "Use the eraser to remove the effect from unwanted areas.";
+
+/* Strobe mode post capture 3 */
+"Erase the effect from unwanted areas." = "Erase the effect from unwanted areas.";
+
+/* Quickshot mode pre capture */
+"Automatically straightens & crops your shot." = "Automatically straightens & crops your shot.";
+
+/* HDR help 1 */
+"Fix dark images or harsh lighting." = "Fix dark images or harsh lighting.";
+
+/* HDR help 2 */
+"Fix shots with bad lighting." = "Fix shots with bad lighting.";
+
+/* HDR help 3 */
+"Improve dark or harsh lighting." = "Improve dark or harsh lighting.";
+
+/* Batch editing help title */
+"Batch Editing" = "Batch Editing";
+
+/* Batch editing help subtitle  */
+"Edit multiple photos at once." = "Edit multiple photos at once.";
+
+/* Reset help title */
+"Batch Editing" = "Batch Editing";
+
+/* Reset help subtitle  */
+"Long press Undo button to reset." = "Long press Undo button to reset.";
+
+/* Reset Slider help title*/
+"Reset Slider" = "Reset Slider";
 
 /* Reset Slider help subtitle*/
 "Long press to reset values." = "Long press to reset values.";
+
+/* Compare help title*/
+"Compare" = "Compare";
+
+/* Compare help subtitle*/
+"Long press to compare." = "Long press to compare.";
+
+/* Apply to all help title*/
+"Apply To All" = "Apply To All";
+
+/*  Apply to all help subtitle*/
+"Apply the current style to all the photos." = "Apply the current style to all the photos.";
+
+/* Primers help title*/
+"Primers" = "Primers";
+
+/* Primers help subtitle*/
+"Select a Primer. Tap again for further tweaking." = "Select a Primer. Tap again for further tweaking.";
+
+/* Sky help title*/
+"Sky" = "Sky";
+
+/* Sky help subtitle variation 1 */
+"Replace your overexposed sky." = "Replace your overexposed sky.";
+
+/* Sky help subtitle variation 2 */
+"Adjust Feather, Horizon and Ambient to match the Sky to your photo." = "Adjust Feather, Horizon and Ambient to match the Sky to your photo.";
+
+/* Help video for reseting changes - title */
+"Reset all" = "Reset all";
+
+/* Help video for reseting changes - subtitle */
+"Long press the Undo button to reset all changes." = "Long press the Undo button to reset all changes.";
+
+/* Contact us button*/
+"Contact Us" = "Contact Us";
+
+/** ------ **/
+/** Camera **/
+/** ------ **/
+
+/* HDR pre light assessment message 1 */
+"Tap the screen for exposure calibration." = "Tap the screen for exposure calibration.";
+
+/* HDR during light assessment message 2 */
+"Calibrating..." = "Calibrating...";
+
+/* HDR during light assessment message 3 */
+"Ready!" = "Ready!";
+
+/* Misalignment error message title */
+"Hold Steady!" = "Hold Steady!";
+
+/* Misalignment error message subtitle */
+"Try to hold still while taking the shot." = "Try to hold still while taking the shot.";
+
+/* Misalignment error message button */
+"Got it" = "Got it";
+
+/* Message shown to user when camera moved while taking a shot */
+"For perfect shots, hold still while shooting" = "For perfect shots, hold still while shooting";
+
+/** ------------ **/
+/** Album screen **/
+/** ------------ **/
+
+/* My albums album header */
+"My Albums" = "My Albums";
+
+/* Quickshot photos album header */
+"Quickshot Photos" = "Quickshot Photos";
+
+/* sessions album header */
+"Sessions" = "Sessions";
+
+/* Batch sessions album header */
+"Batch Sessions" = "Batch Sessions";
+
+/* Title of an album containing demo photos supplied with the app */
+"Demo Photos" = "Demo Photos";
+
+/* favorites album header */
+"Favorites" = "Favorites";
+
+/* Library album header */
+"Library" = "Library";
+
+/* Albums header */
+"Albums" = "Albums";
+
+/* Deselect button */
+"Deselect" = "Deselect";
+
+/* Deselect button */
+"Deselect all" = "Deselect all";
+
+/* Edit photo button */
+"Edit photo" = "Edit photo";
+
+/* Edit 2 photos button */
+"Edit 2 photos" = "Edit 2 photos";
+
+/* Delete sessions button */
+"Delete 2 sessions" = "Delete 2 sessions";
+
+/* Delete session button */
+"Delete session" = "Delete session";
+
+/* Delete batch sessions button */
+"Delete 2 Batch sessions" = "Delete 2 Batch sessions";
+
+/* Delete batch session button */
+"Delete Batch session" = "Delete Batch session";
+
+/* Edit button */
+"Edit" = "Edit";
+
+/* Cancel button */
+"Cancel" = "Cancel";
+
+/* Select multiple photos button*/
+"Select" = "Select";
+
+/* Album section title - today*/
+"Today" = "Today";
+
+/* Album section title - this week*/
+"This Week" = "This Week";
+
+/* Album section title - this month*/
+"This Month" = "This Month";
+
+/* Album section title - older*/
+"Older" = "Older";
+
+/* Section of the album containing photos from the current year */
+"This Year" = "This Year";
+
+/* Section of the album containing photos taken earlier than this year */
+"Earlier" = "Earlier";
+
+/** ------------- **/
+/** Strobe helper **/
+/** ------------- **/
+
+/* Message button */
+"Eraser brush" = "Eraser brush";
+
+/* More button */
+"Restore brush" = "Restore brush";
+
+/** ------ **/
+/** Export **/
+/** ------ **/
+
+/* save button */
+"Save" = "Save";
+
+/* Message button */
+"Message" = "Message";
+
+/* More button */
+"More" = "More";
+
+/* Message shown to non-subscriber user trying to export image with pro features */
+"You’ve used Pro features!\nGo Pro to export edit as is or remove Pro effects." = "You’ve used Pro features!\nGo Pro to export edit as\nis or remove Pro effects.";
+
+/* Remove pro edit option button */
+"Remove" = "Remove";
+
+/* Go Pro option */
+"Go Pro!" = "Go Pro!";
+
+/* Alert informing user that pro edit will be removed */
+"This will undo all the Pro effects applied to your photo in order to export it." = "This will undo all the Pro effects applied to your photo in order to export it.";
+
+/* Alert title */
+"Remove Pro Effects" = "Remove Pro Effects";
+
+/* Alert button remove */
+"Remove now" = "Remove now";
+
+/* Message shown to user after image was saved to camera roll */
+"Saved to camera roll" = "Saved to camera roll";
+
+/* Message to the user that export succeeded */
+"Success!" = "Success!";
+
+/* Button text that allows the user to dismiss an alert */
+"Dismiss" = "Dismiss";
+
+/* Message to the user that the export was canceled */
+"Canceled" = "Canceled";
+
+/*=============================*/
+/*======= Import Screen =======*/
+/*=============================*/
+
+/* Export photos button title */
+"Export" = "Export";
+
+/* Delete photos button title */
+"Delete" = "Delete";
+
+/* Undo all the edits of the selected photos */
+"Undo Edits" = "Undo Edits";
+
+/* Adds the selected photos to the Favorites folder */
+"Add to Favorites" = "Add to Favorites";
+
+/* Removes the selected photos from the Favorites folder */
+"Remove from Favorites" = "Remove from Favorites";
+
+/* Title in sessions album when it is empty */
+"No sessions yet" = "No sessions yet";
+
+/* Subtitle in sessions album when it is empty */
+"Start editing - Edits are automatically saved and will appear here!" = "Start editing - Edits are automatically saved and will appear here!";
+
+/* Title of an empty photos album */
+"Oops, no photos here." = "Oops, no photos here.";
+
+/* Import screen what's new 1 - title */
+"New Import Screen" = "New Import Screen";
+
+/* Import screen what's new 1 - subtitle */
+"Use Select to Export, Delete, or Edit multiple shots" = "Use Select to Export, Delete, or Edit multiple shots";
+
+/* Import screen what's new 2 - title */
+"All Sessions in One Place" = "All Sessions in One Place";
+
+/* Import screen what's new 2 - subtitle */
+"Tap to find all your in-progress edits" = "Tap to find all your in-progress edits";
+
+/* Presented to a user that did not give access to his photos library, yet tries to perform an action that involves accessing it */
+"Quickshot does not have access to your photos. To enable access, go to iOS settings" = "Quickshot does not have access to your photos. To enable access, go to iOS settings.";
+
+/* Positive resopnse to the import error message. Redirect to the settings. */
+"Let's do it!" = "Let's do it!";
+
+/*==================================*/
+/*======= Main Toolbar tools =======*/
+/*==================================*/
+
+ /* Primers tool, max 9 chars! */
+"Primers" = "Primers";
+
+/* Sky tool, max 9 chars! */
+"Sky" = "Sky";
+
+/* Filters tool, max 9 chars! */
+"Filters" = "Filters";
+
+/* Details tool, max 9 chars! */
+"Details" = "Details";
+
+/* Adjust tool, max 9 chars! */
+"Adjust" = "Adjust";
+
+/* Canvas tool, max 9 chars! */
+"Canvas" = "Canvas";
+
+/** ----------- **/
+/** Edit screen **/
+/** ----------- **/
+
+/* Apply to button */
+"Apply to all" = "Apply to all";
+
+/* Custom preset package */
+"Custom" = "Custom";
+
+/* Neutral preset package */
+"Neutral" = "Neutral";
+
+/* Button which takes the user back to the photo albums*/
+"Photos" = "Photos";
+
+/* Reset preset package */
+"Reset" = "Reset";
+
+/* Saved preset package */
+"Saved" = "Saved";
+
+/* Nature preset package */
+"Nature" = "Nature";
+
+/* Urban preset package */
+"Urban" = "Urban";
+
+/* Portrait preset package */
+"Portrait" = "Portrait";
+
+/* Title that appears below the Sparkle overlays toolbar pack */
+"Sparkle" = "Sparkle";
+
+/* Title of a slider controlling the size of the particles in the Sparkle effect */
+"Size" = "Size";
+
+/* Title of a slider controlling the density of the particles in the Sparkle effect */
+"Density" = "Density";
+
+/* Chinese New Year overlay package */
+"New Year" = "New Year";
+
+/* Mood overlay package */
+"Mood" = "Mood";
+
+/* Duo overlay package */
+"Duo" = "Duo";
+
+/* IntroPresentation.pages.title */
+"Overlay" = "Overlay";
+
+/* Toolbar button, adds a lens flare effect. */
+"Lens Flare" = "Lens Flare";
+
+/* Title that appears below the Weather overlays toolbar pack */
+"Weather" = "Weather";
+
+/* Title for a pack of Valentines themed Overlays Packs */
+"Valentine's" = "Valentine's";
+
+/* Summer preset package */
+"Summer" = "Summer";
+
+/* Abstract preset package */
+"Abstract" = "Abstract";
+
+/* Night preset package */
+"Night" = "Night";
+
+/* B&W preset package */
+"B&W" = "B&W";
+
+/* Preset saved notification */
+"Preset saved as:" = "Preset saved as:";
+
+/* Quickfix on notification */
+"Quickfix on" = "Quickfix on";
+
+/* Quickfix off notification */
+"Quickfix off" = "Quickfix off";
+
+/* Undo notification */
+"Undo" = "Undo";
+
+/* Redo notification */
+"Redo" = "Redo";
+
+/* Redo notification */
+"Redo" = "Redo";
+
+/* Filters button */
+"Filters" = "Filters";
+
+/* Brightness button */
+"Brightness" = "Brightness";
+
+/* Exposure button */
+"Exposure" = "Exposure";
+
+/* Shadows button */
+"Shadows" = "Shadows";
+
+/* Highlights button */
+"Highlights" = "Highlights";
+
+/* Contrast button */
+"Contrast" = "Contrast";
+
+/* Sharpen button */
+"Sharpen" = "Sharpen";
+
+/* Saturation button */
+"Saturation" = "Saturation";
+
+/* Temp button */
+"Temp" = "Temp";
+
+/* Tint button */
+"Tint" = "Tint";
+
+/* Hue button */
+"Hue" = "Hue";
+
+/* Depth button */
+"Depth" = "Depth";
+
+/* Filters button */
+"Filters" = "Filters";
+
+/* Structure button */
+"Structure" = "Structure";
+
+/* Vibrance button */
+"Vibrance" = "Vibrance";
+
+/* Vignette button */
+"Vignette" = "Vignette";
+
+/* Bright preset package */
+"Bright" = "Bright";
+
+/* Drama preset package */
+"Drama" = "Drama";
+
+/* Faded preset package */
+"Faded" = "Faded";
+
+/* HighCon (<- As in high contrast) preset package */
+"HighCon" = "HighCon";
+
+/* LowCon (<- As in low contrast) preset package */
+"LowCon" = "LowCon";
+
+/* Go Pro button */
+"Go Pro" = "Go Pro";
+
+/*Pop tool button (As in "the color pops out") */
+"Pop" = "Pop";
+
+/*cool tool button (Cool as in "colder") */
+"Cool" = "Cool";
+
+/*calm tool button */
+"Calm" = "Calm";
+
+/*fade tool button */
+"Fade" = "Fade";
+
+/*Select All button */
+"Select All" = "Select All";
+
+/* Day preset package */
+"Day" = "Day";
+
+/* NEON preset package */
+"NEON" = "NEON";
+
+/* Night preset package */
+"Night" = "Night";
+
+/* Cinematic preset package */
+"Cinematic" = "Cinematic";
+
+/* Mystery preset package */
+"Mystery" = "Mystery";
+
+/* Radical preset package */
+"Radical" = "Radical";
+
+/* No filter */
+"None" = "None";
+
+/* essential filters */
+"Essential" = "Essential";
+
+/* Adjust Primer tool */
+"Adjust Primer" = "Adjust Primer";
+
+/* Adjust Filter tool */
+"Adjust Filter" = "Adjust Filter";
+
+/* Ratio tool */
+"Ratio" = "Ratio";
+
+/* Temperature (here we use ‘Temp’ because ‘Temperature’ is too long) button */
+"Temp" = "Temp";
+
+/* Light button */
+"Light" = "Light";
+
+/* Straighten button */
+"Straighten" = "Straighten";
+
+/* Horizontal skew button */
+"H-skew" = "H-skew";
+
+/* Vertical skew button */
+"V-skew" = "V-skew";
+
+/* Rotate button */
+"Rotate" = "Rotate";
+
+/* Flip horizontally button */
+"Flip H" = "Flip H";
+
+/* Flip vertically button */
+"Flip V" = "Flip V";
+
+/* Ratio button */
+"Ratio" = "Ratio";
+
+/* Ratios button */
+"Ratios" = "Ratios";
+
+/* Free ratio button */
+"Free" = "Free";
+
+/* Grain tool */
+"Grain" = "Grain";
+
+/* Color */
+"Color" = "Color";
+
+/* Title for a pack of Christmas themed Overlays and Sky Packs */
+"Christmas" = "Christmas";
+
+/*=========================*/
+/*======= Sky Tool ========*/
+/*=========================*/
+
+/* Sky tool */
+"Sky" = "Sky";
+
+/* Randomizes the sky */
+"Random" = "Random";
+
+/* Controlls the opacity of the sky */
+"Opacity" = "Opacity";
+
+/* Changes the sky color according to a time of day */
+"Time" = "Time";
+
+/* Adds clouds to the sky */
+"Clouds" = "Clouds";
+
+/* Shifts the clouds */
+"Wind" = "Wind";
+
+/* Matches the color of the sky with the current filter option 1 */
+"Color Match" = "Color Match";
+
+/* Matches the color of the sky with the current filter option 2 */
+"Colorize" = "Colorize";
+
+/* Sky horizon button*/
+"Horizon" = "Horizon";
+
+/* Feather horizon button*/
+"Feather" = "Feather";
+
+/* Shift horizon button*/
+"Shift" = "Shift";
+
+/* Ambient horizon button*/
+"Ambient" = "Ambient";
+
+/* Sunny sky package*/
+"Sunny" = "Sunny";
+
+/* Fantasy sky package*/
+"Fantasy" = "Fantasy";
+
+/* Dusk sky package*/
+"Dusk" = "Dusk";
+
+/* Sunset sky package*/
+"Sunset" = "Sunset";
+
+/* Night sky package*/
+"Night" = "Night";
+
+/* Aurora sky package*/
+"Aurora" = "Aurora";
+
+/* Storm sky package*/
+"Storm" = "Storm";
+
+/* New Sky package - Ablaze */
+"Ablaze" = "Ablaze";
+
+/*===============================*/
+/*======= Portrait Tool =========*/
+/*===============================*/
+
+ /* Blur */
+"Blur" = "Blur";
+
+/* Glow */
+"Glow" = "Glow";
+
+/* Smooth */
+"Smooth" = "Smooth";
+
+/*==================================*/
+/*======= Primer Properties ========*/
+/*==================================*/
+
+/* Primers tool */
+"Primers" = "Primers";
+
+/* Changes the low mixing */
+"Lows" = "Lows";
+
+/* Changes the mid mixing */
+"Mids" = "Mids";
+
+/* Changes the high mixing */
+"Highs" = "Highs";
+
+/* Changes the effect on people */
+"People" = "People";
+
+/* Changes the effect on people option 2 */
+"Person" = "Person";
+
+/* Changes the luminance */
+"Luminance" = "Luminance";
+
+/* Changes the chroma (color) */
+"Chroma" = "Chroma";
+
+/* Adds details */
+"Details" = "Details";
+
+/*=============================*/
+/*======= Filter packages =====*/
+/*=============================*/
+
+ /* Vibrant Package */
+"Vibrant" = "Vibrant";
+
+/* Fade Package */
+"Fade" = "Fade";
+
+/* Portrait Package */
+"Portrait" = "Portrait";
+
+/* Urban Package */
+"Urban" = "Urban";
+
+/* B&W (Black and white) Package */
+"B&W" = "B&W";
+
+/* Film Package */
+"Film" = "Film";
+
+/* Bright Package */
+"Bright" = "Bright";
+
+/* Neutral Package */
+"Neutral" = "Neutral";
+
+/* Cold Package */
+"Cold" = "Cold";
+
+/* Warm Package */
+"Warm" = "Warm";
+
+/* Thank you pop up - title */
+"Thank you!" = "Thank you!";
+
+/* Thank you pop up - substitle */
+"We appreciate your support.\nPlease enjoy all-access to premium features and unlimited primers & filters." = "We appreciate your support.\nPlease enjoy all-access to premium features and unlimited primers & filters.";
+
+/* Thank you pop up - continue button */
+"Get Started" = "Get Started";
+
+/* New Filter package - Tones */
+"Tones" = "Tones";
+
+/*=============================*/
+/*======= Intro Strings =======*/
+/*=============================*/
+
+/* Intro first slide */
+"Welcome to Quickshot!" = "Welcome to Quickshot!";
+
+/* Intro first slide subtitle */
+"Take amazing shots on the go" = "Take amazing shots on the go";
+
+/* Intro second slide variation 1 */
+"Make every photo you take beautiful" = "Make every photo you take beautiful";
+
+/* Intro second slide variation 2 */
+"Make every sky breathtaking" = "Make every sky breathtaking";
+
+/* Into screen showing the portrait feature - option 1 */
+"And every portrait stunning" = "And every portrait stunning";
+
+/* Into screen showing the portrait feature - option 2 */
+"Create stunning portraits" = "Create stunning portraits";
+
+/* Intro fourth slide */
+"Save time! Edit multiple photos at once" = "Save time! Edit multiple photos at once";
+
+/* Finish intro button */
+"Dive right in!" = "Dive right in!";
+
+/* Button displayed on the last slide of the app introduction */
+"Get Started!" = "Get Started!";
+
+/*=================================*/
+/*======= Apple retail demo =======*/
+/*=================================*/
+
+/* Alert when demo version is launched */
+"This version of %@ has been created specifically for demonstration purposes" = "This version of %@ has been created specifically for demonstration purposes";
+
+/* Title of alert appearing when trying to enter a disabled feature */
+"Feature not enabled for this demo" = "Feature not enabled for this demo";
+
+/* Alert accept button */
+"OK" = "OK";
+
+/*====================================*/
+/*======= What's new component =======*/
+/*====================================*/
+
+/* What's new component title variation 1 */
+"New Portrait Tool" = "New Portrait Tool";
+
+/* What's new component subtitle variation 1 */
+"Try it now" = "Try it now";
+
+/* What's new component subtitle variation 2 */
+"Try it on your portraits!" = "Try it on your portraits!";
+
+/* What's new component subtitle variation 3 */
+"Professional portraits in a few taps" = "Professional portraits in a few taps";
+
+/*=============================================*/
+/*======= Temporary Free Preset Strings =======*/
+/*=============================================*/
+
+/* Title of subscription banner */
+"Get unlimited access with Quickshot PRO." = "Get unlimited access with Quickshot PRO.";
+
+/* Subtitle of temporarily-free presets tool tip */
+"Quick, before they’re gone - Pro features with this icon are free!" = "Quick, before they’re gone - Pro features with this icon are free!";
+
+/* Local notification with new presets open up - title */
+"Try now!" = "Try now!";
+
+/* Local notification with new presets open up - option 1 */
+"New FREE Presets available for a limited time only." = "New FREE Presets available for a limited time only.";
+
+/* Local notification with new presets open up - option 2 */
+"Brand new FREE Presets available for a limited time only." = "Brand new FREE Presets available for a limited time only.";
+
+/*================================*/
+/*======= Refferal Strings =======*/
+/*================================*/
+
+ /* Title of refferal pop up - option 1 */
+"Share for More Quickshot!" = "Share for More Quickshot!";
+
+/* Title of refferal pop up - option 2 */
+"Share for Pro Exports!" = "Share for Pro Exports!";
+
+/* Title of refferal pop up - option 3 */
+"Share for more exports" = "Share for more exports";
+
+/* Subtitle of refferal pop up - option 1 */
+"Get 3 Pro exports and give a 7 day free trial - share Quickshot today!" = "Get 3 Pro exports and give a 7 day free trial - share Quickshot today!";
+
+/* Subtitle of refferal pop up - option 2 */
+"Get 3 Pro exports and give a 7 day free trial when your friend downloads Quickshot - share Quickshot today!" = "Get 3 Pro exports and give a 7 day free trial when your friend downloads Quickshot - share Quickshot today!";
+
+/* Thank you message after refferal - Title */
+"Thanks for sharing!" = "Thanks for sharing!";
+
+/* Thank you message after refferal - Subtitle */
+"Bonus! Here’s one free Export – on us :)" = "Bonus! Here’s one free Export – on us :)";
+
+/* Refferals explanation */
+"When your referred friend downloads Quickshot, you’ll get another 3 free Pro Exports!" = "When your referred friend downloads Quickshot, you’ll get another 3 free Pro Exports!";
+
+/* Button which opens the refferal pop up - option 1 */
+"Get free Pro Exports!" = "Get free Pro Exports!";
+
+/* Button which opens the refferal pop up - option 2 */
+"Want to get free Pro Exports?" = "Want to get free Pro Exports?";
+
+/* Quickshot link share button */
+"Share" = "Share";
+
+/* Message letting the user know that even though he used pro features, he can use pro exports */
+"You've used Pro tools! Continue to use a free export" = "You've used Pro tools! Continue to use a free export";
+
+/*=====================*/
+/*======= Masks =======*/
+/*=====================*/
+
+/* Undo / Redo action name (will say "undo: brush") */
+"Brush" = "Brush";
+
+/* Masks - help */
+"Use Eraser to remove or Brush to add your Sky or Portrait to certain areas." = "Use Eraser to remove or Brush to add your Sky or Portrait to certain areas.";
+
+/* Masks - what's new title 1 */
+"Masks" = "Masks";
+
+/* Masks - what's new title 2 */
+"Brushes" = "Brushes";
+
+/* Masks - what's new subtitle */
+"A perfect match in every photo. Adjust your Skies and Portrait Masks." = "A perfect match in every photo. Adjust your Skies and Portrait Masks.";
+
+/*===================================*/
+/*======= Intro slides Screen =======*/
+/*===================================*/
+
+/* Intro slides - Sky 1 */
+"Replace gray (or any!) skies with incredible Sky presets" = "Replace gray (or any!) skies with incredible Sky presets";
+
+/* Intro slides - Sky 2 */
+"Change any sky in one tap" = "Change any sky in one tap";
+
+/* Intro slides - portrait 1 */
+"Make portraits pop with background blur & multiple presets" = "Make portraits pop with background blur & multiple presets";
+
+/* Intro slides - portrait 2 */
+"Retouch portraits to perfection in one tap" = "Retouch portraits to perfection in one tap";
+
+/* Intro slides - portrait 3 */
+"Retouch portraits to perfection" = "Retouch portraits to perfection";
+
+/* Intro slides - filters 1 */
+"Adjust the mood of any shot with premium Filters" = "Adjust the mood of any shot with premium Filters";
+
+/* Intro slides - filters 2 */
+"Adjust the mood in one tap" = "Adjust the mood in one tap";
+
+/* Intro slides - filters 3 */
+"Adjust the mood with premium Filters" = "Adjust the mood with premium Filters";
+
+/* Intro slides - Magic 1 */
+"Effortless auto-adjustment in just a tap!" = "Effortless auto-adjustment in just a tap!";
+
+/* Intro slides - Magic 2 */
+"Fix photos magically in just one tap" = "Fix photos magically in just one tap";
+
+/* Intro slides - Magic 3 */
+"Magically fix every image" = "Magically fix every image";
+
+/* Intro slides - overlays 1 */
+"Smart Overlays adjust automatically to properly match every photo!" = "Smart Overlays adjust automatically to properly match every photo!";
+
+/* Intro slides - overlays 2 */
+"Add stunning special effects" = "Add stunning special effects";
+
+/* Intro slides - overlays 3 */
+"Special effects in one tap" = "Special effects in one tap";
+
+/* Intro slides - final slide 1 */
+"So many amazing photos, all in one tap!" = "So many amazing photos, all in one tap!";
+
+/* Intro slides - final slide 1 */
+"One photo, so many amazing looks!" = "One photo, so many amazing looks!";
+
+/*========================*/
+/*======= Overlays =======*/
+/*========================*/
+
+/* What's new title */
+"New! Overlays" = "New! Overlays";
+
+/* What's new subtitle */
+"Add a little something extra & transform your shots" = "Add a little something extra & transform your shots";
+
+/*=========================*/
+/*======= Magic Fix =======*/
+/*=========================*/
+
+/* Magic fix feature title */
+"Magic" = "Magic";
+
+/* What's New title */
+"Magic in a Tap" = "Magic in a Tap";
+
+/* What's New subtitle */
+"Adjust and Enhance your photos - no effort necessary!" = "Adjust and Enhance your photos - no effort necessary!";
+
+/*=============================*/
+/*======= Export screen =======*/
+/*=============================*/
+
+/* export - what's new title */
+"New Export Options" = "New Export Options";
+
+/* export - what's new subtitle */
+"Change your format, export to social media & more!" = "Change your format, export to social media & more!";
+
+/* eraser tooltip */
+"Tap to Erase!" = "Tap to Erase!";
+
+/* export - save new photo over original photo */
+"Replace" = "Replace";
+
+/* export - save new photo as new copy photo */
+"Save Copy" = "Save Copy";
+
+/* Save copy option explanation */
+"Saves an edited copy, but leaves original untouched" = "Saves an edited copy, but leaves original untouched";
+
+/* Save over option explanation */
+"Replaces original photo with edited version" = "Replaces original photo with edited version";
+
+/* button which exports the edited photo to instagram */
+"Post to Instagram" = "Post to Instagram";
+
+/* explanation on button which provides export through other apps */
+"Other Apps and Services" = "Other Apps and Services";
+
+/* export photo format type */
+"Format" = "Format";
+
+/* label explaining the destination of the export */
+"Export to" = "Export to";
+
+/* Looks feature title */
+"Looks" = "Looks";
+
+/* Looks what's new title */
+"Looks are combinations of tools, specially crafted by our design team. Check them out now!" = "Looks are combinations of tools, specially crafted by our design team. Check them out now!";
+
+/* Primers what's new title */
+"Primers are still here! We've just moved them around and changed the icon." = "Primers are still here! We've just moved them around and changed the icon.";
+
+/* Looks popup title */
+"Specially Crafted Quickshot Combinations" = "Specially Crafted Quickshot Combinations";
+
+/* Looks popup subtitle */
+"Looks are combinations of Quickshot tools, specially crafted by our design team." = "Looks are combinations of Quickshot tools, specially crafted by our design team.";
+
+/* Tooltip explaining to the user how to erase a mask */
+"Tap here, then swipe your photo to erase the effect" = "Tap here, then swipe your photo to erase the effect";
+
+/* Promotion screen title */
+"Hurry & get a month of Quickshot Pro for only %@!" = "Hurry & get a month of Quickshot Pro for only %@!";
+
+/* Promotion screen second title */
+"Get even more with Quickshot Pro!" = "Get even more with Quickshot Pro!";
+
+/* Promotion screen features 1 */
+"Unlock all tools" = "Unlock all tools";
+
+/* Promotion screen features 2 */
+"More Skies, more Filters!" = "More Skies, more Filters!";
+
+/* Promotion screen features 3 */
+"New Pro content every month" = "New Pro content every month";
+
+/* Promotion screen price text */
+"Get 1 Month for %@" = "Get 1 Month for %@";
+
+/* Promotion screen price text 2 */
+"then only %@ (billed yearly)" = "then only %@ (billed yearly)";
+
+/* Promotion screen text explaining to the user he can cancel his subscription */
+"Cancel anytime" = "Cancel anytime";
+
+/* Banner explaining to the user he used pro features */
+"You've used Pro features! Unlock Pro features to save." = "You've used Pro features! Unlock Pro features to save.";
+
+/* Button on the banner, which opens the subscription screen */
+"Unlock Pro features" = "Unlock Pro features";
+
+/* Button which removes the edits that were using pro features */
+"Remove Limit" = "Remove Limit";
+
+/* Free trial button */
+"Free trial" = "Free trial";
+
+/* Crop tool title */
+"Crop" = "Crop";
+
+/* Subtitle for an error message when a photo couldn't be saved 1 */
+"Oops, can't save over a demo photo" = "Oops, can't save over a demo photo";
+
+/* Subtitle for an error message when a photo couldn't be saved 2 */
+"Oops, can't save over a video" = "Oops, can't save over a video";
+
+/* Message shown when user uses a tool which works on faces */
+"Couldn't find a face" = "Couldn't find a face";
+
+/* Referrals - message shown to referred user */
+"Your First 7 Days Free" = "Your First 7 Days Free";
+
+/* Notification text informing the user that they can try Quickshot VIP free for 7 days */
+"Try free for 7 days!" = "Try free for 7 days!";
+
+/* Trial push notification version 1 */
+"Time is almost up ⏲ get your free trial!" = "Time is almost up ⏲ get your free trial!";
+
+/* Trial push notification version 2 */
+"Time is almost up ⏲ get a free trial of unlimited Skies, stunning Filters, and beautiful Overlays. Tap to get started!" = "Time is almost up ⏲ get a free trial of unlimited Skies, stunning Filters, and beautiful Overlays. Tap to get started!";
+
+/* Trial push notification version 3 */
+"Time is almost up ⏲ get a free week of unlimited Skies, stunning Filters, and beautiful Overlays. Tap to get started!" = "Time is almost up ⏲ get a free week of unlimited Skies, stunning Filters, and beautiful Overlays. Tap to get started!";
+
+/* Referrals - message shown to referred user 2 */
+"Have you tried Quickshot? Get 1 week free!" = "Have you tried Quickshot? Get 1 week free!";
+
+/* Message shown to the user when a reffered user downloads quickshot - title */
+"Yay!" = "Yay!";
+
+/* Message shown to the user when a reffered user downloads quickshot - subtitle */
+"You've got %lu Pro points!" = "You've got %lu Pro points!";
+
+/* Message shown to user when he is about to save a photo and use a point */
+"Use 1 Pro point" = "Use 1 Pro point";
+
+/* Message shown to user when he wants to share Quickshot link but there is no connection */
+"No internet connection" = "No internet connection";
+
+/* 'share quickshot' dialog title */
+"Share and get Quickshot Pro" = "Share and get Quickshot Pro";
+
+/* 'share quickshot' dialog subtitle */
+"Get 3 Pro points every time a friend downloads Quickshot via this link. Use your points to save images with Pro features." = "Get 3 Pro points every time a friend downloads Quickshot via this link. Use your points to save images with Pro features.";
+
+/* button which will take users to the 'share quickshot' dialog */
+"Get free Pro points!" = "Get free Pro points!";
+
+/* button which will take users to the 'share quickshot' dialog 2 */
+"Want to get free Pro points?" = "Want to get free Pro points?";
+
+/* Message shown to user after he shared the Quickshot link */
+"When your referred friend downloads Quickshot, you’ll get another 3 free Pro points!" = "When your referred friend downloads Quickshot, you’ll get another 3 free Pro points!";
+
+/* Effects feature title */
+"Effects" = "Effects";
+
+/* Title for pop up which allows the user to save the current edit as a new look */
+"Name Your Look" = "Name Your Look";
+
+/* Subtitle for pop up which allows the user to save the current edit as a new look */
+"Name & save your signature editing style!" = "Name & save your signature editing style!";
+
+/* Rename the look button */
+"Rename" = "Rename";
+
+/* Button which saves a Look in the Look feature */
+"Save Look" = "Save Look";
+
+/* Title of the pop up which enables you to rename a Look you previously saved */
+"Rename Look" = "Rename Look";
+
+/* Button text for accepting the changes you have made your Look's name  */
+"Done" = "Done";
+
+/* Message displayed to the user when the image is being saved */
+"Saving photo" = "Saving photo";
+
+/* Message displayed to the user when multiple images are being saved */
+"Saving photos" = "Saving photos";
+
+/* Pop up displayed when user tries to use a Pro feature */
+"This is Pro only. Go Pro to get this feature!" = "This is Pro only. Go Pro to get this feature!";
+
+/* Label on a button that restores previously purchased products */
+"Already paid?" = "Already paid?";
+
+/* Chinese welcome popup title */
+"Welcome Bonus" = "Welcome Bonus";
+
+/* Chinese welcome popup subtitle */
+"You’ve received %lu days of Pro free! You can now access all features of the app for %lu days" = "You’ve received %lu days of Pro free! You can now access all features of the app for %lu days";
+
+/* Chinese intro subscription popup title */
+"Keep Using Pro" = "Keep Using Pro";
+
+/* Chinese intro subscription popup subtitle */
+"Hope you enjoyed your trial. Pay for 5 months of Pro, get another 7 months FREE!" = "Hope you enjoyed your trial. Pay for 5 months of Pro, get another 7 months FREE";
+
+/*=============================*/
+/*======= Custom looks ========*/
+/*=============================*/
+
+/* Looks - what's new Title */
+"New: Custom Looks" = "New: Custom Looks";
+
+/* Looks - what's new Subtitle */
+"Name & save your signature editing style" = "Name & save your signature editing style";
+
+/* Looks Pro popup - appears when non-sub tries to save more looks than allowed - Title*/
+"Add more looks with Pro" = "Add more looks with Pro";
+
+/* Looks Pro popup - appears when non-sub tries to save more looks than allowed - Subtitle*/
+"Save up to %@ custom Looks" = "Save up to %@ custom Looks";
+
+/* Save new Look tooltip */
+"Love your current edits? Tap here to name your Look & save it!" = "Love your current edits? Tap here to name your Look & save it!";
+
+/* Custom Looks limit reached for subscribers message - title  */
+"Custom Looks are Full" = "Custom Looks are Full";
+
+/* Custom Looks limit reached for subscribers message - title  */
+"We love that you're creating more Looks, but Quickshot can only handle 30 custom Looks at a time. Press & hold an older Look, then choose delete to make room for a new Look." = "We love that you're creating more Looks, but Quickshot can only handle 30 custom Looks at a time. Press & hold an older Look, then choose delete to make room for a new Look.";
+
+/*===================================*/
+/*======= Subscription offers =======*/
+/*===================================*/
+
+/* Title of a pop-up subscription screen offering a discounted product*/
+"Save %@%%" = "Save %@%%";
+
+/* Title of a pop-up subscription screen offering a discounted product*/
+"1 Year for Just %@" = "1 Year for Just %@";
+
+/* Sub -Title of a pop-up subscription screen offering a discounted product*/
+"Renew now and save %@%% next year." = "Renew now and save %@%% next year.";
+
+/* Sub -Title of a pop-up subscription screen offering a discounted product*/
+"Renew now and save %@%% next year. \n Cancel anytime." = "Renew now and save %@%% next year. \n Cancel anytime.";
+
+/* Sub -Title of a pop-up subscription screen offering a discounted product*/
+"Renew your subscription and save %@%% on the following year." = "Renew your subscription and save %@%% on the following year.";
+
+/* Sub -Title of a pop-up subscription screen offering a discounted product*/
+"Renew your subscription and save %@%% on the following year. \n Cancel anytime." = "Renew your subscription and save %@%% on the following year. \n Cancel anytime.";
+
+/* Sub -Title of a pop-up subscription screen offering a discounted product*/
+"Then %@ the year after. \n Cancel anytime." = "Then %@ the year after. \n Cancel anytime.";
+
+/* Sub -Title of a pop-up subscription screen offering a discounted product*/
+"Then %@ the year after." = "Then %@ the year after.";
+
+/*Decline button of a  pop up subscription Screen*/
+"Decline offer" = "Decline offer";
+
+/* Current subscription box title  */
+"Your Pro Membership" = "Your Pro Membership";
+
+/* Name of the current app, followed by Pro  */
+"%@ Pro" = "%@ Pro";
+
+/* Current sybscription type - yearly  */
+"Yearly member" = "Yearly member";
+
+/* Current sybscription type - monthly  */
+"Monthly member" = "Monthly member";
+
+/* Enlight suite subscription box title  */
+"Meet the Suite" = "Meet the Suite";
+
+/* Enlight suite banner button title  */
+"Be an Enlight Pro" = "Be an Enlight Pro";
+
+/* Enlight suite banner button subtitle  */
+"on all 4 apps" = "on all 4 apps";
+
+/* Enlight suite subscription button title  */
+"SAVE %@%%" = "SAVE %@%%";
+
+/* Yearly subscription button badge title  */
+"SAVE\n%@%%" = "SAVE\n%@%%";
+
+/* Enlight suite subscription button subtitle  */
+"Full yearly access for %@" = "Full yearly access for %@";
+
+/* Button appearing in the subscription screen, notifying users that by pressing this button they are choosing an anual subscription plan - 5 + 7 months */
+"5 Months + 7 Months FREE" = "5 Months + 7 Months FREE";
+
+/* Subtitle of a button appearing in the subscription screen, notifying users that by pressing this button they will be saving an amount equal to {0}*/
+"Save {0}" = "Save {0}";
+
+/* Label on a button for purchasing subscription that renews every 3 months */
+"3 Months" = "3 Months";
+
+/* Label on a button for purchasing subscription that renews every week */
+"1 Week" = "1 Week";
+
+/* Title of a button offering the user to continue using the weekly payment plan. */
+"Continue with weekly" = "Continue with weekly";
+
+/* Subscription screen - custom looks thumbnail */
+"30\nCustom\nLooks" = "30\nCustom\nLooks";
+
+/* Save custom look first tool tip */
+"Love your current edits? Go into Looks to save your new Look!" = "Love your current edits? Go into Looks to save your new Look!";
+
+/* Save custom look first tool tip */
+"Tap here to name & save your Look" = "Tap here to name & save your Look";
+
+/* Text under the button which provides the payment info */
+"30\nCustom\nLooks" = "30\nCustom\nLooks";
+
+/* Weekly to yearly upgrade title - option 1 */
+"Upgrade to yearly for just %@" = "Upgrade to yearly for just %@";
+
+/* Weekly to yearly upgrade title - option 2 */
+"Upgrade to yearly and save %@%%" = "Upgrade to yearly and save %@%%";
+
+/* Weekly to yearly upgrade title - option 3 */
+"Upgrade and save %@%%" = "Upgrade and save %@%%";
+
+/* Weekly to yearly upgrade subtitle - option 1 */
+"Get a whole year for the price of 9 weeks." = "Get a whole year for the price of 9 weeks.";
+
+/* Weekly to yearly upgrade subtitle - option 2 */
+"Upgrade to yearly for %@ and save %@" = "Upgrade to yearly for %@ and save %@";
+
+/* Weekly to yearly upgrade subtitle - option 3 */
+"Upgrade to yearly for %@.\n That's %@/mo." = "Upgrade to yearly for %@.\n That's %@/mo.";
+
+/* Trial auto renewal explanation */
+"If you do not cancel, you will be automatically charged 24 hours before the end of the trial." = "If you do not cancel, you will be automatically charged 24 hours before the end of the trial.";
+
+/* Body text in a button encouraging the user to start a 7 day free trial */
+"Get 7 Days Free!" = "Get 7 Days Free!";
+
+/* Description of a monthly price. */
+"%@ per month" = "%@ per month";
+
+/* Button appearing in the subscription screen, notifying users that by pressing this button they are choosing an anual subscription plan - 6 + 6 months */
+"6 Months + 6 Months FREE" = "6 Months + 6 Months FREE";
+
+/* Button appearing in the subscription screen, notifying users that by pressing this button they are choosing an anual subscription plan - 6 months */
+"6 Months" = "6 Months";
+
+/* Button appearing in the subscription screen, notifying users that by pressing this button they are choosing an anual subscription including a trial */
+"12 Months + 3 Day Trial" = "12 Months + 3 Day Trial";
+
+/* Disclaimer text */
+"If you do not cancel, you will be automatically charged 24 hours before the end of the trial." = "If you do not cancel, you will be automatically charged 24 hours before the end of the trial.";
+
+/* New filters what's new - title */
+"New Filters!" = "New Filters!";
+
+/* New filters what's new - subtitle */
+"Adjust the mood in one tap with 34 new Filters" = "Adjust the mood in one tap with 34 new Filters";
+
+/*==============================*/
+/*======= Looks Catalog  =======*/
+/*==============================*/
+
+/* Looks catalog main title */
+"Looks Catalog" = "Looks Catalog";
+
+/* Looks Catalog toolbar title*/
+"Catalog" = "Catalog";
+
+/* Looks catalog main title */
+"Look Book" = "Look Book";
+
+/* Download button title */
+"Download" = "Download";
+
+/* Download button title */
+"Download look" = "Download look";
+
+/* No internet connection error message title */
+"Let's get connected" = "Let's get connected";
+
+/* Download error message body */
+"Incredible edits and... no internet.\nCheck your connection and try downloading again." = "Incredible edits and... no internet.\nCheck your connection and try downloading again.";
+
+/* No internet connection error message body */
+"Please check your connection and come back so we can show you the newest Looks!" = "Please check your connection and come back so we can show you the newest Looks!";
+
+/* Disclaimer informing the user the trial is only offered with a yearly subscription. */
+"with a yearly subscription" = "with a yearly subscription";
+
+/* Body text in a button encouraging the user to start a 1 month free trial */
+"Get 1 Month Free!" = "Get 1 Month Free!";
+
+/* Title of the popup offering discount */
+"Get 1 year for %@ off" = "Get 1 year for %@ off";
+
+/* title of the popup view offering free days */
+"Get %@ days free" = "Get %@ days free";
+
+/* Title of a button that takes the user to the subscription screen */
+"Show me" = "Show me";
+
+/* Description for Quickshot */
+"Unlimited access to more Looks, Filters, Skies & Effects!" = "Unlimited access to more Looks, Filters, Skies & Effects!";
+
+/* Button title for opening the catatlog */
+"View" = "View";
+
+/* Button title for opening the catatlog */
+"Try now" = "Try now";
+
+/* What's new title for looks catalog. */
+"Get more Looks" = "Get more Looks";
+
+/* What's new body for looks catalog. */
+"Browse to find your favorites, and get them instantly!" = "Browse to find your favorites, and get them instantly!";
+
+/*Looks catalog notification title. */
+"Gotta have it 🌅" = "Gotta have it 🌅";
+
+/*Looks catalog notification body. */
+"You can't miss these new Looks!" = "You can't miss these new Looks!";
+
+/*Looks catalog notification title. */
+" You're missing out..." = " You're missing out...";
+
+/*Looks catalog notification body. */
+"Get in here and get these new Looks" = "Get in here and get these new Looks";
+
+/*Looks catalog notification title. */
+"They're here ✨" = "They're here ✨";
+
+/*Looks catalog notification body. */
+"The great new Looks you've been waiting for!" = "The great new Looks you've been waiting for!";
+
+/*Looks catalog notification title. */
+"Check it out!" = "Check it out!";
+
+/*Looks catalog notification body. */
+"The newest trendy Looks" = "The newest trendy Looks";
+
+/*Looks catalog notification title. */
+"Up your game" = "Up your game";
+
+/*Looks catalog notification body. */
+"Your pics will never be the same with these Looks!" = "Your pics will never be the same with these Looks!";
+
+/* Title of a Black Friday Sale popup */
+"Black Friday Sale" = "Black Friday Sale";
+
+/* Countdown timer for an offer - days */
+"days" = "days";
+
+/* Countdown timer for an offer - hours */
+"hrs" = "hrs";
+
+/* Countdown timer for an offer - minutes */
+"mins" = "mins";
+
+/* Countdown timer for an offer - seconds */
+"secs" = "secs";
+
+/* Title of an offer plan */
+"YEARLY PLAN" = "YEARLY PLAN";
+
+/* Subtitle of an offer plan for first year discount. The placeholder is for the price of subscription for the first year. */
+"Get 1 year for %@" = "Get 1 year for %@";
+
+/* Sub-subtitle of an offer plan for first year discount, that appears right after the previous string. The placeholder is for the price of subscription for every year after the first one. */
+"then %@ the year after" = "then %@ the year after";
+
+/* Title of a popup offering discount. The placeholder is for number of percents for discount. */
+"Get your first year for %@ off!" = "Get your first year for %@ off!";
+
+/* Text informing the user that their device is no longer supported. */
+"Your device may not be supported" = "Your device may not be supported";
+
+/* Text informing the user that their device is no longer supported. */
+"Unfortunately, due to technical limitations we will no longer be supporting your device. For more information please feel free to contact us" = "Unfortunately, due to technical limitations we will no longer be supporting your device. For more information please feel free to contact us";
+
+/* Link instruction user how they can turn off automatic updates. */
+"https://support.apple.com/en-us/HT202180" = "https://support.apple.com/en-us/HT202180";
+
+/* Button that takes the user to a help link. */
+"How to turn off automatic updates" = "How to turn off automatic updates";
+
+/* Title of the Light Leaks Look's pack */
+"Light Leaks" = "Light Leaks";
+
+/* Title of the Graceful Look's pack */
+"Graceful" = "Graceful";
+
+/* Title of the Lovely Look's pack */
+"Lovely" = "Lovely";
+
+/* Title of the Winter Wonder Look's pack */
+"Winter Wonder" = "Winter Wonder";
+
+/* Title of the Rainbow Look's pack */
+"Rainbow" = "Rainbow";
+
+/* Title of the Enchanted Look's pack */
+"Enchanted" = "Enchanted";
+
+/* Title of the Fireworks Look's pack */
+"Fireworks" = "Fireworks";
+
+/* Sky feature title for subscription screen */
+"All the Skies you need" = "All the Skies you need";
+
+/* Sky feature subtitle for subscription screen */
+"Pick unique Skies for your shots" = "Pick unique Skies for your shots";
+
+/* Looks feature title for subscription screen */
+"Get your own Looks" = "Get your own Looks";
+
+/* Looks feature subtitle for subscription screen */
+"Express your individuality" = "Express your individuality";
+
+/* Filter feature title for subscription screen */
+"Unique Filters" = "Unique Filters";
+
+/* Filters feature subtitle for subscription screen */
+"Get a consistent vibe" = "Get a consistent vibe";
+
+/* Effects feature title for subscription screen */
+"Effects that pop" = "Effects that pop";
+
+/* Effects feature subtitle for subscription screen */
+"Step up your editing" = "Step up your editing";
+
+/* Primers feature title for subscription screen */
+"Colorful Primers" = "Colorful Primers";
+
+/* Primers feature subtitle for subscription screen */
+"You’ll have to show these off" = "You’ll have to show these off";
+
+/* Label indicating price per month */
+"Only %@/mo." = "Only %@/mo.";
+
+/* Label indication the possibility to cancel subscription anytime */
+"Cancel anytime." = "Cancel anytime.";
+
+/* Product label */
+"Best Deal" = "Best Deal";
+
+/* Price label for yearly product */
+"Only %@ Yearly" = "Only %@ Yearly";
+
+/* Price label for yearly product */
+"%@ Yearly" = "%@ Yearly";
+
+/* Subscription screen subtitle */
+"All the tools you need.\nGet in on the fun!" = "All the tools you need.\nGet in on the fun!";
+
+/* Button offering to see other product plans */
+"See other plans" = "See other plans";
+
+/* Label for lifetime membership */
+"Lifetime" = "Lifetime";
+
+/* Label for monthly membership */
+"Monthly" = "Monthly";
+
+/* Label for yearly membership */
+"Yearly" = "Yearly";
+
+/* Label for the amount of percentage saved */
+"%@%% off" = "%@%% off";
+
+/* Product plans screen title */
+"Your Special Offers" = "Your Special Offers";
+
+/* Label indication the possibility to cancel subscription anytime */
+"Limited Offer" = "Limited Offer";
+
+/* Label indicating price per month */
+"%@/month" = "%@/month";
+
+/* Label indication the possibility to cancel subscription anytime */
+"Limited time" = "Limited time";
+
+/* Yearly product with discount button title */
+"%@ Months for the price of %@" = "%@ Months for the Price of %@";
+
+/* Title for section of recently used items */
+"Recents" = "Recents";
+
+/*==========================================*/
+/*======= Terms and conditions alert =======*/
+/*==========================================*/
+
+/* Terms and conditions popup title */
+"Terms & Conditions" = "Terms & Conditions";
+
+/* Terms and conditions popup body */
+"By clicking Accept, I agree to Quickshot’s Terms of Use and Privacy Policy." = "By clicking Accept, I agree to Quickshot’s Terms of Use and Privacy Policy.";
+
+/* Terms and conditions popup button title */
+"Accept" = "Accept";
+
+/* Offer screen title */
+"Best Deal\non Quickshot Pro" = "Best Deal\non Quickshot Pro";
+
+/* Inpainting intro screen slide */
+"Remove pesky spots to clean up your shot" = "Remove pesky spots to clean up your shot";
+
+/* Inpainting what's new title */
+"Heal for a Quick Fix" = "Heal for a Quick Fix";
+
+/* Inpainting what's new body */
+"Use this powerful tool to get rid of problem spots and photobombs" = "Use this powerful tool to get rid of problem spots and photobombs";
+
+/* Tupi's skies what's new title */
+"Tupi's Skies" = "Tupi's Skies";
+
+/* Tupi's skies what's new body */
+"New Skies submitted by Tupi Saravia and fans" = "New Skies submitted by Tupi Saravia and fans";
+
+/* Tupi's skies notification title */
+"Breaking News!" = "Breaking News!";
+
+/* Tupi's skies notification body */
+"Influencer Tupi Saravia has added Skies to Quickshot - check them out" = "Influencer Tupi Saravia has added Skies to Quickshot - check them out";
+
+/* Heal feature title */
+"Heal" = "Heal";
+
+/* Restore heal feature title */
+"Restore" = "Restore";
+
+/* SUNNY sky package*/
+"SUNNY" = "SUNNY";
+
+/* FANTASY sky package*/
+"FANTASY" = "FANTASY";
+
+/* DUSK sky package*/
+"DUSK" = "DUSK";
+
+/* SUNSET sky package*/
+"SUNSET" = "SUNSET";
+
+/* NIGHT sky package*/
+"NIGHT" = "NIGHT";
+
+/* AURORA sky package*/
+"AURORA" = "AURORA";
+
+/* STORM sky package*/
+"STORM" = "STORM";
+
+/* ABLAZE sky package*/
+"ABLAZE" = "ABLAZE";
+
+/* VALENTINE'S sky package*/
+"VALENTINE'S" = "VALENTINE'S";
+
+/* Title for a feature that enables users to add stickers to their projects */
+"Element" = "Element";
+
+/* Title for slider controling foreground opacity */
+"Foreground" = "Foreground";
+
+/* Title for slider controling temperature of the image */
+"Temperature" = "Temperature";
+
+/*====================================*/
+/*=========== 618 Strings ============*/
+/*====================================*/
+
+/* Main title of subscription screen */
+"Special 618 Offer\nSave 20% Off Yearly Plan" = "Special 618 Offer\nSave 20% Off Yearly Plan";
+
+/* Text of price in main screen */
+"%@ Yearly Price 618" = "%@/year";
+
+/* Title for continue button */
+"Unlock Pro now" = "Unlock Pro Now";
+
+/* Subtitle under continue button */
+"Valid until June 18th. 1st Year Only." = "Valid until June 18th. 1st Year Only.";
+
+/* Text for button that opens the other plans popup */
+"See more plans" = "Other Plans";
+
+/* Title of 618 promotion popup */
+"618 Celebration" = "618 Celebration";
+
+/* Text above yearly subscription button in other plans popup */
+"SPECIAL OFFER" = "SPECIAL OFFER";
+
+/* Title of yearly subscription button in other plans popup */
+"YEARLY" = "YEARLY";
+
+/* Price text of yearly subscription button in other plans popup */
+" %@/year\nSave 20%% Now." = " %@/year\nSave 20%% Now.";
+
+/* Text For continue button */
+"Unlock Quickshot Pro" = "Unlock Quickshot Pro";
+
+/* Title of monthly subscription button in other plans popup */
+"MONTHLY-618" = "MONTHLY";
+
+/* Title of lifetime subscription button in other plans popup */
+"LIFETIME" = "LIFETIME";
+
+/* Price text of monthly subscription button in other plans popup */
+"%@/month" = "%@/month";
+
+/* Subtitle of yearly subscription button in other plans popup */
+"Valid until June 18th. 1st Year Only." = "Valid until June 18th. 1st Year Only.";
+
+/* Title of a button that takes user to all tutorials */
+"ALL TUTORIALS" = "ALL TUTORIALS";
+
+/* Title of a button that takes user to page where they can try it with their video */
+"Try with my video" = "Try with my video";
+
+/* Title for a what's new slide of a new feature called Color */
+"Color Feature" = "Color Feature";
+
+/* Subtitle for a what's new slide of a new feature called Color */
+"Make changes to each individual color in your shot!" = "Make changes to each individual color in your shot!";
+
+/* Name of feature that adds city light to images. */
+"Soft Light" = "Soft Light";
+
+/* Name of feature that adds city light to images. */
+"Bokeh" = "Bokeh";
+
+/* Name of feature that edit face features. */
+"Face" = "Face";
+
+/* What's new title for the new Effects feature. */
+"Add Stunning Effects" = "Add Stunning Effects";
+
+/* What's new body for the new Effects feature. */
+"Make your photos pop with these beautiful effects" = "Make your photos pop with these beautiful effects";
+
+/* Terms and condition approval. Placeholders here are for the terms "Terms of Use" and "Privacy Policy" which are already localized. Example of usage: By continuing, I agree to Quickshot’s Terms of Use and Privacy Policy.*/
+"By continuing, I agree to Quickshot’s %@ and %@." = "By continuing, I agree to Quickshot’s %@ and %@.";
+
+/* Terms and condition approval. Placeholders here are for the terms "Terms of Use" and "Privacy Policy" which are already localized. Example of usage: By clicking Accept, I agree to Quickshot’s Terms of Use and Privacy Policy.*/
+"By clicking Accept, I agree to Quickshot’s %@ and %@." = "By clicking Accept, I agree to Quickshot’s %@ and %@.";
+
+/* Label indicating undoing of all editing steps. */
+"Undo All" = "Undo All";
+
+/* Label indicating redoing of all editing steps. */
+"Redo All" = "Redo All";
+
+/* Heal help slides intro title */
+"Heal Do’s and Don’ts" = "Heal Do’s and Don’ts";
+
+/* Heal help slides intro body */
+"Here’s how to make erasing super easy!" = "Here’s how to make erasing super easy!";
+
+/* Heal help slide body 1 */
+"brush out just what you want erasing" = "brush out just what you want erasing";
+
+/* Heal help slide body 2 */
+"stray over the object’s edges or sections of background will disappear!" = "stray over the object’s edges or sections of background will disappear!";
+
+/* Heal help slide body 3 */
+"use small brush strokes to remove individual spots" = "use small brush strokes to remove individual spots";
+
+/* Heal help slide body 4 */
+"brush over large areas of spots you want to erase" = "brush over large areas of spots you want to erase";
+
+/* Heal help slide body 5 */
+"choose smooth, uncluttered backgrounds, for easier erasing" = "choose smooth, uncluttered backgrounds, for easier erasing";
+
+/* Heal help slide body 6 */
+"go for busy backgrounds with loads of detail" = "go for busy backgrounds with loads of detail";
+
+/* Heal help slide title */
+"✅ Do" = "✅ Do";
+
+/* Heal help slide title */
+"⛔️ Don’t" = "⛔️ Don’t";
+
+/*=============================*/
+/*======= Login =======*/
+/*=============================*/
+
+/* Manage settings section in setting menu */
+"MANAGE" = "MANAGE";
+
+/* About Quickshot section in setting menu */
+"ABOUT" = "ABOUT";
+
+/* More Quickshot section in setting menu */
+"MORE" = "MORE";
+
+/* Setting option leading to seeing user subscription plan */
+"Your Membership" = "Your Membership";
+
+/* Setting option leading to ssubscription screen */
+"Get Quickshot Pro" = "Get Quickshot Pro";
+
+/* Setting option leading user to log in screen */
+"Log In" = "Log In";
+
+/* Setting option leading user to log out */
+"Log Out" = "Log Out";
+
+/* Close caption for a screen */
+"Close" = "Close";
+
+/* Skip caption for a screen */
+"Skip" = "Skip";
+
+/* Login screen title */
+"Log in and unleash your creativity" = "Log in and unleash your creativity";
+
+/* Login screen  button title to log in with Apple */
+"Continue with Apple" = "Continue with Apple";
+
+/* Login screen  button title to log in with Facebook */
+"Continue with Facebook" = "Continue with Facebook";
+
+/* Login screen  button title to log in with Google */
+"Continue with Google" = "Continue with Google";
+
+/* Login screen error message title */
+"Oops!" = "Oops!";
+
+/* Login screen error message body */
+"There was a problem logging you in.\nPlease try again later." = "There was a problem logging you in.\nPlease try again later.";
+
+/* Log out message body */
+"You’re now logged out" = "You’re now logged out";
+
+/* Pack name for pack displaying shdows from blinds. */
+"Shadow Blinds" = "Shadow Blinds";
+
+/* Pack name for pack displaying shdows from leaves. */
+"Shadow Leaves" = "Shadow Leaves";
+
+/* Title for what's new for new shadow packs */
+"Step into the light" = "Step into the light";
+
+/* Body for what's new for new shadow packs */
+"With Shadows effects for every mood" = "With Shadows effects for every mood";
+
+/* Looks pack name for new shadows overlays */
+"Shadows" = "Shadows";
