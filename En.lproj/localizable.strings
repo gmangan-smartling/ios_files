@@ -5,6 +5,10 @@
 /* Subscription header */
 "Quickshot Pro" = "Quickshot Pro";
 
+/* Subscription header */
+"Quickshot Enterprise" = "Quickshot Enterprise";
+
+
 /* Subscription title 10% off */
 "Quickshot Pro - now 10% off!" = "Quickshot Pro - now 10% off!";
 
