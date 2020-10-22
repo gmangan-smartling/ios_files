@@ -8,6 +8,8 @@
 /* Subscription header */
 "Quickshot Enterprise" = "Quickshot Enterprise";
 
+/* Subscription header */
+"Quickshot Core" = "Le noyau de Quickshot";
 
 /* Subscription title 10% off */
 "Quickshot Pro - now 10% off!" = "Quickshot Pro - maintenant 10% de réduction !";
