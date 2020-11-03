@@ -3,25 +3,19 @@
 /*====================================*/
 
 /* Subscription header */
-"Quickshot Pro" = "Quickshot Pro";
-
-/* Subscription header */
-"Quickshot Enterprise" = "Quickshot Enterprise";
-
-/* Subscription header */
-"Quickshot Core" = "Quickshot Core";
+"Lightleap Pro" = "Lightleap Pro";
 
 /* Subscription title 10% off */
-"Quickshot Pro - now 10% off!" = "Quickshot Pro - now 10% off!";
+"Lightleap Pro - now 10% off!" = "Lightleap Pro - now 10% off!";
 
 /* Subscription title 15% off */
-"Quickshot Pro - now 15% off!" = "Quickshot Pro - now 15% off!";
+"Lightleap Pro - now 15% off!" = "Lightleap Pro - now 15% off!";
 
 /* Subscription title 25% off */
-"Quickshot Pro - now 25% off!" = "Quickshot Pro - now 25% off!";
+"Lightleap Pro - now 25% off!" = "Lightleap Pro - now 25% off!";
 
 /* Subscription title 50% off */
-"Quickshot Pro - now 50% off!" = "Quickshot Pro - now 50% off!";
+"Lightleap Pro - now 50% off!" = "Lightleap Pro - now 50% off!";
 
 /* Subscription subtitle */
 "Primers, Filters, Sky, Strobe & unlimited Batch!" = "Primers, Filters, Sky, Strobe & unlimited Batch!";
@@ -175,7 +169,7 @@
 /* Title of trial alert - 3 days, the translation is for "Your First 3 Days Free" */
 "Get 3 Days Free" = "Get 3 Days Free";
 
-/* Body text in a button encouraging the user to start a 3 day free trial of Quickshot Pro */
+/* Body text in a button encouraging the user to start a 3 day free trial of Lightleap Pro */
 "Get 3 Days Free!" = "Get 3 Days Free!";
 
 /* Subtitle of trial alert, the translation is for "Primers, Filters, Sky, Strobe & unlimited Batch!" */
@@ -224,7 +218,7 @@
 /* Strobe mode post capture 3 */
 "Erase the effect from unwanted areas." = "Erase the effect from unwanted areas.";
 
-/* Quickshot mode pre capture */
+/* Lightleap mode pre capture */
 "Automatically straightens & crops your shot." = "Automatically straightens & crops your shot.";
 
 /* HDR help 1 */
@@ -322,8 +316,8 @@
 /* My albums album header */
 "My Albums" = "My Albums";
 
-/* Quickshot photos album header */
-"Quickshot Photos" = "Quickshot Photos";
+/* Lightleap photos album header */
+"Lightleap Photos" = "Lightleap Photos";
 
 /* sessions album header */
 "Sessions" = "Sessions";
@@ -488,7 +482,7 @@
 "Tap to find all your in-progress edits" = "Tap to find all your in-progress edits";
 
 /* Presented to a user that did not give access to his photos library, yet tries to perform an action that involves accessing it */
-"Quickshot does not have access to your photos. To enable access, go to iOS settings" = "Quickshot does not have access to your photos. To enable access, go to iOS settings.";
+"Lightleap does not have access to your photos. To enable access, go to iOS settings" = "Lightleap does not have access to your photos. To enable access, go to iOS settings.";
 
 /* Positive resopnse to the import error message. Redirect to the settings. */
 "Let's do it!" = "Let's do it!";
@@ -921,7 +915,7 @@
 /*=============================*/
 
 /* Intro first slide */
-"Welcome to Quickshot!" = "Welcome to Quickshot!";
+"Welcome to Lightleap!" = "Welcome to Lightleap!";
 
 /* Intro first slide subtitle */
 "Take amazing shots on the go" = "Take amazing shots on the go";
@@ -981,7 +975,7 @@
 /*=============================================*/
 
 /* Title of subscription banner */
-"Get unlimited access with Quickshot PRO." = "Get unlimited access with Quickshot PRO.";
+"Get unlimited access with Lightleap PRO." = "Get unlimited access with Lightleap PRO.";
 
 /* Subtitle of temporarily-free presets tool tip */
 "Quick, before they’re gone - Pro features with this icon are free!" = "Quick, before they’re gone - Pro features with this icon are free!";
@@ -1000,7 +994,7 @@
 /*================================*/
 
  /* Title of refferal pop up - option 1 */
-"Share for More Quickshot!" = "Share for More Quickshot!";
+"Share for More Lightleap!" = "Share for More Lightleap!";
 
 /* Title of refferal pop up - option 2 */
 "Share for Pro Exports!" = "Share for Pro Exports!";
@@ -1009,10 +1003,10 @@
 "Share for more exports" = "Share for more exports";
 
 /* Subtitle of refferal pop up - option 1 */
-"Get 3 Pro exports and give a 7 day free trial - share Quickshot today!" = "Get 3 Pro exports and give a 7 day free trial - share Quickshot today!";
+"Get 3 Pro exports and give a 7 day free trial - share Lightleap today!" = "Get 3 Pro exports and give a 7 day free trial - share Lightleap today!";
 
 /* Subtitle of refferal pop up - option 2 */
-"Get 3 Pro exports and give a 7 day free trial when your friend downloads Quickshot - share Quickshot today!" = "Get 3 Pro exports and give a 7 day free trial when your friend downloads Quickshot - share Quickshot today!";
+"Get 3 Pro exports and give a 7 day free trial when your friend downloads Lightleap - share Lightleap today!" = "Get 3 Pro exports and give a 7 day free trial when your friend downloads Lightleap - share Lightleap today!";
 
 /* Thank you message after refferal - Title */
 "Thanks for sharing!" = "Thanks for sharing!";
@@ -1021,7 +1015,7 @@
 "Bonus! Here’s one free Export – on us :)" = "Bonus! Here’s one free Export – on us :)";
 
 /* Refferals explanation */
-"When your referred friend downloads Quickshot, you’ll get another 3 free Pro Exports!" = "When your referred friend downloads Quickshot, you’ll get another 3 free Pro Exports!";
+"When your referred friend downloads Lightleap, you’ll get another 3 free Pro Exports!" = "When your referred friend downloads Lightleap, you’ll get another 3 free Pro Exports!";
 
 /* Button which opens the refferal pop up - option 1 */
 "Get free Pro Exports!" = "Get free Pro Exports!";
@@ -1029,7 +1023,7 @@
 /* Button which opens the refferal pop up - option 2 */
 "Want to get free Pro Exports?" = "Want to get free Pro Exports?";
 
-/* Quickshot link share button */
+/* Lightleap link share button */
 "Share" = "Share";
 
 /* Message letting the user know that even though he used pro features, he can use pro exports */
@@ -1176,19 +1170,19 @@
 "Primers are still here! We've just moved them around and changed the icon." = "Primers are still here! We've just moved them around and changed the icon.";
 
 /* Looks popup title */
-"Specially Crafted Quickshot Combinations" = "Specially Crafted Quickshot Combinations";
+"Specially Crafted Lightleap Combinations" = "Specially Crafted Lightleap Combinations";
 
 /* Looks popup subtitle */
-"Looks are combinations of Quickshot tools, specially crafted by our design team." = "Looks are combinations of Quickshot tools, specially crafted by our design team.";
+"Looks are combinations of Lightleap tools, specially crafted by our design team." = "Looks are combinations of Lightleap tools, specially crafted by our design team.";
 
 /* Tooltip explaining to the user how to erase a mask */
 "Tap here, then swipe your photo to erase the effect" = "Tap here, then swipe your photo to erase the effect";
 
 /* Promotion screen title */
-"Hurry & get a month of Quickshot Pro for only %@!" = "Hurry & get a month of Quickshot Pro for only %@!";
+"Hurry & get a month of Lightleap Pro for only %@!" = "Hurry & get a month of Lightleap Pro for only %@!";
 
 /* Promotion screen second title */
-"Get even more with Quickshot Pro!" = "Get even more with Quickshot Pro!";
+"Get even more with Lightleap Pro!" = "Get even more with Lightleap Pro!";
 
 /* Promotion screen features 1 */
 "Unlock all tools" = "Unlock all tools";
@@ -1235,7 +1229,7 @@
 /* Referrals - message shown to referred user */
 "Your First 7 Days Free" = "Your First 7 Days Free";
 
-/* Notification text informing the user that they can try Quickshot VIP free for 7 days */
+/* Notification text informing the user that they can try Lightleap VIP free for 7 days */
 "Try free for 7 days!" = "Try free for 7 days!";
 
 /* Trial push notification version 1 */
@@ -1248,34 +1242,34 @@
 "Time is almost up ⏲ get a free week of unlimited Skies, stunning Filters, and beautiful Overlays. Tap to get started!" = "Time is almost up ⏲ get a free week of unlimited Skies, stunning Filters, and beautiful Overlays. Tap to get started!";
 
 /* Referrals - message shown to referred user 2 */
-"Have you tried Quickshot? Get 1 week free!" = "Have you tried Quickshot? Get 1 week free!";
+"Have you tried Lightleap? Get 1 week free!" = "Have you tried Lightleap? Get 1 week free!";
 
-/* Message shown to the user when a reffered user downloads quickshot - title */
+/* Message shown to the user when a reffered user downloads Lightleap - title */
 "Yay!" = "Yay!";
 
-/* Message shown to the user when a reffered user downloads quickshot - subtitle */
+/* Message shown to the user when a reffered user downloads Lightleap - subtitle */
 "You've got %lu Pro points!" = "You've got %lu Pro points!";
 
 /* Message shown to user when he is about to save a photo and use a point */
 "Use 1 Pro point" = "Use 1 Pro point";
 
-/* Message shown to user when he wants to share Quickshot link but there is no connection */
+/* Message shown to user when he wants to share Lightleap link but there is no connection */
 "No internet connection" = "No internet connection";
 
-/* 'share quickshot' dialog title */
-"Share and get Quickshot Pro" = "Share and get Quickshot Pro";
+/* 'share Lightleap' dialog title */
+"Share and get Lightleap Pro" = "Share and get Lightleap Pro";
 
-/* 'share quickshot' dialog subtitle */
-"Get 3 Pro points every time a friend downloads Quickshot via this link. Use your points to save images with Pro features." = "Get 3 Pro points every time a friend downloads Quickshot via this link. Use your points to save images with Pro features.";
+/* 'share Lightleap' dialog subtitle */
+"Get 3 Pro points every time a friend downloads Lightleap via this link. Use your points to save images with Pro features." = "Get 3 Pro points every time a friend downloads Lightleap via this link. Use your points to save images with Pro features.";
 
-/* button which will take users to the 'share quickshot' dialog */
+/* button which will take users to the 'share Lightleap' dialog */
 "Get free Pro points!" = "Get free Pro points!";
 
-/* button which will take users to the 'share quickshot' dialog 2 */
+/* button which will take users to the 'share Lightleap' dialog 2 */
 "Want to get free Pro points?" = "Want to get free Pro points?";
 
-/* Message shown to user after he shared the Quickshot link */
-"When your referred friend downloads Quickshot, you’ll get another 3 free Pro points!" = "When your referred friend downloads Quickshot, you’ll get another 3 free Pro points!";
+/* Message shown to user after he shared the Lightleap link */
+"When your referred friend downloads Lightleap, you’ll get another 3 free Pro points!" = "When your referred friend downloads Lightleap, you’ll get another 3 free Pro points!";
 
 /* Effects feature title */
 "Effects" = "Effects";
@@ -1345,7 +1339,7 @@
 "Custom Looks are Full" = "Custom Looks are Full";
 
 /* Custom Looks limit reached for subscribers message - title  */
-"We love that you're creating more Looks, but Quickshot can only handle 30 custom Looks at a time. Press & hold an older Look, then choose delete to make room for a new Look." = "We love that you're creating more Looks, but Quickshot can only handle 30 custom Looks at a time. Press & hold an older Look, then choose delete to make room for a new Look.";
+"We love that you're creating more Looks, but Lightleap can only handle 30 custom Looks at a time. Press & hold an older Look, then choose delete to make room for a new Look." = "We love that you're creating more Looks, but Lightleap can only handle 30 custom Looks at a time. Press & hold an older Look, then choose delete to make room for a new Look.";
 
 /*===================================*/
 /*======= Subscription offers =======*/
@@ -1523,7 +1517,7 @@
 /* Title of a button that takes the user to the subscription screen */
 "Show me" = "Show me";
 
-/* Description for Quickshot */
+/* Description for Lightleap */
 "Unlimited access to more Looks, Filters, Skies & Effects!" = "Unlimited access to more Looks, Filters, Skies & Effects!";
 
 /* Button title for opening the catatlog */
@@ -1717,13 +1711,13 @@
 "Terms & Conditions" = "Terms & Conditions";
 
 /* Terms and conditions popup body */
-"By clicking Accept, I agree to Quickshot’s Terms of Use and Privacy Policy." = "By clicking Accept, I agree to Quickshot’s Terms of Use and Privacy Policy.";
+"By clicking Accept, I agree to Lightleap’s Terms of Use and Privacy Policy." = "By clicking Accept, I agree to Lightleap’s Terms of Use and Privacy Policy.";
 
 /* Terms and conditions popup button title */
 "Accept" = "Accept";
 
 /* Offer screen title */
-"Best Deal\non Quickshot Pro" = "Best Deal\non Quickshot Pro";
+"Best Deal\non Lightleap Pro" = "Best Deal\non Lightleap Pro";
 
 /* Inpainting intro screen slide */
 "Remove pesky spots to clean up your shot" = "Remove pesky spots to clean up your shot";
@@ -1744,7 +1738,7 @@
 "Breaking News!" = "Breaking News!";
 
 /* Tupi's skies notification body */
-"Influencer Tupi Saravia has added Skies to Quickshot - check them out" = "Influencer Tupi Saravia has added Skies to Quickshot - check them out";
+"Influencer Tupi Saravia has added Skies to Lightleap - check them out" = "Influencer Tupi Saravia has added Skies to Lightleap - check them out";
 
 /* Heal feature title */
 "Heal" = "Heal";
@@ -1820,7 +1814,7 @@
 " %@/year\nSave 20%% Now." = " %@/year\nSave 20%% Now.";
 
 /* Text For continue button */
-"Unlock Quickshot Pro" = "Unlock Quickshot Pro";
+"Unlock Lightleap Pro" = "Unlock Lightleap Pro";
 
 /* Title of monthly subscription button in other plans popup */
 "MONTHLY-618" = "MONTHLY";
@@ -1861,11 +1855,11 @@
 /* What's new body for the new Effects feature. */
 "Make your photos pop with these beautiful effects" = "Make your photos pop with these beautiful effects";
 
-/* Terms and condition approval. Placeholders here are for the terms "Terms of Use" and "Privacy Policy" which are already localized. Example of usage: By continuing, I agree to Quickshot’s Terms of Use and Privacy Policy.*/
-"By continuing, I agree to Quickshot’s %@ and %@." = "By continuing, I agree to Quickshot’s %@ and %@.";
+/* Terms and condition approval. Placeholders here are for the terms "Terms of Use" and "Privacy Policy" which are already localized. Example of usage: By continuing, I agree to Lightleap’s Terms of Use and Privacy Policy.*/
+"By continuing, I agree to Lightleap’s %@ and %@." = "By continuing, I agree to Lightleap’s %@ and %@.";
 
-/* Terms and condition approval. Placeholders here are for the terms "Terms of Use" and "Privacy Policy" which are already localized. Example of usage: By clicking Accept, I agree to Quickshot’s Terms of Use and Privacy Policy.*/
-"By clicking Accept, I agree to Quickshot’s %@ and %@." = "By clicking Accept, I agree to Quickshot’s %@ and %@.";
+/* Terms and condition approval. Placeholders here are for the terms "Terms of Use" and "Privacy Policy" which are already localized. Example of usage: By clicking Accept, I agree to Lightleap’s Terms of Use and Privacy Policy.*/
+"By clicking Accept, I agree to Lightleap’s %@ and %@." = "By clicking Accept, I agree to Lightleap’s %@ and %@.";
 
 /* Label indicating undoing of all editing steps. */
 "Undo All" = "Undo All";
@@ -1910,17 +1904,17 @@
 /* Manage settings section in setting menu */
 "MANAGE" = "MANAGE";
 
-/* About Quickshot section in setting menu */
+/* About Lightleap section in setting menu */
 "ABOUT" = "ABOUT";
 
-/* More Quickshot section in setting menu */
+/* More Lightleap section in setting menu */
 "MORE" = "MORE";
 
 /* Setting option leading to seeing user subscription plan */
 "Your Membership" = "Your Membership";
 
 /* Setting option leading to ssubscription screen */
-"Get Quickshot Pro" = "Get Quickshot Pro";
+"Get Lightleap Pro" = "Get Lightleap Pro";
 
 /* Setting option leading user to log in screen */
 "Log In" = "Log In";
@@ -1969,3 +1963,12 @@
 
 /* Looks pack name for new shadows overlays */
 "Shadows" = "Shadows";
+
+/* Halloween What's new title */
+"Something wicked this way comes…" = "Something wicked this way comes…";
+
+/* Halloween What's new body */
+"Give your photos the scare factor with “SPOOKY”" = "Give your photos the scare factor with “SPOOKY”";
+
+/* Halloween pack name */
+"SPOOKY" = "SPOOKY";
