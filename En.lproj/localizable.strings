@@ -5,6 +5,9 @@
 /* Subscription header */
 "Lightleap Pro" = "Lightleap Pro";
 
+/* Add new string */
+"New string" = "New string.";
+
 /* Subscription title 10% off */
 "Lightleap Pro - now 10% off!" = "Lightleap Pro - now 10% off!";
 
