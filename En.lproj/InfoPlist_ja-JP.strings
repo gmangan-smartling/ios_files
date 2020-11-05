@@ -1,0 +1,8 @@
+/* Permission text asking for permission to access the camera */
+NSCameraUsageDescription = "あなたの画像を使ってすばらしいイメージを作成できるようにLightleapがカメラへのアクセスを求めています。";
+
+/* Permission text asking for permission to access the the user's photos */
+NSPhotoLibraryUsageDescription = "こうすることで自分の写真を編集できます";
+
+/* Permission text asking for permission to access the user's location */
+NSLocationWhenInUseUsageDescription = "写真にジオタグを追加するには、位置情報にアクセスする必要があります";

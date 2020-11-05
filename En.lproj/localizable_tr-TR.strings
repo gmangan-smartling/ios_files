@@ -1,0 +1,1974 @@
+/*====================================*/
+/*======= Subscription Strings =======*/
+/*====================================*/
+
+/* Subscription header */
+"Lightleap Pro" = "Lightleap Pro";
+
+/* Subscription title 10% off */
+"Lightleap Pro - now 10% off!" = "Lightleap Pro - şimdi %10 indirim!";
+
+/* Subscription title 15% off */
+"Lightleap Pro - now 15% off!" = "Lightleap Pro - şimdi %15 indirim!";
+
+/* Subscription title 25% off */
+"Lightleap Pro - now 25% off!" = "Lightleap Pro - şimdi %25 indirim!";
+
+/* Subscription title 50% off */
+"Lightleap Pro - now 50% off!" = "Lightleap Pro - şimdi %50 indirim!";
+
+/* Subscription subtitle */
+"Primers, Filters, Sky, Strobe & unlimited Batch!" = "Dolgular, Filtreler, Gökyüzü, Döner Flaş ve sınırsız Toplu Düzenleme!";
+
+/* Pro only banner (notice the line break) */
+"Pro Only\nRemove Limit" = "Pro’ya Özel\nSınırı Kaldır";
+
+/* Pro export banner */
+"Remove Limit" = "Sınırı Kaldır";
+
+/* Pro features explanation */
+"You’ve used Pro features!" = "Pro özelliklerini kullandınız!";
+
+/* Pro max number of batch explanation 1 */
+"Unlimited batch with Pro" = "Pro ile sınırsız toplu düzenleme";
+
+/* Pro max number of batch explanation 2 */
+"Number of assets over the limit" = "Sınırın üstündeki öğe sayısı";
+
+/* Label on a button for purchasing subscription that renews every 12 months */
+"ANNUAL" = "YILLIK";
+
+/* Label on a button for purchasing subscription that renews every month, in capital letters */
+"MONTHLY" = "AYLIK";
+
+/* Label on a button for purchasing the product at a single one-time price, instead of a renewable subscription plan */
+"ONE-TIME\nPURCHASE" = "TEK SEFERLİK\nSATIN ALIM";
+
+/* Abbreviation of the word month, representing per-month suffix of a price, as in $5/mo - $5 per month. The '/' should remain in the localized version */
+"/mo" = "/aylık";
+
+/* A price displayed in the amount the user will pay for the item per year. Example: $34.99/year */
+"%@/year" = "%1$@/yıllık";
+
+/* Text informing the user of the most popular payment plan among users */
+"Most Popular" = "En Popüler";
+
+/* Unlimited sky thumbnail */
+"Unlimited\nSky" = "Sınırsız\nGökyüzleri";
+
+/* Batch editing thumbnail */
+"Batch\nEditing" = "Toplu\nDüzenleme";
+
+/* Filters thumbnail */
+"%d+\nFilters" = "%1$d+\nFiltre";
+
+/* Advanced tools thumbnail */
+"Advanced\nTools" = "Gelişmiş\nAraçlar";
+
+/* Sky thumbnail */
+"20+\nSkies" = "20+\nGökyüzü";
+
+/* Primer thumbnail */
+"30+\nPrimers" = "30+\nDolgu";
+
+/* Subtitle appearing in the subscription screen, notifying users that by subscribing they can access all features of the app */
+"Access All Features" = "Tüm Özelliklere Erişim";
+
+/* Label on a button for purchasing subscription that renews every month
+ Text shown when 1 month of free trial is offered for new subscribers */
+"1 Month" = "1 Aylık";
+
+/* Button appearing in the subscription screen, notifying users that by pressing this button they are choosing an anual subscription plan - 12 months */
+"12 Months" = "12 Ay";
+
+/* Label on a button for purchasing the product at a single one-time price, instead of a renewable subscription plan */
+"One-Time Purchase" = "Tek Seferlik Ödeme";
+
+/* Title of a button suggesting to the user to continue to payment in the subscription screen */
+"Continue" = "Devam Et";
+
+/* Title of a button suggesting to the user to continue to payment in the subscription screen option 2 */
+"Begin creation" = "Begin creation";
+
+/* Title of a button suggesting to the user to continue to payment in the subscription screen option 3 */
+"Begin advanced creation" = "Begin advanced creation";
+
+/* Label on a button that links to terms of use */
+"Terms of Use" = "Kullanım Koşulları";
+
+/* Label on a button that links to privacy policy */
+"Privacy Policy" = "Gizlilik Politikası";
+
+/* Label on a button that restored previously purchased products */
+"Restore Purchases" = "Satın Alınanları Geri Yükle";
+
+/* Short terms of use for subscription */
+"Payment will be charged to your iTunes account at confirmation of purchase. Subscriptions will automatically renew unless auto-renew is turned off at least 24 hours before the end of current period. Your account will be charged according to your plan for renewal within 24 hours prior to the end of the current period. You can manage or turn off auto-renew in your Apple ID account settings at any time after purchase." = "Satın almanın onaylanmasıyla ödeme iTunes hesabınızda görünecektir. Otomatik yenileme, mevcut dönemin sonlanmasından en az 24 saat öncesinde kapatılmazsa, abonelik kendiliğinden yenilecektir. Hesabınız, mevcut dönemin sonlanacağı 24 saat içinde faturalandırılacaktır. Herhangi bir satın alımdan sonra dilediğiniz zaman otomatik yenileme ayarlarını Apple ID hesabınızda etkinleştirebilir veya kapatabilirsiniz.";
+
+/* Subtitle of a button appearing in the subscription screen, notifying users that by pressing this button they will be saving {0}% annualy */
+"Save {0}% per year" = "Yıllıkta %%{0} İndirim";
+
+/* Additional data for a button appearing in the subscription screen, notifying users the total amount to pay according to the chosen plan */
+"Total" = "Toplam Tutar";
+
+/* Title of a pop-up informing the user that they can save {0} amount by upgrading to an annual payment plan. Example: Upgrade to yearly and save 50% now! */
+"Upgrade to yearly and save {0}% now!" = "Yıllığa yükselt ve %%{0} indirim kazan!";
+
+/* Title of a button offering the user the continue using the monthly payment plan. Please keep as short as possible */
+"Continue with monthly" = "Aylıkla devam et";
+
+/* Title of a button offering the user to upgrade to an annual payment plan. Please keep as short as possible */
+"Upgrade to yearly" = "Yıllığa yükselt";
+
+/* Message shown to the user if he is already a subscriber when accessing the subscription screen */
+"All the features are now available" = "Şimdi özelliklerin hepsi kullanılabilir halde";
+
+/* Title of a message shown to the user if he is already a subscriber when accessing the subscription screen */
+"You're already a subscriber" = "Zaten bir abonesiniz";
+
+/* Subtitle appearing in the subscription screen, notifying users that by subscribing they can access all features of the app option 1 */
+"Access All Features - 3 Days Free" = "Tüm Özelliklere Erişim - 3 Gün Ücretsiz";
+
+/* Subtitle appearing in the subscription screen, notifying users that by subscribing they can access all features of the app option 2 */
+"Your First 3 Days Free" = "İlk 3 Gününüz Ücretsiz";
+
+/* Subtitle appearing in the subscription screen, notifying users that by subscribing they can access all features of the app option 3 */
+"Unlimited and enjoyable usage" = "Unlimited and enjoyable usage";
+
+/* Subtitle trial button option 1*/
+"Start Trial" = "Denemeyi Başlat";
+
+/* Subtitle trial button option 2*/
+"Start Free Trial" = "Ücretsiz Denemeyi Başlatın";
+
+/* Subtitle trial button option 3*/
+"Start 3 Day Trial" = "3 Günlük Denemeyi Başlatın";
+
+/* Label above monthly subscription. */
+"Monthly subscription" = "Monthly subscription";
+
+/* Label above yearly subscription. */
+"Yearly subscription" = "Yearly subscription";
+
+/* Label above free trial. */
+"Free 3 day trial" = "Free 3 day trial";
+
+/* Label above yearly subscription and above free trial. */
+"Yearly subscription and 3 day trial" = "Yearly subscription and 3 day trial";
+
+/* String denoting that after trial ends, the user will pay the specified amount. Version 1. */
+"Afterwards" = "Afterwards";
+
+/* String denoting that after trial ends, the user will pay the specified amount. Version 2. */
+"After trial" = "After trial";
+
+/*====================================*/
+/*===== Subscription Trial Popup =====*/
+/*====================================*/
+
+/* Title of trial alert - 3 days, the translation is for "Your First 3 Days Free" */
+"Get 3 Days Free" = "İlk 3 Gününüz Ücretsiz";
+
+/* Body text in a button encouraging the user to start a 3 day free trial of Lightleap Pro */
+"Get 3 Days Free!" = "3 gün ücretsiz kullanın!";
+
+/* Subtitle of trial alert, the translation is for "Primers, Filters, Sky, Strobe & unlimited Batch!" */
+"Get the best results with unlimited access to Sky, Portrait, Primers, and more." = "Dolgular, Filtreler, Gökyüzü, Döner Flaş ve sınırsız Toplu Düzenleme!";
+
+/* Buttons which takes the user to the subscription screen, translation is for "Show me" */
+"Claim Now" = "Göster";
+
+/*==============================*/
+/*===== Introductory Price =====*/
+/*==============================*/
+
+/* Introductory Price strings */
+"Get 3 months for %@" = "%1$@’a 3 ay kullanın";
+
+/* Introductory Price strings */
+"Annual Plan" = "Yıllık Plan";
+
+/* Introductory Price strings */
+"3 Months for %@" = "3 Aylık %1$@";
+
+/* Introductory Price strings */
+"then only %@ billed yearly" = "Sonrasında yıllık sadece %1$@";
+
+/** ----------- **/
+/** Help Videos **/
+/** ----------- **/
+/* Help screen title */
+"Help" = "Yardım";
+
+/* Strobe mode pre capture 1 */
+"Takes multiple shots of a moving object and combines them into a single photo." = "Hareket eden bir nesnenin çoklu fotoğrafını çeker ve onları tek bir fotoğrafta birleştirir.";
+
+/* Strobe mode pre capture 2 */
+"Combines multiple shots into a single photo." = "Çoklu çekimleri tek bir fotoğrafta birleştirir.";
+
+/* Strobe mode pre capture 3 */
+"Combines continuous shots into a single photo." = "Ardınca gerçekleşen çekimleri tek bir fotoğrafta birleştirir.";
+
+/* Strobe mode post capture 1 */
+"Use the eraser to remove the strobe effect from unwanted areas." = "İstenmeyen bölgelerden döner flaş etkisini kaldırmak için silgiyi kullanın.";
+
+/* Strobe mode post capture 2 */
+"Use the eraser to remove the effect from unwanted areas." = "İstenmeyen bölgelerden efekti kaldırmak için silgiyi kullanın.";
+
+/* Strobe mode post capture 3 */
+"Erase the effect from unwanted areas." = "İstenmeyen bölgelerden efekti silin.";
+
+/* Lightleap mode pre capture */
+"Automatically straightens & crops your shot." = "Fotoğrafınızı otomatik olarak doğrultur ve onu kırpar.";
+
+/* HDR help 1 */
+"Fix dark images or harsh lighting." = "Karanlık veya parlayan fotoğrafları düzeltin.";
+
+/* HDR help 2 */
+"Fix shots with bad lighting." = "Kötü ışıklı fotoğrafları düzeltin.";
+
+/* HDR help 3 */
+"Improve dark or harsh lighting." = "Karanlık veya parlayan fotoları iyileştirin.";
+
+/* Batch editing help title */
+"Batch Editing" = "Toplu Düzenleme";
+
+/* Batch editing help subtitle  */
+"Edit multiple photos at once." = "Birçok fotoğrafı aynı anda düzenleyin.";
+
+/* Reset help title */
+"Batch Editing" = "Toplu Düzenleme";
+
+/* Reset help subtitle  */
+"Long press Undo button to reset." = "Sıfırlamak için Geri Al’a basılı tut.";
+
+/* Reset Slider help title*/
+"Reset Slider" = "Kaydırıcıyı Sıfırla";
+
+/* Reset Slider help subtitle*/
+"Long press to reset values." = "Değerleri sıfırlamak için basılı tut.";
+
+/* Compare help title*/
+"Compare" = "Karşılaştır";
+
+/* Compare help subtitle*/
+"Long press to compare." = "Karşılaştırmak için basılı tut.";
+
+/* Apply to all help title*/
+"Apply To All" = "Tümüne Uygula";
+
+/*  Apply to all help subtitle*/
+"Apply the current style to all the photos." = "Mevcut stili fotoğrafların tümüne uygula.";
+
+/* Primers help title*/
+"Primers" = "Dolgular";
+
+/* Primers help subtitle*/
+"Select a Primer. Tap again for further tweaking." = "Bir Dolgu seç. Ve onu düzenlemek için tekrar dokun.";
+
+/* Sky help title*/
+"Sky" = "Gökyüzü";
+
+/* Sky help subtitle variation 1 */
+"Replace your overexposed sky." = "Fazla aydınlık çıkmış gökyüzünü düzeltin.";
+
+/* Sky help subtitle variation 2 */
+"Adjust Feather, Horizon and Ambient to match the Sky to your photo." = "Gökyüzünü fotoğrafınızla uyumlu hale getirmek için Geçiş, Ufuk ve Ambiyans'ı ayarlayın.";
+
+/* Help video for reseting changes - title */
+"Reset all" = "Tümünü sıfırla";
+
+/* Help video for reseting changes - subtitle */
+"Long press the Undo button to reset all changes." = "Tüm değişiklikleri sıfırlamak için Geri Al’a basılı tutun.";
+
+/* Contact us button*/
+"Contact Us" = "Bize Ulaşın";
+
+/** ------ **/
+/** Camera **/
+/** ------ **/
+
+/* HDR pre light assessment message 1 */
+"Tap the screen for exposure calibration." = "Pozlandırma kalibresi için ekrana dokunun.";
+
+/* HDR during light assessment message 2 */
+"Calibrating..." = "Kalibre ediliyor...";
+
+/* HDR during light assessment message 3 */
+"Ready!" = "Hazır!";
+
+/* Misalignment error message title */
+"Hold Steady!" = "Sabit Tutun!";
+
+/* Misalignment error message subtitle */
+"Try to hold still while taking the shot." = "Fotoğraf çekerken aygıtınızı sabit tutmaya çalışın.";
+
+/* Misalignment error message button */
+"Got it" = "Tamamdır";
+
+/* Message shown to user when camera moved while taking a shot */
+"For perfect shots, hold still while shooting" = "Kusursuz kareler için çekerken basılı tutun";
+
+/** ------------ **/
+/** Album screen **/
+/** ------------ **/
+
+/* My albums album header */
+"My Albums" = "Albümlerim";
+
+/* Lightleap photos album header */
+"Lightleap Photos" = "Lightleap Fotoları";
+
+/* sessions album header */
+"Sessions" = "İşler";
+
+/* Batch sessions album header */
+"Batch Sessions" = "Toplu İşler";
+
+/* Title of an album containing demo photos supplied with the app */
+"Demo Photos" = "Tanıtım Fotoğrafları";
+
+/* favorites album header */
+"Favorites" = "Favoriler";
+
+/* Library album header */
+"Library" = "Kütüphane";
+
+/* Albums header */
+"Albums" = "Albümler";
+
+/* Deselect button */
+"Deselect" = "Seçilenleri Kaldır";
+
+/* Deselect button */
+"Deselect all" = "Tüm seçilenleri kaldır";
+
+/* Edit photo button */
+"Edit photo" = "Fotoğrafı düzenle";
+
+/* Edit 2 photos button */
+"Edit 2 photos" = "2 fotoğrafı düzenle";
+
+/* Delete sessions button */
+"Delete 2 sessions" = "2 işi sil";
+
+/* Delete session button */
+"Delete session" = "İşi sil";
+
+/* Delete batch sessions button */
+"Delete 2 Batch sessions" = "2 Toplu İşi sil";
+
+/* Delete batch session button */
+"Delete Batch session" = "Toplu İşi Sil";
+
+/* Edit button */
+"Edit" = "Düzenle";
+
+/* Cancel button */
+"Cancel" = "Vazgeç";
+
+/* Select multiple photos button*/
+"Select" = "Seç";
+
+/* Album section title - today*/
+"Today" = "Bugün";
+
+/* Album section title - this week*/
+"This Week" = "Bu Hafta";
+
+/* Album section title - this month*/
+"This Month" = "Bu Ay";
+
+/* Album section title - older*/
+"Older" = "Daha Eski";
+
+/* Section of the album containing photos from the current year */
+"This Year" = "Bu Yıl";
+
+/* Section of the album containing photos taken earlier than this year */
+"Earlier" = "Daha Öncekiler";
+
+/** ------------- **/
+/** Strobe helper **/
+/** ------------- **/
+
+/* Message button */
+"Eraser brush" = "Silgi fırçası";
+
+/* More button */
+"Restore brush" = "Fırçayı Geri Yükle";
+
+/** ------ **/
+/** Export **/
+/** ------ **/
+
+/* save button */
+"Save" = "Kaydet";
+
+/* Message button */
+"Message" = "Mesajlar";
+
+/* More button */
+"More" = "Daha Fazlası";
+
+/* Message shown to non-subscriber user trying to export image with pro features */
+"You’ve used Pro features!\nGo Pro to export edit as is or remove Pro effects." = "Pro özelliklerini kullandınız!\nŞimdiki haliyle dışa aktarmak için Pro’ya\ngeçin veya Pro efektlerini kaldırın.";
+
+/* Remove pro edit option button */
+"Remove" = "Kaldır";
+
+/* Go Pro option */
+"Go Pro!" = "Pro’ya Geç!";
+
+/* Alert informing user that pro edit will be removed */
+"This will undo all the Pro effects applied to your photo in order to export it." = "Dışa aktarıldığında bu, fotoğrafınıza eklenmiş tüm Pro efektlerini geri alacak.";
+
+/* Alert title */
+"Remove Pro Effects" = "Pro Efektlerini Kaldır";
+
+/* Alert button remove */
+"Remove now" = "Şimdi kaldır";
+
+/* Message shown to user after image was saved to camera roll */
+"Saved to camera roll" = "Kamera rulosuna kaydedildi";
+
+/* Message to the user that export succeeded */
+"Success!" = "Başarılı!";
+
+/* Button text that allows the user to dismiss an alert */
+"Dismiss" = "Kapat";
+
+/* Message to the user that the export was canceled */
+"Canceled" = "İptal Edildi";
+
+/*=============================*/
+/*======= Import Screen =======*/
+/*=============================*/
+
+/* Export photos button title */
+"Export" = "Dışa Aktar";
+
+/* Delete photos button title */
+"Delete" = "Sil";
+
+/* Undo all the edits of the selected photos */
+"Undo Edits" = "Düzenlemeleri Geri Al";
+
+/* Adds the selected photos to the Favorites folder */
+"Add to Favorites" = "Favorilere Ekle";
+
+/* Removes the selected photos from the Favorites folder */
+"Remove from Favorites" = "Favoriler’den Kaldır";
+
+/* Title in sessions album when it is empty */
+"No sessions yet" = "Henüz bir iş yok";
+
+/* Subtitle in sessions album when it is empty */
+"Start editing - Edits are automatically saved and will appear here!" = "Düzenlemeye başlayın - Düzenlemeler otomatik kaydedilecek olup, burada görünecek!";
+
+/* Title of an empty photos album */
+"Oops, no photos here." = "Tüh, hiçbir foto yok.";
+
+/* Import screen what's new 1 - title */
+"New Import Screen" = "Yeni İçe Aktarım Ekranı";
+
+/* Import screen what's new 1 - subtitle */
+"Use Select to Export, Delete, or Edit multiple shots" = "Birden fazla fotoyu Aktarma, Silme ve Düzenleme imkanı";
+
+/* Import screen what's new 2 - title */
+"All Sessions in One Place" = "Tüm İşler Tek Bir Ekranda";
+
+/* Import screen what's new 2 - subtitle */
+"Tap to find all your in-progress edits" = "Dokunarak bitmemiş düzenlemelerinizi bulun";
+
+/* Presented to a user that did not give access to his photos library, yet tries to perform an action that involves accessing it */
+"Lightleap does not have access to your photos. To enable access, go to iOS settings" = "Lightleap fotoğraflarına erişemiyor. Erişebilmek için iOS ayarlarına git";
+
+/* Positive resopnse to the import error message. Redirect to the settings. */
+"Let's do it!" = "Tamam, yapalım!";
+
+/*==================================*/
+/*======= Main Toolbar tools =======*/
+/*==================================*/
+
+ /* Primers tool, max 9 chars! */
+"Primers" = "Dolgular";
+
+/* Sky tool, max 9 chars! */
+"Sky" = "Gökyüzü";
+
+/* Filters tool, max 9 chars! */
+"Filters" = "Filtreler";
+
+/* Details tool, max 9 chars! */
+"Details" = "Detaylar";
+
+/* Adjust tool, max 9 chars! */
+"Adjust" = "Ayarla";
+
+/* Canvas tool, max 9 chars! */
+"Canvas" = "Kanvas";
+
+/** ----------- **/
+/** Edit screen **/
+/** ----------- **/
+
+/* Apply to button */
+"Apply to all" = "Tümüne uygula";
+
+/* Custom preset package */
+"Custom" = "Kişisel";
+
+/* Neutral preset package */
+"Neutral" = "Nötr";
+
+/* Button which takes the user back to the photo albums*/
+"Photos" = "Fotoğraflar";
+
+/* Reset preset package */
+"Reset" = "Sıfırla";
+
+/* Saved preset package */
+"Saved" = "Kaydedildi";
+
+/* Nature preset package */
+"Nature" = "Doğa";
+
+/* Urban preset package */
+"Urban" = "Kentsel";
+
+/* Portrait preset package */
+"Portrait" = "Portre";
+
+/* Title that appears below the Sparkle overlays toolbar pack */
+"Sparkle" = "Kıvılcım";
+
+/* Title of a slider controlling the size of the particles in the Sparkle effect */
+"Size" = "Büyüklük";
+
+/* Title of a slider controlling the density of the particles in the Sparkle effect */
+"Density" = "Yoğunluk";
+
+/* Chinese New Year overlay package */
+"New Year" = "Yeni Yıl";
+
+/* Mood overlay package */
+"Mood" = "Ruh Hali";
+
+/* Duo overlay package */
+"Duo" = "İkili";
+
+/* IntroPresentation.pages.title */
+"Overlay" = "Tabaka";
+
+/* Toolbar button, adds a lens flare effect. */
+"Lens Flare" = "Parlama";
+
+/* Title that appears below the Weather overlays toolbar pack */
+"Weather" = "Hava";
+
+/* Title for a pack of Valentines themed Overlays Packs */
+"Valentine's" = "Sevgililer Günü";
+
+/* Summer preset package */
+"Summer" = "Yaz";
+
+/* Abstract preset package */
+"Abstract" = "Soyut";
+
+/* Night preset package */
+"Night" = "Gece";
+
+/* B&W preset package */
+"B&W" = "S&B";
+
+/* Preset saved notification */
+"Preset saved as:" = "Önayar şöyle kaydedildi:";
+
+/* Quickfix on notification */
+"Quickfix on" = "Hızlı-düzeltme açık";
+
+/* Quickfix off notification */
+"Quickfix off" = "Hızlı-düzeltme kapalı";
+
+/* Undo notification */
+"Undo" = "Geri Al";
+
+/* Redo notification */
+"Redo" = "Yinele";
+
+/* Redo notification */
+"Redo" = "Yinele";
+
+/* Filters button */
+"Filters" = "Filtreler";
+
+/* Brightness button */
+"Brightness" = "Parlaklık";
+
+/* Exposure button */
+"Exposure" = "Pozlama";
+
+/* Shadows button */
+"Shadows" = "Gölgeler";
+
+/* Highlights button */
+"Highlights" = "Parlak Alanlar";
+
+/* Contrast button */
+"Contrast" = "Kontrast";
+
+/* Sharpen button */
+"Sharpen" = "Keskinleştir";
+
+/* Saturation button */
+"Saturation" = "Doygunluk";
+
+/* Temp button */
+"Temp" = "Sıcaklık";
+
+/* Tint button */
+"Tint" = "Tonlama";
+
+/* Hue button */
+"Hue" = "Nüans";
+
+/* Depth button */
+"Depth" = "Derinlik";
+
+/* Filters button */
+"Filters" = "Filtreler";
+
+/* Structure button */
+"Structure" = "Yapı";
+
+/* Vibrance button */
+"Vibrance" = "Canlılık";
+
+/* Vignette button */
+"Vignette" = "Vinyet";
+
+/* Bright preset package */
+"Bright" = "Işıltılı";
+
+/* Drama preset package */
+"Drama" = "Drama";
+
+/* Faded preset package */
+"Faded" = "Soluk";
+
+/* HighCon (<- As in high contrast) preset package */
+"HighCon" = "ÜstKon";
+
+/* LowCon (<- As in low contrast) preset package */
+"LowCon" = "AltKon";
+
+/* Go Pro button */
+"Go Pro" = "Pro’ya Geç";
+
+/*Pop tool button (As in "the color pops out") */
+"Pop" = "Göz Alıcı";
+
+/*cool tool button (Cool as in "colder") */
+"Cool" = "Serin";
+
+/*calm tool button */
+"Calm" = "Sakin";
+
+/*fade tool button */
+"Fade" = "Solma";
+
+/*Select All button */
+"Select All" = "Tümünü Seç";
+
+/* Day preset package */
+"Day" = "Gündüz";
+
+/* NEON preset package */
+"NEON" = "NEON";
+
+/* Night preset package */
+"Night" = "Gece";
+
+/* Cinematic preset package */
+"Cinematic" = "Sinematik";
+
+/* Mystery preset package */
+"Mystery" = "Gizem";
+
+/* Radical preset package */
+"Radical" = "Radikal";
+
+/* No filter */
+"None" = "Öğe Yok";
+
+/* essential filters */
+"Essential" = "Temel";
+
+/* Adjust Primer tool */
+"Adjust Primer" = "Dolguyu Ayarla";
+
+/* Adjust Filter tool */
+"Adjust Filter" = "Filtreyi Ayarla";
+
+/* Ratio tool */
+"Ratio" = "Oran";
+
+/* Temperature (here we use ‘Temp’ because ‘Temperature’ is too long) button */
+"Temp" = "Sıcaklık";
+
+/* Light button */
+"Light" = "Işık";
+
+/* Straighten button */
+"Straighten" = "Doğrult";
+
+/* Horizontal skew button */
+"H-skew" = "Y-Eğim";
+
+/* Vertical skew button */
+"V-skew" = "D-Eğim";
+
+/* Rotate button */
+"Rotate" = "Döndür";
+
+/* Flip horizontally button */
+"Flip H" = "Y-Çevir";
+
+/* Flip vertically button */
+"Flip V" = "D-Çevir";
+
+/* Ratio button */
+"Ratio" = "Oran";
+
+/* Ratios button */
+"Ratios" = "Oranlar";
+
+/* Free ratio button */
+"Free" = "Ücretsiz";
+
+/* Grain tool */
+"Grain" = "Tanecik";
+
+/* Color */
+"Color" = "Renk";
+
+/* Title for a pack of Christmas themed Overlays and Sky Packs */
+"Christmas" = "Noel";
+
+/*=========================*/
+/*======= Sky Tool ========*/
+/*=========================*/
+
+/* Sky tool */
+"Sky" = "Gökyüzü";
+
+/* Randomizes the sky */
+"Random" = "Rastgele";
+
+/* Controlls the opacity of the sky */
+"Opacity" = "Opaklık";
+
+/* Changes the sky color according to a time of day */
+"Time" = "Zaman";
+
+/* Adds clouds to the sky */
+"Clouds" = "Bulutlar";
+
+/* Shifts the clouds */
+"Wind" = "Rüzgar";
+
+/* Matches the color of the sky with the current filter option 1 */
+"Color Match" = "Renk Eşleştir";
+
+/* Matches the color of the sky with the current filter option 2 */
+"Colorize" = "Renklendir";
+
+/* Sky horizon button*/
+"Horizon" = "Ufuk";
+
+/* Feather horizon button*/
+"Feather" = "Geçiş";
+
+/* Shift horizon button*/
+"Shift" = "Kaydır";
+
+/* Ambient horizon button*/
+"Ambient" = "Ambiyans";
+
+/* Sunny sky package*/
+"Sunny" = "Güneşli";
+
+/* Fantasy sky package*/
+"Fantasy" = "Fantezi";
+
+/* Dusk sky package*/
+"Dusk" = "Alacakaranlık";
+
+/* Sunset sky package*/
+"Sunset" = "Gün Batımı";
+
+/* Night sky package*/
+"Night" = "Gece";
+
+/* Aurora sky package*/
+"Aurora" = "Aurora";
+
+/* Storm sky package*/
+"Storm" = "Fırtına";
+
+/* New Sky package - Ablaze */
+"Ablaze" = "Alev Alev";
+
+/*===============================*/
+/*======= Portrait Tool =========*/
+/*===============================*/
+
+ /* Blur */
+"Blur" = "Bulanıklık";
+
+/* Glow */
+"Glow" = "Işıltı";
+
+/* Smooth */
+"Smooth" = "Pürüzsüz";
+
+/*==================================*/
+/*======= Primer Properties ========*/
+/*==================================*/
+
+/* Primers tool */
+"Primers" = "Dolgular";
+
+/* Changes the low mixing */
+"Lows" = "Altlar";
+
+/* Changes the mid mixing */
+"Mids" = "Ortalar";
+
+/* Changes the high mixing */
+"Highs" = "Üstler";
+
+/* Changes the effect on people */
+"People" = "Kişiler";
+
+/* Changes the effect on people option 2 */
+"Person" = "Kişi";
+
+/* Changes the luminance */
+"Luminance" = "Parlaklık";
+
+/* Changes the chroma (color) */
+"Chroma" = "Kroma";
+
+/* Adds details */
+"Details" = "Detaylar";
+
+/*=============================*/
+/*======= Filter packages =====*/
+/*=============================*/
+
+ /* Vibrant Package */
+"Vibrant" = "Capcanlı";
+
+/* Fade Package */
+"Fade" = "Solma";
+
+/* Portrait Package */
+"Portrait" = "Portre";
+
+/* Urban Package */
+"Urban" = "Kentsel";
+
+/* B&W (Black and white) Package */
+"B&W" = "S&B";
+
+/* Film Package */
+"Film" = "Film";
+
+/* Bright Package */
+"Bright" = "Işıltılı";
+
+/* Neutral Package */
+"Neutral" = "Nötr";
+
+/* Cold Package */
+"Cold" = "Soğuk";
+
+/* Warm Package */
+"Warm" = "Sıcak";
+
+/* Thank you pop up - title */
+"Thank you!" = "Teşekkürler!";
+
+/* Thank you pop up - substitle */
+"We appreciate your support.\nPlease enjoy all-access to premium features and unlimited primers & filters." = "Bizi tercih ettiğiniz için teşekkür ederiz. \nPremium özelliklere ve sınırsız dolgu & filtreye olan ayrıcalıklı erişiminizin tadını çıkarın.";
+
+/* Thank you pop up - continue button */
+"Get Started" = "Haydi başlayın";
+
+/* New Filter package - Tones */
+"Tones" = "Tonlar";
+
+/*=============================*/
+/*======= Intro Strings =======*/
+/*=============================*/
+
+/* Intro first slide */
+"Welcome to Lightleap!" = "Lightleap’a Hoş Geldiniz!";
+
+/* Intro first slide subtitle */
+"Take amazing shots on the go" = "Zahmetsizce muhteşem fotoğraflar çekin";
+
+/* Intro second slide variation 1 */
+"Make every photo you take beautiful" = "Çektiğiniz her fotoğraf mükemmel çıksın";
+
+/* Intro second slide variation 2 */
+"Make every sky breathtaking" = "Her Gökyüzünüz Büyülesin";
+
+/* Into screen showing the portrait feature - option 1 */
+"And every portrait stunning" = "Ve her portre büyülüyor";
+
+/* Into screen showing the portrait feature - option 2 */
+"Create stunning portraits" = "Büyüleyici portreler yaratın";
+
+/* Intro fourth slide */
+"Save time! Edit multiple photos at once" = "Zamandan kazanın! Birçok fotoğrafı aynı anda düzenleyin";
+
+/* Finish intro button */
+"Dive right in!" = "Hemen kullanmaya başla!";
+
+/* Button displayed on the last slide of the app introduction */
+"Get Started!" = "Başla!";
+
+/*=================================*/
+/*======= Apple retail demo =======*/
+/*=================================*/
+
+/* Alert when demo version is launched */
+"This version of %@ has been created specifically for demonstration purposes" = "%1$@ uygulamasının sürümü özel olarak tanıtım amacı ile yaratılmıştır";
+
+/* Title of alert appearing when trying to enter a disabled feature */
+"Feature not enabled for this demo" = "Özellik bu demoda kullanılamıyor";
+
+/* Alert accept button */
+"OK" = "Tamam";
+
+/*====================================*/
+/*======= What's new component =======*/
+/*====================================*/
+
+/* What's new component title variation 1 */
+"New Portrait Tool" = "Yeni Portre Aracı";
+
+/* What's new component subtitle variation 1 */
+"Try it now" = "Şimdi dene";
+
+/* What's new component subtitle variation 2 */
+"Try it on your portraits!" = "Portrelerinizde deneyin!";
+
+/* What's new component subtitle variation 3 */
+"Professional portraits in a few taps" = "Birkaç dokunuşta profesyonel portreler";
+
+/*=============================================*/
+/*======= Temporary Free Preset Strings =======*/
+/*=============================================*/
+
+/* Title of subscription banner */
+"Get unlimited access with Lightleap PRO." = "Lightleap PRO’yla sınırsız erişimi elde edinin.";
+
+/* Subtitle of temporarily-free presets tool tip */
+"Quick, before they’re gone - Pro features with this icon are free!" = "Çabuk davranın, bitmeden - bu simgeyle Pro özellikleri ücretsiz!";
+
+/* Local notification with new presets open up - title */
+"Try now!" = "Şimdi dene!";
+
+/* Local notification with new presets open up - option 1 */
+"New FREE Presets available for a limited time only." = "Sadece kısa bir süreliğine yeni ÜCRETSİZ Önayarlar.";
+
+/* Local notification with new presets open up - option 2 */
+"Brand new FREE Presets available for a limited time only." = "Sadece kısa bir süreliğine yepyeni ÜCRETSİZ Önayarlar.";
+
+/*================================*/
+/*======= Refferal Strings =======*/
+/*================================*/
+
+ /* Title of refferal pop up - option 1 */
+"Share for More Lightleap!" = "Daha Fazla Lightleap için paylaşın!";
+
+/* Title of refferal pop up - option 2 */
+"Share for Pro Exports!" = "Pro Dışa Aktarımı için Paylaşın!";
+
+/* Title of refferal pop up - option 3 */
+"Share for more exports" = "Daha fazla aktarım için paylaşın";
+
+/* Subtitle of refferal pop up - option 1 */
+"Get 3 Pro exports and give a 7 day free trial - share Lightleap today!" = "Lightleap’ı bugün paylaş: 7 günlük ücretsiz deneme hediye et, 3 Pro dışa aktarım kazan!";
+
+/* Subtitle of refferal pop up - option 2 */
+"Get 3 Pro exports and give a 7 day free trial when your friend downloads Lightleap - share Lightleap today!" = "Lightleap’ı bugün paylaş: 7 günlük ücretsiz deneme hediye et ve arkadaşın Lightleap’ı indirdiğinde 3 Pro dışa aktarım kazan!";
+
+/* Thank you message after refferal - Title */
+"Thanks for sharing!" = "Çok teşekkür ederiz!";
+
+/* Thank you message after refferal - Subtitle */
+"Bonus! Here’s one free Export – on us :)" = "Bonus! Bir bedava Dışa Aktarım - bizdensiniz :)";
+
+/* Refferals explanation */
+"When your referred friend downloads Lightleap, you’ll get another 3 free Pro Exports!" = "Arkadaşınız Lightleap’ı indirdiğinde, 3 tane daha ücretsiz Pro Dışa Aktarımı kazanacaksınız!";
+
+/* Button which opens the refferal pop up - option 1 */
+"Get free Pro Exports!" = "Ücretsiz Dışa Aktarım!";
+
+/* Button which opens the refferal pop up - option 2 */
+"Want to get free Pro Exports?" = "Ücretsiz Pro Dışa Aktarım ister misiniz?";
+
+/* Lightleap link share button */
+"Share" = "Paylaş";
+
+/* Message letting the user know that even though he used pro features, he can use pro exports */
+"You've used Pro tools! Continue to use a free export" = "Pro araçlarını kullandınız! Şimdi de ücretsiz dışa aktarımı deneyin";
+
+/*=====================*/
+/*======= Masks =======*/
+/*=====================*/
+
+/* Undo / Redo action name (will say "undo: brush") */
+"Brush" = "Fırça";
+
+/* Masks - help */
+"Use Eraser to remove or Brush to add your Sky or Portrait to certain areas." = "Belirli bölgelere Gökyüzü veya Portre eklemek için Fırçayı ve onları kaldırmak için Silgi’yi kullanın.";
+
+/* Masks - what's new title 1 */
+"Masks" = "Maskeler";
+
+/* Masks - what's new title 2 */
+"Brushes" = "Fırçalar";
+
+/* Masks - what's new subtitle */
+"A perfect match in every photo. Adjust your Skies and Portrait Masks." = "Her fotoğrafta kusursuz uyum. Gökyüzünü ve Portre Maskelerini düzenleyin.";
+
+/*===================================*/
+/*======= Intro slides Screen =======*/
+/*===================================*/
+
+/* Intro slides - Sky 1 */
+"Replace gray (or any!) skies with incredible Sky presets" = "Gökyüzününüzü inanılmaz Gökyüzü önayarları ile değiştirin";
+
+/* Intro slides - Sky 2 */
+"Change any sky in one tap" = "Tek dokunuşta gökyüzünü değiştirin";
+
+/* Intro slides - portrait 1 */
+"Make portraits pop with background blur & multiple presets" = "Zemin bulanıklığı & birçok önayarla portreleri öne çıkar";
+
+/* Intro slides - portrait 2 */
+"Retouch portraits to perfection in one tap" = "Tek dokunuşta kusursuz portre rötuşu";
+
+/* Intro slides - portrait 3 */
+"Retouch portraits to perfection" = "Kusursuzlaştırmak için portre rötuşu";
+
+/* Intro slides - filters 1 */
+"Adjust the mood of any shot with premium Filters" = "Premium Filtrelerle her fotodaki atmosferi değiştirin";
+
+/* Intro slides - filters 2 */
+"Adjust the mood in one tap" = "Tek dokunuşta atmosferi değiştirin";
+
+/* Intro slides - filters 3 */
+"Adjust the mood with premium Filters" = "Premium Filtrelerle atmosferi değiştirin";
+
+/* Intro slides - Magic 1 */
+"Effortless auto-adjustment in just a tap!" = "Tek dokunuşta otomatik düzeltme!";
+
+/* Intro slides - Magic 2 */
+"Fix photos magically in just one tap" = "Sihirli bir dokunuşta fotoları düzeltin";
+
+/* Intro slides - Magic 3 */
+"Magically fix every image" = "Sihirli bir şekilde her fotoyu düzelt";
+
+/* Intro slides - overlays 1 */
+"Smart Overlays adjust automatically to properly match every photo!" = "Akıllı Tabakalar her fotoya uygun olarak otomatik eşleşir!";
+
+/* Intro slides - overlays 2 */
+"Add stunning special effects" = "Büyüleyici özel efektler ekleyin";
+
+/* Intro slides - overlays 3 */
+"Special effects in one tap" = "Tek dokunuşta özel efektler";
+
+/* Intro slides - final slide 1 */
+"So many amazing photos, all in one tap!" = "Birçok muhteşem fotoğraf, tek dokunuşta!";
+
+/* Intro slides - final slide 1 */
+"One photo, so many amazing looks!" = "Bir fotoğraf, birçok inanılmaz seçenek!";
+
+/*========================*/
+/*======= Overlays =======*/
+/*========================*/
+
+/* What's new title */
+"New! Overlays" = "Yeni! Tabakalar";
+
+/* What's new subtitle */
+"Add a little something extra & transform your shots" = "İlave dokunuşlarla fotolarınızı dönüştürün";
+
+/*=========================*/
+/*======= Magic Fix =======*/
+/*=========================*/
+
+/* Magic fix feature title */
+"Magic" = "Sihir";
+
+/* What's New title */
+"Magic in a Tap" = "Tek Dokunuşta Sihir";
+
+/* What's New subtitle */
+"Adjust and Enhance your photos - no effort necessary!" = "Fotoğraflarınızı Düzenleyin ve Geliştirin - hiçbir şeyle uğraşmadan!";
+
+/*=============================*/
+/*======= Export screen =======*/
+/*=============================*/
+
+/* export - what's new title */
+"New Export Options" = "Yeni Aktarma Seçenekleri";
+
+/* export - what's new subtitle */
+"Change your format, export to social media & more!" = "Biçim değiştirme ve toplumsal medya dahil her yere aktarma!";
+
+/* eraser tooltip */
+"Tap to Erase!" = "Dokunarak Silin!";
+
+/* export - save new photo over original photo */
+"Replace" = "Değiştir";
+
+/* export - save new photo as new copy photo */
+"Save Copy" = "Kopya Olarak Kaydet";
+
+/* Save copy option explanation */
+"Saves an edited copy, but leaves original untouched" = "Düzeltilmiş kopyayı kaydeder fakat özgün olanı korur";
+
+/* Save over option explanation */
+"Replaces original photo with edited version" = "Düzenlenmiş halini özgün fotoyla değiştirir";
+
+/* button which exports the edited photo to instagram */
+"Post to Instagram" = "Instagram’da Paylaş";
+
+/* explanation on button which provides export through other apps */
+"Other Apps and Services" = "Diğer Uygulama ve Hizmetler";
+
+/* export photo format type */
+"Format" = "Biçim";
+
+/* label explaining the destination of the export */
+"Export to" = "Şuraya Aktar";
+
+/* Looks feature title */
+"Looks" = "Görünümler";
+
+/* Looks what's new title */
+"Looks are combinations of tools, specially crafted by our design team. Check them out now!" = "Görünümler, tasarım takımımız tarafından özel hazırlanmış araç topluluklarıdır. Onları şimdi dene!";
+
+/* Primers what's new title */
+"Primers are still here! We've just moved them around and changed the icon." = "Dolgular bir yere gitmedi! Sadece yerleri ve simgesi değişti.";
+
+/* Looks popup title */
+"Specially Crafted Lightleap Combinations" = "Özel Hazırlanmış Lightleap Görünümleri";
+
+/* Looks popup subtitle */
+"Looks are combinations of Lightleap tools, specially crafted by our design team." = "Görünümler, tasarım takımımız tarafından özel hazırlanmış Lightleap araç topluluklarıdır.";
+
+/* Tooltip explaining to the user how to erase a mask */
+"Tap here, then swipe your photo to erase the effect" = "Buraya dokunun ve efekti silmek için fotonuzu kaydırın";
+
+/* Promotion screen title */
+"Hurry & get a month of Lightleap Pro for only %@!" = "Acele edin, bir aylık Lightleap Pro yalnızca %1$@!";
+
+/* Promotion screen second title */
+"Get even more with Lightleap Pro!" = "Lightleap Pro ile daha bile fazlasına sahip olun!";
+
+/* Promotion screen features 1 */
+"Unlock all tools" = "Tüm araçları aç";
+
+/* Promotion screen features 2 */
+"More Skies, more Filters!" = "Daha Fazla Gökyüzü ve Filtre!";
+
+/* Promotion screen features 3 */
+"New Pro content every month" = "Her ay yeni Pro içeriği";
+
+/* Promotion screen price text */
+"Get 1 Month for %@" = "1 Aylık Sadece %1$@";
+
+/* Promotion screen price text 2 */
+"then only %@ (billed yearly)" = "sonrasında yalnızca %1$@ (yıllık)";
+
+/* Promotion screen text explaining to the user he can cancel his subscription */
+"Cancel anytime" = "Dilediğinizde vazgeçin";
+
+/* Banner explaining to the user he used pro features */
+"You've used Pro features! Unlock Pro features to save." = "Pro özelliklerini kullandınız! Kaydedebilmek için Pro özelliklerini açın.";
+
+/* Button on the banner, which opens the subscription screen */
+"Unlock Pro features" = "Pro özelliklerini aç";
+
+/* Button which removes the edits that were using pro features */
+"Remove Limit" = "Sınırı Kaldır";
+
+/* Free trial button */
+"Free trial" = "Ücretsiz deneme";
+
+/* Crop tool title */
+"Crop" = "Kırp";
+
+/* Subtitle for an error message when a photo couldn't be saved 1 */
+"Oops, can't save over a demo photo" = "Oops, bir demo fotosu üzerine kaydedilemiyor";
+
+/* Subtitle for an error message when a photo couldn't be saved 2 */
+"Oops, can't save over a video" = "Oops, video üzerine kaydedilemiyor";
+
+/* Message shown when user uses a tool which works on faces */
+"Couldn't find a face" = "Bir yüz bulunamadı";
+
+/* Referrals - message shown to referred user */
+"Your First 7 Days Free" = "İlk 7 Gününüz Ücretsiz";
+
+/* Notification text informing the user that they can try Lightleap VIP free for 7 days */
+"Try free for 7 days!" = "7 gün ücretsiz deneyin!";
+
+/* Trial push notification version 1 */
+"Time is almost up ⏲ get your free trial!" = "Vakit sona ermek üzere ⏲ ücretsiz denemeyi kullanın!";
+
+/* Trial push notification version 2 */
+"Time is almost up ⏲ get a free trial of unlimited Skies, stunning Filters, and beautiful Overlays. Tap to get started!" = "Vakit sona ermek üzere ⏲ bir hafta boyunca sınırsız Gökyüzleri, büyüleyici Filtreler ve harika Tabakalarla tanışın. Başlamak için dokunun!";
+
+/* Trial push notification version 3 */
+"Time is almost up ⏲ get a free week of unlimited Skies, stunning Filters, and beautiful Overlays. Tap to get started!" = "Vakit sona ermek üzere ⏲ Sınırsız Gökyüzleri, büyüleyici Filtreler ve harika Tabakalardan oluşan ücretsiz denemeyi kullanın. Başlamak için dokunun!";
+
+/* Referrals - message shown to referred user 2 */
+"Have you tried Lightleap? Get 1 week free!" = "Lightleap’ı denediniz mi? Bir hafta ücretsiz!";
+
+/* Message shown to the user when a reffered user downloads Lightleap - title */
+"Yay!" = "Yaşasın!";
+
+/* Message shown to the user when a reffered user downloads Lightleap - subtitle */
+"You've got %lu Pro points!" = "%1$lu Pro puanınız var!";
+
+/* Message shown to user when he is about to save a photo and use a point */
+"Use 1 Pro point" = "1 Pro puan kullan";
+
+/* Message shown to user when he wants to share Lightleap link but there is no connection */
+"No internet connection" = "İnternet bağlantısı yok";
+
+/* 'share Lightleap' dialog title */
+"Share and get Lightleap Pro" = "Paylaşın ve Lightleap Pro sizin olsun";
+
+/* 'share Lightleap' dialog subtitle */
+"Get 3 Pro points every time a friend downloads Lightleap via this link. Use your points to save images with Pro features." = "Her bir arkadaşınız bu linkle Lightleap’ı indirdiğinde 3 Pro puan kazanın. Puanlarınızı, üzerine Pro özellikleri uyguladığınız fotoları kaydetmede kullanın.";
+
+/* button which will take users to the 'share Lightleap' dialog */
+"Get free Pro points!" = "Ücretsiz Pro puan kazanın!";
+
+/* button which will take users to the 'share Lightleap' dialog 2 */
+"Want to get free Pro points?" = "Ücretsiz Pro puan kazanmak ister misiniz?";
+
+/* Message shown to user after he shared the Lightleap link */
+"When your referred friend downloads Lightleap, you’ll get another 3 free Pro points!" = "Tavsiye ettiğiniz kişi Lightleap’ı indirdiğinde, 3 Pro puan daha kazanacaksınız!";
+
+/* Effects feature title */
+"Effects" = "Efektler";
+
+/* Title for pop up which allows the user to save the current edit as a new look */
+"Name Your Look" = "Stilini Adlandır";
+
+/* Subtitle for pop up which allows the user to save the current edit as a new look */
+"Name & save your signature editing style!" = "İmzan olan düzenleme stilini adlandır & kaydet!";
+
+/* Rename the look button */
+"Rename" = "Yeniden Adlandır";
+
+/* Button which saves a Look in the Look feature */
+"Save Look" = "Görünümü Kaydet";
+
+/* Title of the pop up which enables you to rename a Look you previously saved */
+"Rename Look" = "Görünümü Adlandır";
+
+/* Button text for accepting the changes you have made your Look's name  */
+"Done" = "Bitti";
+
+/* Message displayed to the user when the image is being saved */
+"Saving photo" = "Foto kaydediliyor";
+
+/* Message displayed to the user when multiple images are being saved */
+"Saving photos" = "Fotolar kaydediliyor";
+
+/* Pop up displayed when user tries to use a Pro feature */
+"This is Pro only. Go Pro to get this feature!" = "Pro’ya özel. Pro’ya geçerek bu özelliği kullanın!";
+
+/* Label on a button that restores previously purchased products */
+"Already paid?" = "Önce almış mıydınız?";
+
+/* Chinese welcome popup title */
+"Welcome Bonus" = "Welcome Bonus";
+
+/* Chinese welcome popup subtitle */
+"You’ve received %lu days of Pro free! You can now access all features of the app for %lu days" = "You’ve received %1$lu days of Pro free! You can now access all features of the app for %2$lu days";
+
+/* Chinese intro subscription popup title */
+"Keep Using Pro" = "Keep Using Pro";
+
+/* Chinese intro subscription popup subtitle */
+"Hope you enjoyed your trial. Pay for 5 months of Pro, get another 7 months FREE!" = "Hope you enjoyed your trial. Pay for 5 months of Pro, get another 7 months FREE";
+
+/*=============================*/
+/*======= Custom looks ========*/
+/*=============================*/
+
+/* Looks - what's new Title */
+"New: Custom Looks" = "Yeni: Kişisel Görünümler";
+
+/* Looks - what's new Subtitle */
+"Name & save your signature editing style" = "Kişisel düzenleme stilinizi adlandırıp & kaydedin";
+
+/* Looks Pro popup - appears when non-sub tries to save more looks than allowed - Title*/
+"Add more looks with Pro" = "Pro’yla birçok görünüm ekleyin";
+
+/* Looks Pro popup - appears when non-sub tries to save more looks than allowed - Subtitle*/
+"Save up to %@ custom Looks" = "Kişisel görünümlerde %1$@ kadar indirim";
+
+/* Save new Look tooltip */
+"Love your current edits? Tap here to name your Look & save it!" = "Düzenlemelerinizi beğendiniz mi? Buraya dokunup Görünüm’ü adlandırıp, kaydedin!";
+
+/* Custom Looks limit reached for subscribers message - title  */
+"Custom Looks are Full" = "Kişisel Görünümler Dolu";
+
+/* Custom Looks limit reached for subscribers message - title  */
+"We love that you're creating more Looks, but Lightleap can only handle 30 custom Looks at a time. Press & hold an older Look, then choose delete to make room for a new Look." = "Görünümler oluşturuyorsunuz, harika! Lightleap yalnızca 30 kişisel Görünümü kaydedebilir. Yeni bir Görünüm’e yer açmak için eski Görünüm’e basılı tutup onu silebilirsiniz.";
+
+/*===================================*/
+/*======= Subscription offers =======*/
+/*===================================*/
+
+/* Title of a pop-up subscription screen offering a discounted product*/
+"Save %@%%" = "İndirim %1$@%%";
+
+/* Title of a pop-up subscription screen offering a discounted product*/
+"1 Year for Just %@" = "1 Yıl Sadece %1$@";
+
+/* Sub -Title of a pop-up subscription screen offering a discounted product*/
+"Renew now and save %@%% next year." = "Şimdi yenileyin ve bir yılı %1$@%% indirimli kullanın.";
+
+/* Sub -Title of a pop-up subscription screen offering a discounted product*/
+"Renew now and save %@%% next year. \n Cancel anytime." = "Şimdi yenileyin ve bir yıl %1$@%% indirimli kullanın.\nDilediğinizde iptal edin.";
+
+/* Sub -Title of a pop-up subscription screen offering a discounted product*/
+"Renew your subscription and save %@%% on the following year." = "Aboneliğinizi şimdi yenileyin ve bir yılı %1$@%% indirimli kullanın.";
+
+/* Sub -Title of a pop-up subscription screen offering a discounted product*/
+"Renew your subscription and save %@%% on the following year. \n Cancel anytime." = "Aboneliğinizi şimdi yenileyin ve bir yılı %1$@%% indirimli kullanın.\nDilediğinizde iptal edin.";
+
+/* Sub -Title of a pop-up subscription screen offering a discounted product*/
+"Then %@ the year after. \n Cancel anytime." = "Sonrasında yıllık %1$@.\nDilediğinizde iptal edin.";
+
+/* Sub -Title of a pop-up subscription screen offering a discounted product*/
+"Then %@ the year after." = "Sonrasında yıllık %1$@.";
+
+/*Decline button of a  pop up subscription Screen*/
+"Decline offer" = "Teklifi geri çevir";
+
+/* Current subscription box title  */
+"Your Pro Membership" = "Pro Üyeliğiniz";
+
+/* Name of the current app, followed by Pro  */
+"%@ Pro" = "%1$@ Pro";
+
+/* Current sybscription type - yearly  */
+"Yearly member" = "Yıllık üye";
+
+/* Current sybscription type - monthly  */
+"Monthly member" = "Aylık üye";
+
+/* Enlight suite subscription box title  */
+"Meet the Suite" = "Diğer Uygulamalarımız";
+
+/* Enlight suite banner button title  */
+"Be an Enlight Pro" = "Enlight Pro’ya Geçin";
+
+/* Enlight suite banner button subtitle  */
+"on all 4 apps" = "4 uygulama da dahil";
+
+/* Enlight suite subscription button title  */
+"SAVE %@%%" = "İNDİRİM %1$@%%";
+
+/* Yearly subscription button badge title  */
+"SAVE\n%@%%" = "İNDİRİM\n%1$@%%";
+
+/* Enlight suite subscription button subtitle  */
+"Full yearly access for %@" = "Yıllık erişim ücreti %1$@";
+
+/* Button appearing in the subscription screen, notifying users that by pressing this button they are choosing an anual subscription plan - 5 + 7 months */
+"5 Months + 7 Months FREE" = "5 Months + 7 Months FREE";
+
+/* Subtitle of a button appearing in the subscription screen, notifying users that by pressing this button they will be saving an amount equal to {0}*/
+"Save {0}" = "İndirim {0}";
+
+/* Label on a button for purchasing subscription that renews every 3 months */
+"3 Months" = "3 Months";
+
+/* Label on a button for purchasing subscription that renews every week */
+"1 Week" = "1 Week";
+
+/* Title of a button offering the user to continue using the weekly payment plan. */
+"Continue with weekly" = "Continue with weekly";
+
+/* Subscription screen - custom looks thumbnail */
+"30\nCustom\nLooks" = "30\nKişisel\nGörünüm";
+
+/* Save custom look first tool tip */
+"Love your current edits? Go into Looks to save your new Look!" = "Mevcut düzeltmeleriniz çok mu güzel? Görünümlere yenisini kaydedin!";
+
+/* Save custom look first tool tip */
+"Tap here to name & save your Look" = "Dokunarak adlandırın & Görünümünüzü kaydedin";
+
+/* Text under the button which provides the payment info */
+"30\nCustom\nLooks" = "30\nKişisel\nGörünüm";
+
+/* Weekly to yearly upgrade title - option 1 */
+"Upgrade to yearly for just %@" = "Yıllığa geçiş sadece %1$@";
+
+/* Weekly to yearly upgrade title - option 2 */
+"Upgrade to yearly and save %@%%" = "Yıllığa geçişte indirim %1$@%%";
+
+/* Weekly to yearly upgrade title - option 3 */
+"Upgrade and save %@%%" = "Yükseltmede %1$@%% indirim";
+
+/* Weekly to yearly upgrade subtitle - option 1 */
+"Get a whole year for the price of 9 weeks." = "1 yıllık abonelik 9 haftalık fiyatına.";
+
+/* Weekly to yearly upgrade subtitle - option 2 */
+"Upgrade to yearly for %@ and save %@" = "Yıllığa geçiş sadece %1$@, %2$@ indirim";
+
+/* Weekly to yearly upgrade subtitle - option 3 */
+"Upgrade to yearly for %@.\n That's %@/mo." = "Yıllığa geçiş sadece %1$@.\n Yani %2$@/aylık.";
+
+/* Trial auto renewal explanation */
+"If you do not cancel, you will be automatically charged 24 hours before the end of the trial." = "İptal etmediğiniz takdirde denemenin tamamlanacağı son 24 saat içinde faturalandırılacaksınız.";
+
+/* Body text in a button encouraging the user to start a 7 day free trial */
+"Get 7 Days Free!" = "7 gün ücretsiz kullanın!";
+
+/* Description of a monthly price. */
+"%@ per month" = "%1$@ aylık";
+
+/* Button appearing in the subscription screen, notifying users that by pressing this button they are choosing an anual subscription plan - 6 + 6 months */
+"6 Months + 6 Months FREE" = "6 Months + 6 Months FREE";
+
+/* Button appearing in the subscription screen, notifying users that by pressing this button they are choosing an anual subscription plan - 6 months */
+"6 Months" = "6 Months";
+
+/* Button appearing in the subscription screen, notifying users that by pressing this button they are choosing an anual subscription including a trial */
+"12 Months + 3 Day Trial" = "12 Months + 3 Day Trial";
+
+/* Disclaimer text */
+"If you do not cancel, you will be automatically charged 24 hours before the end of the trial." = "İptal etmediğiniz takdirde denemenin tamamlanacağı son 24 saat içinde faturalandırılacaksınız.";
+
+/* New filters what's new - title */
+"New Filters!" = "Yeni Filtreler!";
+
+/* New filters what's new - subtitle */
+"Adjust the mood in one tap with 34 new Filters" = "Tek dokunuşta atmosferi değiştirin";
+
+/*==============================*/
+/*======= Looks Catalog  =======*/
+/*==============================*/
+
+/* Looks catalog main title */
+"Looks Catalog" = "Görünümler Kataloğu";
+
+/* Looks Catalog toolbar title*/
+"Catalog" = "Katalog";
+
+/* Looks catalog main title */
+"Look Book" = "Görünümler Kitabı";
+
+/* Download button title */
+"Download" = "İndir";
+
+/* Download button title */
+"Download look" = "Görünümü indir";
+
+/* No internet connection error message title */
+"Let's get connected" = "İnternete bağlanın";
+
+/* Download error message body */
+"Incredible edits and... no internet.\nCheck your connection and try downloading again." = "Muhteşem düzenlemeler ama internet yok.\nBağlantınızı kontrol edin ve indirmeyi tekrar deneyin.";
+
+/* No internet connection error message body */
+"Please check your connection and come back so we can show you the newest Looks!" = "İnternet bağlantınızı kontrol edin ve sizlere en yeni Görünümleri gösterelim!";
+
+/* Disclaimer informing the user the trial is only offered with a yearly subscription. */
+"with a yearly subscription" = "yıllık üyelikle";
+
+/* Body text in a button encouraging the user to start a 1 month free trial */
+"Get 1 Month Free!" = "1 aylık Ücretsiz Kullanın!";
+
+/* Title of the popup offering discount */
+"Get 1 year for %@ off" = "1 yılı  %1$@ indirimle kullan";
+
+/* title of the popup view offering free days */
+"Get %@ days free" = "%1$@ gün ücretsiz kullan";
+
+/* Title of a button that takes the user to the subscription screen */
+"Show me" = "Göster";
+
+/* Description for Lightleap */
+"Unlimited access to more Looks, Filters, Skies & Effects!" = "Görünüm, Filtre, Gökyüzü & Efektlere sınırsız erişim!";
+
+/* Button title for opening the catatlog */
+"View" = "Göz at";
+
+/* Button title for opening the catatlog */
+"Try now" = "Şimdi dene";
+
+/* What's new title for looks catalog. */
+"Get more Looks" = "Daha fazla Görünüm";
+
+/* What's new body for looks catalog. */
+"Browse to find your favorites, and get them instantly!" = "Favorilerinizi bulun ve onları anında kullanın!";
+
+/*Looks catalog notification title. */
+"Gotta have it 🌅" = "Sahip olmalısınız 🌅";
+
+/*Looks catalog notification body. */
+"You can't miss these new Looks!" = "Bu Görünümleri kaçırmamalısınız!";
+
+/*Looks catalog notification title. */
+" You're missing out..." = " Kaçırdıklarınız...";
+
+/*Looks catalog notification body. */
+"Get in here and get these new Looks" = "Haydi şu yeni Görünümlere göz atın";
+
+/*Looks catalog notification title. */
+"They're here ✨" = "Buradalar ✨";
+
+/*Looks catalog notification body. */
+"The great new Looks you've been waiting for!" = "Beklediğiniz mükemmel Görünümler!";
+
+/*Looks catalog notification title. */
+"Check it out!" = "Haydi göz atın!";
+
+/*Looks catalog notification body. */
+"The newest trendy Looks" = "En gözde Görünümler";
+
+/*Looks catalog notification title. */
+"Up your game" = "Değişimi yakalayın";
+
+/*Looks catalog notification body. */
+"Your pics will never be the same with these Looks!" = "Bu Görünümlerle fotolarınız çok değişecek!";
+
+/* Title of a Black Friday Sale popup */
+"Black Friday Sale" = "Black Friday İndirimi";
+
+/* Countdown timer for an offer - days */
+"days" = "gün";
+
+/* Countdown timer for an offer - hours */
+"hrs" = "sa";
+
+/* Countdown timer for an offer - minutes */
+"mins" = "dk";
+
+/* Countdown timer for an offer - seconds */
+"secs" = "sn";
+
+/* Title of an offer plan */
+"YEARLY PLAN" = "YILLIK PLAN";
+
+/* Subtitle of an offer plan for first year discount. The placeholder is for the price of subscription for the first year. */
+"Get 1 year for %@" = "1 yıllık sadece %1$@";
+
+/* Sub-subtitle of an offer plan for first year discount, that appears right after the previous string. The placeholder is for the price of subscription for every year after the first one. */
+"then %@ the year after" = "sonrasında yıllık %1$@";
+
+/* Title of a popup offering discount. The placeholder is for number of percents for discount. */
+"Get your first year for %@ off!" = "İlk yılınızda %1$@ indirim!";
+
+/* Text informing the user that their device is no longer supported. */
+"Your device may not be supported" = "Aygıtınız desteklenmiyor olabilir";
+
+/* Text informing the user that their device is no longer supported. */
+"Unfortunately, due to technical limitations we will no longer be supporting your device. For more information please feel free to contact us" = "Ne yazık ki teknik nedenlerden dolayı aygıtınızı destekleyemeyeceğiz. Daha fazla bilgi için dilediğinizde bize ulaşabilirsiniz";
+
+/* Link instruction user how they can turn off automatic updates. */
+"https://support.apple.com/en-us/HT202180" = "https://support.apple.com/tr-tr/HT202180";
+
+/* Button that takes the user to a help link. */
+"How to turn off automatic updates" = "Otomatik güncellemeler nasıl kapatılır";
+
+/* Title of the Light Leaks Look's pack */
+"Light Leaks" = "Işık Süzmeleri";
+
+/* Title of the Graceful Look's pack */
+"Graceful" = "Zarif";
+
+/* Title of the Lovely Look's pack */
+"Lovely" = "Sevgi Dolu";
+
+/* Title of the Winter Wonder Look's pack */
+"Winter Wonder" = "Kış Büyüsü";
+
+/* Title of the Rainbow Look's pack */
+"Rainbow" = "Gökkuşağı";
+
+/* Title of the Enchanted Look's pack */
+"Enchanted" = "Büyülü";
+
+/* Title of the Fireworks Look's pack */
+"Fireworks" = "Havai Fişek";
+
+/* Sky feature title for subscription screen */
+"All the Skies you need" = "Arzuladığınız tüm Gökyüzüleri";
+
+/* Sky feature subtitle for subscription screen */
+"Pick unique Skies for your shots" = "Kareleriniz için benzersiz Gökyüzüleri";
+
+/* Looks feature title for subscription screen */
+"Get your own Looks" = "Eşsiz Görünümleriniz için";
+
+/* Looks feature subtitle for subscription screen */
+"Express your individuality" = "Farkınızı gösterin";
+
+/* Filter feature title for subscription screen */
+"Unique Filters" = "Benzersiz Filtreler";
+
+/* Filters feature subtitle for subscription screen */
+"Get a consistent vibe" = "Tutarlı efektleriniz için";
+
+/* Effects feature title for subscription screen */
+"Effects that pop" = "Göz alan efektler";
+
+/* Effects feature subtitle for subscription screen */
+"Step up your editing" = "Düzenlemeleriniz büyülesin";
+
+/* Primers feature title for subscription screen */
+"Colorful Primers" = "Renkli Dolgular";
+
+/* Primers feature subtitle for subscription screen */
+"You’ll have to show these off" = "Bunları göstermeniz lazım";
+
+/* Label indicating price per month */
+"Only %@/mo." = "Sadece %1$@/ay.";
+
+/* Label indication the possibility to cancel subscription anytime */
+"Cancel anytime." = "Dilediğinizde iptal.";
+
+/* Product label */
+"Best Deal" = "En Hesaplısı";
+
+/* Price label for yearly product */
+"Only %@ Yearly" = "Sadece %1$@ Yıllık";
+
+/* Price label for yearly product */
+"%@ Yearly" = "%1$@ Yıllık";
+
+/* Subscription screen subtitle */
+"All the tools you need.\nGet in on the fun!" = "Arzuladığınız tüm araçlar.\nEğlenceye katılın!";
+
+/* Button offering to see other product plans */
+"See other plans" = "Diğer planlara göz at";
+
+/* Label for lifetime membership */
+"Lifetime" = "Ömür Boyu";
+
+/* Label for monthly membership */
+"Monthly" = "Aylık";
+
+/* Label for yearly membership */
+"Yearly" = "Yıllık";
+
+/* Label for the amount of percentage saved */
+"%@%% off" = "%1$@%% indirim";
+
+/* Product plans screen title */
+"Your Special Offers" = "Size Özel İndirimler";
+
+/* Label indication the possibility to cancel subscription anytime */
+"Limited Offer" = "Kısa Süreli İndirim";
+
+/* Label indicating price per month */
+"%@/month" = "%1$@/aylık";
+
+/* Label indication the possibility to cancel subscription anytime */
+"Limited time" = "Sınırlı süreliğine";
+
+/* Yearly product with discount button title */
+"%@ Months for the price of %@" = "%1$@ Ay Boyunca %2$@ Fiyatına";
+
+/* Title for section of recently used items */
+"Recents" = "Son Kullanılanlar";
+
+/*==========================================*/
+/*======= Terms and conditions alert =======*/
+/*==========================================*/
+
+/* Terms and conditions popup title */
+"Terms & Conditions" = "Koşullar & Şartlar";
+
+/* Terms and conditions popup body */
+"By clicking Accept, I agree to Lightleap’s Terms of Use and Privacy Policy." = "Kabul Et’le Lightleap’ın Kullanım Koşulları & Gizlilik Politikasını onaylıyorum.";
+
+/* Terms and conditions popup button title */
+"Accept" = "Kabul Et";
+
+/* Offer screen title */
+"Best Deal\non Lightleap Pro" = "Lightleap Pro’da\nEn Hesaplısı";
+
+/* Inpainting intro screen slide */
+"Remove pesky spots to clean up your shot" = "Can sıkıcı bölgeleri karelerinizden kaldırın";
+
+/* Inpainting what's new title */
+"Heal for a Quick Fix" = "İyileştirme Düzeltme Emrinizde";
+
+/* Inpainting what's new body */
+"Use this powerful tool to get rid of problem spots and photobombs" = "Sorunlu alanları ve istenmeyen görüntüleri kaldıran güçlü araç";
+
+/* Tupi's skies what's new title */
+"Tupi's Skies" = "Tupi Gökyüzü Seti";
+
+/* Tupi's skies what's new body */
+"New Skies submitted by Tupi Saravia and fans" = "Tupi Saravia ve sevenlerinin gözde Gökyüzü Seti";
+
+/* Tupi's skies notification title */
+"Breaking News!" = "Flaş Haber!";
+
+/* Tupi's skies notification body */
+"Influencer Tupi Saravia has added Skies to Lightleap - check them out" = "Popüler Tupi Saravia, Lightleap’a Gökyüzü seti ekledi - haydi göz atın";
+
+/* Heal feature title */
+"Heal" = "İyileştir";
+
+/* Restore heal feature title */
+"Restore" = "Geri Yükle";
+
+/* SUNNY sky package*/
+"SUNNY" = "GÜNEŞLİ";
+
+/* FANTASY sky package*/
+"FANTASY" = "FANTEZİ";
+
+/* DUSK sky package*/
+"DUSK" = "ALACAKARANLIK";
+
+/* SUNSET sky package*/
+"SUNSET" = "GÜN BATIMI";
+
+/* NIGHT sky package*/
+"NIGHT" = "GECE";
+
+/* AURORA sky package*/
+"AURORA" = "AURORA";
+
+/* STORM sky package*/
+"STORM" = "FIRTINA";
+
+/* ABLAZE sky package*/
+"ABLAZE" = "ALEV ALEV";
+
+/* VALENTINE'S sky package*/
+"VALENTINE'S" = "SEVGİLİLER GÜNÜ";
+
+/* Title for a feature that enables users to add stickers to their projects */
+"Element" = "Unsurlar";
+
+/* Title for slider controling foreground opacity */
+"Foreground" = "Foreground";
+
+/* Title for slider controling temperature of the image */
+"Temperature" = "Temperature";
+
+/*====================================*/
+/*=========== 618 Strings ============*/
+/*====================================*/
+
+/* Main title of subscription screen */
+"Special 618 Offer\nSave 20% Off Yearly Plan" = "Special 618 Offer\nSave 20% Off Yearly Plan";
+
+/* Text of price in main screen */
+"%@ Yearly Price 618" = "%1$@/year";
+
+/* Title for continue button */
+"Unlock Pro now" = "Unlock Pro Now";
+
+/* Subtitle under continue button */
+"Valid until June 18th. 1st Year Only." = "Valid until June 18th. 1st Year Only.";
+
+/* Text for button that opens the other plans popup */
+"See more plans" = "Other Plans";
+
+/* Title of 618 promotion popup */
+"618 Celebration" = "618 Celebration";
+
+/* Text above yearly subscription button in other plans popup */
+"SPECIAL OFFER" = "SPECIAL OFFER";
+
+/* Title of yearly subscription button in other plans popup */
+"YEARLY" = "YEARLY";
+
+/* Price text of yearly subscription button in other plans popup */
+" %@/year\nSave 20%% Now." = " %1$@/year\nSave 20%% Now.";
+
+/* Text For continue button */
+"Unlock Lightleap Pro" = "Unlock Lightleap Pro";
+
+/* Title of monthly subscription button in other plans popup */
+"MONTHLY-618" = "MONTHLY";
+
+/* Title of lifetime subscription button in other plans popup */
+"LIFETIME" = "LIFETIME";
+
+/* Price text of monthly subscription button in other plans popup */
+"%@/month" = "%1$@/aylık";
+
+/* Subtitle of yearly subscription button in other plans popup */
+"Valid until June 18th. 1st Year Only." = "Valid until June 18th. 1st Year Only.";
+
+/* Title of a button that takes user to all tutorials */
+"ALL TUTORIALS" = "TÜM ÖĞRETİCİ ÖĞELER";
+
+/* Title of a button that takes user to page where they can try it with their video */
+"Try with my video" = "Bir videomla dene";
+
+/* Title for a what's new slide of a new feature called Color */
+"Color Feature" = "Renk Özelliği";
+
+/* Subtitle for a what's new slide of a new feature called Color */
+"Make changes to each individual color in your shot!" = "Çekimlerinizdeki her bir rengi değiştirme imkanı!";
+
+/* Name of feature that adds city light to images. */
+"Soft Light" = "Hafif Işık";
+
+/* Name of feature that adds city light to images. */
+"Bokeh" = "Bokeh";
+
+/* Name of feature that edit face features. */
+"Face" = "Yüz";
+
+/* What's new title for the new Effects feature. */
+"Add Stunning Effects" = "Büyüleyici Efektler Ekle";
+
+/* What's new body for the new Effects feature. */
+"Make your photos pop with these beautiful effects" = "Bu güzel efektlerle fotoğraflarını öne çıkar";
+
+/* Terms and condition approval. Placeholders here are for the terms "Terms of Use" and "Privacy Policy" which are already localized. Example of usage: By continuing, I agree to Lightleap’s Terms of Use and Privacy Policy.*/
+"By continuing, I agree to Lightleap’s %@ and %@." = "Devam ederek, Lightleap'ın %1$@ ve %2$@ bölümlerini kabul edersin.";
+
+/* Terms and condition approval. Placeholders here are for the terms "Terms of Use" and "Privacy Policy" which are already localized. Example of usage: By clicking Accept, I agree to Lightleap’s Terms of Use and Privacy Policy.*/
+"By clicking Accept, I agree to Lightleap’s %@ and %@." = "Kabul düğmesine tıklayarak Lightleap'ın %1$@ ve %2$@ bölümlerini kabul ediyorum.";
+
+/* Label indicating undoing of all editing steps. */
+"Undo All" = "Tümünü Geri Al";
+
+/* Label indicating redoing of all editing steps. */
+"Redo All" = "Tümünü Yeniden Yap";
+
+/* Heal help slides intro title */
+"Heal Do’s and Don’ts" = "İyileştirmede Dikkat Edilmesi Gerekenler";
+
+/* Heal help slides intro body */
+"Here’s how to make erasing super easy!" = "Silme işlemini çok kolay yapmanın yolu!";
+
+/* Heal help slide body 1 */
+"brush out just what you want erasing" = "Silmek istediğiniz kısmı fırçayla seçin";
+
+/* Heal help slide body 2 */
+"stray over the object’s edges or sections of background will disappear!" = "Nesnenin kenarlarına veya arka planın üzerinde gezinirseniz bu kısımlar silinecektir!";
+
+/* Heal help slide body 3 */
+"use small brush strokes to remove individual spots" = "Bazı noktaları tek tek kaldırmak için küçük fırça dokunuşlarını kullanın";
+
+/* Heal help slide body 4 */
+"brush over large areas of spots you want to erase" = "Silmek istediğiniz noktadaki geniş kısımlara fırçayla dokunun";
+
+/* Heal help slide body 5 */
+"choose smooth, uncluttered backgrounds, for easier erasing" = "Daha kolay silme işlemi için düz ve karışık olmayan arka planları seçin";
+
+/* Heal help slide body 6 */
+"go for busy backgrounds with loads of detail" = "Çok fazla ayrıntı için yoğun arka planlara gidin";
+
+/* Heal help slide title */
+"✅ Do" = "✅ Yapın";
+
+/* Heal help slide title */
+"⛔️ Don’t" = "⛔️ Yapmayın";
+
+/*=============================*/
+/*======= Login =======*/
+/*=============================*/
+
+/* Manage settings section in setting menu */
+"MANAGE" = "YÖNET";
+
+/* About Lightleap section in setting menu */
+"ABOUT" = "HAKKINDA";
+
+/* More Lightleap section in setting menu */
+"MORE" = "DAHA FAZLASI";
+
+/* Setting option leading to seeing user subscription plan */
+"Your Membership" = "Aboneliğiniz";
+
+/* Setting option leading to ssubscription screen */
+"Get Lightleap Pro" = "Lightleap Pro sürümünü alın";
+
+/* Setting option leading user to log in screen */
+"Log In" = "Oturum Aç";
+
+/* Setting option leading user to log out */
+"Log Out" = "Oturumu Kapat";
+
+/* Close caption for a screen */
+"Close" = "Kapat";
+
+/* Skip caption for a screen */
+"Skip" = "Atla";
+
+/* Login screen title */
+"Log in and unleash your creativity" = "Oturum açın ve yaratıcılığınızı keşfedin";
+
+/* Login screen  button title to log in with Apple */
+"Continue with Apple" = "Apple ile devam et";
+
+/* Login screen  button title to log in with Facebook */
+"Continue with Facebook" = "Facebook ile devam et";
+
+/* Login screen  button title to log in with Google */
+"Continue with Google" = "Google ile devam et";
+
+/* Login screen error message title */
+"Oops!" = "Eyvah!";
+
+/* Login screen error message body */
+"There was a problem logging you in.\nPlease try again later." = "Oturumunuz açılırken bir sorun yaşandı.\nLütfen daha sonra tekrar deneyin.";
+
+/* Log out message body */
+"You’re now logged out" = "Şimdi oturumunuz kapatıldı";
+
+/* Pack name for pack displaying shdows from blinds. */
+"Shadow Blinds" = "Gölge Panjurlar";
+
+/* Pack name for pack displaying shdows from leaves. */
+"Shadow Leaves" = "Gölge Yapraklar";
+
+/* Title for what's new for new shadow packs */
+"Step into the light" = "Işığa dahil ol";
+
+/* Body for what's new for new shadow packs */
+"With Shadows effects for every mood" = "Her ruh hali için Gölge efektleriyle";
+
+/* Looks pack name for new shadows overlays */
+"Shadows" = "Gölgeler";
+
+/* Halloween What's new title */
+"Something wicked this way comes…" = "Bu yolda acayip bir şey var…";
+
+/* Halloween What's new body */
+"Give your photos the scare factor with “SPOOKY”" = "Fotoğraflarınıza “ÜRKÜTÜCÜ” ile korku faktörü ekleyin";
+
+/* Halloween pack name */
+"SPOOKY" = "ÜRKÜTÜCÜ";

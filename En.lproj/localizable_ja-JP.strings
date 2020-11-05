@@ -1,0 +1,1974 @@
+/*====================================*/
+/*======= Subscription Strings =======*/
+/*====================================*/
+
+/* Subscription header */
+"Lightleap Pro" = "Lightleap Pro";
+
+/* Subscription title 10% off */
+"Lightleap Pro - now 10% off!" = "Lightleap Pro - 今なら10%オフ！";
+
+/* Subscription title 15% off */
+"Lightleap Pro - now 15% off!" = "Lightleap Pro - 今なら15%オフ！";
+
+/* Subscription title 25% off */
+"Lightleap Pro - now 25% off!" = "Lightleap Pro - 今なら25%オフ！";
+
+/* Subscription title 50% off */
+"Lightleap Pro - now 50% off!" = "Lightleap Pro - 今なら50%オフ！";
+
+/* Subscription subtitle */
+"Primers, Filters, Sky, Strobe & unlimited Batch!" = "プライマー, フィルタ, 空, ストロボ & 無制限バッチ！";
+
+/* Pro only banner (notice the line break) */
+"Pro Only\nRemove Limit" = "Pro限定\n制限を解除";
+
+/* Pro export banner */
+"Remove Limit" = "制限を解除";
+
+/* Pro features explanation */
+"You’ve used Pro features!" = "Pro機能を使用しています！";
+
+/* Pro max number of batch explanation 1 */
+"Unlimited batch with Pro" = "Proで無制限バッチ";
+
+/* Pro max number of batch explanation 2 */
+"Number of assets over the limit" = "アセット数の上限を越えました";
+
+/* Label on a button for purchasing subscription that renews every 12 months */
+"ANNUAL" = "年間購読";
+
+/* Label on a button for purchasing subscription that renews every month, in capital letters */
+"MONTHLY" = "月間";
+
+/* Label on a button for purchasing the product at a single one-time price, instead of a renewable subscription plan */
+"ONE-TIME\nPURCHASE" = "一括\n購入";
+
+/* Abbreviation of the word month, representing per-month suffix of a price, as in $5/mo - $5 per month. The '/' should remain in the localized version */
+"/mo" = "/月";
+
+/* A price displayed in the amount the user will pay for the item per year. Example: $34.99/year */
+"%@/year" = "%1$@/年";
+
+/* Text informing the user of the most popular payment plan among users */
+"Most Popular" = "一番人気";
+
+/* Unlimited sky thumbnail */
+"Unlimited\nSky" = "無制限の\n空";
+
+/* Batch editing thumbnail */
+"Batch\nEditing" = "バッチ\n編集";
+
+/* Filters thumbnail */
+"%d+\nFilters" = "%1$d以上の\nフィルタ";
+
+/* Advanced tools thumbnail */
+"Advanced\nTools" = "アドバンス\nツール";
+
+/* Sky thumbnail */
+"20+\nSkies" = "20以上の\n空";
+
+/* Primer thumbnail */
+"30+\nPrimers" = "30以上の\nプライマー";
+
+/* Subtitle appearing in the subscription screen, notifying users that by subscribing they can access all features of the app */
+"Access All Features" = "全機能にアクセス";
+
+/* Label on a button for purchasing subscription that renews every month
+ Text shown when 1 month of free trial is offered for new subscribers */
+"1 Month" = "1か月";
+
+/* Button appearing in the subscription screen, notifying users that by pressing this button they are choosing an anual subscription plan - 12 months */
+"12 Months" = "12か月";
+
+/* Label on a button for purchasing the product at a single one-time price, instead of a renewable subscription plan */
+"One-Time Purchase" = "一括購入";
+
+/* Title of a button suggesting to the user to continue to payment in the subscription screen */
+"Continue" = "続ける";
+
+/* Title of a button suggesting to the user to continue to payment in the subscription screen option 2 */
+"Begin creation" = "Begin creation";
+
+/* Title of a button suggesting to the user to continue to payment in the subscription screen option 3 */
+"Begin advanced creation" = "Begin advanced creation";
+
+/* Label on a button that links to terms of use */
+"Terms of Use" = "利用規約";
+
+/* Label on a button that links to privacy policy */
+"Privacy Policy" = "プライバシーポリシー";
+
+/* Label on a button that restored previously purchased products */
+"Restore Purchases" = "購入を復元";
+
+/* Short terms of use for subscription */
+"Payment will be charged to your iTunes account at confirmation of purchase. Subscriptions will automatically renew unless auto-renew is turned off at least 24 hours before the end of current period. Your account will be charged according to your plan for renewal within 24 hours prior to the end of the current period. You can manage or turn off auto-renew in your Apple ID account settings at any time after purchase." = "お支払いは購入を確定するとiTunesアカウントに請求されます。購読は、現在の購読期間が終了する24時間以上前に自動更新がオフにされない限り、自動的に更新されます。現在の期間が終了する前の24時間以内に購読プランに応じた料金がアカウントに請求されます。購入後、Apple IDアカウントの設定からいつでも自動更新をオフにすることができます。";
+
+/* Subtitle of a button appearing in the subscription screen, notifying users that by pressing this button they will be saving {0}% annualy */
+"Save {0}% per year" = "年間{0}%%もお得";
+
+/* Additional data for a button appearing in the subscription screen, notifying users the total amount to pay according to the chosen plan */
+"Total" = "合計";
+
+/* Title of a pop-up informing the user that they can save {0} amount by upgrading to an annual payment plan. Example: Upgrade to yearly and save 50% now! */
+"Upgrade to yearly and save {0}% now!" = "年間プランにアップグレードすると{0}%%お得！";
+
+/* Title of a button offering the user the continue using the monthly payment plan. Please keep as short as possible */
+"Continue with monthly" = "月間プランで続ける";
+
+/* Title of a button offering the user to upgrade to an annual payment plan. Please keep as short as possible */
+"Upgrade to yearly" = "年間プランにアップグレード";
+
+/* Message shown to the user if he is already a subscriber when accessing the subscription screen */
+"All the features are now available" = "すべての機能を利用できます";
+
+/* Title of a message shown to the user if he is already a subscriber when accessing the subscription screen */
+"You're already a subscriber" = "既に購読しています";
+
+/* Subtitle appearing in the subscription screen, notifying users that by subscribing they can access all features of the app option 1 */
+"Access All Features - 3 Days Free" = "すべての機能にアクセス - 3日間無料";
+
+/* Subtitle appearing in the subscription screen, notifying users that by subscribing they can access all features of the app option 2 */
+"Your First 3 Days Free" = "最初の3日間は無料";
+
+/* Subtitle appearing in the subscription screen, notifying users that by subscribing they can access all features of the app option 3 */
+"Unlimited and enjoyable usage" = "Unlimited and enjoyable usage";
+
+/* Subtitle trial button option 1*/
+"Start Trial" = "お試し版を開始";
+
+/* Subtitle trial button option 2*/
+"Start Free Trial" = "無料お試し版を開始";
+
+/* Subtitle trial button option 3*/
+"Start 3 Day Trial" = "3日間お試し版を開始";
+
+/* Label above monthly subscription. */
+"Monthly subscription" = "Monthly subscription";
+
+/* Label above yearly subscription. */
+"Yearly subscription" = "Yearly subscription";
+
+/* Label above free trial. */
+"Free 3 day trial" = "Free 3 day trial";
+
+/* Label above yearly subscription and above free trial. */
+"Yearly subscription and 3 day trial" = "Yearly subscription and 3 day trial";
+
+/* String denoting that after trial ends, the user will pay the specified amount. Version 1. */
+"Afterwards" = "Afterwards";
+
+/* String denoting that after trial ends, the user will pay the specified amount. Version 2. */
+"After trial" = "After trial";
+
+/*====================================*/
+/*===== Subscription Trial Popup =====*/
+/*====================================*/
+
+/* Title of trial alert - 3 days, the translation is for "Your First 3 Days Free" */
+"Get 3 Days Free" = "最初の3日間は無料";
+
+/* Body text in a button encouraging the user to start a 3 day free trial of Lightleap Pro */
+"Get 3 Days Free!" = "3日間無料！";
+
+/* Subtitle of trial alert, the translation is for "Primers, Filters, Sky, Strobe & unlimited Batch!" */
+"Get the best results with unlimited access to Sky, Portrait, Primers, and more." = "プライマー, フィルタ, 空, ストロボ & 無制限バッチ！";
+
+/* Buttons which takes the user to the subscription screen, translation is for "Show me" */
+"Claim Now" = "見せて";
+
+/*==============================*/
+/*===== Introductory Price =====*/
+/*==============================*/
+
+/* Introductory Price strings */
+"Get 3 months for %@" = "%1$@で3か月ゲット";
+
+/* Introductory Price strings */
+"Annual Plan" = "年間プラン";
+
+/* Introductory Price strings */
+"3 Months for %@" = "3か月たったの%1$@";
+
+/* Introductory Price strings */
+"then only %@ billed yearly" = "その後%1$@が1年ごとに課金されます";
+
+/** ----------- **/
+/** Help Videos **/
+/** ----------- **/
+/* Help screen title */
+"Help" = "ヘルプ";
+
+/* Strobe mode pre capture 1 */
+"Takes multiple shots of a moving object and combines them into a single photo." = "動く被写体の複数ショットを1つの写真に結合します";
+
+/* Strobe mode pre capture 2 */
+"Combines multiple shots into a single photo." = "複数のショットを組み合わせて1枚の写真にします。";
+
+/* Strobe mode pre capture 3 */
+"Combines continuous shots into a single photo." = "連続したショットを組み合わせて1枚の写真にします。";
+
+/* Strobe mode post capture 1 */
+"Use the eraser to remove the strobe effect from unwanted areas." = "消しゴムで不要な部分からストロボエフェクトを消去します。";
+
+/* Strobe mode post capture 2 */
+"Use the eraser to remove the effect from unwanted areas." = "消しゴムで不要な部分からエフェクトを消去します。";
+
+/* Strobe mode post capture 3 */
+"Erase the effect from unwanted areas." = "不要な部分からエフェクトを消去します。";
+
+/* Lightleap mode pre capture */
+"Automatically straightens & crops your shot." = "自動で傾き補正とトリミングします。";
+
+/* HDR help 1 */
+"Fix dark images or harsh lighting." = "暗い画像や、きつすぎるライトを修正します。";
+
+/* HDR help 2 */
+"Fix shots with bad lighting." = "照明がイマイチなショットを修正します。";
+
+/* HDR help 3 */
+"Improve dark or harsh lighting." = "暗かったり、きつすぎるライトを改善します。";
+
+/* Batch editing help title */
+"Batch Editing" = "バッチ編集";
+
+/* Batch editing help subtitle  */
+"Edit multiple photos at once." = "複数の写真を１度に編集します。";
+
+/* Reset help title */
+"Batch Editing" = "バッチ編集";
+
+/* Reset help subtitle  */
+"Long press Undo button to reset." = "「取り消す」ボタンを長押ししてリセットできます。";
+
+/* Reset Slider help title*/
+"Reset Slider" = "スライダーをリセット";
+
+/* Reset Slider help subtitle*/
+"Long press to reset values." = "長押しで値をリセットできます。";
+
+/* Compare help title*/
+"Compare" = "比較";
+
+/* Compare help subtitle*/
+"Long press to compare." = "長押しして比較できます。";
+
+/* Apply to all help title*/
+"Apply To All" = "すべてに適用";
+
+/*  Apply to all help subtitle*/
+"Apply the current style to all the photos." = "現在のスタイルをすべての写真に適用します。";
+
+/* Primers help title*/
+"Primers" = "プライマー";
+
+/* Primers help subtitle*/
+"Select a Primer. Tap again for further tweaking." = "プライマーを選択してください。もう１度タップすると微調整できます。";
+
+/* Sky help title*/
+"Sky" = "空";
+
+/* Sky help subtitle variation 1 */
+"Replace your overexposed sky." = "露出過度な空を置き換えます。";
+
+/* Sky help subtitle variation 2 */
+"Adjust Feather, Horizon and Ambient to match the Sky to your photo." = "写真に合った空にするため、フェザー、水平線、アンビエントを調整しましょう。";
+
+/* Help video for reseting changes - title */
+"Reset all" = "すべてをリセット";
+
+/* Help video for reseting changes - subtitle */
+"Long press the Undo button to reset all changes." = "「取り消し」ボタンを長押しすると、すべての変更内容をリセットできます。";
+
+/* Contact us button*/
+"Contact Us" = "お問い合せ";
+
+/** ------ **/
+/** Camera **/
+/** ------ **/
+
+/* HDR pre light assessment message 1 */
+"Tap the screen for exposure calibration." = "画面をタップして露出補正してください。";
+
+/* HDR during light assessment message 2 */
+"Calibrating..." = "補正中…";
+
+/* HDR during light assessment message 3 */
+"Ready!" = "準備OK!";
+
+/* Misalignment error message title */
+"Hold Steady!" = "じっとして！";
+
+/* Misalignment error message subtitle */
+"Try to hold still while taking the shot." = "撮影中はじっとしてください。";
+
+/* Misalignment error message button */
+"Got it" = "閉じる";
+
+/* Message shown to user when camera moved while taking a shot */
+"For perfect shots, hold still while shooting" = "完璧なショットを撮るには、撮影中カメラがブレないようにしてください。";
+
+/** ------------ **/
+/** Album screen **/
+/** ------------ **/
+
+/* My albums album header */
+"My Albums" = "自分のアルバム";
+
+/* Lightleap photos album header */
+"Lightleap Photos" = "Lightleapの写真";
+
+/* sessions album header */
+"Sessions" = "セッション";
+
+/* Batch sessions album header */
+"Batch Sessions" = "バッチセッション";
+
+/* Title of an album containing demo photos supplied with the app */
+"Demo Photos" = "デモ用写真";
+
+/* favorites album header */
+"Favorites" = "お気に入り";
+
+/* Library album header */
+"Library" = "ライブラリ";
+
+/* Albums header */
+"Albums" = "アルバム";
+
+/* Deselect button */
+"Deselect" = "選択解除";
+
+/* Deselect button */
+"Deselect all" = "すべてを選択解除";
+
+/* Edit photo button */
+"Edit photo" = "写真を編集";
+
+/* Edit 2 photos button */
+"Edit 2 photos" = "2枚の写真を編集";
+
+/* Delete sessions button */
+"Delete 2 sessions" = "2つのセッションを削除";
+
+/* Delete session button */
+"Delete session" = "セッションを削除";
+
+/* Delete batch sessions button */
+"Delete 2 Batch sessions" = "2つのバッチセッションを削除";
+
+/* Delete batch session button */
+"Delete Batch session" = "バッチセッションを削除";
+
+/* Edit button */
+"Edit" = "編集";
+
+/* Cancel button */
+"Cancel" = "キャンセル";
+
+/* Select multiple photos button*/
+"Select" = "選択";
+
+/* Album section title - today*/
+"Today" = "今日";
+
+/* Album section title - this week*/
+"This Week" = "今週";
+
+/* Album section title - this month*/
+"This Month" = "今月";
+
+/* Album section title - older*/
+"Older" = "古い";
+
+/* Section of the album containing photos from the current year */
+"This Year" = "今年";
+
+/* Section of the album containing photos taken earlier than this year */
+"Earlier" = "今年より前";
+
+/** ------------- **/
+/** Strobe helper **/
+/** ------------- **/
+
+/* Message button */
+"Eraser brush" = "消しゴムブラシ";
+
+/* More button */
+"Restore brush" = "ブラシを復元";
+
+/** ------ **/
+/** Export **/
+/** ------ **/
+
+/* save button */
+"Save" = "保存";
+
+/* Message button */
+"Message" = "メッセージ";
+
+/* More button */
+"More" = "その他";
+
+/* Message shown to non-subscriber user trying to export image with pro features */
+"You’ve used Pro features!\nGo Pro to export edit as is or remove Pro effects." = "Pro機能が使用されています！\n編集内容を書き出すにはProにしてください。\nそうでないとProエフェクトは削除されます。";
+
+/* Remove pro edit option button */
+"Remove" = "削除";
+
+/* Go Pro option */
+"Go Pro!" = "Proにする！";
+
+/* Alert informing user that pro edit will be removed */
+"This will undo all the Pro effects applied to your photo in order to export it." = "この操作は、写真に適用されたすべてのProエフェクトを取り消して、書き出します。";
+
+/* Alert title */
+"Remove Pro Effects" = "Proエフェクトを削除";
+
+/* Alert button remove */
+"Remove now" = "今すぐ削除";
+
+/* Message shown to user after image was saved to camera roll */
+"Saved to camera roll" = "カメラロールに保存されました";
+
+/* Message to the user that export succeeded */
+"Success!" = "成功！";
+
+/* Button text that allows the user to dismiss an alert */
+"Dismiss" = "閉じる";
+
+/* Message to the user that the export was canceled */
+"Canceled" = "キャンセル済み";
+
+/*=============================*/
+/*======= Import Screen =======*/
+/*=============================*/
+
+/* Export photos button title */
+"Export" = "書き出し";
+
+/* Delete photos button title */
+"Delete" = "削除";
+
+/* Undo all the edits of the selected photos */
+"Undo Edits" = "編集を取り消す";
+
+/* Adds the selected photos to the Favorites folder */
+"Add to Favorites" = "「お気に入り」に追加";
+
+/* Removes the selected photos from the Favorites folder */
+"Remove from Favorites" = "「お気に入り」から削除";
+
+/* Title in sessions album when it is empty */
+"No sessions yet" = "セッションがありません";
+
+/* Subtitle in sessions album when it is empty */
+"Start editing - Edits are automatically saved and will appear here!" = "編集を開始 - 編集は自動的に保存され、こちらに表示されます!";
+
+/* Title of an empty photos album */
+"Oops, no photos here." = "ここには写真がありません";
+
+/* Import screen what's new 1 - title */
+"New Import Screen" = "新しい読み込み画面";
+
+/* Import screen what's new 1 - subtitle */
+"Use Select to Export, Delete, or Edit multiple shots" = "「選択」を使用して複数のショットを書き出し、削除、または編集";
+
+/* Import screen what's new 2 - title */
+"All Sessions in One Place" = "全セッションが一箇所に";
+
+/* Import screen what's new 2 - subtitle */
+"Tap to find all your in-progress edits" = "タップして進行中の全編集内容を表示";
+
+/* Presented to a user that did not give access to his photos library, yet tries to perform an action that involves accessing it */
+"Lightleap does not have access to your photos. To enable access, go to iOS settings" = "Lightleapは写真へのアクセス権がありません。アクセスを許可するには、iOSの設定に進んでください。";
+
+/* Positive resopnse to the import error message. Redirect to the settings. */
+"Let's do it!" = "やってみましょう！";
+
+/*==================================*/
+/*======= Main Toolbar tools =======*/
+/*==================================*/
+
+ /* Primers tool, max 9 chars! */
+"Primers" = "プライマー";
+
+/* Sky tool, max 9 chars! */
+"Sky" = "空";
+
+/* Filters tool, max 9 chars! */
+"Filters" = "フィルタ";
+
+/* Details tool, max 9 chars! */
+"Details" = "詳細";
+
+/* Adjust tool, max 9 chars! */
+"Adjust" = "調整";
+
+/* Canvas tool, max 9 chars! */
+"Canvas" = "キャンバス";
+
+/** ----------- **/
+/** Edit screen **/
+/** ----------- **/
+
+/* Apply to button */
+"Apply to all" = "すべてに適用";
+
+/* Custom preset package */
+"Custom" = "カスタム";
+
+/* Neutral preset package */
+"Neutral" = "ニュートラル";
+
+/* Button which takes the user back to the photo albums*/
+"Photos" = "フォト";
+
+/* Reset preset package */
+"Reset" = "リセット";
+
+/* Saved preset package */
+"Saved" = "保存されました";
+
+/* Nature preset package */
+"Nature" = "自然";
+
+/* Urban preset package */
+"Urban" = "アーバン";
+
+/* Portrait preset package */
+"Portrait" = "ポートレート";
+
+/* Title that appears below the Sparkle overlays toolbar pack */
+"Sparkle" = "スパークル";
+
+/* Title of a slider controlling the size of the particles in the Sparkle effect */
+"Size" = "サイズ";
+
+/* Title of a slider controlling the density of the particles in the Sparkle effect */
+"Density" = "強度";
+
+/* Chinese New Year overlay package */
+"New Year" = "お正月";
+
+/* Mood overlay package */
+"Mood" = "ムード";
+
+/* Duo overlay package */
+"Duo" = "デュオ";
+
+/* IntroPresentation.pages.title */
+"Overlay" = "オーバーレイ";
+
+/* Toolbar button, adds a lens flare effect. */
+"Lens Flare" = "レンズフレア";
+
+/* Title that appears below the Weather overlays toolbar pack */
+"Weather" = "天気";
+
+/* Title for a pack of Valentines themed Overlays Packs */
+"Valentine's" = "バレンタインデー";
+
+/* Summer preset package */
+"Summer" = "夏";
+
+/* Abstract preset package */
+"Abstract" = "アブストラクト";
+
+/* Night preset package */
+"Night" = "ナイト";
+
+/* B&W preset package */
+"B&W" = "モノクロ";
+
+/* Preset saved notification */
+"Preset saved as:" = "プリセットを次の名前で保存：";
+
+/* Quickfix on notification */
+"Quickfix on" = "Quickfixをオン";
+
+/* Quickfix off notification */
+"Quickfix off" = "Quickfixをオフ";
+
+/* Undo notification */
+"Undo" = "取り消す";
+
+/* Redo notification */
+"Redo" = "やり直す";
+
+/* Redo notification */
+"Redo" = "やり直す";
+
+/* Filters button */
+"Filters" = "フィルタ";
+
+/* Brightness button */
+"Brightness" = "明るさ";
+
+/* Exposure button */
+"Exposure" = "露出";
+
+/* Shadows button */
+"Shadows" = "シャドウ";
+
+/* Highlights button */
+"Highlights" = "ハイライト";
+
+/* Contrast button */
+"Contrast" = "コントラスト";
+
+/* Sharpen button */
+"Sharpen" = "シャープ";
+
+/* Saturation button */
+"Saturation" = "彩度";
+
+/* Temp button */
+"Temp" = "温度";
+
+/* Tint button */
+"Tint" = "色合い";
+
+/* Hue button */
+"Hue" = "色相";
+
+/* Depth button */
+"Depth" = "深度";
+
+/* Filters button */
+"Filters" = "フィルタ";
+
+/* Structure button */
+"Structure" = "構造";
+
+/* Vibrance button */
+"Vibrance" = "バイブランス";
+
+/* Vignette button */
+"Vignette" = "ビネット";
+
+/* Bright preset package */
+"Bright" = "ブライト";
+
+/* Drama preset package */
+"Drama" = "ドラマ";
+
+/* Faded preset package */
+"Faded" = "フェード";
+
+/* HighCon (<- As in high contrast) preset package */
+"HighCon" = "ハイコン";
+
+/* LowCon (<- As in low contrast) preset package */
+"LowCon" = "ローコン";
+
+/* Go Pro button */
+"Go Pro" = "Proにする";
+
+/*Pop tool button (As in "the color pops out") */
+"Pop" = "ポップ";
+
+/*cool tool button (Cool as in "colder") */
+"Cool" = "クール";
+
+/*calm tool button */
+"Calm" = "カーム";
+
+/*fade tool button */
+"Fade" = "フェード";
+
+/*Select All button */
+"Select All" = "すべてを選択";
+
+/* Day preset package */
+"Day" = "昼";
+
+/* NEON preset package */
+"NEON" = "ネオン";
+
+/* Night preset package */
+"Night" = "ナイト";
+
+/* Cinematic preset package */
+"Cinematic" = "シネマ";
+
+/* Mystery preset package */
+"Mystery" = "ミステリー";
+
+/* Radical preset package */
+"Radical" = "ラディカル";
+
+/* No filter */
+"None" = "なし";
+
+/* essential filters */
+"Essential" = "必須";
+
+/* Adjust Primer tool */
+"Adjust Primer" = "プライマーを調整";
+
+/* Adjust Filter tool */
+"Adjust Filter" = "フィルタを調整";
+
+/* Ratio tool */
+"Ratio" = "比率";
+
+/* Temperature (here we use ‘Temp’ because ‘Temperature’ is too long) button */
+"Temp" = "温度";
+
+/* Light button */
+"Light" = "ライト";
+
+/* Straighten button */
+"Straighten" = "傾き補正";
+
+/* Horizontal skew button */
+"H-skew" = "左右に歪める";
+
+/* Vertical skew button */
+"V-skew" = "上下に歪める";
+
+/* Rotate button */
+"Rotate" = "回転";
+
+/* Flip horizontally button */
+"Flip H" = "左右反転";
+
+/* Flip vertically button */
+"Flip V" = "上下反転";
+
+/* Ratio button */
+"Ratio" = "比率";
+
+/* Ratios button */
+"Ratios" = "比率";
+
+/* Free ratio button */
+"Free" = "フリー";
+
+/* Grain tool */
+"Grain" = "グレイン";
+
+/* Color */
+"Color" = "カラー";
+
+/* Title for a pack of Christmas themed Overlays and Sky Packs */
+"Christmas" = "クリスマス";
+
+/*=========================*/
+/*======= Sky Tool ========*/
+/*=========================*/
+
+/* Sky tool */
+"Sky" = "空";
+
+/* Randomizes the sky */
+"Random" = "ランダム";
+
+/* Controlls the opacity of the sky */
+"Opacity" = "不透明度";
+
+/* Changes the sky color according to a time of day */
+"Time" = "タイム";
+
+/* Adds clouds to the sky */
+"Clouds" = "雲";
+
+/* Shifts the clouds */
+"Wind" = "風";
+
+/* Matches the color of the sky with the current filter option 1 */
+"Color Match" = "色をマッチ";
+
+/* Matches the color of the sky with the current filter option 2 */
+"Colorize" = "色付け";
+
+/* Sky horizon button*/
+"Horizon" = "水平線";
+
+/* Feather horizon button*/
+"Feather" = "フェザー";
+
+/* Shift horizon button*/
+"Shift" = "シフト";
+
+/* Ambient horizon button*/
+"Ambient" = "アンビエント";
+
+/* Sunny sky package*/
+"Sunny" = "サニー";
+
+/* Fantasy sky package*/
+"Fantasy" = "ファンタジー";
+
+/* Dusk sky package*/
+"Dusk" = "夕暮れ";
+
+/* Sunset sky package*/
+"Sunset" = "夕焼け";
+
+/* Night sky package*/
+"Night" = "ナイト";
+
+/* Aurora sky package*/
+"Aurora" = "オーロラ";
+
+/* Storm sky package*/
+"Storm" = "ストーム";
+
+/* New Sky package - Ablaze */
+"Ablaze" = "炎";
+
+/*===============================*/
+/*======= Portrait Tool =========*/
+/*===============================*/
+
+ /* Blur */
+"Blur" = "ブラー";
+
+/* Glow */
+"Glow" = "グロウ";
+
+/* Smooth */
+"Smooth" = "なめらか";
+
+/*==================================*/
+/*======= Primer Properties ========*/
+/*==================================*/
+
+/* Primers tool */
+"Primers" = "プライマー";
+
+/* Changes the low mixing */
+"Lows" = "低";
+
+/* Changes the mid mixing */
+"Mids" = "中";
+
+/* Changes the high mixing */
+"Highs" = "高";
+
+/* Changes the effect on people */
+"People" = "人々";
+
+/* Changes the effect on people option 2 */
+"Person" = "パーソン";
+
+/* Changes the luminance */
+"Luminance" = "輝度";
+
+/* Changes the chroma (color) */
+"Chroma" = "クロマ";
+
+/* Adds details */
+"Details" = "詳細";
+
+/*=============================*/
+/*======= Filter packages =====*/
+/*=============================*/
+
+ /* Vibrant Package */
+"Vibrant" = "バイブラント";
+
+/* Fade Package */
+"Fade" = "フェード";
+
+/* Portrait Package */
+"Portrait" = "ポートレート";
+
+/* Urban Package */
+"Urban" = "アーバン";
+
+/* B&W (Black and white) Package */
+"B&W" = "モノクロ";
+
+/* Film Package */
+"Film" = "フィルム";
+
+/* Bright Package */
+"Bright" = "ブライト";
+
+/* Neutral Package */
+"Neutral" = "ニュートラル";
+
+/* Cold Package */
+"Cold" = "コールド";
+
+/* Warm Package */
+"Warm" = "ウォーム";
+
+/* Thank you pop up - title */
+"Thank you!" = "ありがとうございます！";
+
+/* Thank you pop up - substitle */
+"We appreciate your support.\nPlease enjoy all-access to premium features and unlimited primers & filters." = "あなたのサポートに感謝します。\n全プレミアム機能へのアクセスと無制限のプライマーやフィルタをお楽しみください。";
+
+/* Thank you pop up - continue button */
+"Get Started" = "始める";
+
+/* New Filter package - Tones */
+"Tones" = "トーン";
+
+/*=============================*/
+/*======= Intro Strings =======*/
+/*=============================*/
+
+/* Intro first slide */
+"Welcome to Lightleap!" = "Lightleapへようこそ！";
+
+/* Intro first slide subtitle */
+"Take amazing shots on the go" = "いつでもどこでも感動のワンショットを";
+
+/* Intro second slide variation 1 */
+"Make every photo you take beautiful" = "すべての写真を美しく";
+
+/* Intro second slide variation 2 */
+"Make every sky breathtaking" = "すべての空を大迫力に";
+
+/* Into screen showing the portrait feature - option 1 */
+"And every portrait stunning" = "すべてのポートレートを魅力的に";
+
+/* Into screen showing the portrait feature - option 2 */
+"Create stunning portraits" = "最高のポートレートを作ろう";
+
+/* Intro fourth slide */
+"Save time! Edit multiple photos at once" = "時間を節約！複数の写真を一気に編集";
+
+/* Finish intro button */
+"Dive right in!" = "今すぐ始めよう！";
+
+/* Button displayed on the last slide of the app introduction */
+"Get Started!" = "始める!";
+
+/*=================================*/
+/*======= Apple retail demo =======*/
+/*=================================*/
+
+/* Alert when demo version is launched */
+"This version of %@ has been created specifically for demonstration purposes" = "このバージョンの%1$@はデモ用に作成されました";
+
+/* Title of alert appearing when trying to enter a disabled feature */
+"Feature not enabled for this demo" = "このデモ版では、機能は有効ではありません。";
+
+/* Alert accept button */
+"OK" = "OK";
+
+/*====================================*/
+/*======= What's new component =======*/
+/*====================================*/
+
+/* What's new component title variation 1 */
+"New Portrait Tool" = "新しいポートレートツール";
+
+/* What's new component subtitle variation 1 */
+"Try it now" = "今すぐ試す";
+
+/* What's new component subtitle variation 2 */
+"Try it on your portraits!" = "ポートレートで試してください！";
+
+/* What's new component subtitle variation 3 */
+"Professional portraits in a few taps" = "数回のタップでプロ級のポートレート";
+
+/*=============================================*/
+/*======= Temporary Free Preset Strings =======*/
+/*=============================================*/
+
+/* Title of subscription banner */
+"Get unlimited access with Lightleap PRO." = "Lightleap PROで無制限アクセス。";
+
+/* Subtitle of temporarily-free presets tool tip */
+"Quick, before they’re gone - Pro features with this icon are free!" = "無くなる前にお急ぎください。このアイコンのPro機能が無料です！";
+
+/* Local notification with new presets open up - title */
+"Try now!" = "今すぐお試しください！";
+
+/* Local notification with new presets open up - option 1 */
+"New FREE Presets available for a limited time only." = "期間限定で新しいプリセットを無料で利用できます。";
+
+/* Local notification with new presets open up - option 2 */
+"Brand new FREE Presets available for a limited time only." = "期間限定で新しいプリセットを無料で利用できます。";
+
+/*================================*/
+/*======= Refferal Strings =======*/
+/*================================*/
+
+ /* Title of refferal pop up - option 1 */
+"Share for More Lightleap!" = "Lightleapをもっとシェアしてください！";
+
+/* Title of refferal pop up - option 2 */
+"Share for Pro Exports!" = "シェアしてPro書き出しをゲット！";
+
+/* Title of refferal pop up - option 3 */
+"Share for more exports" = "シェアしてもっと多くの書き出しを入手";
+
+/* Subtitle of refferal pop up - option 1 */
+"Get 3 Pro exports and give a 7 day free trial - share Lightleap today!" = "今すぐLightleapをシェアして、7日間無料お試し版をプレゼントして、3つのPro書き出しをGETしましょう！";
+
+/* Subtitle of refferal pop up - option 2 */
+"Get 3 Pro exports and give a 7 day free trial when your friend downloads Lightleap - share Lightleap today!" = "今すぐLightleapをシェアしてください！お友達がLightleapをダウンロードしたら、7日間無料お試し版をプレゼントして、3つのPro書き出しをGETしましょう。";
+
+/* Thank you message after refferal - Title */
+"Thanks for sharing!" = "シェアありがとうございます！";
+
+/* Thank you message after refferal - Subtitle */
+"Bonus! Here’s one free Export – on us :)" = "ボーナス！書き出しを1回無料でどうぞ。おまけです:)";
+
+/* Refferals explanation */
+"When your referred friend downloads Lightleap, you’ll get another 3 free Pro Exports!" = "シェアしたお友達がLightleapをダウンロードすると、あともう3つPro書き出しを無料で入手できます！";
+
+/* Button which opens the refferal pop up - option 1 */
+"Get free Pro Exports!" = "Pro書き出しを無料でゲット！";
+
+/* Button which opens the refferal pop up - option 2 */
+"Want to get free Pro Exports?" = "Pro書き出しを無料で手に入れたいですか？";
+
+/* Lightleap link share button */
+"Share" = "シェア";
+
+/* Message letting the user know that even though he used pro features, he can use pro exports */
+"You've used Pro tools! Continue to use a free export" = "Proツールを使用しました！無料の書き出しを続けてご使用ください";
+
+/*=====================*/
+/*======= Masks =======*/
+/*=====================*/
+
+/* Undo / Redo action name (will say "undo: brush") */
+"Brush" = "ブラシ";
+
+/* Masks - help */
+"Use Eraser to remove or Brush to add your Sky or Portrait to certain areas." = "消しゴムを使って削除するか、ブラシで空やポートレートを特定のエリアに追加しましょう。";
+
+/* Masks - what's new title 1 */
+"Masks" = "マスク";
+
+/* Masks - what's new title 2 */
+"Brushes" = "ブラシ";
+
+/* Masks - what's new subtitle */
+"A perfect match in every photo. Adjust your Skies and Portrait Masks." = "どんな写真でも完璧にマッチ。空やポートレートのマスクを調整しましょう。";
+
+/*===================================*/
+/*======= Intro slides Screen =======*/
+/*===================================*/
+
+/* Intro slides - Sky 1 */
+"Replace gray (or any!) skies with incredible Sky presets" = "グレーな空やどんな空も、美しい空のプリセットに置き換え";
+
+/* Intro slides - Sky 2 */
+"Change any sky in one tap" = "どんな空でもタップ1つで変化します";
+
+/* Intro slides - portrait 1 */
+"Make portraits pop with background blur & multiple presets" = "背景ぼかしと複数のプリセットでポートレートをPOPに";
+
+/* Intro slides - portrait 2 */
+"Retouch portraits to perfection in one tap" = "タップ1つでポートレートをリタッチして完璧に";
+
+/* Intro slides - portrait 3 */
+"Retouch portraits to perfection" = "ポートレートをリタッチして完璧に";
+
+/* Intro slides - filters 1 */
+"Adjust the mood of any shot with premium Filters" = "プレミアフィルタでどんなショットのムードを調整";
+
+/* Intro slides - filters 2 */
+"Adjust the mood in one tap" = "タップ1つでムードを変える";
+
+/* Intro slides - filters 3 */
+"Adjust the mood with premium Filters" = "プレミアムフィルタでムードを調整";
+
+/* Intro slides - Magic 1 */
+"Effortless auto-adjustment in just a tap!" = "タップ1つでラクラク自動調整!";
+
+/* Intro slides - Magic 2 */
+"Fix photos magically in just one tap" = "タップ1つで魔法のように写真を補正";
+
+/* Intro slides - Magic 3 */
+"Magically fix every image" = "すべての画像を魔法のように補正";
+
+/* Intro slides - overlays 1 */
+"Smart Overlays adjust automatically to properly match every photo!" = "スマートオーバーレイが各写真を適切にマッチするよう自動調整！";
+
+/* Intro slides - overlays 2 */
+"Add stunning special effects" = "スペシャルエフェクトを追加";
+
+/* Intro slides - overlays 3 */
+"Special effects in one tap" = "タップ１つでスペシャルエフェクト";
+
+/* Intro slides - final slide 1 */
+"So many amazing photos, all in one tap!" = "たくさんの見事な写真が、すべてタップ１つで!";
+
+/* Intro slides - final slide 1 */
+"One photo, so many amazing looks!" = "1枚の写真が、多くの表情に!";
+
+/*========================*/
+/*======= Overlays =======*/
+/*========================*/
+
+/* What's new title */
+"New! Overlays" = "最新! オーバーレイ";
+
+/* What's new subtitle */
+"Add a little something extra & transform your shots" = "何かを少しだけプラスして、ショットに変化を";
+
+/*=========================*/
+/*======= Magic Fix =======*/
+/*=========================*/
+
+/* Magic fix feature title */
+"Magic" = "マジック";
+
+/* What's New title */
+"Magic in a Tap" = "ワンタップで魔法を";
+
+/* What's New subtitle */
+"Adjust and Enhance your photos - no effort necessary!" = "写真を調整して際立たせよう - 楽々!";
+
+/*=============================*/
+/*======= Export screen =======*/
+/*=============================*/
+
+/* export - what's new title */
+"New Export Options" = "新しい書き出しオプション";
+
+/* export - what's new subtitle */
+"Change your format, export to social media & more!" = "フォーマット変更、ソーシャルメディアへの書き出しなど!";
+
+/* eraser tooltip */
+"Tap to Erase!" = "タップして消しゴムを使用!";
+
+/* export - save new photo over original photo */
+"Replace" = "置き換え";
+
+/* export - save new photo as new copy photo */
+"Save Copy" = "コピーを保存";
+
+/* Save copy option explanation */
+"Saves an edited copy, but leaves original untouched" = "編集済みのコピーを保存して、オリジナルを手付かずのまま残します";
+
+/* Save over option explanation */
+"Replaces original photo with edited version" = "オリジナルの写真を編集済みバージョンに置き換えます";
+
+/* button which exports the edited photo to instagram */
+"Post to Instagram" = "Instagramに投稿";
+
+/* explanation on button which provides export through other apps */
+"Other Apps and Services" = "その他のAppとサービス";
+
+/* export photo format type */
+"Format" = "フォーマット";
+
+/* label explaining the destination of the export */
+"Export to" = "書き出し先";
+
+/* Looks feature title */
+"Looks" = "ルックス";
+
+/* Looks what's new title */
+"Looks are combinations of tools, specially crafted by our design team. Check them out now!" = "ルックスは当社のデザインチームが特別に作ったツールの組み合わせです。今すぐチェック！";
+
+/* Primers what's new title */
+"Primers are still here! We've just moved them around and changed the icon." = "プライマーはここにあります！場所を移動して、アイコンを変更しました。";
+
+/* Looks popup title */
+"Specially Crafted Lightleap Combinations" = "特別に作ったLightleapのコンビネーション";
+
+/* Looks popup subtitle */
+"Looks are combinations of Lightleap tools, specially crafted by our design team." = "ルックスは当社のデザインチームが特別に作ったLightleapツールの組み合わせです。";
+
+/* Tooltip explaining to the user how to erase a mask */
+"Tap here, then swipe your photo to erase the effect" = "こちらをタップしてから、写真をスワイプしてエフェクトを消去できます";
+
+/* Promotion screen title */
+"Hurry & get a month of Lightleap Pro for only %@!" = "お急ぎください！Lightleap Proが１か月たったの%1$@！";
+
+/* Promotion screen second title */
+"Get even more with Lightleap Pro!" = "Lightleap Proでさらにパワーアップ！";
+
+/* Promotion screen features 1 */
+"Unlock all tools" = "全機能のロックを解除";
+
+/* Promotion screen features 2 */
+"More Skies, more Filters!" = "たくさんの空やフィルタ！";
+
+/* Promotion screen features 3 */
+"New Pro content every month" = "毎月新しいProコンテンツが登場";
+
+/* Promotion screen price text */
+"Get 1 Month for %@" = "最初の１か月は%1$@";
+
+/* Promotion screen price text 2 */
+"then only %@ (billed yearly)" = "その後たったの%1$@ (1年ごとに請求されます)";
+
+/* Promotion screen text explaining to the user he can cancel his subscription */
+"Cancel anytime" = "いつでもキャンセル可能";
+
+/* Banner explaining to the user he used pro features */
+"You've used Pro features! Unlock Pro features to save." = "Pro機能を使用しました！Pro機能をロック解除して保存しましょう。";
+
+/* Button on the banner, which opens the subscription screen */
+"Unlock Pro features" = "Pro機能をロック解除";
+
+/* Button which removes the edits that were using pro features */
+"Remove Limit" = "制限を解除";
+
+/* Free trial button */
+"Free trial" = "無料トライアル";
+
+/* Crop tool title */
+"Crop" = "トリミング";
+
+/* Subtitle for an error message when a photo couldn't be saved 1 */
+"Oops, can't save over a demo photo" = "デモ用写真の上には保存できません";
+
+/* Subtitle for an error message when a photo couldn't be saved 2 */
+"Oops, can't save over a video" = "ビデオの上には保存できません";
+
+/* Message shown when user uses a tool which works on faces */
+"Couldn't find a face" = "顔を見つけられませんでした";
+
+/* Referrals - message shown to referred user */
+"Your First 7 Days Free" = "最初の７日間無料";
+
+/* Notification text informing the user that they can try Lightleap VIP free for 7 days */
+"Try free for 7 days!" = "7日間無料でお試しください！";
+
+/* Trial push notification version 1 */
+"Time is almost up ⏲ get your free trial!" = "まもなく時間切れ⏲。無料お試し版を手に入れよう!";
+
+/* Trial push notification version 2 */
+"Time is almost up ⏲ get a free trial of unlimited Skies, stunning Filters, and beautiful Overlays. Tap to get started!" = "まもなく時間切れ⏲。一週間無料で無制限の空、驚異のフィルタ、美しいオーバーレイを試すチャンス！タップして始めよう！";
+
+/* Trial push notification version 3 */
+"Time is almost up ⏲ get a free week of unlimited Skies, stunning Filters, and beautiful Overlays. Tap to get started!" = "まもなく時間切れ⏲。無制限の空、驚異のフィルタ、美しいオーバーレイを無料で試すチャンス！タップして始めよう！";
+
+/* Referrals - message shown to referred user 2 */
+"Have you tried Lightleap? Get 1 week free!" = "Lightleapを試したことがある？1週間無料で試してみて！";
+
+/* Message shown to the user when a reffered user downloads Lightleap - title */
+"Yay!" = "やったね！";
+
+/* Message shown to the user when a reffered user downloads Lightleap - subtitle */
+"You've got %lu Pro points!" = "%1$lu ProポイントGETしました！";
+
+/* Message shown to user when he is about to save a photo and use a point */
+"Use 1 Pro point" = "1 Proポイントを使用";
+
+/* Message shown to user when he wants to share Lightleap link but there is no connection */
+"No internet connection" = "インターネット接続がありません";
+
+/* 'share Lightleap' dialog title */
+"Share and get Lightleap Pro" = "共有してLightleap ProをGET";
+
+/* 'share Lightleap' dialog subtitle */
+"Get 3 Pro points every time a friend downloads Lightleap via this link. Use your points to save images with Pro features." = "このリンクからお友達がLightleapをダウンロードするたびに3 ProポイントをGETできます。ポイントを貯めてPro機能を使ったイメージを保存しよう。";
+
+/* button which will take users to the 'share Lightleap' dialog */
+"Get free Pro points!" = "無料のProポイントを集めよう！";
+
+/* button which will take users to the 'share Lightleap' dialog 2 */
+"Want to get free Pro points?" = "無料でProポイントが欲しい?";
+
+/* Message shown to user after he shared the Lightleap link */
+"When your referred friend downloads Lightleap, you’ll get another 3 free Pro points!" = "紹介したお友達がLightleapをダウンロードすると、もう3 Proポイントを無料でGETできる！";
+
+/* Effects feature title */
+"Effects" = "エフェクト";
+
+/* Title for pop up which allows the user to save the current edit as a new look */
+"Name Your Look" = "自分のルックスに名前を付けよう";
+
+/* Subtitle for pop up which allows the user to save the current edit as a new look */
+"Name & save your signature editing style!" = "あなたの編集スタイルに名前を付けて保存しよう!";
+
+/* Rename the look button */
+"Rename" = "名前を変更";
+
+/* Button which saves a Look in the Look feature */
+"Save Look" = "ルックスを保存";
+
+/* Title of the pop up which enables you to rename a Look you previously saved */
+"Rename Look" = "ルックスの名前を変更";
+
+/* Button text for accepting the changes you have made your Look's name  */
+"Done" = "完了";
+
+/* Message displayed to the user when the image is being saved */
+"Saving photo" = "写真を保存中";
+
+/* Message displayed to the user when multiple images are being saved */
+"Saving photos" = "写真を保存中";
+
+/* Pop up displayed when user tries to use a Pro feature */
+"This is Pro only. Go Pro to get this feature!" = "この機能はPro限定です。今すぐProにしましょう!";
+
+/* Label on a button that restores previously purchased products */
+"Already paid?" = "お支払い済みですか?";
+
+/* Chinese welcome popup title */
+"Welcome Bonus" = "Welcome Bonus";
+
+/* Chinese welcome popup subtitle */
+"You’ve received %lu days of Pro free! You can now access all features of the app for %lu days" = "You’ve received %1$lu days of Pro free! You can now access all features of the app for %2$lu days";
+
+/* Chinese intro subscription popup title */
+"Keep Using Pro" = "Keep Using Pro";
+
+/* Chinese intro subscription popup subtitle */
+"Hope you enjoyed your trial. Pay for 5 months of Pro, get another 7 months FREE!" = "Hope you enjoyed your trial. Pay for 5 months of Pro, get another 7 months FREE";
+
+/*=============================*/
+/*======= Custom looks ========*/
+/*=============================*/
+
+/* Looks - what's new Title */
+"New: Custom Looks" = "新機能: カスタムルックス";
+
+/* Looks - what's new Subtitle */
+"Name & save your signature editing style" = "あなたの編集スタイルに名前を付けて保存しよう";
+
+/* Looks Pro popup - appears when non-sub tries to save more looks than allowed - Title*/
+"Add more looks with Pro" = "Proにしてさらにルックスを追加";
+
+/* Looks Pro popup - appears when non-sub tries to save more looks than allowed - Subtitle*/
+"Save up to %@ custom Looks" = "最高%1$@件までのカスタムルックスを保存";
+
+/* Save new Look tooltip */
+"Love your current edits? Tap here to name your Look & save it!" = "現在の編集内容がお気に入りですか？ここをタップして今の「ルックス」に名前を付けて保存しましょう！";
+
+/* Custom Looks limit reached for subscribers message - title  */
+"Custom Looks are Full" = "カスタムルックスがいっぱいです";
+
+/* Custom Looks limit reached for subscribers message - title  */
+"We love that you're creating more Looks, but Lightleap can only handle 30 custom Looks at a time. Press & hold an older Look, then choose delete to make room for a new Look." = "たくさんのルックスを作成いただきありがとうございます。ただ、Lightleapが対応できるカスタムルックスは1度に30個です。古いルックスを長押しして、削除できるものを選択し、新しいルックスのための空きを確保してください。";
+
+/*===================================*/
+/*======= Subscription offers =======*/
+/*===================================*/
+
+/* Title of a pop-up subscription screen offering a discounted product*/
+"Save %@%%" = "%1$@%%お得";
+
+/* Title of a pop-up subscription screen offering a discounted product*/
+"1 Year for Just %@" = "1年間たったの%1$@";
+
+/* Sub -Title of a pop-up subscription screen offering a discounted product*/
+"Renew now and save %@%% next year." = "今すぐ更新して年間%1$@%%お得。";
+
+/* Sub -Title of a pop-up subscription screen offering a discounted product*/
+"Renew now and save %@%% next year. \n Cancel anytime." = "今すぐ更新して年間%1$@%%お得。\n キャンセルはいつでもOK";
+
+/* Sub -Title of a pop-up subscription screen offering a discounted product*/
+"Renew your subscription and save %@%% on the following year." = "購読を更新して次の年%1$@%%お得。";
+
+/* Sub -Title of a pop-up subscription screen offering a discounted product*/
+"Renew your subscription and save %@%% on the following year. \n Cancel anytime." = "購読を更新して次の年%1$@%%お得。\n キャンセルはいつでもOK";
+
+/* Sub -Title of a pop-up subscription screen offering a discounted product*/
+"Then %@ the year after. \n Cancel anytime." = "その後1年間、%1$@\n キャンセルはいつでもOK。";
+
+/* Sub -Title of a pop-up subscription screen offering a discounted product*/
+"Then %@ the year after." = "その後1年間、%1$@";
+
+/*Decline button of a  pop up subscription Screen*/
+"Decline offer" = "オファーを断る";
+
+/* Current subscription box title  */
+"Your Pro Membership" = "ご利用のProメンバーシップ";
+
+/* Name of the current app, followed by Pro  */
+"%@ Pro" = "%1$@ Pro";
+
+/* Current sybscription type - yearly  */
+"Yearly member" = "年間メンバー";
+
+/* Current sybscription type - monthly  */
+"Monthly member" = "月間メンバー";
+
+/* Enlight suite subscription box title  */
+"Meet the Suite" = "Suiteをご紹介";
+
+/* Enlight suite banner button title  */
+"Be an Enlight Pro" = "Enlight Proにする";
+
+/* Enlight suite banner button subtitle  */
+"on all 4 apps" = "4つすべてのAppで";
+
+/* Enlight suite subscription button title  */
+"SAVE %@%%" = "%1$@%%お得";
+
+/* Yearly subscription button badge title  */
+"SAVE\n%@%%" = "%1$@%%\nお得";
+
+/* Enlight suite subscription button subtitle  */
+"Full yearly access for %@" = "%1$@に1年間完全アクセス";
+
+/* Button appearing in the subscription screen, notifying users that by pressing this button they are choosing an anual subscription plan - 5 + 7 months */
+"5 Months + 7 Months FREE" = "5 Months + 7 Months FREE";
+
+/* Subtitle of a button appearing in the subscription screen, notifying users that by pressing this button they will be saving an amount equal to {0}*/
+"Save {0}" = "{0}お得";
+
+/* Label on a button for purchasing subscription that renews every 3 months */
+"3 Months" = "3 Months";
+
+/* Label on a button for purchasing subscription that renews every week */
+"1 Week" = "1 Week";
+
+/* Title of a button offering the user to continue using the weekly payment plan. */
+"Continue with weekly" = "Continue with weekly";
+
+/* Subscription screen - custom looks thumbnail */
+"30\nCustom\nLooks" = "30の\nカスタム\nルックス";
+
+/* Save custom look first tool tip */
+"Love your current edits? Go into Looks to save your new Look!" = "現在の編集内容がお気に入りですか？新しいルックスに保存しましょう！";
+
+/* Save custom look first tool tip */
+"Tap here to name & save your Look" = "ここをタップして自分のルックスに名前をつけて保存しましょう";
+
+/* Text under the button which provides the payment info */
+"30\nCustom\nLooks" = "30の\nカスタム\nルックス";
+
+/* Weekly to yearly upgrade title - option 1 */
+"Upgrade to yearly for just %@" = "たった%1$@で年間購読にアップグレード";
+
+/* Weekly to yearly upgrade title - option 2 */
+"Upgrade to yearly and save %@%%" = "年間購読にアップグレードすると%1$@%%お得";
+
+/* Weekly to yearly upgrade title - option 3 */
+"Upgrade and save %@%%" = "アップグレードすると%1$@%%お得";
+
+/* Weekly to yearly upgrade subtitle - option 1 */
+"Get a whole year for the price of 9 weeks." = "9週間分の料金で1年間購読できます。";
+
+/* Weekly to yearly upgrade subtitle - option 2 */
+"Upgrade to yearly for %@ and save %@" = "%1$@で年間購読にアップグレードして%2$@節約しましょう";
+
+/* Weekly to yearly upgrade subtitle - option 3 */
+"Upgrade to yearly for %@.\n That's %@/mo." = "%1$@で年間購読にアップグレード。\n月額にすると%2$@です。";
+
+/* Trial auto renewal explanation */
+"If you do not cancel, you will be automatically charged 24 hours before the end of the trial." = "キャンセルされない場合、お試し期間が残り24時間を切ると自動的に課金されます。";
+
+/* Body text in a button encouraging the user to start a 7 day free trial */
+"Get 7 Days Free!" = "7日間無料！";
+
+/* Description of a monthly price. */
+"%@ per month" = "月額 %1$@";
+
+/* Button appearing in the subscription screen, notifying users that by pressing this button they are choosing an anual subscription plan - 6 + 6 months */
+"6 Months + 6 Months FREE" = "6 Months + 6 Months FREE";
+
+/* Button appearing in the subscription screen, notifying users that by pressing this button they are choosing an anual subscription plan - 6 months */
+"6 Months" = "6 Months";
+
+/* Button appearing in the subscription screen, notifying users that by pressing this button they are choosing an anual subscription including a trial */
+"12 Months + 3 Day Trial" = "12 Months + 3 Day Trial";
+
+/* Disclaimer text */
+"If you do not cancel, you will be automatically charged 24 hours before the end of the trial." = "キャンセルされない場合、お試し期間が残り24時間を切ると自動的に課金されます。";
+
+/* New filters what's new - title */
+"New Filters!" = "新しいフィルタ！";
+
+/* New filters what's new - subtitle */
+"Adjust the mood in one tap with 34 new Filters" = "タップ1つでムードが変わる34の新しいフィルタ";
+
+/*==============================*/
+/*======= Looks Catalog  =======*/
+/*==============================*/
+
+/* Looks catalog main title */
+"Looks Catalog" = "ルックスカタログ";
+
+/* Looks Catalog toolbar title*/
+"Catalog" = "カタログ";
+
+/* Looks catalog main title */
+"Look Book" = "ルックスブック";
+
+/* Download button title */
+"Download" = "ダウンロード";
+
+/* Download button title */
+"Download look" = "ルックスをダウンロード";
+
+/* No internet connection error message title */
+"Let's get connected" = "接続しましょう";
+
+/* Download error message body */
+"Incredible edits and... no internet.\nCheck your connection and try downloading again." = "素晴らしい編集ですが…インターネット接続がありません。\n接続を確認してから、再度ダウンロードしてください。";
+
+/* No internet connection error message body */
+"Please check your connection and come back so we can show you the newest Looks!" = "接続を確認したら戻ってきてください。最新のルックスをご紹介します！";
+
+/* Disclaimer informing the user the trial is only offered with a yearly subscription. */
+"with a yearly subscription" = "（年間購読の場合）";
+
+/* Body text in a button encouraging the user to start a 1 month free trial */
+"Get 1 Month Free!" = "1カ月無料！";
+
+/* Title of the popup offering discount */
+"Get 1 year for %@ off" = "年間購読料を%1$@オフ";
+
+/* title of the popup view offering free days */
+"Get %@ days free" = "%1$@日間を無料でゲット";
+
+/* Title of a button that takes the user to the subscription screen */
+"Show me" = "見てみる";
+
+/* Description for Lightleap */
+"Unlimited access to more Looks, Filters, Skies & Effects!" = "たくさんのルックス、フィルタ、空、エフェクトに無制限アクセス！";
+
+/* Button title for opening the catatlog */
+"View" = "表示";
+
+/* Button title for opening the catatlog */
+"Try now" = "今すぐ試す";
+
+/* What's new title for looks catalog. */
+"Get more Looks" = "もっとルックスを";
+
+/* What's new body for looks catalog. */
+"Browse to find your favorites, and get them instantly!" = "お気に入りを見つけたら、即GET！";
+
+/*Looks catalog notification title. */
+"Gotta have it 🌅" = "これがなくちゃ 🌅";
+
+/*Looks catalog notification body. */
+"You can't miss these new Looks!" = "これらの新しいルックスをお見逃しなく！";
+
+/*Looks catalog notification title. */
+" You're missing out..." = " チャンスを逃さないで…";
+
+/*Looks catalog notification body. */
+"Get in here and get these new Looks" = "さあ、最新ルックスをGET";
+
+/*Looks catalog notification title. */
+"They're here ✨" = "ルックスはこちら ✨";
+
+/*Looks catalog notification body. */
+"The great new Looks you've been waiting for!" = "お待ちかね、ルックスの最新作！";
+
+/*Looks catalog notification title. */
+"Check it out!" = "要チェック！";
+
+/*Looks catalog notification body. */
+"The newest trendy Looks" = "最新のオシャレなルックス";
+
+/*Looks catalog notification title. */
+"Up your game" = "ワンランク上に";
+
+/*Looks catalog notification body. */
+"Your pics will never be the same with these Looks!" = "こんなルックスで大変身！";
+
+/* Title of a Black Friday Sale popup */
+"Black Friday Sale" = "ブラックフライデーセール";
+
+/* Countdown timer for an offer - days */
+"days" = "日";
+
+/* Countdown timer for an offer - hours */
+"hrs" = "時間";
+
+/* Countdown timer for an offer - minutes */
+"mins" = "分";
+
+/* Countdown timer for an offer - seconds */
+"secs" = "秒";
+
+/* Title of an offer plan */
+"YEARLY PLAN" = "年間プラン";
+
+/* Subtitle of an offer plan for first year discount. The placeholder is for the price of subscription for the first year. */
+"Get 1 year for %@" = "１年間 %1$@";
+
+/* Sub-subtitle of an offer plan for first year discount, that appears right after the previous string. The placeholder is for the price of subscription for every year after the first one. */
+"then %@ the year after" = "2年目以降、%1$@/年";
+
+/* Title of a popup offering discount. The placeholder is for number of percents for discount. */
+"Get your first year for %@ off!" = "1年目は%1$@オフ！";
+
+/* Text informing the user that their device is no longer supported. */
+"Your device may not be supported" = "お使いのデバイスはサポートされていない可能性があります";
+
+/* Text informing the user that their device is no longer supported. */
+"Unfortunately, due to technical limitations we will no longer be supporting your device. For more information please feel free to contact us" = "残念ながら、技術的な制限によりお使いのデバイスのサポートはまもなく終了させていただきます。詳しい情報はサポートまでお問い合わせ ください。";
+
+/* Link instruction user how they can turn off automatic updates. */
+"https://support.apple.com/en-us/HT202180" = "https://support.apple.com/ja-jp/HT202180";
+
+/* Button that takes the user to a help link. */
+"How to turn off automatic updates" = "自動アップデートをオフにするには";
+
+/* Title of the Light Leaks Look's pack */
+"Light Leaks" = "光漏れ";
+
+/* Title of the Graceful Look's pack */
+"Graceful" = "優美";
+
+/* Title of the Lovely Look's pack */
+"Lovely" = "ラブリー";
+
+/* Title of the Winter Wonder Look's pack */
+"Winter Wonder" = "ウィンターワンダー";
+
+/* Title of the Rainbow Look's pack */
+"Rainbow" = "虹";
+
+/* Title of the Enchanted Look's pack */
+"Enchanted" = "魔法";
+
+/* Title of the Fireworks Look's pack */
+"Fireworks" = "花火";
+
+/* Sky feature title for subscription screen */
+"All the Skies you need" = "欲しかったあの空がたくさん";
+
+/* Sky feature subtitle for subscription screen */
+"Pick unique Skies for your shots" = "写真にぴったりの空を選択";
+
+/* Looks feature title for subscription screen */
+"Get your own Looks" = "自分だけのルックスを";
+
+/* Looks feature subtitle for subscription screen */
+"Express your individuality" = "個性を表現";
+
+/* Filter feature title for subscription screen */
+"Unique Filters" = "ユニークなフィルタ";
+
+/* Filters feature subtitle for subscription screen */
+"Get a consistent vibe" = "一貫した雰囲気をキープ";
+
+/* Effects feature title for subscription screen */
+"Effects that pop" = "POPなエフェクト";
+
+/* Effects feature subtitle for subscription screen */
+"Step up your editing" = "ワンランク上の編集";
+
+/* Primers feature title for subscription screen */
+"Colorful Primers" = "カラフルなプライマー";
+
+/* Primers feature subtitle for subscription screen */
+"You’ll have to show these off" = "これらを披露しよう";
+
+/* Label indicating price per month */
+"Only %@/mo." = "たったの %1$@/月";
+
+/* Label indication the possibility to cancel subscription anytime */
+"Cancel anytime." = "いつでもキャンセルできます。";
+
+/* Product label */
+"Best Deal" = "一番お得";
+
+/* Price label for yearly product */
+"Only %@ Yearly" = "年間たったの %1$@";
+
+/* Price label for yearly product */
+"%@ Yearly" = "年間 %1$@";
+
+/* Subscription screen subtitle */
+"All the tools you need.\nGet in on the fun!" = "必要なすべてのツールがここに。\n楽しもう！";
+
+/* Button offering to see other product plans */
+"See other plans" = "その他のプランを表示";
+
+/* Label for lifetime membership */
+"Lifetime" = "生涯";
+
+/* Label for monthly membership */
+"Monthly" = "月間";
+
+/* Label for yearly membership */
+"Yearly" = "年間";
+
+/* Label for the amount of percentage saved */
+"%@%% off" = "%1$@%% オフ";
+
+/* Product plans screen title */
+"Your Special Offers" = "特別オファー";
+
+/* Label indication the possibility to cancel subscription anytime */
+"Limited Offer" = "限定オファー";
+
+/* Label indicating price per month */
+"%@/month" = "%1$@/month";
+
+/* Label indication the possibility to cancel subscription anytime */
+"Limited time" = "期間限定";
+
+/* Yearly product with discount button title */
+"%@ Months for the price of %@" = "%1$@か月間、%2$@で";
+
+/* Title for section of recently used items */
+"Recents" = "履歴";
+
+/*==========================================*/
+/*======= Terms and conditions alert =======*/
+/*==========================================*/
+
+/* Terms and conditions popup title */
+"Terms & Conditions" = "利用規約";
+
+/* Terms and conditions popup body */
+"By clicking Accept, I agree to Lightleap’s Terms of Use and Privacy Policy." = "“同意する”をクリックすることで、Lightleapの利用規約およびプライバシーポリシーに同意するものとします。";
+
+/* Terms and conditions popup button title */
+"Accept" = "同意する";
+
+/* Offer screen title */
+"Best Deal\non Lightleap Pro" = "Lightleap Proが\n超お買い得";
+
+/* Inpainting intro screen slide */
+"Remove pesky spots to clean up your shot" = "不要なスポットを取り除いてクリーンな写真を";
+
+/* Inpainting what's new title */
+"Heal for a Quick Fix" = "“なおす”ですばやく修正";
+
+/* Inpainting what's new body */
+"Use this powerful tool to get rid of problem spots and photobombs" = "このパワフルなツール";
+
+/* Tupi's skies what's new title */
+"Tupi's Skies" = "Tupiのスカイ";
+
+/* Tupi's skies what's new body */
+"New Skies submitted by Tupi Saravia and fans" = "Tupi Saraviaとファンからの新しい“スカイ”が登場";
+
+/* Tupi's skies notification title */
+"Breaking News!" = "最新ニュース！";
+
+/* Tupi's skies notification body */
+"Influencer Tupi Saravia has added Skies to Lightleap - check them out" = "インフルエンサー、Tupi SaraviaがLightleapに“スカイ”を追加。チェックして";
+
+/* Heal feature title */
+"Heal" = "なおす";
+
+/* Restore heal feature title */
+"Restore" = "修復";
+
+/* SUNNY sky package*/
+"SUNNY" = "サニー";
+
+/* FANTASY sky package*/
+"FANTASY" = "ファンタジー";
+
+/* DUSK sky package*/
+"DUSK" = "夕暮れ";
+
+/* SUNSET sky package*/
+"SUNSET" = "夕焼け";
+
+/* NIGHT sky package*/
+"NIGHT" = "ナイト";
+
+/* AURORA sky package*/
+"AURORA" = "オーロラ";
+
+/* STORM sky package*/
+"STORM" = "ストーム";
+
+/* ABLAZE sky package*/
+"ABLAZE" = "炎";
+
+/* VALENTINE'S sky package*/
+"VALENTINE'S" = "バレンタインデー";
+
+/* Title for a feature that enables users to add stickers to their projects */
+"Element" = "エレメント";
+
+/* Title for slider controling foreground opacity */
+"Foreground" = "Foreground";
+
+/* Title for slider controling temperature of the image */
+"Temperature" = "Temperature";
+
+/*====================================*/
+/*=========== 618 Strings ============*/
+/*====================================*/
+
+/* Main title of subscription screen */
+"Special 618 Offer\nSave 20% Off Yearly Plan" = "Special 618 Offer\nSave 20% Off Yearly Plan";
+
+/* Text of price in main screen */
+"%@ Yearly Price 618" = "%1$@/year";
+
+/* Title for continue button */
+"Unlock Pro now" = "Unlock Pro Now";
+
+/* Subtitle under continue button */
+"Valid until June 18th. 1st Year Only." = "Valid until June 18th. 1st Year Only.";
+
+/* Text for button that opens the other plans popup */
+"See more plans" = "Other Plans";
+
+/* Title of 618 promotion popup */
+"618 Celebration" = "618 Celebration";
+
+/* Text above yearly subscription button in other plans popup */
+"SPECIAL OFFER" = "SPECIAL OFFER";
+
+/* Title of yearly subscription button in other plans popup */
+"YEARLY" = "YEARLY";
+
+/* Price text of yearly subscription button in other plans popup */
+" %@/year\nSave 20%% Now." = " %1$@/year\nSave 20%% Now.";
+
+/* Text For continue button */
+"Unlock Lightleap Pro" = "Unlock Lightleap Pro";
+
+/* Title of monthly subscription button in other plans popup */
+"MONTHLY-618" = "MONTHLY";
+
+/* Title of lifetime subscription button in other plans popup */
+"LIFETIME" = "LIFETIME";
+
+/* Price text of monthly subscription button in other plans popup */
+"%@/month" = "%1$@/month";
+
+/* Subtitle of yearly subscription button in other plans popup */
+"Valid until June 18th. 1st Year Only." = "Valid until June 18th. 1st Year Only.";
+
+/* Title of a button that takes user to all tutorials */
+"ALL TUTORIALS" = "すべてのチュートリアル";
+
+/* Title of a button that takes user to page where they can try it with their video */
+"Try with my video" = "自分のビデオで試す";
+
+/* Title for a what's new slide of a new feature called Color */
+"Color Feature" = "“カラー”機能";
+
+/* Subtitle for a what's new slide of a new feature called Color */
+"Make changes to each individual color in your shot!" = "画像の1つ1つのカラーに変更を加えられます！";
+
+/* Name of feature that adds city light to images. */
+"Soft Light" = "ソフトライト";
+
+/* Name of feature that adds city light to images. */
+"Bokeh" = "ぼかし";
+
+/* Name of feature that edit face features. */
+"Face" = "顔";
+
+/* What's new title for the new Effects feature. */
+"Add Stunning Effects" = "魅力的なエフェクトを追加";
+
+/* What's new body for the new Effects feature. */
+"Make your photos pop with these beautiful effects" = "美麗なエフェクトで写真の印象を一変させよう";
+
+/* Terms and condition approval. Placeholders here are for the terms "Terms of Use" and "Privacy Policy" which are already localized. Example of usage: By continuing, I agree to Lightleap’s Terms of Use and Privacy Policy.*/
+"By continuing, I agree to Lightleap’s %@ and %@." = "続行することで、Lightleapの%1$@および%2$@に同意します。";
+
+/* Terms and condition approval. Placeholders here are for the terms "Terms of Use" and "Privacy Policy" which are already localized. Example of usage: By clicking Accept, I agree to Lightleap’s Terms of Use and Privacy Policy.*/
+"By clicking Accept, I agree to Lightleap’s %@ and %@." = "「同意する」をクリックすることで、Lightleapの%1$@および%2$@に同意します。";
+
+/* Label indicating undoing of all editing steps. */
+"Undo All" = "すべて元に戻す";
+
+/* Label indicating redoing of all editing steps. */
+"Redo All" = "すべてやり直す";
+
+/* Heal help slides intro title */
+"Heal Do’s and Don’ts" = "“なおす”ですべきこととすべきでないこと";
+
+/* Heal help slides intro body */
+"Here’s how to make erasing super easy!" = "とっても簡単に消去する方法をご紹介します！";
+
+/* Heal help slide body 1 */
+"brush out just what you want erasing" = "消去したいものを消しゴムでなぞります";
+
+/* Heal help slide body 2 */
+"stray over the object’s edges or sections of background will disappear!" = "被写体の端の上で動かすと、背景が部分的に消去されてしまいます！";
+
+/* Heal help slide body 3 */
+"use small brush strokes to remove individual spots" = "個々の領域は、少しずつなぞりながら消去します";
+
+/* Heal help slide body 4 */
+"brush over large areas of spots you want to erase" = "消去したい領域の広いエリアを消しゴムでなぞります";
+
+/* Heal help slide body 5 */
+"choose smooth, uncluttered backgrounds, for easier erasing" = "なめらかで整然とした背景は消去が簡単です";
+
+/* Heal help slide body 6 */
+"go for busy backgrounds with loads of detail" = "細かな部分がたくさんある入り組んだ背景を選択します";
+
+/* Heal help slide title */
+"✅ Do" = "✅ すべきこと";
+
+/* Heal help slide title */
+"⛔️ Don’t" = "⛔️ すべきでないこと";
+
+/*=============================*/
+/*======= Login =======*/
+/*=============================*/
+
+/* Manage settings section in setting menu */
+"MANAGE" = "管理";
+
+/* About Lightleap section in setting menu */
+"ABOUT" = "詳細";
+
+/* More Lightleap section in setting menu */
+"MORE" = "その他";
+
+/* Setting option leading to seeing user subscription plan */
+"Your Membership" = "メンバーシップ";
+
+/* Setting option leading to ssubscription screen */
+"Get Lightleap Pro" = "Lightleap Proを取得";
+
+/* Setting option leading user to log in screen */
+"Log In" = "ログイン";
+
+/* Setting option leading user to log out */
+"Log Out" = "ログアウト";
+
+/* Close caption for a screen */
+"Close" = "閉じる";
+
+/* Skip caption for a screen */
+"Skip" = "スキップ";
+
+/* Login screen title */
+"Log in and unleash your creativity" = "ログインして創造性を発揮する";
+
+/* Login screen  button title to log in with Apple */
+"Continue with Apple" = "Appleで続行";
+
+/* Login screen  button title to log in with Facebook */
+"Continue with Facebook" = "Facebookで続行";
+
+/* Login screen  button title to log in with Google */
+"Continue with Google" = "Googleで続行";
+
+/* Login screen error message title */
+"Oops!" = "おっと！";
+
+/* Login screen error message body */
+"There was a problem logging you in.\nPlease try again later." = "ログインの際にエラーが発生しました。\n後でもう一度お試しください。";
+
+/* Log out message body */
+"You’re now logged out" = "ログアウトしました";
+
+/* Pack name for pack displaying shdows from blinds. */
+"Shadow Blinds" = "ブラインド";
+
+/* Pack name for pack displaying shdows from leaves. */
+"Shadow Leaves" = "葉影";
+
+/* Title for what's new for new shadow packs */
+"Step into the light" = "光の中へ";
+
+/* Body for what's new for new shadow packs */
+"With Shadows effects for every mood" = "ムードのすべてにシャドウエフェクトを適用";
+
+/* Looks pack name for new shadows overlays */
+"Shadows" = "シャドウ";
+
+/* Halloween What's new title */
+"Something wicked this way comes…" = "何か気味悪いものがこっちにやって来ます…";
+
+/* Halloween What's new body */
+"Give your photos the scare factor with “SPOOKY”" = "“スプーキー”を使って写真を怖くしましょう";
+
+/* Halloween pack name */
+"SPOOKY" = "スプーキー";
