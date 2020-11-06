@@ -2,11 +2,14 @@
 /*======= Subscription Strings =======*/
 /*====================================*/
 
+/* Another update */
+"Another update" = "另一个更新";
+
 /* Push header */
-"Lightleap Push" = "轻跳推";
+"Lightleap Push." = "轻跳推";
 
 /* New string */
-"Checking Push" = "Checking Push";
+"Checking Push" = "检查推送";
 
 /* Subscription header */
 "Lightleap Pro" = "Lightleap Pro";
@@ -1786,7 +1789,7 @@
 "Foreground" = "前景";
 
 /* Title for slider controling temperature of the image */
-"Temperature" = "色温";
+"Temperature" = "Temperature";
 
 /*====================================*/
 /*=========== 618 Strings ============*/
