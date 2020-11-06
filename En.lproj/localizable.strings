@@ -2,6 +2,9 @@
 /*======= Subscription Strings =======*/
 /*====================================*/
 
+/* Push header */
+"Lightleap Push" = "Lightleap Push";
+
 /* Subscription header */
 "Lightleap Pro" = "Lightleap Pro";
 
