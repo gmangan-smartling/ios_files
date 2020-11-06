@@ -1,8 +1,0 @@
-/* Permission text asking for permission to access the camera */
-NSCameraUsageDescription = "O Lightleap deseja ter acesso à câmera para que você o use para criar imagens incríveis.";
-
-/* Permission text asking for permission to access the the user's photos */
-NSPhotoLibraryUsageDescription = "Isso permite que você edite suas próprias fotos";
-
-/* Permission text asking for permission to access the user's location */
-NSLocationWhenInUseUsageDescription = "Precisamos da sua localização para adicionar essa informação às fotos";
