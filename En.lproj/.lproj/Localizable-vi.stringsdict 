@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Undo edits on %lu sessions?</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@Sessions@</string>
+		<key>Sessions</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>lu</string>
+			<key>other</key>
+			<string>Hoàn tác chỉnh sửa cho %1$lu phiên?</string>
+		</dict>
+	</dict>
+	<key>Edit %lu Photos</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@Photos@</string>
+		<key>Photos</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>lu</string>
+			<key>other</key>
+			<string>Chỉnh sửa %1$lu Hình ảnh</string>
+		</dict>
+	</dict>
+	<key>Edit Photos</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@Photos@</string>
+		<key>Photos</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>lu</string>
+			<key>other</key>
+			<string>Chỉnh sửa Hình ảnh</string>
+		</dict>
+	</dict>
+	<key>Delete %lu Sessions</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@Sessions@</string>
+		<key>Sessions</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>lu</string>
+			<key>other</key>
+			<string>Xóa %1$lu Phiên</string>
+		</dict>
+	</dict>
+	<key>Delete %lu Batch Sessions</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@Sessions@</string>
+		<key>Sessions</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>lu</string>
+			<key>other</key>
+			<string>Xóa %1$lu Phiên Chỉnh sửa Hàng loạt</string>
+		</dict>
+	</dict>
+	<key>%lu Photos Selected</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@Photos@</string>
+		<key>Photos</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>lu</string>
+			<key>other</key>
+			<string>Đã chọn %1$lu Hình ảnh</string>
+		</dict>
+	</dict>
+	<key>%lu Batch Sessions Selected</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@Sessions@</string>
+		<key>Sessions</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>lu</string>
+			<key>other</key>
+			<string>Đã chọn %1$lu Phiên Chỉnh sửa Hàng loạt</string>
+		</dict>
+	</dict>
+	<key>%lu Sessions Selected</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@Sessions@</string>
+		<key>Sessions</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>lu</string>
+			<key>other</key>
+			<string>Đã chọn %1$lu Phiên</string>
+		</dict>
+	</dict>
+	<key>You’ve got %lu free Pro Exports!</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@Exports@</string>
+		<key>Exports</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>lu</string>
+			<key>other</key>
+			<string>Bạn đã nhận được %1$lu lần Xuất Pro miễn phí!</string>
+		</dict>
+	</dict>
+	<key>Export %lu Photos</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@Photos@</string>
+		<key>Photos</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>lu</string>
+			<key>other</key>
+			<string>Xuất %1$lu Hình ảnh</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
