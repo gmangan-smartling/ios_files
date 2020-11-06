@@ -1,0 +1,1980 @@
+/*====================================*/
+/*======= Subscription Strings =======*/
+/*====================================*/
+
+/* Push header */
+"Lightleap Push" = "輕跳推";
+
+/* New string */
+"Checking Push" = "Checking Push";
+
+/* Subscription header */
+"Lightleap Pro" = "Lightleap 專業版";
+
+/* Subscription title 10% off */
+"Lightleap Pro - now 10% off!" = "Lightleap 專業版 - 現享 10% 折扣！";
+
+/* Subscription title 15% off */
+"Lightleap Pro - now 15% off!" = "Lightleap 專業版 - 現享 15% 折扣！";
+
+/* Subscription title 25% off */
+"Lightleap Pro - now 25% off!" = "Lightleap 專業版 - 現享 25% 折扣！";
+
+/* Subscription title 50% off */
+"Lightleap Pro - now 50% off!" = "Lightleap 專業版 - 現享 50% 折扣！";
+
+/* Subscription subtitle */
+"Primers, Filters, Sky, Strobe & unlimited Batch!" = "底漆、濾鏡、天空、閃光燈 & 無限批量！";
+
+/* Pro only banner (notice the line break) */
+"Pro Only\nRemove Limit" = "限專業版使用\n移除限制";
+
+/* Pro export banner */
+"Remove Limit" = "移除限制";
+
+/* Pro features explanation */
+"You’ve used Pro features!" = "您使用了專業版的功能！";
+
+/* Pro max number of batch explanation 1 */
+"Unlimited batch with Pro" = "以專業版無限量整批編輯";
+
+/* Pro max number of batch explanation 2 */
+"Number of assets over the limit" = "資源數量超過限制";
+
+/* Label on a button for purchasing subscription that renews every 12 months */
+"ANNUAL" = "按年";
+
+/* Label on a button for purchasing subscription that renews every month, in capital letters */
+"MONTHLY" = "按月";
+
+/* Label on a button for purchasing the product at a single one-time price, instead of a renewable subscription plan */
+"ONE-TIME\nPURCHASE" = "一次性\n購買";
+
+/* Abbreviation of the word month, representing per-month suffix of a price, as in $5/mo - $5 per month. The '/' should remain in the localized version */
+"/mo" = "/月";
+
+/* A price displayed in the amount the user will pay for the item per year. Example: $34.99/year */
+"%@/year" = "%1$@ / 年";
+
+/* Text informing the user of the most popular payment plan among users */
+"Most Popular" = "最受歡迎";
+
+/* Unlimited sky thumbnail */
+"Unlimited\nSky" = "無限量\n天空";
+
+/* Batch editing thumbnail */
+"Batch\nEditing" = "成批\n編輯";
+
+/* Filters thumbnail */
+"%d+\nFilters" = "%1$d+\n濾鏡";
+
+/* Advanced tools thumbnail */
+"Advanced\nTools" = "進階\n工具";
+
+/* Sky thumbnail */
+"20+\nSkies" = "20+\n種天空";
+
+/* Primer thumbnail */
+"30+\nPrimers" = "30+\n種底漆";
+
+/* Subtitle appearing in the subscription screen, notifying users that by subscribing they can access all features of the app */
+"Access All Features" = "享用全部功能";
+
+/* Label on a button for purchasing subscription that renews every month
+ Text shown when 1 month of free trial is offered for new subscribers */
+"1 Month" = "1 個月";
+
+/* Button appearing in the subscription screen, notifying users that by pressing this button they are choosing an anual subscription plan - 12 months */
+"12 Months" = "12 個月";
+
+/* Label on a button for purchasing the product at a single one-time price, instead of a renewable subscription plan */
+"One-Time Purchase" = "一次性購買";
+
+/* Title of a button suggesting to the user to continue to payment in the subscription screen */
+"Continue" = "現在開始";
+
+/* Title of a button suggesting to the user to continue to payment in the subscription screen option 2 */
+"Begin creation" = "開始創作吧";
+
+/* Title of a button suggesting to the user to continue to payment in the subscription screen option 3 */
+"Begin advanced creation" = "開始進階創作";
+
+/* Label on a button that links to terms of use */
+"Terms of Use" = "使用條款";
+
+/* Label on a button that links to privacy policy */
+"Privacy Policy" = "隱私政策";
+
+/* Label on a button that restored previously purchased products */
+"Restore Purchases" = "恢復購買";
+
+/* Short terms of use for subscription */
+"Payment will be charged to your iTunes account at confirmation of purchase. Subscriptions will automatically renew unless auto-renew is turned off at least 24 hours before the end of current period. Your account will be charged according to your plan for renewal within 24 hours prior to the end of the current period. You can manage or turn off auto-renew in your Apple ID account settings at any time after purchase." = "確認購買後，會透過您的 iTune 帳戶付款。若未在本項訂用到期 24 小時前關閉自動續訂功能，則到期後將自動續訂。您的帳戶將依據目前訂用到期前 24 小時內的續訂狀態扣款。購買後，您可以隨時從 Apple ID 帳號設定中關閉自動續訂功能以管理續訂。";
+
+/* Subtitle of a button appearing in the subscription screen, notifying users that by pressing this button they will be saving {0}% annualy */
+"Save {0}% per year" = "每年節省 {0}%%";
+
+/* Additional data for a button appearing in the subscription screen, notifying users the total amount to pay according to the chosen plan */
+"Total" = "總計";
+
+/* Title of a pop-up informing the user that they can save {0} amount by upgrading to an annual payment plan. Example: Upgrade to yearly and save 50% now! */
+"Upgrade to yearly and save {0}% now!" = "立刻升級為按年並節省{0}%%！";
+
+/* Title of a button offering the user the continue using the monthly payment plan. Please keep as short as possible */
+"Continue with monthly" = "繼續按月";
+
+/* Title of a button offering the user to upgrade to an annual payment plan. Please keep as short as possible */
+"Upgrade to yearly" = "升級為按年";
+
+/* Message shown to the user if he is already a subscriber when accessing the subscription screen */
+"All the features are now available" = "所有功能皆已推出";
+
+/* Title of a message shown to the user if he is already a subscriber when accessing the subscription screen */
+"You're already a subscriber" = "您已經是訂戶";
+
+/* Subtitle appearing in the subscription screen, notifying users that by subscribing they can access all features of the app option 1 */
+"Access All Features - 3 Days Free" = "取得所有功能 - 3天免費";
+
+/* Subtitle appearing in the subscription screen, notifying users that by subscribing they can access all features of the app option 2 */
+"Your First 3 Days Free" = "前3天免費";
+
+/* Subtitle appearing in the subscription screen, notifying users that by subscribing they can access all features of the app option 3 */
+"Unlimited and enjoyable usage" = "無限享用 進階創作";
+
+/* Subtitle trial button option 1*/
+"Start Trial" = "開始試用";
+
+/* Subtitle trial button option 2*/
+"Start Free Trial" = "開始免費試用";
+
+/* Subtitle trial button option 3*/
+"Start 3 Day Trial" = "開使3天試用";
+
+/* Label above monthly subscription. */
+"Monthly subscription" = "按月訂閱";
+
+/* Label above yearly subscription. */
+"Yearly subscription" = "按年訂閱";
+
+/* Label above free trial. */
+"Free 3 day trial" = "免費試用三天";
+
+/* Label above yearly subscription and above free trial. */
+"Yearly subscription and 3 day trial" = "按年訂閱獲3天試用";
+
+/* String denoting that after trial ends, the user will pay the specified amount. Version 1. */
+"Afterwards" = "之後";
+
+/* String denoting that after trial ends, the user will pay the specified amount. Version 2. */
+"After trial" = "試用期後";
+
+/*====================================*/
+/*===== Subscription Trial Popup =====*/
+/*====================================*/
+
+/* Title of trial alert - 3 days, the translation is for "Your First 3 Days Free" */
+"Get 3 Days Free" = "前3天免費";
+
+/* Body text in a button encouraging the user to start a 3 day free trial of Lightleap Pro */
+"Get 3 Days Free!" = "取得免費3天試用！";
+
+/* Subtitle of trial alert, the translation is for "Primers, Filters, Sky, Strobe & unlimited Batch!" */
+"Get the best results with unlimited access to Sky, Portrait, Primers, and more." = "底漆、濾鏡、天空、閃光燈 & 無限批量！";
+
+/* Buttons which takes the user to the subscription screen, translation is for "Show me" */
+"Claim Now" = "秀給我看";
+
+/*==============================*/
+/*===== Introductory Price =====*/
+/*==============================*/
+
+/* Introductory Price strings */
+"Get 3 months for %@" = "3個月%1$@特惠價";
+
+/* Introductory Price strings */
+"Annual Plan" = "年度方案";
+
+/* Introductory Price strings */
+"3 Months for %@" = "3個月%1$@";
+
+/* Introductory Price strings */
+"then only %@ billed yearly" = "之後每年%1$@";
+
+/** ----------- **/
+/** Help Videos **/
+/** ----------- **/
+/* Help screen title */
+"Help" = "輔助說明";
+
+/* Strobe mode pre capture 1 */
+"Takes multiple shots of a moving object and combines them into a single photo." = "拍攝數張運動中物體的照片並合併成一張照片。";
+
+/* Strobe mode pre capture 2 */
+"Combines multiple shots into a single photo." = "將多張照片合併成一張照片。";
+
+/* Strobe mode pre capture 3 */
+"Combines continuous shots into a single photo." = "將連續拍攝的照片合併成一張照片。";
+
+/* Strobe mode post capture 1 */
+"Use the eraser to remove the strobe effect from unwanted areas." = "使用橡皮擦移除不想要的地方的頻閃效果。";
+
+/* Strobe mode post capture 2 */
+"Use the eraser to remove the effect from unwanted areas." = "使用橡皮擦將不想要的地方的效果移除。";
+
+/* Strobe mode post capture 3 */
+"Erase the effect from unwanted areas." = "擦除不想要的地方的效果。";
+
+/* Lightleap mode pre capture */
+"Automatically straightens & crops your shot." = "自動加強與裁切照片。";
+
+/* HDR help 1 */
+"Fix dark images or harsh lighting." = "修復過暗的圖像或過強的照明。";
+
+/* HDR help 2 */
+"Fix shots with bad lighting." = "修復燈光不良的照片";
+
+/* HDR help 3 */
+"Improve dark or harsh lighting." = "改善過暗或過強的燈光。";
+
+/* Batch editing help title */
+"Batch Editing" = "整批編輯";
+
+/* Batch editing help subtitle  */
+"Edit multiple photos at once." = "同時編輯多張照片。";
+
+/* Reset help title */
+"Batch Editing" = "整批編輯";
+
+/* Reset help subtitle  */
+"Long press Undo button to reset." = "按住撤銷按鈕以重設";
+
+/* Reset Slider help title*/
+"Reset Slider" = "重設滑塊";
+
+/* Reset Slider help subtitle*/
+"Long press to reset values." = "按住以重設數值。";
+
+/* Compare help title*/
+"Compare" = "比較";
+
+/* Compare help subtitle*/
+"Long press to compare." = "按住以比較。";
+
+/* Apply to all help title*/
+"Apply To All" = "全部套用";
+
+/*  Apply to all help subtitle*/
+"Apply the current style to all the photos." = "將目前的風格套用到全部照片。";
+
+/* Primers help title*/
+"Primers" = "底漆";
+
+/* Primers help subtitle*/
+"Select a Primer. Tap again for further tweaking." = "選擇底漆，再輕點一次以進一步調整。";
+
+/* Sky help title*/
+"Sky" = "天空";
+
+/* Sky help subtitle variation 1 */
+"Replace your overexposed sky." = "換掉曝光過度的天空。";
+
+/* Sky help subtitle variation 2 */
+"Adjust Feather, Horizon and Ambient to match the Sky to your photo." = "调整羽毛狀效果、地平線效果和環境，令天空背景與你的照片匹配。";
+
+/* Help video for reseting changes - title */
+"Reset all" = "全部重設";
+
+/* Help video for reseting changes - subtitle */
+"Long press the Undo button to reset all changes." = "長按撤銷按鈕以重設所有變更。";
+
+/* Contact us button*/
+"Contact Us" = "與我們聯繫";
+
+/** ------ **/
+/** Camera **/
+/** ------ **/
+
+/* HDR pre light assessment message 1 */
+"Tap the screen for exposure calibration." = "點按螢幕進行曝光校正。";
+
+/* HDR during light assessment message 2 */
+"Calibrating..." = "正在校正...";
+
+/* HDR during light assessment message 3 */
+"Ready!" = "準備好了！";
+
+/* Misalignment error message title */
+"Hold Steady!" = "保持穩定！";
+
+/* Misalignment error message subtitle */
+"Try to hold still while taking the shot." = "在拍照時保持穩定。";
+
+/* Misalignment error message button */
+"Got it" = "知道了";
+
+/* Message shown to user when camera moved while taking a shot */
+"For perfect shots, hold still while shooting" = "拍攝時請保持穩定以便獲得完美照片";
+
+/** ------------ **/
+/** Album screen **/
+/** ------------ **/
+
+/* My albums album header */
+"My Albums" = "我的相簿";
+
+/* Lightleap photos album header */
+"Lightleap Photos" = "Lightleap 照片";
+
+/* sessions album header */
+"Sessions" = "工作時段";
+
+/* Batch sessions album header */
+"Batch Sessions" = "成批工作時段";
+
+/* Title of an album containing demo photos supplied with the app */
+"Demo Photos" = "演示照片";
+
+/* favorites album header */
+"Favorites" = "收藏集";
+
+/* Library album header */
+"Library" = "圖片庫";
+
+/* Albums header */
+"Albums" = "相簿";
+
+/* Deselect button */
+"Deselect" = "取消選取";
+
+/* Deselect button */
+"Deselect all" = "全部取消選取";
+
+/* Edit photo button */
+"Edit photo" = "編輯照片";
+
+/* Edit 2 photos button */
+"Edit 2 photos" = "編輯 2 張照片";
+
+/* Delete sessions button */
+"Delete 2 sessions" = "刪除 2 個工作時段";
+
+/* Delete session button */
+"Delete session" = "刪除工作時段";
+
+/* Delete batch sessions button */
+"Delete 2 Batch sessions" = "刪除 2 個成批工作時段";
+
+/* Delete batch session button */
+"Delete Batch session" = "刪除成批工作時段";
+
+/* Edit button */
+"Edit" = "編輯";
+
+/* Cancel button */
+"Cancel" = "取消";
+
+/* Select multiple photos button*/
+"Select" = "選取";
+
+/* Album section title - today*/
+"Today" = "今天";
+
+/* Album section title - this week*/
+"This Week" = "這星期";
+
+/* Album section title - this month*/
+"This Month" = "這個月";
+
+/* Album section title - older*/
+"Older" = "較久以前";
+
+/* Section of the album containing photos from the current year */
+"This Year" = "今年";
+
+/* Section of the album containing photos taken earlier than this year */
+"Earlier" = "更久以前";
+
+/** ------------- **/
+/** Strobe helper **/
+/** ------------- **/
+
+/* Message button */
+"Eraser brush" = "橡皮刷";
+
+/* More button */
+"Restore brush" = "還原筆刷";
+
+/** ------ **/
+/** Export **/
+/** ------ **/
+
+/* save button */
+"Save" = "儲存";
+
+/* Message button */
+"Message" = "訊息";
+
+/* More button */
+"More" = "更多";
+
+/* Message shown to non-subscriber user trying to export image with pro features */
+"You’ve used Pro features!\nGo Pro to export edit as is or remove Pro effects." = "你已經使用了專業版功能！\n升級至專業版以匯出編輯內容或移除專業版效果。";
+
+/* Remove pro edit option button */
+"Remove" = "移除";
+
+/* Go Pro option */
+"Go Pro!" = "升級至專業版！";
+
+/* Alert informing user that pro edit will be removed */
+"This will undo all the Pro effects applied to your photo in order to export it." = "這將會撤銷照片上所有專業效果以便匯出。";
+
+/* Alert title */
+"Remove Pro Effects" = "移除專業效果";
+
+/* Alert button remove */
+"Remove now" = "現在移除";
+
+/* Message shown to user after image was saved to camera roll */
+"Saved to camera roll" = "儲存至相機膠捲";
+
+/* Message to the user that export succeeded */
+"Success!" = "成功！";
+
+/* Button text that allows the user to dismiss an alert */
+"Dismiss" = "消除";
+
+/* Message to the user that the export was canceled */
+"Canceled" = "已取消";
+
+/*=============================*/
+/*======= Import Screen =======*/
+/*=============================*/
+
+/* Export photos button title */
+"Export" = "匯出";
+
+/* Delete photos button title */
+"Delete" = "刪除";
+
+/* Undo all the edits of the selected photos */
+"Undo Edits" = "撤銷編輯";
+
+/* Adds the selected photos to the Favorites folder */
+"Add to Favorites" = "添加至收藏集";
+
+/* Removes the selected photos from the Favorites folder */
+"Remove from Favorites" = "從收藏集移除";
+
+/* Title in sessions album when it is empty */
+"No sessions yet" = "還沒有工作時段";
+
+/* Subtitle in sessions album when it is empty */
+"Start editing - Edits are automatically saved and will appear here!" = "開始編輯 - 編輯內容會自動儲存並出現在這裡！";
+
+/* Title of an empty photos album */
+"Oops, no photos here." = "糟糕，這裡沒有照片！";
+
+/* Import screen what's new 1 - title */
+"New Import Screen" = "新匯入頁面";
+
+/* Import screen what's new 1 - subtitle */
+"Use Select to Export, Delete, or Edit multiple shots" = "利用選取功能以同時匯出、刪除或編輯多張照片";
+
+/* Import screen what's new 2 - title */
+"All Sessions in One Place" = "所有工作時段在同一位置";
+
+/* Import screen what's new 2 - subtitle */
+"Tap to find all your in-progress edits" = "點按以查找正在編輯的照片";
+
+/* Presented to a user that did not give access to his photos library, yet tries to perform an action that involves accessing it */
+"Lightleap does not have access to your photos. To enable access, go to iOS settings" = "Lightleap 沒有取用您照片的許可，要允許取用，請前往 iOS 設定。";
+
+/* Positive resopnse to the import error message. Redirect to the settings. */
+"Let's do it!" = "就這麼辦！";
+
+/*==================================*/
+/*======= Main Toolbar tools =======*/
+/*==================================*/
+
+ /* Primers tool, max 9 chars! */
+"Primers" = "底漆";
+
+/* Sky tool, max 9 chars! */
+"Sky" = "天空";
+
+/* Filters tool, max 9 chars! */
+"Filters" = "濾鏡";
+
+/* Details tool, max 9 chars! */
+"Details" = "細節";
+
+/* Adjust tool, max 9 chars! */
+"Adjust" = "調整";
+
+/* Canvas tool, max 9 chars! */
+"Canvas" = "畫布";
+
+/** ----------- **/
+/** Edit screen **/
+/** ----------- **/
+
+/* Apply to button */
+"Apply to all" = "全部套用";
+
+/* Custom preset package */
+"Custom" = "自訂";
+
+/* Neutral preset package */
+"Neutral" = "素淨";
+
+/* Button which takes the user back to the photo albums*/
+"Photos" = "張照片";
+
+/* Reset preset package */
+"Reset" = "重設";
+
+/* Saved preset package */
+"Saved" = "已儲存";
+
+/* Nature preset package */
+"Nature" = "自然";
+
+/* Urban preset package */
+"Urban" = "都市風";
+
+/* Portrait preset package */
+"Portrait" = "人像";
+
+/* Title that appears below the Sparkle overlays toolbar pack */
+"Sparkle" = "閃耀";
+
+/* Title of a slider controlling the size of the particles in the Sparkle effect */
+"Size" = "尺寸";
+
+/* Title of a slider controlling the density of the particles in the Sparkle effect */
+"Density" = "密度";
+
+/* Chinese New Year overlay package */
+"New Year" = "新年";
+
+/* Mood overlay package */
+"Mood" = "心情";
+
+/* Duo overlay package */
+"Duo" = "雙色";
+
+/* IntroPresentation.pages.title */
+"Overlay" = "覆蓋";
+
+/* Toolbar button, adds a lens flare effect. */
+"Lens Flare" = "鏡頭光暈";
+
+/* Title that appears below the Weather overlays toolbar pack */
+"Weather" = "天氣";
+
+/* Title for a pack of Valentines themed Overlays Packs */
+"Valentine's" = "情人節";
+
+/* Summer preset package */
+"Summer" = "夏季";
+
+/* Abstract preset package */
+"Abstract" = "抽象";
+
+/* Night preset package */
+"Night" = "晚間";
+
+/* B&W preset package */
+"B&W" = "黑白";
+
+/* Preset saved notification */
+"Preset saved as:" = "預設置儲存為：";
+
+/* Quickfix on notification */
+"Quickfix on" = "Quickfix 打開";
+
+/* Quickfix off notification */
+"Quickfix off" = "Quickfix 關閉";
+
+/* Undo notification */
+"Undo" = "復原";
+
+/* Redo notification */
+"Redo" = "重新進行";
+
+/* Redo notification */
+"Redo" = "重新進行";
+
+/* Filters button */
+"Filters" = "濾鏡";
+
+/* Brightness button */
+"Brightness" = "亮度";
+
+/* Exposure button */
+"Exposure" = "曝光";
+
+/* Shadows button */
+"Shadows" = "陰影";
+
+/* Highlights button */
+"Highlights" = "亮部";
+
+/* Contrast button */
+"Contrast" = "對比";
+
+/* Sharpen button */
+"Sharpen" = "銳利化";
+
+/* Saturation button */
+"Saturation" = "飽和度";
+
+/* Temp button */
+"Temp" = "溫度";
+
+/* Tint button */
+"Tint" = "色彩";
+
+/* Hue button */
+"Hue" = "色相";
+
+/* Depth button */
+"Depth" = "深度";
+
+/* Filters button */
+"Filters" = "濾鏡";
+
+/* Structure button */
+"Structure" = "構成";
+
+/* Vibrance button */
+"Vibrance" = "鮮活";
+
+/* Vignette button */
+"Vignette" = "暈影";
+
+/* Bright preset package */
+"Bright" = "明亮";
+
+/* Drama preset package */
+"Drama" = "戲劇";
+
+/* Faded preset package */
+"Faded" = "褪色";
+
+/* HighCon (<- As in high contrast) preset package */
+"HighCon" = "高反差";
+
+/* LowCon (<- As in low contrast) preset package */
+"LowCon" = "低反差";
+
+/* Go Pro button */
+"Go Pro" = "升級為 Pro";
+
+/*Pop tool button (As in "the color pops out") */
+"Pop" = "突出";
+
+/*cool tool button (Cool as in "colder") */
+"Cool" = "清涼";
+
+/*calm tool button */
+"Calm" = "平靜";
+
+/*fade tool button */
+"Fade" = "褪色";
+
+/*Select All button */
+"Select All" = "全部選取";
+
+/* Day preset package */
+"Day" = "白天";
+
+/* NEON preset package */
+"NEON" = "霓虹燈";
+
+/* Night preset package */
+"Night" = "晚間";
+
+/* Cinematic preset package */
+"Cinematic" = "電影";
+
+/* Mystery preset package */
+"Mystery" = "神秘";
+
+/* Radical preset package */
+"Radical" = "激進";
+
+/* No filter */
+"None" = "原圖";
+
+/* essential filters */
+"Essential" = "基本";
+
+/* Adjust Primer tool */
+"Adjust Primer" = "調整底漆";
+
+/* Adjust Filter tool */
+"Adjust Filter" = "調整濾鏡";
+
+/* Ratio tool */
+"Ratio" = "比率";
+
+/* Temperature (here we use ‘Temp’ because ‘Temperature’ is too long) button */
+"Temp" = "溫度";
+
+/* Light button */
+"Light" = "燈光";
+
+/* Straighten button */
+"Straighten" = "拉直";
+
+/* Horizontal skew button */
+"H-skew" = "水平傾斜";
+
+/* Vertical skew button */
+"V-skew" = "垂直傾斜";
+
+/* Rotate button */
+"Rotate" = "旋轉圖像";
+
+/* Flip horizontally button */
+"Flip H" = "水平翻頁";
+
+/* Flip vertically button */
+"Flip V" = "垂直翻頁";
+
+/* Ratio button */
+"Ratio" = "比率";
+
+/* Ratios button */
+"Ratios" = "比率";
+
+/* Free ratio button */
+"Free" = "免費";
+
+/* Grain tool */
+"Grain" = "顆粒";
+
+/* Color */
+"Color" = "顏色";
+
+/* Title for a pack of Christmas themed Overlays and Sky Packs */
+"Christmas" = "聖誕節";
+
+/*=========================*/
+/*======= Sky Tool ========*/
+/*=========================*/
+
+/* Sky tool */
+"Sky" = "天空";
+
+/* Randomizes the sky */
+"Random" = "隨機";
+
+/* Controlls the opacity of the sky */
+"Opacity" = "透明度";
+
+/* Changes the sky color according to a time of day */
+"Time" = "時間";
+
+/* Adds clouds to the sky */
+"Clouds" = "雲朵";
+
+/* Shifts the clouds */
+"Wind" = "風";
+
+/* Matches the color of the sky with the current filter option 1 */
+"Color Match" = "顏色匹配";
+
+/* Matches the color of the sky with the current filter option 2 */
+"Colorize" = "著色";
+
+/* Sky horizon button*/
+"Horizon" = "地平線";
+
+/* Feather horizon button*/
+"Feather" = "羽毛狀效果";
+
+/* Shift horizon button*/
+"Shift" = "移位";
+
+/* Ambient horizon button*/
+"Ambient" = "環境";
+
+/* Sunny sky package*/
+"Sunny" = "晴空";
+
+/* Fantasy sky package*/
+"Fantasy" = "幻想";
+
+/* Dusk sky package*/
+"Dusk" = "黃昏";
+
+/* Sunset sky package*/
+"Sunset" = "日落";
+
+/* Night sky package*/
+"Night" = "晚間";
+
+/* Aurora sky package*/
+"Aurora" = "極光";
+
+/* Storm sky package*/
+"Storm" = "風暴";
+
+/* New Sky package - Ablaze */
+"Ablaze" = "閃閃發光";
+
+/*===============================*/
+/*======= Portrait Tool =========*/
+/*===============================*/
+
+ /* Blur */
+"Blur" = "模糊";
+
+/* Glow */
+"Glow" = "光暈";
+
+/* Smooth */
+"Smooth" = "磨滑";
+
+/*==================================*/
+/*======= Primer Properties ========*/
+/*==================================*/
+
+/* Primers tool */
+"Primers" = "底漆";
+
+/* Changes the low mixing */
+"Lows" = "低";
+
+/* Changes the mid mixing */
+"Mids" = "中";
+
+/* Changes the high mixing */
+"Highs" = "高";
+
+/* Changes the effect on people */
+"People" = "人物";
+
+/* Changes the effect on people option 2 */
+"Person" = "人物";
+
+/* Changes the luminance */
+"Luminance" = "光亮度";
+
+/* Changes the chroma (color) */
+"Chroma" = "色度";
+
+/* Adds details */
+"Details" = "細節";
+
+/*=============================*/
+/*======= Filter packages =====*/
+/*=============================*/
+
+ /* Vibrant Package */
+"Vibrant" = "活力";
+
+/* Fade Package */
+"Fade" = "褪色";
+
+/* Portrait Package */
+"Portrait" = "人像";
+
+/* Urban Package */
+"Urban" = "都市風";
+
+/* B&W (Black and white) Package */
+"B&W" = "黑白";
+
+/* Film Package */
+"Film" = "影片";
+
+/* Bright Package */
+"Bright" = "明亮";
+
+/* Neutral Package */
+"Neutral" = "素淨";
+
+/* Cold Package */
+"Cold" = "冰冷";
+
+/* Warm Package */
+"Warm" = "溫暖";
+
+/* Thank you pop up - title */
+"Thank you!" = "謝謝！";
+
+/* Thank you pop up - substitle */
+"We appreciate your support.\nPlease enjoy all-access to premium features and unlimited primers & filters." = "感謝你的支持與贊助，\n現在起你可以享用所有進階功能並無限取用底漆與濾鏡。";
+
+/* Thank you pop up - continue button */
+"Get Started" = "立即開始";
+
+/* New Filter package - Tones */
+"Tones" = "色調";
+
+/*=============================*/
+/*======= Intro Strings =======*/
+/*=============================*/
+
+/* Intro first slide */
+"Welcome to Lightleap!" = "歡迎使用 Lightleap！";
+
+/* Intro first slide subtitle */
+"Take amazing shots on the go" = "隨時拍攝動人的照片";
+
+/* Intro second slide variation 1 */
+"Make every photo you take beautiful" = "讓所拍的每張照片魅力動人";
+
+/* Intro second slide variation 2 */
+"Make every sky breathtaking" = "讓每片天空令人驚嘆";
+
+/* Into screen showing the portrait feature - option 1 */
+"And every portrait stunning" = "每一張人像皆完美動人";
+
+/* Into screen showing the portrait feature - option 2 */
+"Create stunning portraits" = "打造令人讚嘆的人像";
+
+/* Intro fourth slide */
+"Save time! Edit multiple photos at once" = "節省時間！同時編輯數張照片";
+
+/* Finish intro button */
+"Dive right in!" = "立即開始！";
+
+/* Button displayed on the last slide of the app introduction */
+"Get Started!" = "現在就開始！";
+
+/*=================================*/
+/*======= Apple retail demo =======*/
+/*=================================*/
+
+/* Alert when demo version is launched */
+"This version of %@ has been created specifically for demonstration purposes" = "此版本的%1$@乃專為示範而製";
+
+/* Title of alert appearing when trying to enter a disabled feature */
+"Feature not enabled for this demo" = "功能未於此示範版本啟用";
+
+/* Alert accept button */
+"OK" = "好";
+
+/*====================================*/
+/*======= What's new component =======*/
+/*====================================*/
+
+/* What's new component title variation 1 */
+"New Portrait Tool" = "全新人像工具";
+
+/* What's new component subtitle variation 1 */
+"Try it now" = "現在嘗試";
+
+/* What's new component subtitle variation 2 */
+"Try it on your portraits!" = "在你的人像上試試！";
+
+/* What's new component subtitle variation 3 */
+"Professional portraits in a few taps" = "點按幾下即可獲得專業人像效果";
+
+/*=============================================*/
+/*======= Temporary Free Preset Strings =======*/
+/*=============================================*/
+
+/* Title of subscription banner */
+"Get unlimited access with Lightleap PRO." = "取得無限存取 Lightleap PRO。";
+
+/* Subtitle of temporarily-free presets tool tip */
+"Quick, before they’re gone - Pro features with this icon are free!" = "機會難得，快點把握 - 這個圖示內的 Pro 功能免費！";
+
+/* Local notification with new presets open up - title */
+"Try now!" = "立即嘗試！";
+
+/* Local notification with new presets open up - option 1 */
+"New FREE Presets available for a limited time only." = "限時免費使用預設置。";
+
+/* Local notification with new presets open up - option 2 */
+"Brand new FREE Presets available for a limited time only." = "限時免費試用全新預設置。";
+
+/*================================*/
+/*======= Refferal Strings =======*/
+/*================================*/
+
+ /* Title of refferal pop up - option 1 */
+"Share for More Lightleap!" = "分享以獲得更多 Lightleap！";
+
+/* Title of refferal pop up - option 2 */
+"Share for Pro Exports!" = "分享以使用 Pro 匯出！";
+
+/* Title of refferal pop up - option 3 */
+"Share for more exports" = "分享以獲得更多匯出機會";
+
+/* Subtitle of refferal pop up - option 1 */
+"Get 3 Pro exports and give a 7 day free trial - share Lightleap today!" = "獲得 3 次 Pro 匯出並給予 7 天免費試用 - 現在就分享 Lightleap！";
+
+/* Subtitle of refferal pop up - option 2 */
+"Get 3 Pro exports and give a 7 day free trial when your friend downloads Lightleap - share Lightleap today!" = "你的朋友下載 Lightleap 你即可獲得 3 次 Pro 匯出並給予 7 日免費試用 - 立即分享 Lightleap！";
+
+/* Thank you message after refferal - Title */
+"Thanks for sharing!" = "非常謝謝你的分享！";
+
+/* Thank you message after refferal - Subtitle */
+"Bonus! Here’s one free Export – on us :)" = "獎金！贈送你一次免費匯出！";
+
+/* Refferals explanation */
+"When your referred friend downloads Lightleap, you’ll get another 3 free Pro Exports!" = "只要介紹一名親友下載 Lightleap，就可以免費獲得 3 次 Pro 匯出！";
+
+/* Button which opens the refferal pop up - option 1 */
+"Get free Pro Exports!" = "獲得免費 Pro 匯出！";
+
+/* Button which opens the refferal pop up - option 2 */
+"Want to get free Pro Exports?" = "想要取得免費 Pro 匯出嗎？";
+
+/* Lightleap link share button */
+"Share" = "分享";
+
+/* Message letting the user know that even though he used pro features, he can use pro exports */
+"You've used Pro tools! Continue to use a free export" = "你使用了 Pro 工具！繼續以使用免費匯出";
+
+/*=====================*/
+/*======= Masks =======*/
+/*=====================*/
+
+/* Undo / Redo action name (will say "undo: brush") */
+"Brush" = "刷子";
+
+/* Masks - help */
+"Use Eraser to remove or Brush to add your Sky or Portrait to certain areas." = "使用橡皮擦移除或用刷子在特定區域加上天空或人像。";
+
+/* Masks - what's new title 1 */
+"Masks" = "遮罩";
+
+/* Masks - what's new title 2 */
+"Brushes" = "刷子";
+
+/* Masks - what's new subtitle */
+"A perfect match in every photo. Adjust your Skies and Portrait Masks." = "讓每張照片完美搭配。調整你的天空或人像遮罩。";
+
+/*===================================*/
+/*======= Intro slides Screen =======*/
+/*===================================*/
+
+/* Intro slides - Sky 1 */
+"Replace gray (or any!) skies with incredible Sky presets" = "使用不可思議的天空預設置取代灰濛濛的（或任何狀態的）天空";
+
+/* Intro slides - Sky 2 */
+"Change any sky in one tap" = "輕輕一點，改變天空樣貌";
+
+/* Intro slides - portrait 1 */
+"Make portraits pop with background blur & multiple presets" = "以背景模糊 & 多種預設置突出人像";
+
+/* Intro slides - portrait 2 */
+"Retouch portraits to perfection in one tap" = "輕輕一點，完美修圖";
+
+/* Intro slides - portrait 3 */
+"Retouch portraits to perfection" = "完美修圖";
+
+/* Intro slides - filters 1 */
+"Adjust the mood of any shot with premium Filters" = "利用高級濾鏡調整每張照片的心情效果";
+
+/* Intro slides - filters 2 */
+"Adjust the mood in one tap" = "輕輕一點，調整心情效果";
+
+/* Intro slides - filters 3 */
+"Adjust the mood with premium Filters" = "利用高級濾鏡調整心情效果";
+
+/* Intro slides - Magic 1 */
+"Effortless auto-adjustment in just a tap!" = "輕輕一點，輕鬆自動調整！";
+
+/* Intro slides - Magic 2 */
+"Fix photos magically in just one tap" = "輕輕一點，照片神奇變身";
+
+/* Intro slides - Magic 3 */
+"Magically fix every image" = "神奇地修復每張圖像";
+
+/* Intro slides - overlays 1 */
+"Smart Overlays adjust automatically to properly match every photo!" = "智慧疊加可以依據每張照片自動調整！";
+
+/* Intro slides - overlays 2 */
+"Add stunning special effects" = "添加令人驚艷的特效";
+
+/* Intro slides - overlays 3 */
+"Special effects in one tap" = "輕輕一點，特效立見";
+
+/* Intro slides - final slide 1 */
+"So many amazing photos, all in one tap!" = "輕輕一點，照片華麗變身！";
+
+/* Intro slides - final slide 1 */
+"One photo, so many amazing looks!" = "一張照片，多種驚人效果！";
+
+/*========================*/
+/*======= Overlays =======*/
+/*========================*/
+
+/* What's new title */
+"New! Overlays" = "新！疊加";
+
+/* What's new subtitle */
+"Add a little something extra & transform your shots" = "添加一點特別的東西 & 讓照片大變身";
+
+/*=========================*/
+/*======= Magic Fix =======*/
+/*=========================*/
+
+/* Magic fix feature title */
+"Magic" = "神奇";
+
+/* What's New title */
+"Magic in a Tap" = "輕輕一點，神奇立現";
+
+/* What's New subtitle */
+"Adjust and Enhance your photos - no effort necessary!" = "調整並增強照片 - 毫不費力！";
+
+/*=============================*/
+/*======= Export screen =======*/
+/*=============================*/
+
+/* export - what's new title */
+"New Export Options" = "新匯出選項";
+
+/* export - what's new subtitle */
+"Change your format, export to social media & more!" = "變更您的格式，匯出到社群媒體 & 更多！";
+
+/* eraser tooltip */
+"Tap to Erase!" = "點按以擦除！";
+
+/* export - save new photo over original photo */
+"Replace" = "替換";
+
+/* export - save new photo as new copy photo */
+"Save Copy" = "保存為複製檔案";
+
+/* Save copy option explanation */
+"Saves an edited copy, but leaves original untouched" = "儲存編輯後的版本，並保留原始版本";
+
+/* Save over option explanation */
+"Replaces original photo with edited version" = "以編輯版本取代原始照片";
+
+/* button which exports the edited photo to instagram */
+"Post to Instagram" = "張貼至 Instagram";
+
+/* explanation on button which provides export through other apps */
+"Other Apps and Services" = "其他應用程式與服務";
+
+/* export photo format type */
+"Format" = "格式";
+
+/* label explaining the destination of the export */
+"Export to" = "匯出至";
+
+/* Looks feature title */
+"Looks" = "外觀";
+
+/* Looks what's new title */
+"Looks are combinations of tools, specially crafted by our design team. Check them out now!" = "外觀是由我們的設計團隊精心設計的工具組合，立即查看！";
+
+/* Primers what's new title */
+"Primers are still here! We've just moved them around and changed the icon." = "底漆還在！我們只是將其移動位置並改了圖示。";
+
+/* Looks popup title */
+"Specially Crafted Lightleap Combinations" = "專門設計的Lightleap組合";
+
+/* Looks popup subtitle */
+"Looks are combinations of Lightleap tools, specially crafted by our design team." = "外觀是由我們的設計團隊精心設計的Lightleap工具組合。";
+
+/* Tooltip explaining to the user how to erase a mask */
+"Tap here, then swipe your photo to erase the effect" = "點按這裡，然後滑過照片以擦除效果";
+
+/* Promotion screen title */
+"Hurry & get a month of Lightleap Pro for only %@!" = "馬上下手，只需%1$@即可使用Lightleap Pro一個月！";
+
+/* Promotion screen second title */
+"Get even more with Lightleap Pro!" = "更加充分利用Lightleap Pro！";
+
+/* Promotion screen features 1 */
+"Unlock all tools" = "解鎖全部工具";
+
+/* Promotion screen features 2 */
+"More Skies, more Filters!" = "更多天空，更多濾鏡！";
+
+/* Promotion screen features 3 */
+"New Pro content every month" = "每月皆有最新Pro內容";
+
+/* Promotion screen price text */
+"Get 1 Month for %@" = "取得1個月%1$@";
+
+/* Promotion screen price text 2 */
+"then only %@ (billed yearly)" = "再來只要%1$@（按年收費）";
+
+/* Promotion screen text explaining to the user he can cancel his subscription */
+"Cancel anytime" = "隨時取消";
+
+/* Banner explaining to the user he used pro features */
+"You've used Pro features! Unlock Pro features to save." = "您使用了Pro功能！解鎖Pro功能以儲存。";
+
+/* Button on the banner, which opens the subscription screen */
+"Unlock Pro features" = "解鎖Pro功能";
+
+/* Button which removes the edits that were using pro features */
+"Remove Limit" = "移除限制";
+
+/* Free trial button */
+"Free trial" = "免費試用";
+
+/* Crop tool title */
+"Crop" = "剪裁";
+
+/* Subtitle for an error message when a photo couldn't be saved 1 */
+"Oops, can't save over a demo photo" = "糟糕，無法覆蓋演示照片";
+
+/* Subtitle for an error message when a photo couldn't be saved 2 */
+"Oops, can't save over a video" = "糟糕，無法覆蓋影片";
+
+/* Message shown when user uses a tool which works on faces */
+"Couldn't find a face" = "無法找到臉孔";
+
+/* Referrals - message shown to referred user */
+"Your First 7 Days Free" = "一開始的7天免費";
+
+/* Notification text informing the user that they can try Lightleap VIP free for 7 days */
+"Try free for 7 days!" = "7天免費試用！";
+
+/* Trial push notification version 1 */
+"Time is almost up ⏲ get your free trial!" = "所剩時間不多 ⏲ 取得免費試用！";
+
+/* Trial push notification version 2 */
+"Time is almost up ⏲ get a free trial of unlimited Skies, stunning Filters, and beautiful Overlays. Tap to get started!" = "所剩時間不多 ⏲免費無限試用天空效果、美輪美奐的濾鏡以及動人的疊加。點按以開始！";
+
+/* Trial push notification version 3 */
+"Time is almost up ⏲ get a free week of unlimited Skies, stunning Filters, and beautiful Overlays. Tap to get started!" = "所剩時間不多 ⏲取得一星期無限使用天空效果、美輪美奐的濾鏡以及動人的疊加。點按以開始！";
+
+/* Referrals - message shown to referred user 2 */
+"Have you tried Lightleap? Get 1 week free!" = "試用過Lightleap嗎？取得免費試用1星期！";
+
+/* Message shown to the user when a reffered user downloads Lightleap - title */
+"Yay!" = "耶！";
+
+/* Message shown to the user when a reffered user downloads Lightleap - subtitle */
+"You've got %lu Pro points!" = "您已取得%1$lu個Pro點數！";
+
+/* Message shown to user when he is about to save a photo and use a point */
+"Use 1 Pro point" = "使用1個Pro點數";
+
+/* Message shown to user when he wants to share Lightleap link but there is no connection */
+"No internet connection" = "無網路連線";
+
+/* 'share Lightleap' dialog title */
+"Share and get Lightleap Pro" = "分享並取得Lightleap Pro";
+
+/* 'share Lightleap' dialog subtitle */
+"Get 3 Pro points every time a friend downloads Lightleap via this link. Use your points to save images with Pro features." = "每次有朋友透過這個連結下載Lightleap時即可獲得3點。使用您的點數以儲存Pro功能圖像。";
+
+/* button which will take users to the 'share Lightleap' dialog */
+"Get free Pro points!" = "取得免費Pro點數！";
+
+/* button which will take users to the 'share Lightleap' dialog 2 */
+"Want to get free Pro points?" = "想要取得免費Pro點數嗎？";
+
+/* Message shown to user after he shared the Lightleap link */
+"When your referred friend downloads Lightleap, you’ll get another 3 free Pro points!" = "當您推薦的朋友下載Lightleap，您即可獲得3個免費 Pro點數！";
+
+/* Effects feature title */
+"Effects" = "特效";
+
+/* Title for pop up which allows the user to save the current edit as a new look */
+"Name Your Look" = "為造型命名";
+
+/* Subtitle for pop up which allows the user to save the current edit as a new look */
+"Name & save your signature editing style!" = "為您的特色編輯風格命名&儲存！";
+
+/* Rename the look button */
+"Rename" = "重新命名";
+
+/* Button which saves a Look in the Look feature */
+"Save Look" = "儲存外觀";
+
+/* Title of the pop up which enables you to rename a Look you previously saved */
+"Rename Look" = "重新為外觀命名";
+
+/* Button text for accepting the changes you have made your Look's name  */
+"Done" = "已完成";
+
+/* Message displayed to the user when the image is being saved */
+"Saving photo" = "儲存照片";
+
+/* Message displayed to the user when multiple images are being saved */
+"Saving photos" = "儲存照片";
+
+/* Pop up displayed when user tries to use a Pro feature */
+"This is Pro only. Go Pro to get this feature!" = "Pro限定。請升級至Pro版以取用這項功能！";
+
+/* Label on a button that restores previously purchased products */
+"Already paid?" = "已經付款？";
+
+/* Chinese welcome popup title */
+"Welcome Bonus" = "迎新大禮";
+
+/* Chinese welcome popup subtitle */
+"You’ve received %lu days of Pro free! You can now access all features of the app for %lu days" = "您已獲得專業版免費使用 %1$lu 天！現在您可以在 %2$lu 天內使用應用程式的完整功能";
+
+/* Chinese intro subscription popup title */
+"Keep Using Pro" = "繼續試用專業版！";
+
+/* Chinese intro subscription popup subtitle */
+"Hope you enjoyed your trial. Pay for 5 months of Pro, get another 7 months FREE!" = "希望您享受您的免費試用體驗。購買專業版5個月，即可獲贈額外7個月免費使用";
+
+/*=============================*/
+/*======= Custom looks ========*/
+/*=============================*/
+
+/* Looks - what's new Title */
+"New: Custom Looks" = "最新：自訂外觀";
+
+/* Looks - what's new Subtitle */
+"Name & save your signature editing style" = "為您的特色編輯風格命名&儲存";
+
+/* Looks Pro popup - appears when non-sub tries to save more looks than allowed - Title*/
+"Add more looks with Pro" = "升級Pro添加更多外觀";
+
+/* Looks Pro popup - appears when non-sub tries to save more looks than allowed - Subtitle*/
+"Save up to %@ custom Looks" = "可以儲存%1$@個自訂外觀";
+
+/* Save new Look tooltip */
+"Love your current edits? Tap here to name your Look & save it!" = "喜歡您目前的編輯內容嗎？點按這裡以為外觀命名&儲存！";
+
+/* Custom Looks limit reached for subscribers message - title  */
+"Custom Looks are Full" = "自訂外觀已滿";
+
+/* Custom Looks limit reached for subscribers message - title  */
+"We love that you're creating more Looks, but Lightleap can only handle 30 custom Looks at a time. Press & hold an older Look, then choose delete to make room for a new Look." = "我們很高興您不斷創作新的外觀，但是Lightleaps一次僅能處理30個自訂外觀。長按一個舊的外觀，接著選取刪除以騰出空間給新外觀使用。";
+
+/*===================================*/
+/*======= Subscription offers =======*/
+/*===================================*/
+
+/* Title of a pop-up subscription screen offering a discounted product*/
+"Save %@%%" = "節省%1$@%%";
+
+/* Title of a pop-up subscription screen offering a discounted product*/
+"1 Year for Just %@" = "1年僅需%1$@";
+
+/* Sub -Title of a pop-up subscription screen offering a discounted product*/
+"Renew now and save %@%% next year." = "現在續訂並在明年節省%1$@%%。";
+
+/* Sub -Title of a pop-up subscription screen offering a discounted product*/
+"Renew now and save %@%% next year. \n Cancel anytime." = "現在續訂並在明年節省%1$@%%。 \n 可隨時取消。";
+
+/* Sub -Title of a pop-up subscription screen offering a discounted product*/
+"Renew your subscription and save %@%% on the following year." = "續訂並在接下來的一年節省%1$@%%。";
+
+/* Sub -Title of a pop-up subscription screen offering a discounted product*/
+"Renew your subscription and save %@%% on the following year. \n Cancel anytime." = "續訂並在接下來的一年節省%1$@%%。 \n 可隨時取消。";
+
+/* Sub -Title of a pop-up subscription screen offering a discounted product*/
+"Then %@ the year after. \n Cancel anytime." = "次年%1$@。 \n 可隨時取消。";
+
+/* Sub -Title of a pop-up subscription screen offering a discounted product*/
+"Then %@ the year after." = "次年%1$@。";
+
+/*Decline button of a  pop up subscription Screen*/
+"Decline offer" = "目前沒興趣";
+
+/* Current subscription box title  */
+"Your Pro Membership" = "您的Pro訂用資格";
+
+/* Name of the current app, followed by Pro  */
+"%@ Pro" = "%1$@ Pro";
+
+/* Current sybscription type - yearly  */
+"Yearly member" = "按年訂戶";
+
+/* Current sybscription type - monthly  */
+"Monthly member" = "按月訂戶";
+
+/* Enlight suite subscription box title  */
+"Meet the Suite" = "關於套件";
+
+/* Enlight suite banner button title  */
+"Be an Enlight Pro" = "成為Enlight Pro";
+
+/* Enlight suite banner button subtitle  */
+"on all 4 apps" = "針對全部4個應用程式";
+
+/* Enlight suite subscription button title  */
+"SAVE %@%%" = "節省%1$@%%";
+
+/* Yearly subscription button badge title  */
+"SAVE\n%@%%" = "節省\n%1$@%%";
+
+/* Enlight suite subscription button subtitle  */
+"Full yearly access for %@" = "以%1$@享用一年完整權限";
+
+/* Button appearing in the subscription screen, notifying users that by pressing this button they are choosing an anual subscription plan - 5 + 7 months */
+"5 Months + 7 Months FREE" = "5 Months + 7 Months FREE";
+
+/* Subtitle of a button appearing in the subscription screen, notifying users that by pressing this button they will be saving an amount equal to {0}*/
+"Save {0}" = "節省{0}";
+
+/* Label on a button for purchasing subscription that renews every 3 months */
+"3 Months" = "3 Months";
+
+/* Label on a button for purchasing subscription that renews every week */
+"1 Week" = "1 Week";
+
+/* Title of a button offering the user to continue using the weekly payment plan. */
+"Continue with weekly" = "Continue with weekly";
+
+/* Subscription screen - custom looks thumbnail */
+"30\nCustom\nLooks" = "30個\n自訂\n外觀";
+
+/* Save custom look first tool tip */
+"Love your current edits? Go into Looks to save your new Look!" = "喜歡目前的編輯嗎？進入外觀以儲存您的新外觀！";
+
+/* Save custom look first tool tip */
+"Tap here to name & save your Look" = "點按這裡以為外觀命名 & 儲存！";
+
+/* Text under the button which provides the payment info */
+"30\nCustom\nLooks" = "30個\n自訂\n外觀";
+
+/* Weekly to yearly upgrade title - option 1 */
+"Upgrade to yearly for just %@" = "以僅僅 %1$@ 升級為按年訂用";
+
+/* Weekly to yearly upgrade title - option 2 */
+"Upgrade to yearly and save %@%%" = "升級為按年訂用並節省 %1$@%%";
+
+/* Weekly to yearly upgrade title - option 3 */
+"Upgrade and save %@%%" = "升級並節省 %1$@%%";
+
+/* Weekly to yearly upgrade subtitle - option 1 */
+"Get a whole year for the price of 9 weeks." = "以 9 星期的價格使用一整年。";
+
+/* Weekly to yearly upgrade subtitle - option 2 */
+"Upgrade to yearly for %@ and save %@" = "以 %1$@ 升級為按年訂用並節省 %2$@";
+
+/* Weekly to yearly upgrade subtitle - option 3 */
+"Upgrade to yearly for %@.\n That's %@/mo." = "以 %1$@ 升級為按年訂用，\n亦即每月%2$@";
+
+/* Trial auto renewal explanation */
+"If you do not cancel, you will be automatically charged 24 hours before the end of the trial." = "若您未取消，我們將於試用期結束 24 小時前自動向您扣款。";
+
+/* Body text in a button encouraging the user to start a 7 day free trial */
+"Get 7 Days Free!" = "取得免費7天試用！";
+
+/* Description of a monthly price. */
+"%@ per month" = "每月%1$@";
+
+/* Button appearing in the subscription screen, notifying users that by pressing this button they are choosing an anual subscription plan - 6 + 6 months */
+"6 Months + 6 Months FREE" = "6 Months + 6 Months FREE";
+
+/* Button appearing in the subscription screen, notifying users that by pressing this button they are choosing an anual subscription plan - 6 months */
+"6 Months" = "6 Months";
+
+/* Button appearing in the subscription screen, notifying users that by pressing this button they are choosing an anual subscription including a trial */
+"12 Months + 3 Day Trial" = "12 Months + 3 Day Trial";
+
+/* Disclaimer text */
+"If you do not cancel, you will be automatically charged 24 hours before the end of the trial." = "若您未取消，我們將於試用期結束 24 小時前自動向您扣款。";
+
+/* New filters what's new - title */
+"New Filters!" = "更新濾鏡";
+
+/* New filters what's new - subtitle */
+"Adjust the mood in one tap with 34 new Filters" = "輕點一下即可用34新濾鏡調整氛圍";
+
+/*==============================*/
+/*======= Looks Catalog  =======*/
+/*==============================*/
+
+/* Looks catalog main title */
+"Looks Catalog" = "外觀目錄";
+
+/* Looks Catalog toolbar title*/
+"Catalog" = "目錄";
+
+/* Looks catalog main title */
+"Look Book" = "外觀書";
+
+/* Download button title */
+"Download" = "下載";
+
+/* Download button title */
+"Download look" = "下載外觀";
+
+/* No internet connection error message title */
+"Let's get connected" = "取得連線";
+
+/* Download error message body */
+"Incredible edits and... no internet.\nCheck your connection and try downloading again." = "不可思議的編輯卻...沒有網路。\n檢查連線狀態並重新下載。";
+
+/* No internet connection error message body */
+"Please check your connection and come back so we can show you the newest Looks!" = "請檢查連線狀態並重新連線，以查看最新外觀！";
+
+/* Disclaimer informing the user the trial is only offered with a yearly subscription. */
+"with a yearly subscription" = "按年訂用";
+
+/* Body text in a button encouraging the user to start a 1 month free trial */
+"Get 1 Month Free!" = "免費使用1 個月！";
+
+/* Title of the popup offering discount */
+"Get 1 year for %@ off" = "訂用 1 年享 %1$@ 折扣";
+
+/* title of the popup view offering free days */
+"Get %@ days free" = "取得 %1$@ 天免費";
+
+/* Title of a button that takes the user to the subscription screen */
+"Show me" = "秀給我看";
+
+/* Description for Lightleap */
+"Unlimited access to more Looks, Filters, Skies & Effects!" = "無限取用更多外觀、濾鏡、天空與特效！";
+
+/* Button title for opening the catatlog */
+"View" = "查看";
+
+/* Button title for opening the catatlog */
+"Try now" = "立即試用";
+
+/* What's new title for looks catalog. */
+"Get more Looks" = "取得更多外觀";
+
+/* What's new body for looks catalog. */
+"Browse to find your favorites, and get them instantly!" = "瀏覽找到您的最愛，並立即得到！";
+
+/*Looks catalog notification title. */
+"Gotta have it 🌅" = "一定得擁有🌅";
+
+/*Looks catalog notification body. */
+"You can't miss these new Looks!" = "您絕對不能錯過這些新外觀！";
+
+/*Looks catalog notification title. */
+" You're missing out..." = " 您錯過了...";
+
+/*Looks catalog notification body. */
+"Get in here and get these new Looks" = "由此進，取得新外觀";
+
+/*Looks catalog notification title. */
+"They're here ✨" = "在這裡✨";
+
+/*Looks catalog notification body. */
+"The great new Looks you've been waiting for!" = "期待多時的全新外觀！";
+
+/*Looks catalog notification title. */
+"Check it out!" = "趕快看看！";
+
+/*Looks catalog notification body. */
+"The newest trendy Looks" = "最新時髦外觀";
+
+/*Looks catalog notification title. */
+"Up your game" = "提升您的技巧";
+
+/*Looks catalog notification body. */
+"Your pics will never be the same with these Looks!" = "有了這些外觀，您的照片將令人刮目相看！";
+
+/* Title of a Black Friday Sale popup */
+"Black Friday Sale" = "黑色星期五特惠";
+
+/* Countdown timer for an offer - days */
+"days" = "天";
+
+/* Countdown timer for an offer - hours */
+"hrs" = "小時";
+
+/* Countdown timer for an offer - minutes */
+"mins" = "分鐘";
+
+/* Countdown timer for an offer - seconds */
+"secs" = "秒";
+
+/* Title of an offer plan */
+"YEARLY PLAN" = "年度訂閱";
+
+/* Subtitle of an offer plan for first year discount. The placeholder is for the price of subscription for the first year. */
+"Get 1 year for %@" = "第 1 年只要 %1$@";
+
+/* Sub-subtitle of an offer plan for first year discount, that appears right after the previous string. The placeholder is for the price of subscription for every year after the first one. */
+"then %@ the year after" = "一年後變成 %1$@";
+
+/* Title of a popup offering discount. The placeholder is for number of percents for discount. */
+"Get your first year for %@ off!" = "享受第一年 %1$@ 折扣！";
+
+/* Text informing the user that their device is no longer supported. */
+"Your device may not be supported" = "可能無法支援您的裝置";
+
+/* Text informing the user that their device is no longer supported. */
+"Unfortunately, due to technical limitations we will no longer be supporting your device. For more information please feel free to contact us" = "很抱歉，由於技術上的限制，我們無法繼續支援您的裝置。若需進一步資訊，請與我們聯繫。";
+
+/* Link instruction user how they can turn off automatic updates. */
+"https://support.apple.com/en-us/HT202180" = "https://support.apple.com/zh-tw/HT202180";
+
+/* Button that takes the user to a help link. */
+"How to turn off automatic updates" = "如何關閉自動更新功能";
+
+/* Title of the Light Leaks Look's pack */
+"Light Leaks" = "漏光";
+
+/* Title of the Graceful Look's pack */
+"Graceful" = "雅致";
+
+/* Title of the Lovely Look's pack */
+"Lovely" = "可愛";
+
+/* Title of the Winter Wonder Look's pack */
+"Winter Wonder" = "冬季奇景";
+
+/* Title of the Rainbow Look's pack */
+"Rainbow" = "彩虹";
+
+/* Title of the Enchanted Look's pack */
+"Enchanted" = "著魔";
+
+/* Title of the Fireworks Look's pack */
+"Fireworks" = "煙火";
+
+/* Sky feature title for subscription screen */
+"All the Skies you need" = "所有您所需的天空";
+
+/* Sky feature subtitle for subscription screen */
+"Pick unique Skies for your shots" = "為照片選取獨特天空";
+
+/* Looks feature title for subscription screen */
+"Get your own Looks" = "取得自己的外觀";
+
+/* Looks feature subtitle for subscription screen */
+"Express your individuality" = "表達自我個性";
+
+/* Filter feature title for subscription screen */
+"Unique Filters" = "獨特濾鏡";
+
+/* Filters feature subtitle for subscription screen */
+"Get a consistent vibe" = "獲得一致的氛圍";
+
+/* Effects feature title for subscription screen */
+"Effects that pop" = "流行的效果";
+
+/* Effects feature subtitle for subscription screen */
+"Step up your editing" = "提升您的編輯";
+
+/* Primers feature title for subscription screen */
+"Colorful Primers" = "彩色底漆";
+
+/* Primers feature subtitle for subscription screen */
+"You’ll have to show these off" = "您可得大現特現";
+
+/* Label indicating price per month */
+"Only %@/mo." = "僅 %1$@/月";
+
+/* Label indication the possibility to cancel subscription anytime */
+"Cancel anytime." = "隨時取消。";
+
+/* Product label */
+"Best Deal" = "最划算";
+
+/* Price label for yearly product */
+"Only %@ Yearly" = "每年僅 %1$@";
+
+/* Price label for yearly product */
+"%@ Yearly" = "每年 %1$@";
+
+/* Subscription screen subtitle */
+"All the tools you need.\nGet in on the fun!" = "所有您所需的工具。\n祝您玩得開心！";
+
+/* Button offering to see other product plans */
+"See other plans" = "查看其他方案";
+
+/* Label for lifetime membership */
+"Lifetime" = "終身";
+
+/* Label for monthly membership */
+"Monthly" = "按月";
+
+/* Label for yearly membership */
+"Yearly" = "按年";
+
+/* Label for the amount of percentage saved */
+"%@%% off" = "%1$@%% 折扣";
+
+/* Product plans screen title */
+"Your Special Offers" = "您的特別優惠";
+
+/* Label indication the possibility to cancel subscription anytime */
+"Limited Offer" = "限時優惠";
+
+/* Label indicating price per month */
+"%@/month" = "%1$@/月";
+
+/* Label indication the possibility to cancel subscription anytime */
+"Limited time" = "限時";
+
+/* Yearly product with discount button title */
+"%@ Months for the price of %@" = "%1$@ 個月僅需 %2$@";
+
+/* Title for section of recently used items */
+"Recents" = "最近項目";
+
+/*==========================================*/
+/*======= Terms and conditions alert =======*/
+/*==========================================*/
+
+/* Terms and conditions popup title */
+"Terms & Conditions" = "條款與條件";
+
+/* Terms and conditions popup body */
+"By clicking Accept, I agree to Lightleap’s Terms of Use and Privacy Policy." = "按下「接受」即表示我同意 Lightleap 的使用條款與隱私政策。";
+
+/* Terms and conditions popup button title */
+"Accept" = "接受";
+
+/* Offer screen title */
+"Best Deal\non Lightleap Pro" = "Lightleap Pro\n最優惠方案";
+
+/* Inpainting intro screen slide */
+"Remove pesky spots to clean up your shot" = "去除惱人斑點，還我無瑕照片";
+
+/* Inpainting what's new title */
+"Heal for a Quick Fix" = "速效解決方案";
+
+/* Inpainting what's new body */
+"Use this powerful tool to get rid of problem spots and photobombs" = "使用強大的工具來清除惱人斑點和亂入雜物";
+
+/* Tupi's skies what's new title */
+"Tupi's Skies" = "Tupi的天空";
+
+/* Tupi's skies what's new body */
+"New Skies submitted by Tupi Saravia and fans" = "Tupi Saravia和粉絲上傳的新天空";
+
+/* Tupi's skies notification title */
+"Breaking News!" = "突發新聞！";
+
+/* Tupi's skies notification body */
+"Influencer Tupi Saravia has added Skies to Lightleap - check them out" = "網紅Tupi Saravia上傳了天空到Lightleap - 趕快來看看";
+
+/* Heal feature title */
+"Heal" = "修復";
+
+/* Restore heal feature title */
+"Restore" = "恢復";
+
+/* SUNNY sky package*/
+"SUNNY" = "晴空";
+
+/* FANTASY sky package*/
+"FANTASY" = "幻想";
+
+/* DUSK sky package*/
+"DUSK" = "黃昏";
+
+/* SUNSET sky package*/
+"SUNSET" = "日落";
+
+/* NIGHT sky package*/
+"NIGHT" = "晚間";
+
+/* AURORA sky package*/
+"AURORA" = "極光";
+
+/* STORM sky package*/
+"STORM" = "風暴";
+
+/* ABLAZE sky package*/
+"ABLAZE" = "閃閃發光";
+
+/* VALENTINE'S sky package*/
+"VALENTINE'S" = "情人節";
+
+/* Title for a feature that enables users to add stickers to their projects */
+"Element" = "元件";
+
+/* Title for slider controling foreground opacity */
+"Foreground" = "Foreground";
+
+/* Title for slider controling temperature of the image */
+"Temperature" = "Temperature";
+
+/*====================================*/
+/*=========== 618 Strings ============*/
+/*====================================*/
+
+/* Main title of subscription screen */
+"Special 618 Offer\nSave 20% Off Yearly Plan" = "Special 618 Offer\nSave 20% Off Yearly Plan";
+
+/* Text of price in main screen */
+"%@ Yearly Price 618" = "%1$@/year";
+
+/* Title for continue button */
+"Unlock Pro now" = "Unlock Pro Now";
+
+/* Subtitle under continue button */
+"Valid until June 18th. 1st Year Only." = "Valid until June 18th. 1st Year Only.";
+
+/* Text for button that opens the other plans popup */
+"See more plans" = "Other Plans";
+
+/* Title of 618 promotion popup */
+"618 Celebration" = "618 Celebration";
+
+/* Text above yearly subscription button in other plans popup */
+"SPECIAL OFFER" = "SPECIAL OFFER";
+
+/* Title of yearly subscription button in other plans popup */
+"YEARLY" = "YEARLY";
+
+/* Price text of yearly subscription button in other plans popup */
+" %@/year\nSave 20%% Now." = " %1$@/year\nSave 20%% Now.";
+
+/* Text For continue button */
+"Unlock Lightleap Pro" = "Unlock Lightleap Pro";
+
+/* Title of monthly subscription button in other plans popup */
+"MONTHLY-618" = "MONTHLY";
+
+/* Title of lifetime subscription button in other plans popup */
+"LIFETIME" = "LIFETIME";
+
+/* Price text of monthly subscription button in other plans popup */
+"%@/month" = "%1$@/月";
+
+/* Subtitle of yearly subscription button in other plans popup */
+"Valid until June 18th. 1st Year Only." = "Valid until June 18th. 1st Year Only.";
+
+/* Title of a button that takes user to all tutorials */
+"ALL TUTORIALS" = "全部教程";
+
+/* Title of a button that takes user to page where they can try it with their video */
+"Try with my video" = "用我的影片試試";
+
+/* Title for a what's new slide of a new feature called Color */
+"Color Feature" = "顏色特徵";
+
+/* Subtitle for a what's new slide of a new feature called Color */
+"Make changes to each individual color in your shot!" = "分別修改照片中的每種顏色！";
+
+/* Name of feature that adds city light to images. */
+"Soft Light" = "柔光";
+
+/* Name of feature that adds city light to images. */
+"Bokeh" = "散景";
+
+/* Name of feature that edit face features. */
+"Face" = "面部";
+
+/* What's new title for the new Effects feature. */
+"Add Stunning Effects" = "添加絕美的效果";
+
+/* What's new body for the new Effects feature. */
+"Make your photos pop with these beautiful effects" = "用這些美麗的效果使你的照片大受歡迎";
+
+/* Terms and condition approval. Placeholders here are for the terms "Terms of Use" and "Privacy Policy" which are already localized. Example of usage: By continuing, I agree to Lightleap’s Terms of Use and Privacy Policy.*/
+"By continuing, I agree to Lightleap’s %@ and %@." = "繼續即代表我同意Lightleap的%1$@和%2$@。";
+
+/* Terms and condition approval. Placeholders here are for the terms "Terms of Use" and "Privacy Policy" which are already localized. Example of usage: By clicking Accept, I agree to Lightleap’s Terms of Use and Privacy Policy.*/
+"By clicking Accept, I agree to Lightleap’s %@ and %@." = "點按接受，即代表我同意Lightleap的%1$@和%2$@。";
+
+/* Label indicating undoing of all editing steps. */
+"Undo All" = "全部還原";
+
+/* Label indicating redoing of all editing steps. */
+"Redo All" = "全部重做";
+
+/* Heal help slides intro title */
+"Heal Do’s and Don’ts" = "Heal應做和不應做的事";
+
+/* Heal help slides intro body */
+"Here’s how to make erasing super easy!" = "以下竅門讓擦除變得超級容易！";
+
+/* Heal help slide body 1 */
+"brush out just what you want erasing" = "只刷掉你想擦除的東西";
+
+/* Heal help slide body 2 */
+"stray over the object’s edges or sections of background will disappear!" = "偏離物體邊緣，背景的一些部分會消失！";
+
+/* Heal help slide body 3 */
+"use small brush strokes to remove individual spots" = "使用小筆觸去除單個斑點";
+
+/* Heal help slide body 4 */
+"brush over large areas of spots you want to erase" = "在你想擦除的大面積斑點上刷";
+
+/* Heal help slide body 5 */
+"choose smooth, uncluttered backgrounds, for easier erasing" = "選擇平滑、整潔的背景，以便於擦除";
+
+/* Heal help slide body 6 */
+"go for busy backgrounds with loads of detail" = "選擇充滿細節的龐雜背景";
+
+/* Heal help slide title */
+"✅ Do" = "✅ 應做";
+
+/* Heal help slide title */
+"⛔️ Don’t" = "⛔️ 不應做";
+
+/*=============================*/
+/*======= Login =======*/
+/*=============================*/
+
+/* Manage settings section in setting menu */
+"MANAGE" = "管理";
+
+/* About Lightleap section in setting menu */
+"ABOUT" = "關於";
+
+/* More Lightleap section in setting menu */
+"MORE" = "更多";
+
+/* Setting option leading to seeing user subscription plan */
+"Your Membership" = "你的會籍";
+
+/* Setting option leading to ssubscription screen */
+"Get Lightleap Pro" = "下載 Lightleap Pro";
+
+/* Setting option leading user to log in screen */
+"Log In" = "登錄";
+
+/* Setting option leading user to log out */
+"Log Out" = "登出";
+
+/* Close caption for a screen */
+"Close" = "關閉";
+
+/* Skip caption for a screen */
+"Skip" = "略過";
+
+/* Login screen title */
+"Log in and unleash your creativity" = "登錄並釋放你的創造力";
+
+/* Login screen  button title to log in with Apple */
+"Continue with Apple" = "以Apple繼續";
+
+/* Login screen  button title to log in with Facebook */
+"Continue with Facebook" = "以Facebook繼續";
+
+/* Login screen  button title to log in with Google */
+"Continue with Google" = "以Google繼續";
+
+/* Login screen error message title */
+"Oops!" = "糟糕！";
+
+/* Login screen error message body */
+"There was a problem logging you in.\nPlease try again later." = "登錄時出現問題。\n請稍後再試。";
+
+/* Log out message body */
+"You’re now logged out" = "你現在已登出";
+
+/* Pack name for pack displaying shdows from blinds. */
+"Shadow Blinds" = "百葉簾陰影";
+
+/* Pack name for pack displaying shdows from leaves. */
+"Shadow Leaves" = "樹葉陰影";
+
+/* Title for what's new for new shadow packs */
+"Step into the light" = "踏進光明";
+
+/* Body for what's new for new shadow packs */
+"With Shadows effects for every mood" = "配合每種心情的陰影效果";
+
+/* Looks pack name for new shadows overlays */
+"Shadows" = "陰影";
+
+/* Halloween What's new title */
+"Something wicked this way comes…" = "邪惡的東西要過來了……";
+
+/* Halloween What's new body */
+"Give your photos the scare factor with “SPOOKY”" = "用「陰森恐怖」使你的照片變得可怕";
+
+/* Halloween pack name */
+"SPOOKY" = "陰森恐怖";
