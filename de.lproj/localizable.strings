@@ -2,8 +2,11 @@
 /*======= Subscription Strings =======*/
 /*====================================*/
 
+/* Another update */
+"Another update" = "Another update";
+
 /* Push header */
-"Lightleap Push" = "Leichter Sprung Push";
+"Lightleap Push." = "Lightleap Push.";
 
 /* New string */
 "Checking Push" = "Checking Push";
@@ -1786,7 +1789,7 @@
 "Foreground" = "Vordergrund";
 
 /* Title for slider controling temperature of the image */
-"Temperature" = "Temperatur";
+"Temperature" = "Temperature";
 
 /*====================================*/
 /*=========== 618 Strings ============*/
