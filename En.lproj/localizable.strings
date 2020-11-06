@@ -5,6 +5,9 @@
 /* Push header */
 "Lightleap Push" = "Lightleap Push";
 
+/* New string */
+"Checking Push" = "Checking Push";
+
 /* Subscription header */
 "Lightleap Pro" = "Lightleap Pro";
 
