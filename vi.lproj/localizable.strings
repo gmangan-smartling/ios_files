@@ -1,0 +1,1980 @@
+/*====================================*/
+/*======= Subscription Strings =======*/
+/*====================================*/
+
+/* Push header */
+"Lightleap Push" = "Đẩy nhẹ bản đồ";
+
+/* New string */
+"Checking Push" = "Checking Push";
+
+/* Subscription header */
+"Lightleap Pro" = "Lightleap Pro";
+
+/* Subscription title 10% off */
+"Lightleap Pro - now 10% off!" = "Lightleap Pro - đang giảm giá 10%!";
+
+/* Subscription title 15% off */
+"Lightleap Pro - now 15% off!" = "Lightleap Pro - đang giảm giá 15%!";
+
+/* Subscription title 25% off */
+"Lightleap Pro - now 25% off!" = "Lightleap Pro - đang giảm giá 25%!";
+
+/* Subscription title 50% off */
+"Lightleap Pro - now 50% off!" = "Lightleap Pro - đang giảm giá 50%!";
+
+/* Subscription subtitle */
+"Primers, Filters, Sky, Strobe & unlimited Batch!" = "Màu nền, Bộ lọc, Bầu trời, Nhấp nháy và Chỉnh sửa Hàng loạt không giới hạn!";
+
+/* Pro only banner (notice the line break) */
+"Pro Only\nRemove Limit" = "Chỉ dành cho phiên bản Pro\nLoại bỏ Giới hạn";
+
+/* Pro export banner */
+"Remove Limit" = "Loại bỏ Giới hạn";
+
+/* Pro features explanation */
+"You’ve used Pro features!" = "Bạn đã sử dụng các tính năng Pro!";
+
+/* Pro max number of batch explanation 1 */
+"Unlimited batch with Pro" = "Chỉnh sửa hàng loạt không giới hạn với phiên bản Pro";
+
+/* Pro max number of batch explanation 2 */
+"Number of assets over the limit" = "Số lượng sản phẩm vượt quá giới hạn";
+
+/* Label on a button for purchasing subscription that renews every 12 months */
+"ANNUAL" = "HÀNG NĂM";
+
+/* Label on a button for purchasing subscription that renews every month, in capital letters */
+"MONTHLY" = "HÀNG THÁNG";
+
+/* Label on a button for purchasing the product at a single one-time price, instead of a renewable subscription plan */
+"ONE-TIME\nPURCHASE" = "MUA\nMỘT LẦN";
+
+/* Abbreviation of the word month, representing per-month suffix of a price, as in $5/mo - $5 per month. The '/' should remain in the localized version */
+"/mo" = "/tháng";
+
+/* A price displayed in the amount the user will pay for the item per year. Example: $34.99/year */
+"%@/year" = "%1$@/năm";
+
+/* Text informing the user of the most popular payment plan among users */
+"Most Popular" = "Phổ biến Nhất";
+
+/* Unlimited sky thumbnail */
+"Unlimited\nSky" = "Bầu trời\nKhông giới hạn";
+
+/* Batch editing thumbnail */
+"Batch\nEditing" = "Chỉnh sửa\nHàng loạt";
+
+/* Filters thumbnail */
+"%d+\nFilters" = "%1$d+\nBộ lọc";
+
+/* Advanced tools thumbnail */
+"Advanced\nTools" = "Công cụ\nNâng cao";
+
+/* Sky thumbnail */
+"20+\nSkies" = "20+\nBầu trời";
+
+/* Primer thumbnail */
+"30+\nPrimers" = "30+\nMàu nền";
+
+/* Subtitle appearing in the subscription screen, notifying users that by subscribing they can access all features of the app */
+"Access All Features" = "Truy cập Tất cả Tính năng";
+
+/* Label on a button for purchasing subscription that renews every month
+ Text shown when 1 month of free trial is offered for new subscribers */
+"1 Month" = "1 Tháng";
+
+/* Button appearing in the subscription screen, notifying users that by pressing this button they are choosing an anual subscription plan - 12 months */
+"12 Months" = "12 Tháng";
+
+/* Label on a button for purchasing the product at a single one-time price, instead of a renewable subscription plan */
+"One-Time Purchase" = "Mua Một Lần";
+
+/* Title of a button suggesting to the user to continue to payment in the subscription screen */
+"Continue" = "Tiếp tục";
+
+/* Title of a button suggesting to the user to continue to payment in the subscription screen option 2 */
+"Begin creation" = "Bắt đầu sáng tạo";
+
+/* Title of a button suggesting to the user to continue to payment in the subscription screen option 3 */
+"Begin advanced creation" = "Bắt đầu sáng tạo nâng cao";
+
+/* Label on a button that links to terms of use */
+"Terms of Use" = "Điều khoản Sử dụng";
+
+/* Label on a button that links to privacy policy */
+"Privacy Policy" = "Chính sách Quyền Riêng tư";
+
+/* Label on a button that restored previously purchased products */
+"Restore Purchases" = "Khôi phục Mua hàng";
+
+/* Short terms of use for subscription */
+"Payment will be charged to your iTunes account at confirmation of purchase. Subscriptions will automatically renew unless auto-renew is turned off at least 24 hours before the end of current period. Your account will be charged according to your plan for renewal within 24 hours prior to the end of the current period. You can manage or turn off auto-renew in your Apple ID account settings at any time after purchase." = "Thanh toán sẽ được tính phí vào tài khoản iTunes của bạn khi xác nhận mua hàng. Các gói đăng ký sẽ tự động gia hạn, trừ khi tính năng tự động gia hạn được tắt ít nhất 24 giờ trước khi kết thúc kỳ đăng ký hiện tại. Tài khoản của bạn sẽ được tính phí theo gói gia hạn trong vòng 24 giờ trước khi kết thúc kỳ đăng ký hiện tại. Bạn có thể quản lý hoặc tắt tính năng tự động gia hạn trong phần cài đặt tài khoản Apple ID của mình bất kỳ lúc nào sau khi mua hàng.";
+
+/* Subtitle of a button appearing in the subscription screen, notifying users that by pressing this button they will be saving {0}% annualy */
+"Save {0}% per year" = "Tiết kiệm {0}%% mỗi năm";
+
+/* Additional data for a button appearing in the subscription screen, notifying users the total amount to pay according to the chosen plan */
+"Total" = "Tổng cộng";
+
+/* Title of a pop-up informing the user that they can save {0} amount by upgrading to an annual payment plan. Example: Upgrade to yearly and save 50% now! */
+"Upgrade to yearly and save {0}% now!" = "Nâng cấp lên gói hàng năm và tiết kiệm {0}%% ngay!";
+
+/* Title of a button offering the user the continue using the monthly payment plan. Please keep as short as possible */
+"Continue with monthly" = "Tiếp tục với gói hàng tháng";
+
+/* Title of a button offering the user to upgrade to an annual payment plan. Please keep as short as possible */
+"Upgrade to yearly" = "Nâng cấp lên gói hàng năm";
+
+/* Message shown to the user if he is already a subscriber when accessing the subscription screen */
+"All the features are now available" = "Tất cả các tính năng hiện đã khả dụng";
+
+/* Title of a message shown to the user if he is already a subscriber when accessing the subscription screen */
+"You're already a subscriber" = "Bạn đã trở thành người đăng ký";
+
+/* Subtitle appearing in the subscription screen, notifying users that by subscribing they can access all features of the app option 1 */
+"Access All Features - 3 Days Free" = "Truy cập Tất cả Tính năng - 3 Ngày Miễn phí";
+
+/* Subtitle appearing in the subscription screen, notifying users that by subscribing they can access all features of the app option 2 */
+"Your First 3 Days Free" = "Miễn phí 3 Ngày Đầu tiên của Bạn";
+
+/* Subtitle appearing in the subscription screen, notifying users that by subscribing they can access all features of the app option 3 */
+"Unlimited and enjoyable usage" = "Sử dụng thỏa thích và không giới hạn";
+
+/* Subtitle trial button option 1*/
+"Start Trial" = "Bắt đầu Dùng thử";
+
+/* Subtitle trial button option 2*/
+"Start Free Trial" = "Bắt đầu Dùng thử Miễn phí";
+
+/* Subtitle trial button option 3*/
+"Start 3 Day Trial" = "Bắt đầu 3 Ngày Dùng thử";
+
+/* Label above monthly subscription. */
+"Monthly subscription" = "Đăng ký hàng tháng";
+
+/* Label above yearly subscription. */
+"Yearly subscription" = "Đăng ký hàng năm";
+
+/* Label above free trial. */
+"Free 3 day trial" = "Miễn phí 3 ngày dùng thử";
+
+/* Label above yearly subscription and above free trial. */
+"Yearly subscription and 3 day trial" = "Đăng ký hàng năm và 3 ngày dùng thử";
+
+/* String denoting that after trial ends, the user will pay the specified amount. Version 1. */
+"Afterwards" = "Sau đó";
+
+/* String denoting that after trial ends, the user will pay the specified amount. Version 2. */
+"After trial" = "Sau khi dùng thử";
+
+/*====================================*/
+/*===== Subscription Trial Popup =====*/
+/*====================================*/
+
+/* Title of trial alert - 3 days, the translation is for "Your First 3 Days Free" */
+"Get 3 Days Free" = "Nhận 3 Ngày Miễn phí";
+
+/* Body text in a button encouraging the user to start a 3 day free trial of Lightleap Pro */
+"Get 3 Days Free!" = "Nhận 3 Ngày Miễn phí!";
+
+/* Subtitle of trial alert, the translation is for "Primers, Filters, Sky, Strobe & unlimited Batch!" */
+"Get the best results with unlimited access to Sky, Portrait, Primers, and more." = "Sở hữu những tác phẩm ấn tượng nhất cùng quyền truy cập không giới hạn vào các chế độ Bầu trời, Chân dung, Màu nền và hơn thế nữa.";
+
+/* Buttons which takes the user to the subscription screen, translation is for "Show me" */
+"Claim Now" = "Đăng Ký Ngay";
+
+/*==============================*/
+/*===== Introductory Price =====*/
+/*==============================*/
+
+/* Introductory Price strings */
+"Get 3 months for %@" = "Mua 3 tháng với giá %1$@";
+
+/* Introductory Price strings */
+"Annual Plan" = "Gói Hàng năm";
+
+/* Introductory Price strings */
+"3 Months for %@" = "3 Tháng với giá %1$@";
+
+/* Introductory Price strings */
+"then only %@ billed yearly" = "sau đó chỉ thanh toán %1$@ mỗi năm";
+
+/** ----------- **/
+/** Help Videos **/
+/** ----------- **/
+/* Help screen title */
+"Help" = "Trợ giúp";
+
+/* Strobe mode pre capture 1 */
+"Takes multiple shots of a moving object and combines them into a single photo." = "Chụp nhiều bức ảnh của một vật thể đang chuyển động và kết hợp chúng thành một bức ảnh duy nhất.";
+
+/* Strobe mode pre capture 2 */
+"Combines multiple shots into a single photo." = "Kết hợp nhiều ảnh chụp thành một bức ảnh duy nhất.";
+
+/* Strobe mode pre capture 3 */
+"Combines continuous shots into a single photo." = "Kết hợp nhiều ảnh chụp liên tiếp thành một bức ảnh duy nhất.";
+
+/* Strobe mode post capture 1 */
+"Use the eraser to remove the strobe effect from unwanted areas." = "Dùng tẩy để xóa hiệu ứng nhấp nháy khỏi những vùng ảnh không mong muốn.";
+
+/* Strobe mode post capture 2 */
+"Use the eraser to remove the effect from unwanted areas." = "Dùng tẩy để xóa hiệu ứng này khỏi những vùng ảnh không mong muốn.";
+
+/* Strobe mode post capture 3 */
+"Erase the effect from unwanted areas." = "Xóa hiệu ứng này khỏi những vùng ảnh không mong muốn.";
+
+/* Lightleap mode pre capture */
+"Automatically straightens & crops your shot." = "Tự động kéo thẳng và cắt ảnh chụp của bạn.";
+
+/* HDR help 1 */
+"Fix dark images or harsh lighting." = "Khắc phục ảnh tối hoặc chói sáng.";
+
+/* HDR help 2 */
+"Fix shots with bad lighting." = "Khắc phục ảnh có ánh sáng kém.";
+
+/* HDR help 3 */
+"Improve dark or harsh lighting." = "Cải thiện độ tối hoặc chói sáng.";
+
+/* Batch editing help title */
+"Batch Editing" = "Chỉnh sửa Hàng loạt";
+
+/* Batch editing help subtitle  */
+"Edit multiple photos at once." = "Chỉnh sửa nhiều hình ảnh cùng một lúc.";
+
+/* Reset help title */
+"Batch Editing" = "Chỉnh sửa Hàng loạt";
+
+/* Reset help subtitle  */
+"Long press Undo button to reset." = "Nhấn và giữ nút Hoàn tác để đặt lại.";
+
+/* Reset Slider help title*/
+"Reset Slider" = "Đặt lại Thanh trượt";
+
+/* Reset Slider help subtitle*/
+"Long press to reset values." = "Nhấn và giữ để đặt lại giá trị.";
+
+/* Compare help title*/
+"Compare" = "So sánh";
+
+/* Compare help subtitle*/
+"Long press to compare." = "Nhấn và giữ để so sánh.";
+
+/* Apply to all help title*/
+"Apply To All" = "Áp dụng Cho Tất cả";
+
+/*  Apply to all help subtitle*/
+"Apply the current style to all the photos." = "Áp dụng phong cách hiện tại cho tất cả hình ảnh.";
+
+/* Primers help title*/
+"Primers" = "Màu nền";
+
+/* Primers help subtitle*/
+"Select a Primer. Tap again for further tweaking." = "Chọn một Màu nền. Chạm một lần nữa để điều chỉnh thêm.";
+
+/* Sky help title*/
+"Sky" = "Bầu trời";
+
+/* Sky help subtitle variation 1 */
+"Replace your overexposed sky." = "Thay thế cho bầu trời bị phơi sáng quá mức của bạn.";
+
+/* Sky help subtitle variation 2 */
+"Adjust Feather, Horizon and Ambient to match the Sky to your photo." = "Điều chỉnh Mềm biên, Chân trời và Môi trường để phù hợp với Bầu trời trong ảnh của bạn.";
+
+/* Help video for reseting changes - title */
+"Reset all" = "Đặt lại tất cả";
+
+/* Help video for reseting changes - subtitle */
+"Long press the Undo button to reset all changes." = "Nhấn và giữ nút Hoàn tác để đặt lại tất cả các thay đổi.";
+
+/* Contact us button*/
+"Contact Us" = "Liên hệ Chúng tôi";
+
+/** ------ **/
+/** Camera **/
+/** ------ **/
+
+/* HDR pre light assessment message 1 */
+"Tap the screen for exposure calibration." = "Chạm vào màn hình để hiệu chỉnh phơi sáng.";
+
+/* HDR during light assessment message 2 */
+"Calibrating..." = "Đang hiệu chỉnh...";
+
+/* HDR during light assessment message 3 */
+"Ready!" = "Sẵn sàng!";
+
+/* Misalignment error message title */
+"Hold Steady!" = "Hãy Giữ Yên!";
+
+/* Misalignment error message subtitle */
+"Try to hold still while taking the shot." = "Cố gắng giữ yên khi chụp ảnh.";
+
+/* Misalignment error message button */
+"Got it" = "Đã hiểu";
+
+/* Message shown to user when camera moved while taking a shot */
+"For perfect shots, hold still while shooting" = "Để có những bức ảnh hoàn hảo, hãy giữ yên khi chụp ảnh";
+
+/** ------------ **/
+/** Album screen **/
+/** ------------ **/
+
+/* My albums album header */
+"My Albums" = "Album của tôi";
+
+/* Lightleap photos album header */
+"Lightleap Photos" = "Ảnh Lightleap";
+
+/* sessions album header */
+"Sessions" = "Phiên";
+
+/* Batch sessions album header */
+"Batch Sessions" = "Phiên Chỉnh sửa Hàng loạt";
+
+/* Title of an album containing demo photos supplied with the app */
+"Demo Photos" = "Ảnh Demo";
+
+/* favorites album header */
+"Favorites" = "Yêu thích";
+
+/* Library album header */
+"Library" = "Thư viện";
+
+/* Albums header */
+"Albums" = "Album";
+
+/* Deselect button */
+"Deselect" = "Bỏ chọn";
+
+/* Deselect button */
+"Deselect all" = "Bỏ chọn tất cả";
+
+/* Edit photo button */
+"Edit photo" = "Chỉnh sửa hình ảnh";
+
+/* Edit 2 photos button */
+"Edit 2 photos" = "Chỉnh sửa 2 hình ảnh";
+
+/* Delete sessions button */
+"Delete 2 sessions" = "Xóa 2 phiên";
+
+/* Delete session button */
+"Delete session" = "Xóa phiên";
+
+/* Delete batch sessions button */
+"Delete 2 Batch sessions" = "Xóa 2 phiên Chỉnh sửa Hàng loạt";
+
+/* Delete batch session button */
+"Delete Batch session" = "Xóa phiên Chỉnh sửa Hàng loạt";
+
+/* Edit button */
+"Edit" = "Chỉnh sửa";
+
+/* Cancel button */
+"Cancel" = "Hủy";
+
+/* Select multiple photos button*/
+"Select" = "Chọn";
+
+/* Album section title - today*/
+"Today" = "Hôm nay";
+
+/* Album section title - this week*/
+"This Week" = "Tuần Này";
+
+/* Album section title - this month*/
+"This Month" = "Tháng Này";
+
+/* Album section title - older*/
+"Older" = "Cũ hơn";
+
+/* Section of the album containing photos from the current year */
+"This Year" = "Năm Nay";
+
+/* Section of the album containing photos taken earlier than this year */
+"Earlier" = "Trước đó";
+
+/** ------------- **/
+/** Strobe helper **/
+/** ------------- **/
+
+/* Message button */
+"Eraser brush" = "Cọ xóa";
+
+/* More button */
+"Restore brush" = "Khôi phục cọ";
+
+/** ------ **/
+/** Export **/
+/** ------ **/
+
+/* save button */
+"Save" = "Lưu";
+
+/* Message button */
+"Message" = "Tin nhắn";
+
+/* More button */
+"More" = "Thêm";
+
+/* Message shown to non-subscriber user trying to export image with pro features */
+"You’ve used Pro features!\nGo Pro to export edit as is or remove Pro effects." = "Bạn đã sử dụng các tính năng Pro!\nNâng cấp lên phiên bản Pro để xuất bản chỉnh sửa giống như vậy hoặc loại bỏ các hiệu ứng Pro.";
+
+/* Remove pro edit option button */
+"Remove" = "Loại bỏ";
+
+/* Go Pro option */
+"Go Pro!" = "Nâng cấp phiên bản Pro!";
+
+/* Alert informing user that pro edit will be removed */
+"This will undo all the Pro effects applied to your photo in order to export it." = "Điều này sẽ hoàn tác tất cả các hiệu ứng Pro đã được áp dụng để xuất ảnh của bạn.";
+
+/* Alert title */
+"Remove Pro Effects" = "Loại bỏ Hiệu ứng Pro";
+
+/* Alert button remove */
+"Remove now" = "Loại bỏ ngay";
+
+/* Message shown to user after image was saved to camera roll */
+"Saved to camera roll" = "Đã lưu vào cuộn camera";
+
+/* Message to the user that export succeeded */
+"Success!" = "Thành công!";
+
+/* Button text that allows the user to dismiss an alert */
+"Dismiss" = "Bỏ qua";
+
+/* Message to the user that the export was canceled */
+"Canceled" = "Đã hủy";
+
+/*=============================*/
+/*======= Import Screen =======*/
+/*=============================*/
+
+/* Export photos button title */
+"Export" = "Xuất";
+
+/* Delete photos button title */
+"Delete" = "Xóa";
+
+/* Undo all the edits of the selected photos */
+"Undo Edits" = "Hoàn tác Chỉnh sửa";
+
+/* Adds the selected photos to the Favorites folder */
+"Add to Favorites" = "Thêm vào Yêu thích";
+
+/* Removes the selected photos from the Favorites folder */
+"Remove from Favorites" = "Xóa khỏi Yêu thích";
+
+/* Title in sessions album when it is empty */
+"No sessions yet" = "Chưa có phiên nào";
+
+/* Subtitle in sessions album when it is empty */
+"Start editing - Edits are automatically saved and will appear here!" = "Bắt đầu chỉnh sửa - Các chỉnh sửa sẽ tự động được lưu và xuất hiện ở đây!";
+
+/* Title of an empty photos album */
+"Oops, no photos here." = "Rất tiếc, không có hình ảnh nào ở đây.";
+
+/* Import screen what's new 1 - title */
+"New Import Screen" = "Màn hình Nhập Mới";
+
+/* Import screen what's new 1 - subtitle */
+"Use Select to Export, Delete, or Edit multiple shots" = "Sử dụng Chọn để Xuất, Xóa hoặc Chỉnh sửa nhiều hình ảnh";
+
+/* Import screen what's new 2 - title */
+"All Sessions in One Place" = "Tất cả Phiên tại Một Nơi";
+
+/* Import screen what's new 2 - subtitle */
+"Tap to find all your in-progress edits" = "Chạm để tìm tất cả các chỉnh sửa đang thực hiện của bạn";
+
+/* Presented to a user that did not give access to his photos library, yet tries to perform an action that involves accessing it */
+"Lightleap does not have access to your photos. To enable access, go to iOS settings" = "Lightleap không có quyền truy cập ảnh của bạn. Để cấp quyền, hãy đến mục cài đặt trên iOS.";
+
+/* Positive resopnse to the import error message. Redirect to the settings. */
+"Let's do it!" = "Thực hiện nào!";
+
+/*==================================*/
+/*======= Main Toolbar tools =======*/
+/*==================================*/
+
+ /* Primers tool, max 9 chars! */
+"Primers" = "Màu nền";
+
+/* Sky tool, max 9 chars! */
+"Sky" = "Bầu trời";
+
+/* Filters tool, max 9 chars! */
+"Filters" = "Bộ lọc";
+
+/* Details tool, max 9 chars! */
+"Details" = "Chi tiết";
+
+/* Adjust tool, max 9 chars! */
+"Adjust" = "Chỉnh sửa";
+
+/* Canvas tool, max 9 chars! */
+"Canvas" = "Khung ảnh";
+
+/** ----------- **/
+/** Edit screen **/
+/** ----------- **/
+
+/* Apply to button */
+"Apply to all" = "Áp dụng cho tất cả";
+
+/* Custom preset package */
+"Custom" = "Tùy chỉnh";
+
+/* Neutral preset package */
+"Neutral" = "Trung tính";
+
+/* Button which takes the user back to the photo albums*/
+"Photos" = "Hình ảnh";
+
+/* Reset preset package */
+"Reset" = "Đặt lại";
+
+/* Saved preset package */
+"Saved" = "Đã lưu";
+
+/* Nature preset package */
+"Nature" = "Tự nhiên";
+
+/* Urban preset package */
+"Urban" = "Thành thị";
+
+/* Portrait preset package */
+"Portrait" = "Chân dung";
+
+/* Title that appears below the Sparkle overlays toolbar pack */
+"Sparkle" = "Lấp lánh";
+
+/* Title of a slider controlling the size of the particles in the Sparkle effect */
+"Size" = "Kích thước";
+
+/* Title of a slider controlling the density of the particles in the Sparkle effect */
+"Density" = "Mật độ";
+
+/* Chinese New Year overlay package */
+"New Year" = "Năm Mới";
+
+/* Mood overlay package */
+"Mood" = "Tâm trạng";
+
+/* Duo overlay package */
+"Duo" = "Kép";
+
+/* IntroPresentation.pages.title */
+"Overlay" = "Lớp phủ";
+
+/* Toolbar button, adds a lens flare effect. */
+"Lens Flare" = "Lóe sáng";
+
+/* Title that appears below the Weather overlays toolbar pack */
+"Weather" = "Thời tiết";
+
+/* Title for a pack of Valentines themed Overlays Packs */
+"Valentine's" = "Lễ Tình nhân";
+
+/* Summer preset package */
+"Summer" = "Mùa hè";
+
+/* Abstract preset package */
+"Abstract" = "Trừu tượng";
+
+/* Night preset package */
+"Night" = "Ban đêm";
+
+/* B&W preset package */
+"B&W" = "Trắng đen";
+
+/* Preset saved notification */
+"Preset saved as:" = "Cài đặt trước được lưu dưới dạng:";
+
+/* Quickfix on notification */
+"Quickfix on" = "Bật sửa nhanh";
+
+/* Quickfix off notification */
+"Quickfix off" = "Tắt sửa nhanh";
+
+/* Undo notification */
+"Undo" = "Hoàn tác";
+
+/* Redo notification */
+"Redo" = "Làm lại";
+
+/* Redo notification */
+"Redo" = "Làm lại";
+
+/* Filters button */
+"Filters" = "Bộ lọc";
+
+/* Brightness button */
+"Brightness" = "Độ sáng";
+
+/* Exposure button */
+"Exposure" = "Phơi sáng";
+
+/* Shadows button */
+"Shadows" = "Đổ bóng";
+
+/* Highlights button */
+"Highlights" = "Nổi bật";
+
+/* Contrast button */
+"Contrast" = "Tương phản";
+
+/* Sharpen button */
+"Sharpen" = "Làm nét";
+
+/* Saturation button */
+"Saturation" = "Độ rực";
+
+/* Temp button */
+"Temp" = "Nhiệt độ";
+
+/* Tint button */
+"Tint" = "Sắc độ";
+
+/* Hue button */
+"Hue" = "Sắc thái";
+
+/* Depth button */
+"Depth" = "Độ sâu";
+
+/* Filters button */
+"Filters" = "Bộ lọc";
+
+/* Structure button */
+"Structure" = "Cấu trúc";
+
+/* Vibrance button */
+"Vibrance" = "Độ bão hòa";
+
+/* Vignette button */
+"Vignette" = "Mờ viền";
+
+/* Bright preset package */
+"Bright" = "Độ tươi";
+
+/* Drama preset package */
+"Drama" = "Kịch tính";
+
+/* Faded preset package */
+"Faded" = "Phai mờ";
+
+/* HighCon (<- As in high contrast) preset package */
+"HighCon" = "Tương phản Cao";
+
+/* LowCon (<- As in low contrast) preset package */
+"LowCon" = "Tương phản Thấp";
+
+/* Go Pro button */
+"Go Pro" = "Nâng cấp phiên bản Pro";
+
+/*Pop tool button (As in "the color pops out") */
+"Pop" = "Nổi bật Màu";
+
+/*cool tool button (Cool as in "colder") */
+"Cool" = "Mát";
+
+/*calm tool button */
+"Calm" = "Êm dịu";
+
+/*fade tool button */
+"Fade" = "Phai màu";
+
+/*Select All button */
+"Select All" = "Chọn Tất cả";
+
+/* Day preset package */
+"Day" = "Ban ngày";
+
+/* NEON preset package */
+"NEON" = "NEON";
+
+/* Night preset package */
+"Night" = "Ban đêm";
+
+/* Cinematic preset package */
+"Cinematic" = "Điện ảnh";
+
+/* Mystery preset package */
+"Mystery" = "Bí ẩn";
+
+/* Radical preset package */
+"Radical" = "Triệt để";
+
+/* No filter */
+"None" = "Không có";
+
+/* essential filters */
+"Essential" = "Thiết yếu";
+
+/* Adjust Primer tool */
+"Adjust Primer" = "Điều chỉnh Màu nền";
+
+/* Adjust Filter tool */
+"Adjust Filter" = "Điều chỉnh Bộ lọc";
+
+/* Ratio tool */
+"Ratio" = "Tỷ lệ";
+
+/* Temperature (here we use ‘Temp’ because ‘Temperature’ is too long) button */
+"Temp" = "Nhiệt độ";
+
+/* Light button */
+"Light" = "Đèn";
+
+/* Straighten button */
+"Straighten" = "Kéo thẳng";
+
+/* Horizontal skew button */
+"H-skew" = "Kéo xiên ngang";
+
+/* Vertical skew button */
+"V-skew" = "Kéo xiên dọc";
+
+/* Rotate button */
+"Rotate" = "Xoay";
+
+/* Flip horizontally button */
+"Flip H" = "Lật ngang";
+
+/* Flip vertically button */
+"Flip V" = "Lật dọc";
+
+/* Ratio button */
+"Ratio" = "Tỷ lệ";
+
+/* Ratios button */
+"Ratios" = "Tỷ lệ";
+
+/* Free ratio button */
+"Free" = "Tự do";
+
+/* Grain tool */
+"Grain" = "Hạt";
+
+/* Color */
+"Color" = "Màu";
+
+/* Title for a pack of Christmas themed Overlays and Sky Packs */
+"Christmas" = "Giáng Sinh";
+
+/*=========================*/
+/*======= Sky Tool ========*/
+/*=========================*/
+
+/* Sky tool */
+"Sky" = "Bầu trời";
+
+/* Randomizes the sky */
+"Random" = "Ngẫu nhiên";
+
+/* Controlls the opacity of the sky */
+"Opacity" = "Độ mờ";
+
+/* Changes the sky color according to a time of day */
+"Time" = "Thời gian";
+
+/* Adds clouds to the sky */
+"Clouds" = "Mây";
+
+/* Shifts the clouds */
+"Wind" = "Gió";
+
+/* Matches the color of the sky with the current filter option 1 */
+"Color Match" = "Khớp Màu sắc";
+
+/* Matches the color of the sky with the current filter option 2 */
+"Colorize" = "Tô màu";
+
+/* Sky horizon button*/
+"Horizon" = "Chân trời";
+
+/* Feather horizon button*/
+"Feather" = "Mềm biên";
+
+/* Shift horizon button*/
+"Shift" = "Thay đổi";
+
+/* Ambient horizon button*/
+"Ambient" = "Môi trường";
+
+/* Sunny sky package*/
+"Sunny" = "Trời nắng";
+
+/* Fantasy sky package*/
+"Fantasy" = "Huyền ảo";
+
+/* Dusk sky package*/
+"Dusk" = "Chạng vạng";
+
+/* Sunset sky package*/
+"Sunset" = "Hoàng hôn";
+
+/* Night sky package*/
+"Night" = "Ban đêm";
+
+/* Aurora sky package*/
+"Aurora" = "Cực quang";
+
+/* Storm sky package*/
+"Storm" = "Bão";
+
+/* New Sky package - Ablaze */
+"Ablaze" = "Rực cháy";
+
+/*===============================*/
+/*======= Portrait Tool =========*/
+/*===============================*/
+
+ /* Blur */
+"Blur" = "Mờ";
+
+/* Glow */
+"Glow" = "Rực rỡ";
+
+/* Smooth */
+"Smooth" = "Mịn";
+
+/*==================================*/
+/*======= Primer Properties ========*/
+/*==================================*/
+
+/* Primers tool */
+"Primers" = "Màu nền";
+
+/* Changes the low mixing */
+"Lows" = "Thấp";
+
+/* Changes the mid mixing */
+"Mids" = "Trung";
+
+/* Changes the high mixing */
+"Highs" = "Cao";
+
+/* Changes the effect on people */
+"People" = "Mọi người";
+
+/* Changes the effect on people option 2 */
+"Person" = "Bản thân";
+
+/* Changes the luminance */
+"Luminance" = "Độ chói";
+
+/* Changes the chroma (color) */
+"Chroma" = "Độ tinh khiết";
+
+/* Adds details */
+"Details" = "Chi tiết";
+
+/*=============================*/
+/*======= Filter packages =====*/
+/*=============================*/
+
+ /* Vibrant Package */
+"Vibrant" = "Màu nổi";
+
+/* Fade Package */
+"Fade" = "Phai màu";
+
+/* Portrait Package */
+"Portrait" = "Chân dung";
+
+/* Urban Package */
+"Urban" = "Thành thị";
+
+/* B&W (Black and white) Package */
+"B&W" = "Trắng đen";
+
+/* Film Package */
+"Film" = "Phim ảnh";
+
+/* Bright Package */
+"Bright" = "Độ tươi";
+
+/* Neutral Package */
+"Neutral" = "Trung tính";
+
+/* Cold Package */
+"Cold" = "Lạnh";
+
+/* Warm Package */
+"Warm" = "Ấm";
+
+/* Thank you pop up - title */
+"Thank you!" = "Xin cảm ơn!";
+
+/* Thank you pop up - substitle */
+"We appreciate your support.\nPlease enjoy all-access to premium features and unlimited primers & filters." = "Chúng tôi chân thành cảm ơn sự ủng hộ của bạn.\nBạn được toàn quyền truy cập các tính năng cao cấp cũng như các màu nền và bộ lọc không giới hạn.";
+
+/* Thank you pop up - continue button */
+"Get Started" = "Bắt đầu";
+
+/* New Filter package - Tones */
+"Tones" = "Tông màu";
+
+/*=============================*/
+/*======= Intro Strings =======*/
+/*=============================*/
+
+/* Intro first slide */
+"Welcome to Lightleap!" = "Chào mừng đến với Lightleap!";
+
+/* Intro first slide subtitle */
+"Take amazing shots on the go" = "Chụp những bức ảnh tuyệt đẹp trên chặng đường hàng ngày";
+
+/* Intro second slide variation 1 */
+"Make every photo you take beautiful" = "Làm đẹp cho mọi bức ảnh mà bạn chụp";
+
+/* Intro second slide variation 2 */
+"Make every sky breathtaking" = "Biến mọi bầu trời đều trở nên ngoạn mục";
+
+/* Into screen showing the portrait feature - option 1 */
+"And every portrait stunning" = "Và mọi bức chân dung đều thật ấn tượng";
+
+/* Into screen showing the portrait feature - option 2 */
+"Create stunning portraits" = "Tạo những bức chân dung ấn tượng";
+
+/* Intro fourth slide */
+"Save time! Edit multiple photos at once" = "Tiết kiệm thời gian! Chỉnh sửa nhiều bức ảnh cùng một lúc";
+
+/* Finish intro button */
+"Dive right in!" = "Khám phá ngay!";
+
+/* Button displayed on the last slide of the app introduction */
+"Get Started!" = "Bắt đầu!";
+
+/*=================================*/
+/*======= Apple retail demo =======*/
+/*=================================*/
+
+/* Alert when demo version is launched */
+"This version of %@ has been created specifically for demonstration purposes" = "Phiên bản %1$@ này được tạo riêng cho mục đích giới thiệu sản phẩm";
+
+/* Title of alert appearing when trying to enter a disabled feature */
+"Feature not enabled for this demo" = "Tính năng không được kích hoạt cho phiên bản demo này";
+
+/* Alert accept button */
+"OK" = "OK";
+
+/*====================================*/
+/*======= What's new component =======*/
+/*====================================*/
+
+/* What's new component title variation 1 */
+"New Portrait Tool" = "Công cụ Chân dung Mới";
+
+/* What's new component subtitle variation 1 */
+"Try it now" = "Thử ngay";
+
+/* What's new component subtitle variation 2 */
+"Try it on your portraits!" = "Hãy thử lên ảnh chân dung của bạn!";
+
+/* What's new component subtitle variation 3 */
+"Professional portraits in a few taps" = "Có ngay những bức chân dung chuyên nghiệp chỉ sau vài lần chạm";
+
+/*=============================================*/
+/*======= Temporary Free Preset Strings =======*/
+/*=============================================*/
+
+/* Title of subscription banner */
+"Get unlimited access with Lightleap PRO." = "Truy cập Lightleap PRO không giới hạn.";
+
+/* Subtitle of temporarily-free presets tool tip */
+"Quick, before they’re gone - Pro features with this icon are free!" = "Nhanh lên nào, trước khi chúng biến mất - Các tính năng Pro cùng với biểu tượng này đang miễn phí!";
+
+/* Local notification with new presets open up - title */
+"Try now!" = "Thử ngay!";
+
+/* Local notification with new presets open up - option 1 */
+"New FREE Presets available for a limited time only." = "Các Cài đặt trước MIỄN PHÍ mới hiện đang có sẵn trong thời gian có hạn.";
+
+/* Local notification with new presets open up - option 2 */
+"Brand new FREE Presets available for a limited time only." = "Các Cài đặt trước MIỄN PHÍ hoàn toàn mới hiện đang có sẵn trong thời gian có hạn.";
+
+/*================================*/
+/*======= Refferal Strings =======*/
+/*================================*/
+
+ /* Title of refferal pop up - option 1 */
+"Share for More Lightleap!" = "Chia sẻ để trải nghiệm Lightleap Nhiều hơn!";
+
+/* Title of refferal pop up - option 2 */
+"Share for Pro Exports!" = "Chia sẻ để nhận lượt Xuất Pro!";
+
+/* Title of refferal pop up - option 3 */
+"Share for more exports" = "Chia sẻ để có thêm lượt xuất";
+
+/* Subtitle of refferal pop up - option 1 */
+"Get 3 Pro exports and give a 7 day free trial - share Lightleap today!" = "Nhận 3 lần xuất Pro và 7 ngày dùng thử miễn phí - chia sẻ Lightleap ngay hôm nay!";
+
+/* Subtitle of refferal pop up - option 2 */
+"Get 3 Pro exports and give a 7 day free trial when your friend downloads Lightleap - share Lightleap today!" = "Nhận 3 lần xuất Pro và 7 ngày dùng thử miễn phí khi bạn bè của bạn tải về Lightleap - chia sẻ Lightleap ngay hôm nay!";
+
+/* Thank you message after refferal - Title */
+"Thanks for sharing!" = "Cảm ơn bạn đã chia sẻ!";
+
+/* Thank you message after refferal - Subtitle */
+"Bonus! Here’s one free Export – on us :)" = "Phần thưởng! Tặng bạn thêm một lần Xuất miễn phí – từ chúng tôi :)";
+
+/* Refferals explanation */
+"When your referred friend downloads Lightleap, you’ll get another 3 free Pro Exports!" = "Khi bạn bè do bạn giới thiệu tải về Lightleap, bạn sẽ nhận thêm 3 lần Xuất Pro miễn phí!";
+
+/* Button which opens the refferal pop up - option 1 */
+"Get free Pro Exports!" = "Nhận lượt Xuất Pro miễn phí!";
+
+/* Button which opens the refferal pop up - option 2 */
+"Want to get free Pro Exports?" = "Bạn có muốn nhận lượt Xuất Pro miễn phí không?";
+
+/* Lightleap link share button */
+"Share" = "Chia sẻ";
+
+/* Message letting the user know that even though he used pro features, he can use pro exports */
+"You've used Pro tools! Continue to use a free export" = "Bạn đã sử các công cụ Pro! Tiếp tục sử dụng một lần xuất miễn phí";
+
+/*=====================*/
+/*======= Masks =======*/
+/*=====================*/
+
+/* Undo / Redo action name (will say "undo: brush") */
+"Brush" = "Cọ";
+
+/* Masks - help */
+"Use Eraser to remove or Brush to add your Sky or Portrait to certain areas." = "Sử dụng Tẩy để xóa hoặc Cọ để thêm Bầu trời hoặc Chân dung của bạn vào những vùng ảnh nhất định.";
+
+/* Masks - what's new title 1 */
+"Masks" = "Mặt nạ";
+
+/* Masks - what's new title 2 */
+"Brushes" = "Cọ";
+
+/* Masks - what's new subtitle */
+"A perfect match in every photo. Adjust your Skies and Portrait Masks." = "Một sự kết hợp hoàn hảo cho mọi bức ảnh. Chỉnh sửa Bầu trời và Mặt nạ Chân dung của bạn.";
+
+/*===================================*/
+/*======= Intro slides Screen =======*/
+/*===================================*/
+
+/* Intro slides - Sky 1 */
+"Replace gray (or any!) skies with incredible Sky presets" = "Thay thế bầu trời xám xịt (hay bất kỳ bầu trời nào!) bằng những bản cài đặt trước Bầu trời khó tin";
+
+/* Intro slides - Sky 2 */
+"Change any sky in one tap" = "Thay đổi bất kỳ bầu trời nào chỉ với một cú chạm";
+
+/* Intro slides - portrait 1 */
+"Make portraits pop with background blur & multiple presets" = "Làm nổi bật ảnh chân dung bằng những bản cài đặt trước ảnh nền mờ";
+
+/* Intro slides - portrait 2 */
+"Retouch portraits to perfection in one tap" = "Chỉnh sửa ảnh chân dung để đạt đến sự hoàn hảo chỉ với một cú chạm";
+
+/* Intro slides - portrait 3 */
+"Retouch portraits to perfection" = "Chỉnh sửa ảnh chân dung để đạt đến sự hoàn hảo";
+
+/* Intro slides - filters 1 */
+"Adjust the mood of any shot with premium Filters" = "Điều chỉnh tâm trạng của bất kỳ bức ảnh nào bằng những Bộ lọc cao cấp";
+
+/* Intro slides - filters 2 */
+"Adjust the mood in one tap" = "Điều chỉnh tâm trạng chỉ với một cú chạm";
+
+/* Intro slides - filters 3 */
+"Adjust the mood with premium Filters" = "Điều chỉnh tâm trạng bằng những Bộ lọc cao cấp";
+
+/* Intro slides - Magic 1 */
+"Effortless auto-adjustment in just a tap!" = "Dễ dàng điều chỉnh tự động chỉ trong một lần chạm!";
+
+/* Intro slides - Magic 2 */
+"Fix photos magically in just one tap" = "Chỉnh sửa ảnh một cách kỳ diệu chỉ trong một lần chạm";
+
+/* Intro slides - Magic 3 */
+"Magically fix every image" = "Chỉnh sửa thần kỳ cho mọi bức ảnh";
+
+/* Intro slides - overlays 1 */
+"Smart Overlays adjust automatically to properly match every photo!" = "Lớp phủ Thông minh tự động điều chỉnh để phù hợp với mọi bức ảnh!";
+
+/* Intro slides - overlays 2 */
+"Add stunning special effects" = "Thêm những hiệu ứng đặc biệt đầy ấn tượng";
+
+/* Intro slides - overlays 3 */
+"Special effects in one tap" = "Hiệu ứng đặc biệt chỉ trong một lần chạm";
+
+/* Intro slides - final slide 1 */
+"So many amazing photos, all in one tap!" = "Quá nhiều bức ảnh tuyệt vời, tất cả chỉ với một cú chạm!";
+
+/* Intro slides - final slide 1 */
+"One photo, so many amazing looks!" = "Một bức ảnh, quá nhiều phong cách tuyệt vời!";
+
+/*========================*/
+/*======= Overlays =======*/
+/*========================*/
+
+/* What's new title */
+"New! Overlays" = "Mới! Lớp phủ";
+
+/* What's new subtitle */
+"Add a little something extra & transform your shots" = "Thêm một chút đặc biệt và biến đổi cho bức ảnh của bạn";
+
+/*=========================*/
+/*======= Magic Fix =======*/
+/*=========================*/
+
+/* Magic fix feature title */
+"Magic" = "Kỳ diệu";
+
+/* What's New title */
+"Magic in a Tap" = "Điều kỳ diệu trong một cú Chạm";
+
+/* What's New subtitle */
+"Adjust and Enhance your photos - no effort necessary!" = "Điều chỉnh và Làm nổi bật các bức ảnh của bạn - cực kỳ đơn giản!";
+
+/*=============================*/
+/*======= Export screen =======*/
+/*=============================*/
+
+/* export - what's new title */
+"New Export Options" = "Tùy chọn Xuất Mới";
+
+/* export - what's new subtitle */
+"Change your format, export to social media & more!" = "Thay đổi định dạng, xuất lên mạng xã hội và hơn thế nữa!";
+
+/* eraser tooltip */
+"Tap to Erase!" = "Chạm để Xóa!";
+
+/* export - save new photo over original photo */
+"Replace" = "Thay thế";
+
+/* export - save new photo as new copy photo */
+"Save Copy" = "Lưu Bản sao";
+
+/* Save copy option explanation */
+"Saves an edited copy, but leaves original untouched" = "Lưu một bản sao đã chỉnh sửa, nhưng giữ nguyên bản gốc";
+
+/* Save over option explanation */
+"Replaces original photo with edited version" = "Thay thế ảnh gốc bằng một phiên bản đã chỉnh sửa";
+
+/* button which exports the edited photo to instagram */
+"Post to Instagram" = "Đăng lên Instagram";
+
+/* explanation on button which provides export through other apps */
+"Other Apps and Services" = "Các Ứng dụng và Dịch vụ Khác";
+
+/* export photo format type */
+"Format" = "Định dạng";
+
+/* label explaining the destination of the export */
+"Export to" = "Xuất đến";
+
+/* Looks feature title */
+"Looks" = "Phong cách";
+
+/* Looks what's new title */
+"Looks are combinations of tools, specially crafted by our design team. Check them out now!" = "Phong cách là sự kết hợp của các công cụ, đặc biệt được tạo thành bởi đội ngũ thiết kế của chúng tôi. Khám phá ngay!";
+
+/* Primers what's new title */
+"Primers are still here! We've just moved them around and changed the icon." = "Màu nền vẫn ở đây! Chúng tôi chỉ thay đổi vị trí và biểu tượng.";
+
+/* Looks popup title */
+"Specially Crafted Lightleap Combinations" = "Những Sự Kết Hợp Được Tạo Thành Đặc Biệt Trên Lightleap";
+
+/* Looks popup subtitle */
+"Looks are combinations of Lightleap tools, specially crafted by our design team." = "Phong cách là sự kết hợp của các công cụ trên Lightleap, đặc biệt được tạo thành bởi đội ngũ thiết kế của chúng tôi.";
+
+/* Tooltip explaining to the user how to erase a mask */
+"Tap here, then swipe your photo to erase the effect" = "Chạm vào đây, sau đó vuốt ảnh của bạn để xóa hiệu ứng";
+
+/* Promotion screen title */
+"Hurry & get a month of Lightleap Pro for only %@!" = "Hãy nhanh tay và mua một tháng sử dụng Lightleap Pro chỉ với giá %1$@!";
+
+/* Promotion screen second title */
+"Get even more with Lightleap Pro!" = "Nhận được nhiều hơn với Lightleap Pro!";
+
+/* Promotion screen features 1 */
+"Unlock all tools" = "Mở khóa tất cả công cụ";
+
+/* Promotion screen features 2 */
+"More Skies, more Filters!" = "Thêm Bầu trời, thêm Bộ lọc!";
+
+/* Promotion screen features 3 */
+"New Pro content every month" = "Nội dung mới hàng tháng cho phiên bản Pro";
+
+/* Promotion screen price text */
+"Get 1 Month for %@" = "Mua 1 Tháng với giá %1$@";
+
+/* Promotion screen price text 2 */
+"then only %@ (billed yearly)" = "sau đó chỉ %1$@ (thanh toán hàng năm)";
+
+/* Promotion screen text explaining to the user he can cancel his subscription */
+"Cancel anytime" = "Hủy bất kỳ lúc nào";
+
+/* Banner explaining to the user he used pro features */
+"You've used Pro features! Unlock Pro features to save." = "Bạn đã sử dụng các tính năng Pro! Mở khóa tính năng Pro để lưu.";
+
+/* Button on the banner, which opens the subscription screen */
+"Unlock Pro features" = "Mở khóa tính năng Pro";
+
+/* Button which removes the edits that were using pro features */
+"Remove Limit" = "Loại bỏ Giới hạn";
+
+/* Free trial button */
+"Free trial" = "Dùng thử miễn phí";
+
+/* Crop tool title */
+"Crop" = "Cắt";
+
+/* Subtitle for an error message when a photo couldn't be saved 1 */
+"Oops, can't save over a demo photo" = "Rất tiếc, không thể lưu trên ảnh demo";
+
+/* Subtitle for an error message when a photo couldn't be saved 2 */
+"Oops, can't save over a video" = "Rất tiếc, không thể lưu trên video";
+
+/* Message shown when user uses a tool which works on faces */
+"Couldn't find a face" = "Không thể tìm thấy khuôn mặt";
+
+/* Referrals - message shown to referred user */
+"Your First 7 Days Free" = "Miễn phí 7 Ngày Đầu tiên của Bạn";
+
+/* Notification text informing the user that they can try Lightleap VIP free for 7 days */
+"Try free for 7 days!" = "Dùng thử miễn phí trong 7 ngày!";
+
+/* Trial push notification version 1 */
+"Time is almost up ⏲ get your free trial!" = "Thời gian sắp hết ⏲ hãy nhận dùng thử miễn phí!";
+
+/* Trial push notification version 2 */
+"Time is almost up ⏲ get a free trial of unlimited Skies, stunning Filters, and beautiful Overlays. Tap to get started!" = "Thời gian sắp hết ⏲ hãy nhận dùng thử miễn phí để trải nghiệm Bầu trời không giới hạn, Bộ lọc ấn tượng và Lớp phủ tuyệt đẹp. Chạm để bắt đầu!";
+
+/* Trial push notification version 3 */
+"Time is almost up ⏲ get a free week of unlimited Skies, stunning Filters, and beautiful Overlays. Tap to get started!" = "Thời gian sắp hết ⏲ hãy nhận một tuần miễn phí để trải nghiệm Bầu trời không giới hạn, Bộ lọc ấn tượng và Lớp phủ tuyệt đẹp. Chạm để bắt đầu!";
+
+/* Referrals - message shown to referred user 2 */
+"Have you tried Lightleap? Get 1 week free!" = "Bạn đã dùng thử Lightleap chưa? Nhận 1 tuần miễn phí!";
+
+/* Message shown to the user when a reffered user downloads Lightleap - title */
+"Yay!" = "Tuyệt!";
+
+/* Message shown to the user when a reffered user downloads Lightleap - subtitle */
+"You've got %lu Pro points!" = "Bạn đã nhận được %1$lu điểm Pro!";
+
+/* Message shown to user when he is about to save a photo and use a point */
+"Use 1 Pro point" = "Sử dụng 1 điểm Pro";
+
+/* Message shown to user when he wants to share Lightleap link but there is no connection */
+"No internet connection" = "Không có kết nối Internet";
+
+/* 'share Lightleap' dialog title */
+"Share and get Lightleap Pro" = "Chia sẻ và nhận Lightleap Pro";
+
+/* 'share Lightleap' dialog subtitle */
+"Get 3 Pro points every time a friend downloads Lightleap via this link. Use your points to save images with Pro features." = "Nhận 3 điểm Pro mỗi khi một người bạn tải về Lightleap thông qua liên kết này. Sử dụng điểm của bạn để lưu ảnh với các tính năng Pro.";
+
+/* button which will take users to the 'share Lightleap' dialog */
+"Get free Pro points!" = "Nhận điểm Pro miễn phí!";
+
+/* button which will take users to the 'share Lightleap' dialog 2 */
+"Want to get free Pro points?" = "Muốn nhận điểm Pro miễn phí?";
+
+/* Message shown to user after he shared the Lightleap link */
+"When your referred friend downloads Lightleap, you’ll get another 3 free Pro points!" = "Khi người bạn do bạn giới thiệu tải về Lightleap, bạn sẽ nhận thêm 3 điểm Pro miễn phí!";
+
+/* Effects feature title */
+"Effects" = "Hiệu ứng";
+
+/* Title for pop up which allows the user to save the current edit as a new look */
+"Name Your Look" = "Đặt tên Phong cách của Bạn";
+
+/* Subtitle for pop up which allows the user to save the current edit as a new look */
+"Name & save your signature editing style!" = "Đặt tên và lưu phong cách chỉnh sửa độc quyền của bạn!";
+
+/* Rename the look button */
+"Rename" = "Đổi tên";
+
+/* Button which saves a Look in the Look feature */
+"Save Look" = "Lưu Phong cách";
+
+/* Title of the pop up which enables you to rename a Look you previously saved */
+"Rename Look" = "Đổi tên Phong cách";
+
+/* Button text for accepting the changes you have made your Look's name  */
+"Done" = "Hoàn tất";
+
+/* Message displayed to the user when the image is being saved */
+"Saving photo" = "Đang lưu ảnh";
+
+/* Message displayed to the user when multiple images are being saved */
+"Saving photos" = "Đang lưu ảnh";
+
+/* Pop up displayed when user tries to use a Pro feature */
+"This is Pro only. Go Pro to get this feature!" = "Chỉ dành cho phiên bản Pro. Nâng cấp lên phiên bản Pro để sử dụng tính năng này!";
+
+/* Label on a button that restores previously purchased products */
+"Already paid?" = "Đã thanh toán?";
+
+/* Chinese welcome popup title */
+"Welcome Bonus" = "Thưởng Chào mừng";
+
+/* Chinese welcome popup subtitle */
+"You’ve received %lu days of Pro free! You can now access all features of the app for %lu days" = "Bạn đã nhận được %1$lu ngày sử dụng phiên bản Pro miễn phí! Bây giờ bạn có thể truy cập tất cả các tính năng của ứng dụng trong %2$lu ngày";
+
+/* Chinese intro subscription popup title */
+"Keep Using Pro" = "Tiếp tục Sử dụng Phiên bản Pro";
+
+/* Chinese intro subscription popup subtitle */
+"Hope you enjoyed your trial. Pay for 5 months of Pro, get another 7 months FREE!" = "Hy vọng bạn thích thời gian dùng thử của mình. Mua 5 tháng sử dụng phiên bản Pro, nhận thêm 7 tháng MIỄN PHÍ";
+
+/*=============================*/
+/*======= Custom looks ========*/
+/*=============================*/
+
+/* Looks - what's new Title */
+"New: Custom Looks" = "Mới: Phong cách Tùy chỉnh";
+
+/* Looks - what's new Subtitle */
+"Name & save your signature editing style" = "Đặt tên và lưu phong cách chỉnh sửa độc quyền của bạn";
+
+/* Looks Pro popup - appears when non-sub tries to save more looks than allowed - Title*/
+"Add more looks with Pro" = "Thêm nhiều phong cách hơn với phiên bản Pro";
+
+/* Looks Pro popup - appears when non-sub tries to save more looks than allowed - Subtitle*/
+"Save up to %@ custom Looks" = "Lưu tối đa %1$@ Phong cách tùy chỉnh";
+
+/* Save new Look tooltip */
+"Love your current edits? Tap here to name your Look & save it!" = "Bạn có thích các chỉnh sửa hiện tại của mình không? Chạm vào đây để đặt tên cho Phong cách của bạn và lưu lại!";
+
+/* Custom Looks limit reached for subscribers message - title  */
+"Custom Looks are Full" = "Phỏng cách Tùy chỉnh đã Đầy";
+
+/* Custom Looks limit reached for subscribers message - title  */
+"We love that you're creating more Looks, but Lightleap can only handle 30 custom Looks at a time. Press & hold an older Look, then choose delete to make room for a new Look." = "Thật vui khi thấy bạn đang tạo thêm nhiều Phong cách, nhưng Lightleap chỉ có thể xử lý 30 Phong cách tùy chỉnh cùng một lúc. Nhấn và giữ vào một Phong cách cũ hơn, sau đó chọn xóa để có chỗ cho một Phong cách mới.";
+
+/*===================================*/
+/*======= Subscription offers =======*/
+/*===================================*/
+
+/* Title of a pop-up subscription screen offering a discounted product*/
+"Save %@%%" = "Tiết kiệm %1$@%%";
+
+/* Title of a pop-up subscription screen offering a discounted product*/
+"1 Year for Just %@" = "1 Năm Chỉ với %1$@";
+
+/* Sub -Title of a pop-up subscription screen offering a discounted product*/
+"Renew now and save %@%% next year." = "Gia hạn ngay và tiết kiệm %1$@%% vào năm tiếp theo.";
+
+/* Sub -Title of a pop-up subscription screen offering a discounted product*/
+"Renew now and save %@%% next year. \n Cancel anytime." = "Gia hạn ngay và tiết kiệm %1$@%% vào năm tiếp theo. \n Hủy bất kỳ lúc nào.";
+
+/* Sub -Title of a pop-up subscription screen offering a discounted product*/
+"Renew your subscription and save %@%% on the following year." = "Gia hạn gói đăng ký của bạn và tiết kiệm %1$@%% vào năm sau.";
+
+/* Sub -Title of a pop-up subscription screen offering a discounted product*/
+"Renew your subscription and save %@%% on the following year. \n Cancel anytime." = "Gia hạn gói đăng ký của bạn và tiết kiệm %1$@%% vào năm sau. \n Hủy bất kỳ lúc nào.";
+
+/* Sub -Title of a pop-up subscription screen offering a discounted product*/
+"Then %@ the year after. \n Cancel anytime." = "Sau đó %1$@ cho năm tiếp theo. \n Hủy bất kỳ lúc nào.";
+
+/* Sub -Title of a pop-up subscription screen offering a discounted product*/
+"Then %@ the year after." = "Sau đó %1$@ cho năm kế tiếp.";
+
+/*Decline button of a  pop up subscription Screen*/
+"Decline offer" = "Từ chối ưu đãi";
+
+/* Current subscription box title  */
+"Your Pro Membership" = "Tư cách Thành viên Pro của Bạn";
+
+/* Name of the current app, followed by Pro  */
+"%@ Pro" = "%1$@ Pro";
+
+/* Current sybscription type - yearly  */
+"Yearly member" = "Thành viên hàng năm";
+
+/* Current sybscription type - monthly  */
+"Monthly member" = "Thành viên hàng tháng";
+
+/* Enlight suite subscription box title  */
+"Meet the Suite" = "Trải nghiệm Bộ công cụ";
+
+/* Enlight suite banner button title  */
+"Be an Enlight Pro" = "Trở thành một Enlight Pro";
+
+/* Enlight suite banner button subtitle  */
+"on all 4 apps" = "cho tất cả 4 ứng dụng";
+
+/* Enlight suite subscription button title  */
+"SAVE %@%%" = "TIẾT KIỆM %1$@%%";
+
+/* Yearly subscription button badge title  */
+"SAVE\n%@%%" = "TIẾT KIỆM\n%1$@%%";
+
+/* Enlight suite subscription button subtitle  */
+"Full yearly access for %@" = "Toàn quyền truy cập cả năm với giá %1$@";
+
+/* Button appearing in the subscription screen, notifying users that by pressing this button they are choosing an anual subscription plan - 5 + 7 months */
+"5 Months + 7 Months FREE" = "5 Tháng + 7 Tháng MIỄN PHÍ";
+
+/* Subtitle of a button appearing in the subscription screen, notifying users that by pressing this button they will be saving an amount equal to {0}*/
+"Save {0}" = "Tiết kiệm {0}";
+
+/* Label on a button for purchasing subscription that renews every 3 months */
+"3 Months" = "3 Tháng";
+
+/* Label on a button for purchasing subscription that renews every week */
+"1 Week" = "1 Tuần";
+
+/* Title of a button offering the user to continue using the weekly payment plan. */
+"Continue with weekly" = "Tiếp tục với gói hàng tuần";
+
+/* Subscription screen - custom looks thumbnail */
+"30\nCustom\nLooks" = "30\nPhong cách\nTùy chỉnh";
+
+/* Save custom look first tool tip */
+"Love your current edits? Go into Looks to save your new Look!" = "Thích các chỉnh sửa hiện tại của bạn? Đến Phong cách để lưu Phong cách mới của bạn!";
+
+/* Save custom look first tool tip */
+"Tap here to name & save your Look" = "Chạm vào đây để đặt tên và lưu Phong cách của bạn";
+
+/* Text under the button which provides the payment info */
+"30\nCustom\nLooks" = "30\nPhong cách\nTùy chỉnh";
+
+/* Weekly to yearly upgrade title - option 1 */
+"Upgrade to yearly for just %@" = "Nâng cấp lên gói hàng năm chỉ với %1$@";
+
+/* Weekly to yearly upgrade title - option 2 */
+"Upgrade to yearly and save %@%%" = "Nâng cấp lên gói hàng năm và tiết kiệm %1$@%%";
+
+/* Weekly to yearly upgrade title - option 3 */
+"Upgrade and save %@%%" = "Nâng cấp và tiết kiệm %1$@%%";
+
+/* Weekly to yearly upgrade subtitle - option 1 */
+"Get a whole year for the price of 9 weeks." = "Sử dụng cả năm chỉ với giá của 9 tuần.";
+
+/* Weekly to yearly upgrade subtitle - option 2 */
+"Upgrade to yearly for %@ and save %@" = "Nâng cấp lên gói hàng năm với giá %1$@ và tiết kiệm %2$@";
+
+/* Weekly to yearly upgrade subtitle - option 3 */
+"Upgrade to yearly for %@.\n That's %@/mo." = "Nâng cấp lên gói hàng năm với giá %1$@.\n Tương đương %2$@/tháng.";
+
+/* Trial auto renewal explanation */
+"If you do not cancel, you will be automatically charged 24 hours before the end of the trial." = "Nếu bạn không hủy, bạn sẽ tự động được tính phí vào 24 giờ trước khi kết thúc thời gian dùng thử.";
+
+/* Body text in a button encouraging the user to start a 7 day free trial */
+"Get 7 Days Free!" = "Nhận 7 Ngày Miễn phí!";
+
+/* Description of a monthly price. */
+"%@ per month" = "%1$@ mỗi tháng";
+
+/* Button appearing in the subscription screen, notifying users that by pressing this button they are choosing an anual subscription plan - 6 + 6 months */
+"6 Months + 6 Months FREE" = "6 Tháng + 6 Tháng MIỄN PHÍ";
+
+/* Button appearing in the subscription screen, notifying users that by pressing this button they are choosing an anual subscription plan - 6 months */
+"6 Months" = "6 Tháng";
+
+/* Button appearing in the subscription screen, notifying users that by pressing this button they are choosing an anual subscription including a trial */
+"12 Months + 3 Day Trial" = "12 Tháng + 3 Ngày Dùng thử";
+
+/* Disclaimer text */
+"If you do not cancel, you will be automatically charged 24 hours before the end of the trial." = "Nếu bạn không hủy, bạn sẽ tự động được tính phí vào 24 giờ trước khi kết thúc thời gian dùng thử.";
+
+/* New filters what's new - title */
+"New Filters!" = "Bộ lọc Mới!";
+
+/* New filters what's new - subtitle */
+"Adjust the mood in one tap with 34 new Filters" = "Điều chỉnh tâm trạng trong một lần chạm với 34 Bộ lọc mới";
+
+/*==============================*/
+/*======= Looks Catalog  =======*/
+/*==============================*/
+
+/* Looks catalog main title */
+"Looks Catalog" = "Danh mục Phong cách";
+
+/* Looks Catalog toolbar title*/
+"Catalog" = "Danh mục";
+
+/* Looks catalog main title */
+"Look Book" = "Sách Phong cách";
+
+/* Download button title */
+"Download" = "Tải về";
+
+/* Download button title */
+"Download look" = "Tải về phong cách";
+
+/* No internet connection error message title */
+"Let's get connected" = "Hãy kết nối";
+
+/* Download error message body */
+"Incredible edits and... no internet.\nCheck your connection and try downloading again." = "Những chỉnh sửa khó tin và... không có internet.\nHãy kiểm tra kết nối và thử tải về lại.";
+
+/* No internet connection error message body */
+"Please check your connection and come back so we can show you the newest Looks!" = "Hãy kiểm tra kết nối và quay lại để chúng tôi có thể cho bạn thấy những Phong cách mới nhất!";
+
+/* Disclaimer informing the user the trial is only offered with a yearly subscription. */
+"with a yearly subscription" = "với một gói đăng ký hàng năm";
+
+/* Body text in a button encouraging the user to start a 1 month free trial */
+"Get 1 Month Free!" = "Nhận 1 Tháng Miễn phí!";
+
+/* Title of the popup offering discount */
+"Get 1 year for %@ off" = "Mua gói 1 năm để được giảm giá %1$@";
+
+/* title of the popup view offering free days */
+"Get %@ days free" = "Nhận %1$@ ngày miễn phí";
+
+/* Title of a button that takes the user to the subscription screen */
+"Show me" = "Cho tôi xem";
+
+/* Description for Lightleap */
+"Unlimited access to more Looks, Filters, Skies & Effects!" = "Truy cập không giới hạn thêm nhiều Phong cách, Bộ lọc, Bầu trời và Hiệu ứng!";
+
+/* Button title for opening the catatlog */
+"View" = "Xem";
+
+/* Button title for opening the catatlog */
+"Try now" = "Thử ngay";
+
+/* What's new title for looks catalog. */
+"Get more Looks" = "Nhận thêm Phong cách";
+
+/* What's new body for looks catalog. */
+"Browse to find your favorites, and get them instantly!" = "Duyệt để tìm sở thích của bạn và sở hữu chúng tức thì!";
+
+/*Looks catalog notification title. */
+"Gotta have it 🌅" = "Nhất định phải có 🌅";
+
+/*Looks catalog notification body. */
+"You can't miss these new Looks!" = "Bạn không thể bỏ lỡ những Phong cách mới này!";
+
+/*Looks catalog notification title. */
+" You're missing out..." = " Bạn đang bỏ lỡ...";
+
+/*Looks catalog notification body. */
+"Get in here and get these new Looks" = "Hãy đến đây và sở hữu những Phong cách mới này";
+
+/*Looks catalog notification title. */
+"They're here ✨" = "Chúng đây rồi ✨";
+
+/*Looks catalog notification body. */
+"The great new Looks you've been waiting for!" = "Những Phong cách mới tuyệt vời mà bạn đang chờ đón!";
+
+/*Looks catalog notification title. */
+"Check it out!" = "Khám phá ngay!";
+
+/*Looks catalog notification body. */
+"The newest trendy Looks" = "Những Phong cách thức thời mới nhất";
+
+/*Looks catalog notification title. */
+"Up your game" = "Liên tục đổi mới";
+
+/*Looks catalog notification body. */
+"Your pics will never be the same with these Looks!" = "Các bức ảnh của bạn sẽ không bao giờ giống nhau với những Phong cách này!";
+
+/* Title of a Black Friday Sale popup */
+"Black Friday Sale" = "Khuyến mãi Thứ Sáu Đen Tối";
+
+/* Countdown timer for an offer - days */
+"days" = "ngày";
+
+/* Countdown timer for an offer - hours */
+"hrs" = "giờ";
+
+/* Countdown timer for an offer - minutes */
+"mins" = "phút";
+
+/* Countdown timer for an offer - seconds */
+"secs" = "giây";
+
+/* Title of an offer plan */
+"YEARLY PLAN" = "GÓI HÀNG NĂM";
+
+/* Subtitle of an offer plan for first year discount. The placeholder is for the price of subscription for the first year. */
+"Get 1 year for %@" = "Mua gói 1 năm với giá %1$@";
+
+/* Sub-subtitle of an offer plan for first year discount, that appears right after the previous string. The placeholder is for the price of subscription for every year after the first one. */
+"then %@ the year after" = "sau đó %1$@ cho năm tiếp theo";
+
+/* Title of a popup offering discount. The placeholder is for number of percents for discount. */
+"Get your first year for %@ off!" = "Mua năm đầu tiên của bạn để được giảm giá %1$@!";
+
+/* Text informing the user that their device is no longer supported. */
+"Your device may not be supported" = "Thiết bị của bạn có thể không được hỗ trợ";
+
+/* Text informing the user that their device is no longer supported. */
+"Unfortunately, due to technical limitations we will no longer be supporting your device. For more information please feel free to contact us" = "Rất tiếc, do những hạn chế về kỹ thuật, chúng tôi sẽ không còn hỗ trợ thiết bị của bạn nữa. Để biết thêm thông tin, vui lòng liên hệ với chúng tôi";
+
+/* Link instruction user how they can turn off automatic updates. */
+"https://support.apple.com/en-us/HT202180" = "https://support.apple.com/en-us/HT202180";
+
+/* Button that takes the user to a help link. */
+"How to turn off automatic updates" = "Cách tắt tự động cập nhật";
+
+/* Title of the Light Leaks Look's pack */
+"Light Leaks" = "Rò sáng";
+
+/* Title of the Graceful Look's pack */
+"Graceful" = "Duyên dáng";
+
+/* Title of the Lovely Look's pack */
+"Lovely" = "Đáng yêu";
+
+/* Title of the Winter Wonder Look's pack */
+"Winter Wonder" = "Kỳ quan Mùa đông";
+
+/* Title of the Rainbow Look's pack */
+"Rainbow" = "Cầu vồng";
+
+/* Title of the Enchanted Look's pack */
+"Enchanted" = "Quyến rũ";
+
+/* Title of the Fireworks Look's pack */
+"Fireworks" = "Pháo hoa";
+
+/* Sky feature title for subscription screen */
+"All the Skies you need" = "Tất cả những Bầu trời mà bạn cần";
+
+/* Sky feature subtitle for subscription screen */
+"Pick unique Skies for your shots" = "Chọn những Bầu trời độc đáo cho hình ảnh của bạn";
+
+/* Looks feature title for subscription screen */
+"Get your own Looks" = "Sở hữu Phong cách của riêng bạn";
+
+/* Looks feature subtitle for subscription screen */
+"Express your individuality" = "Thể hiện cá tính của bạn";
+
+/* Filter feature title for subscription screen */
+"Unique Filters" = "Bộ lọc Độc đáo";
+
+/* Filters feature subtitle for subscription screen */
+"Get a consistent vibe" = "Đón nhận một sự rung cảm đồng điệu";
+
+/* Effects feature title for subscription screen */
+"Effects that pop" = "Hiệu ứng nổi bật";
+
+/* Effects feature subtitle for subscription screen */
+"Step up your editing" = "Nâng cao chất lượng chỉnh sửa của bạn";
+
+/* Primers feature title for subscription screen */
+"Colorful Primers" = "Màu nền Sặc sỡ";
+
+/* Primers feature subtitle for subscription screen */
+"You’ll have to show these off" = "Bạn sẽ phải khoe những thứ này";
+
+/* Label indicating price per month */
+"Only %@/mo." = "Chỉ %1$@/tháng.";
+
+/* Label indication the possibility to cancel subscription anytime */
+"Cancel anytime." = "Hủy bất kỳ lúc nào.";
+
+/* Product label */
+"Best Deal" = "Ưu đãi Tuyệt nhất";
+
+/* Price label for yearly product */
+"Only %@ Yearly" = "Chỉ %1$@ mỗi Năm";
+
+/* Price label for yearly product */
+"%@ Yearly" = "%1$@ mỗi Năm";
+
+/* Subscription screen subtitle */
+"All the tools you need.\nGet in on the fun!" = "Tất cả những công cụ mà bạn cần.\nChào đón sự thú vị!";
+
+/* Button offering to see other product plans */
+"See other plans" = "Xem các gói khác";
+
+/* Label for lifetime membership */
+"Lifetime" = "Trọn đời";
+
+/* Label for monthly membership */
+"Monthly" = "Hàng tháng";
+
+/* Label for yearly membership */
+"Yearly" = "Hàng năm";
+
+/* Label for the amount of percentage saved */
+"%@%% off" = "Giảm giá %1$@%%";
+
+/* Product plans screen title */
+"Your Special Offers" = "Ưu đãi Đặc biệt của Bạn";
+
+/* Label indication the possibility to cancel subscription anytime */
+"Limited Offer" = "Ưu đãi Có hạn";
+
+/* Label indicating price per month */
+"%@/month" = "%1$@/tháng";
+
+/* Label indication the possibility to cancel subscription anytime */
+"Limited time" = "Thời gian có hạn";
+
+/* Yearly product with discount button title */
+"%@ Months for the price of %@" = "%1$@ Tháng với Giá %2$@";
+
+/* Title for section of recently used items */
+"Recents" = "Gần đây";
+
+/*==========================================*/
+/*======= Terms and conditions alert =======*/
+/*==========================================*/
+
+/* Terms and conditions popup title */
+"Terms & Conditions" = "Điều khoản và Điều kiện";
+
+/* Terms and conditions popup body */
+"By clicking Accept, I agree to Lightleap’s Terms of Use and Privacy Policy." = "Bằng cách nhấn Chấp nhận, tôi đồng ý với Điều khoản Sử dụng và Chính sách Quyền Riêng tư của Lightleap.";
+
+/* Terms and conditions popup button title */
+"Accept" = "Chấp nhận";
+
+/* Offer screen title */
+"Best Deal\non Lightleap Pro" = "Ưu đãi Tốt nhất\ndành cho Lightleap Pro";
+
+/* Inpainting intro screen slide */
+"Remove pesky spots to clean up your shot" = "Xóa những điểm không cần thiết để làm sạch bức ảnh của bạn";
+
+/* Inpainting what's new title */
+"Heal for a Quick Fix" = "Hiệu chỉnh để Sửa Nhanh";
+
+/* Inpainting what's new body */
+"Use this powerful tool to get rid of problem spots and photobombs" = "Sử dụng công cụ mạnh mẽ này để loại bỏ những điểm xấu và người vô tình lọt vào khung hình";
+
+/* Tupi's skies what's new title */
+"Tupi's Skies" = "Bầu trời của Tupi";
+
+/* Tupi's skies what's new body */
+"New Skies submitted by Tupi Saravia and fans" = "Những Bầu trời mới được gửi bởi Tupi Saravia và người hâm mộ";
+
+/* Tupi's skies notification title */
+"Breaking News!" = "Tin Nóng!";
+
+/* Tupi's skies notification body */
+"Influencer Tupi Saravia has added Skies to Lightleap - check them out" = "Người ảnh hưởng Tupi Saravia đã thêm các Bầu trời vào Lightleap - khám phá ngay";
+
+/* Heal feature title */
+"Heal" = "Hiệu chỉnh";
+
+/* Restore heal feature title */
+"Restore" = "Khôi phục";
+
+/* SUNNY sky package*/
+"SUNNY" = "TRỜI NẮNG";
+
+/* FANTASY sky package*/
+"FANTASY" = "HUYỀN ẢO";
+
+/* DUSK sky package*/
+"DUSK" = "CHẠNG VẠNG";
+
+/* SUNSET sky package*/
+"SUNSET" = "HOÀNG HÔN";
+
+/* NIGHT sky package*/
+"NIGHT" = "BAN ĐÊM";
+
+/* AURORA sky package*/
+"AURORA" = "CỰC QUANG";
+
+/* STORM sky package*/
+"STORM" = "BÃO";
+
+/* ABLAZE sky package*/
+"ABLAZE" = "RỰC CHÁY";
+
+/* VALENTINE'S sky package*/
+"VALENTINE'S" = "LỄ TÌNH NHÂN";
+
+/* Title for a feature that enables users to add stickers to their projects */
+"Element" = "Thành phần";
+
+/* Title for slider controling foreground opacity */
+"Foreground" = "Tiền cảnh";
+
+/* Title for slider controling temperature of the image */
+"Temperature" = "Nhiệt độ";
+
+/*====================================*/
+/*=========== 618 Strings ============*/
+/*====================================*/
+
+/* Main title of subscription screen */
+"Special 618 Offer\nSave 20% Off Yearly Plan" = "Ưu đãi 618 Đặc biệt\nTiết kiệm 20% cho Gói Hàng năm";
+
+/* Text of price in main screen */
+"%@ Yearly Price 618" = "%1$@ mỗi Năm với Giá 618";
+
+/* Title for continue button */
+"Unlock Pro now" = "Mở khóa Phiên bản Pro Ngay";
+
+/* Subtitle under continue button */
+"Valid until June 18th. 1st Year Only." = "Có hiệu lực đến ngày 18 tháng 6. Chỉ trong Năm Đầu tiên.";
+
+/* Text for button that opens the other plans popup */
+"See more plans" = "Xem gói khác";
+
+/* Title of 618 promotion popup */
+"618 Celebration" = "Kỷ niệm 618";
+
+/* Text above yearly subscription button in other plans popup */
+"SPECIAL OFFER" = "ƯU ĐÃI ĐẶC BIỆT";
+
+/* Title of yearly subscription button in other plans popup */
+"YEARLY" = "HÀNG NĂM";
+
+/* Price text of yearly subscription button in other plans popup */
+" %@/year\nSave 20%% Now." = " %1$@/năm\nTiết kiệm 20%% Ngay.";
+
+/* Text For continue button */
+"Unlock Lightleap Pro" = "Mở khóa Lightleap Pro";
+
+/* Title of monthly subscription button in other plans popup */
+"MONTHLY-618" = "HÀNG THÁNG-618";
+
+/* Title of lifetime subscription button in other plans popup */
+"LIFETIME" = "TRỌN ĐỜI";
+
+/* Price text of monthly subscription button in other plans popup */
+"%@/month" = "%1$@/tháng";
+
+/* Subtitle of yearly subscription button in other plans popup */
+"Valid until June 18th. 1st Year Only." = "Có hiệu lực đến ngày 18 tháng 6. Chỉ trong Năm Đầu tiên.";
+
+/* Title of a button that takes user to all tutorials */
+"ALL TUTORIALS" = "TẤT CẢ HƯỚNG DẪN";
+
+/* Title of a button that takes user to page where they can try it with their video */
+"Try with my video" = "Thử với video của tôi";
+
+/* Title for a what's new slide of a new feature called Color */
+"Color Feature" = "Tính năng Màu sắc";
+
+/* Subtitle for a what's new slide of a new feature called Color */
+"Make changes to each individual color in your shot!" = "Thay đổi từng màu riêng lẻ trong ảnh của bạn!";
+
+/* Name of feature that adds city light to images. */
+"Soft Light" = "Ánh sáng Tản";
+
+/* Name of feature that adds city light to images. */
+"Bokeh" = "Nhòa mờ";
+
+/* Name of feature that edit face features. */
+"Face" = "Khuôn mặt";
+
+/* What's new title for the new Effects feature. */
+"Add Stunning Effects" = "Thêm Các Hiệu Ứng Ấn Tượng";
+
+/* What's new body for the new Effects feature. */
+"Make your photos pop with these beautiful effects" = "Làm nổi bật hình ảnh của bạn bằng những hiệu ứng đẹp mắt này";
+
+/* Terms and condition approval. Placeholders here are for the terms "Terms of Use" and "Privacy Policy" which are already localized. Example of usage: By continuing, I agree to Lightleap’s Terms of Use and Privacy Policy.*/
+"By continuing, I agree to Lightleap’s %@ and %@." = "Bằng cách tiếp tục, tôi đồng ý với %1$@ và %2$@ của Lightleap.";
+
+/* Terms and condition approval. Placeholders here are for the terms "Terms of Use" and "Privacy Policy" which are already localized. Example of usage: By clicking Accept, I agree to Lightleap’s Terms of Use and Privacy Policy.*/
+"By clicking Accept, I agree to Lightleap’s %@ and %@." = "Bằng cách nhấn Chấp nhận, tôi đồng ý với %1$@ và %2$@ của Lightleap.";
+
+/* Label indicating undoing of all editing steps. */
+"Undo All" = "Hoàn tác Tất cả";
+
+/* Label indicating redoing of all editing steps. */
+"Redo All" = "Làm lại Tất cả";
+
+/* Heal help slides intro title */
+"Heal Do’s and Don’ts" = "Nên và Không nên khi dùng Heal";
+
+/* Heal help slides intro body */
+"Here’s how to make erasing super easy!" = "Đây là công cụ giúp tẩy xóa siêu dễ dàng!";
+
+/* Heal help slide body 1 */
+"brush out just what you want erasing" = "Quét sạch phần bạn muốn xóa";
+
+/* Heal help slide body 2 */
+"stray over the object’s edges or sections of background will disappear!" = "Chỉ đi dọc viền vật thể để tránh các phần nền bị biến mất!";
+
+/* Heal help slide body 3 */
+"use small brush strokes to remove individual spots" = "Dùng đầu chổi nhỏ để xóa các chấm nằm rải rác";
+
+/* Heal help slide body 4 */
+"brush over large areas of spots you want to erase" = "Quét chổi lên vùng có nhiều chấm mà bạn muốn xóa";
+
+/* Heal help slide body 5 */
+"choose smooth, uncluttered backgrounds, for easier erasing" = "Chọn nền mịn, gọn gàng để xóa dễ dàng hơn";
+
+/* Heal help slide body 6 */
+"go for busy backgrounds with loads of detail" = "Chọn hình nền rối chứa nhiều chi tiết";
+
+/* Heal help slide title */
+"✅ Do" = "✅ Nên";
+
+/* Heal help slide title */
+"⛔️ Don’t" = "⛔️ Không nên";
+
+/*=============================*/
+/*======= Login =======*/
+/*=============================*/
+
+/* Manage settings section in setting menu */
+"MANAGE" = "QUẢN LÝ";
+
+/* About Lightleap section in setting menu */
+"ABOUT" = "GIỚI THIỆU";
+
+/* More Lightleap section in setting menu */
+"MORE" = "THÊM";
+
+/* Setting option leading to seeing user subscription plan */
+"Your Membership" = "Tư Cách Thành Viên Của Bạn";
+
+/* Setting option leading to ssubscription screen */
+"Get Lightleap Pro" = "Tải Về Lightleap Pro";
+
+/* Setting option leading user to log in screen */
+"Log In" = "Đăng Nhập";
+
+/* Setting option leading user to log out */
+"Log Out" = "Đăng Xuất";
+
+/* Close caption for a screen */
+"Close" = "Đóng";
+
+/* Skip caption for a screen */
+"Skip" = "Bỏ qua";
+
+/* Login screen title */
+"Log in and unleash your creativity" = "Đăng nhập và thỏa sức sáng tạo";
+
+/* Login screen  button title to log in with Apple */
+"Continue with Apple" = "Tiếp tục với Apple";
+
+/* Login screen  button title to log in with Facebook */
+"Continue with Facebook" = "Tiếp tục với Facebook";
+
+/* Login screen  button title to log in with Google */
+"Continue with Google" = "Tiếp tục với Google";
+
+/* Login screen error message title */
+"Oops!" = "Rất tiếc!";
+
+/* Login screen error message body */
+"There was a problem logging you in.\nPlease try again later." = "Đã xảy ra sự cố khi bạn đăng nhập.\nVui lòng thử lại sau.";
+
+/* Log out message body */
+"You’re now logged out" = "Bạn hiện đã đăng xuất";
+
+/* Pack name for pack displaying shdows from blinds. */
+"Shadow Blinds" = "Màn che Đổ bóng";
+
+/* Pack name for pack displaying shdows from leaves. */
+"Shadow Leaves" = "Lá Đổ bóng";
+
+/* Title for what's new for new shadow packs */
+"Step into the light" = "Hòa mình vào ánh sáng";
+
+/* Body for what's new for new shadow packs */
+"With Shadows effects for every mood" = "Với các hiệu ứng Đổ bóng dành cho mọi tâm trạng";
+
+/* Looks pack name for new shadows overlays */
+"Shadows" = "Đổ bóng";
+
+/* Halloween What's new title */
+"Something wicked this way comes…" = "Một điều gì đó xấu xa sắp xảy đến…";
+
+/* Halloween What's new body */
+"Give your photos the scare factor with “SPOOKY”" = "Mang yếu tố đáng sợ lên hình ảnh của bạn với “MA QUÁI”";
+
+/* Halloween pack name */
+"SPOOKY" = "MA QUÁI";
