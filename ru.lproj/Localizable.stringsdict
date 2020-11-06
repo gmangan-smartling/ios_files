@@ -13,9 +13,13 @@
 			<key>NSStringFormatValueTypeKey</key>
 			<string>lu</string>
 			<key>one</key>
-			<string>Annuler les modifications de 1 session ?</string>
+			<string>Отменить изменения 1 сеанса?</string>
+			<key>few</key>
+			<string>Undo edits on %1$lu sessions?</string>
+			<key>many</key>
+			<string>Undo edits on %1$lu sessions?</string>
 			<key>other</key>
-			<string>Annuler les modifications de %1$lu sessions ?</string>
+			<string>Отменить изменения {1} сеансов?</string>
 		</dict>
 	</dict>
 	<key>Edit %lu Photos</key>
@@ -29,9 +33,13 @@
 			<key>NSStringFormatValueTypeKey</key>
 			<string>lu</string>
 			<key>one</key>
-			<string>Modifier 1 photo</string>
+			<string>Править 1 фото</string>
+			<key>few</key>
+			<string>Править %1$lu фото</string>
+			<key>many</key>
+			<string>Править %1$lu фото</string>
 			<key>other</key>
-			<string>Modifier %1$lu photos</string>
+			<string>Править %1$lu фото</string>
 		</dict>
 	</dict>
 	<key>Edit Photos</key>
@@ -45,9 +53,13 @@
 			<key>NSStringFormatValueTypeKey</key>
 			<string>lu</string>
 			<key>one</key>
-			<string>Modifier la photo</string>
+			<string>Править фото</string>
+			<key>few</key>
+			<string>Править фото</string>
+			<key>many</key>
+			<string>Править фото</string>
 			<key>other</key>
-			<string>Modifier les photos</string>
+			<string>Править фото</string>
 		</dict>
 	</dict>
 	<key>Delete %lu Sessions</key>
@@ -61,9 +73,13 @@
 			<key>NSStringFormatValueTypeKey</key>
 			<string>lu</string>
 			<key>one</key>
-			<string>Supprimer la session</string>
+			<string>Удалить сеанс</string>
+			<key>few</key>
+			<string>Удалить %1$lu сеанса</string>
+			<key>many</key>
+			<string>Удалить %1$lu сеансов</string>
 			<key>other</key>
-			<string>Supprimer %1$lu sessions</string>
+			<string>Удалить %1$lu сеанса</string>
 		</dict>
 	</dict>
 	<key>Delete %lu Batch Sessions</key>
@@ -77,9 +93,13 @@
 			<key>NSStringFormatValueTypeKey</key>
 			<string>lu</string>
 			<key>one</key>
-			<string>Supprimer la session de traitement groupé</string>
+			<string>Удалить пакетный сеанс</string>
+			<key>few</key>
+			<string>Удалить %1$lu пакетных сеанса</string>
+			<key>many</key>
+			<string>Удалить %1$lu пакетных сеансов</string>
 			<key>other</key>
-			<string>Supprimer %1$lu sessions de traitement groupé</string>
+			<string>Удалить %1$lu пакетных сеанса</string>
 		</dict>
 	</dict>
 	<key>%lu Photos Selected</key>
@@ -93,9 +113,13 @@
 			<key>NSStringFormatValueTypeKey</key>
 			<string>lu</string>
 			<key>one</key>
-			<string>1 photo sélectionnée</string>
+			<string>Выбрано 1 фото</string>
+			<key>few</key>
+			<string>Выбрано %1$lu фото</string>
+			<key>many</key>
+			<string>Выбрано %1$lu фото</string>
 			<key>other</key>
-			<string>%1$lu photos sélectionnées</string>
+			<string>Выбрано %1$lu фото</string>
 		</dict>
 	</dict>
 	<key>%lu Batch Sessions Selected</key>
@@ -109,9 +133,13 @@
 			<key>NSStringFormatValueTypeKey</key>
 			<string>lu</string>
 			<key>one</key>
-			<string>1 session de traitement groupé sélectionnée</string>
+			<string>Выбран 1 пакетный сеанс</string>
+			<key>few</key>
+			<string>Выбрано %1$lu пакетных сеанса</string>
+			<key>many</key>
+			<string>Выбрано %1$lu пакетных сеансов</string>
 			<key>other</key>
-			<string>%1$lu sessions de traitement groupé sélectionnées</string>
+			<string>Выбрано %1$lu пакетных сеанса</string>
 		</dict>
 	</dict>
 	<key>%lu Sessions Selected</key>
@@ -125,9 +153,13 @@
 			<key>NSStringFormatValueTypeKey</key>
 			<string>lu</string>
 			<key>one</key>
-			<string>1 session sélectionnée</string>
+			<string>Выбран 1 сеанс</string>
+			<key>few</key>
+			<string>Выбрано %1$lu сеанса</string>
+			<key>many</key>
+			<string>Выбрано %1$lu сеансов</string>
 			<key>other</key>
-			<string>%1$lu sessions sélectionnées</string>
+			<string>Выбрано %1$lu сеанса</string>
 		</dict>
 	</dict>
 	<key>You’ve got %lu free Pro Exports!</key>
@@ -141,9 +173,13 @@
 			<key>NSStringFormatValueTypeKey</key>
 			<string>lu</string>
 			<key>one</key>
-			<string>Vous avez 1 exportation Pro !</string>
+			<string>Вы получили 1 бесплатный Pro-экспорт!</string>
+			<key>few</key>
+			<string>Вы получили %1$lu бесплатных Pro-экспорта!</string>
+			<key>many</key>
+			<string>Вы получили %1$lu бесплатных Pro-экспортов!</string>
 			<key>other</key>
-			<string>Vous avez %1$lu exportations Pro gratuites !</string>
+			<string>Вы получили %1$lu бесплатных Pro-экспорта!</string>
 		</dict>
 	</dict>
 	<key>Undo this on %lu sessions?</key>
@@ -157,9 +193,13 @@
 			<key>NSStringFormatValueTypeKey</key>
 			<string>lu</string>
 			<key>one</key>
-			<string>Défaire cela en une seule session ?</string>
+			<string>Отменить за 1 сеанс?</string>
+			<key>few</key>
+			<string>Отменить за %1$lu сеанс?</string>
+			<key>many</key>
+			<string>Отменить за %1$lu сеанс?</string>
 			<key>other</key>
-			<string>Défaire cela en %1$lu seule session ?</string>
+			<string>Отменить за %1$lu сеанс?</string>
 		</dict>
 	</dict>
 	<key>Export %lu Photos</key>
@@ -173,9 +213,13 @@
 			<key>NSStringFormatValueTypeKey</key>
 			<string>lu</string>
 			<key>one</key>
-			<string>Exporter 1 photo</string>
+			<string>Экспортировать 1 фото</string>
+			<key>few</key>
+			<string>Export %1$lu Photos</string>
+			<key>many</key>
+			<string>Export %1$lu Photos</string>
 			<key>other</key>
-			<string>Exporter %1$lu photos</string>
+			<string>Экспортировать {1} фото</string>
 		</dict>
 	</dict>
 </dict>
