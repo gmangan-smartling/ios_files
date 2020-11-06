@@ -12,10 +12,8 @@
 			<string>NSStringPluralRuleType</string>
 			<key>NSStringFormatValueTypeKey</key>
 			<string>lu</string>
-			<key>one</key>
-			<string>Annuler les modifications de 1 session ?</string>
 			<key>other</key>
-			<string>Annuler les modifications de %1$lu sessions ?</string>
+			<string>%1$lu개 세션에 적용한 편집을 실행취소하시겠습니까?</string>
 		</dict>
 	</dict>
 	<key>Edit %lu Photos</key>
@@ -28,10 +26,8 @@
 			<string>NSStringPluralRuleType</string>
 			<key>NSStringFormatValueTypeKey</key>
 			<string>lu</string>
-			<key>one</key>
-			<string>Modifier 1 photo</string>
 			<key>other</key>
-			<string>Modifier %1$lu photos</string>
+			<string>%1$lu장의 사진 편집</string>
 		</dict>
 	</dict>
 	<key>Edit Photos</key>
@@ -44,10 +40,8 @@
 			<string>NSStringPluralRuleType</string>
 			<key>NSStringFormatValueTypeKey</key>
 			<string>lu</string>
-			<key>one</key>
-			<string>Modifier la photo</string>
 			<key>other</key>
-			<string>Modifier les photos</string>
+			<string>사진 편집</string>
 		</dict>
 	</dict>
 	<key>Delete %lu Sessions</key>
@@ -60,10 +54,8 @@
 			<string>NSStringPluralRuleType</string>
 			<key>NSStringFormatValueTypeKey</key>
 			<string>lu</string>
-			<key>one</key>
-			<string>Supprimer la session</string>
 			<key>other</key>
-			<string>Supprimer %1$lu sessions</string>
+			<string>%1$lu개의 세션 삭제</string>
 		</dict>
 	</dict>
 	<key>Delete %lu Batch Sessions</key>
@@ -76,10 +68,8 @@
 			<string>NSStringPluralRuleType</string>
 			<key>NSStringFormatValueTypeKey</key>
 			<string>lu</string>
-			<key>one</key>
-			<string>Supprimer la session de traitement groupé</string>
 			<key>other</key>
-			<string>Supprimer %1$lu sessions de traitement groupé</string>
+			<string>%1$lu개의 배치 세션 삭제</string>
 		</dict>
 	</dict>
 	<key>%lu Photos Selected</key>
@@ -92,10 +82,8 @@
 			<string>NSStringPluralRuleType</string>
 			<key>NSStringFormatValueTypeKey</key>
 			<string>lu</string>
-			<key>one</key>
-			<string>1 photo sélectionnée</string>
 			<key>other</key>
-			<string>%1$lu photos sélectionnées</string>
+			<string>%1$lu장의 사진 선택</string>
 		</dict>
 	</dict>
 	<key>%lu Batch Sessions Selected</key>
@@ -108,10 +96,8 @@
 			<string>NSStringPluralRuleType</string>
 			<key>NSStringFormatValueTypeKey</key>
 			<string>lu</string>
-			<key>one</key>
-			<string>1 session de traitement groupé sélectionnée</string>
 			<key>other</key>
-			<string>%1$lu sessions de traitement groupé sélectionnées</string>
+			<string>%1$lu개의 배치 세션 선택</string>
 		</dict>
 	</dict>
 	<key>%lu Sessions Selected</key>
@@ -124,10 +110,8 @@
 			<string>NSStringPluralRuleType</string>
 			<key>NSStringFormatValueTypeKey</key>
 			<string>lu</string>
-			<key>one</key>
-			<string>1 session sélectionnée</string>
 			<key>other</key>
-			<string>%1$lu sessions sélectionnées</string>
+			<string>%1$lu개의 세션 선택</string>
 		</dict>
 	</dict>
 	<key>You’ve got %lu free Pro Exports!</key>
@@ -140,10 +124,8 @@
 			<string>NSStringPluralRuleType</string>
 			<key>NSStringFormatValueTypeKey</key>
 			<string>lu</string>
-			<key>one</key>
-			<string>Vous avez 1 exportation Pro !</string>
 			<key>other</key>
-			<string>Vous avez %1$lu exportations Pro gratuites !</string>
+			<string>%1$lu 번의 무료 Pro 내보내기를 사용할 수 있습니다!</string>
 		</dict>
 	</dict>
 	<key>Undo this on %lu sessions?</key>
@@ -156,10 +138,8 @@
 			<string>NSStringPluralRuleType</string>
 			<key>NSStringFormatValueTypeKey</key>
 			<string>lu</string>
-			<key>one</key>
-			<string>Défaire cela en une seule session ?</string>
 			<key>other</key>
-			<string>Défaire cela en %1$lu seule session ?</string>
+			<string>%1$lu 세션에서 이 작업을 실행 취소하시겠습니까?</string>
 		</dict>
 	</dict>
 	<key>Export %lu Photos</key>
@@ -172,10 +152,8 @@
 			<string>NSStringPluralRuleType</string>
 			<key>NSStringFormatValueTypeKey</key>
 			<string>lu</string>
-			<key>one</key>
-			<string>Exporter 1 photo</string>
 			<key>other</key>
-			<string>Exporter %1$lu photos</string>
+			<string>%1$lu장의 사진 내보내기</string>
 		</dict>
 	</dict>
 </dict>

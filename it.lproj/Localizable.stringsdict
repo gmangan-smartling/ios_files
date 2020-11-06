@@ -13,9 +13,9 @@
 			<key>NSStringFormatValueTypeKey</key>
 			<string>lu</string>
 			<key>one</key>
-			<string>Annuler les modifications de 1 session ?</string>
+			<string>Annullare le modifiche di 1 sessione?</string>
 			<key>other</key>
-			<string>Annuler les modifications de %1$lu sessions ?</string>
+			<string>Annullare le modifiche di %1$lu sessioni?</string>
 		</dict>
 	</dict>
 	<key>Edit %lu Photos</key>
@@ -29,9 +29,9 @@
 			<key>NSStringFormatValueTypeKey</key>
 			<string>lu</string>
 			<key>one</key>
-			<string>Modifier 1 photo</string>
+			<string>Modifica 1 foto</string>
 			<key>other</key>
-			<string>Modifier %1$lu photos</string>
+			<string>Modifica %1$lu foto</string>
 		</dict>
 	</dict>
 	<key>Edit Photos</key>
@@ -45,9 +45,9 @@
 			<key>NSStringFormatValueTypeKey</key>
 			<string>lu</string>
 			<key>one</key>
-			<string>Modifier la photo</string>
+			<string>Modifica foto</string>
 			<key>other</key>
-			<string>Modifier les photos</string>
+			<string>Modifica foto</string>
 		</dict>
 	</dict>
 	<key>Delete %lu Sessions</key>
@@ -61,9 +61,9 @@
 			<key>NSStringFormatValueTypeKey</key>
 			<string>lu</string>
 			<key>one</key>
-			<string>Supprimer la session</string>
+			<string>Elimina sessione</string>
 			<key>other</key>
-			<string>Supprimer %1$lu sessions</string>
+			<string>Elimina %1$lu sessioni</string>
 		</dict>
 	</dict>
 	<key>Delete %lu Batch Sessions</key>
@@ -77,9 +77,9 @@
 			<key>NSStringFormatValueTypeKey</key>
 			<string>lu</string>
 			<key>one</key>
-			<string>Supprimer la session de traitement groupé</string>
+			<string>Elimina sessione di gruppo</string>
 			<key>other</key>
-			<string>Supprimer %1$lu sessions de traitement groupé</string>
+			<string>Elimina %1$lu sessioni di gruppo</string>
 		</dict>
 	</dict>
 	<key>%lu Photos Selected</key>
@@ -93,9 +93,9 @@
 			<key>NSStringFormatValueTypeKey</key>
 			<string>lu</string>
 			<key>one</key>
-			<string>1 photo sélectionnée</string>
+			<string>1 foto selezionata</string>
 			<key>other</key>
-			<string>%1$lu photos sélectionnées</string>
+			<string>%1$lu foto selezionate</string>
 		</dict>
 	</dict>
 	<key>%lu Batch Sessions Selected</key>
@@ -109,9 +109,9 @@
 			<key>NSStringFormatValueTypeKey</key>
 			<string>lu</string>
 			<key>one</key>
-			<string>1 session de traitement groupé sélectionnée</string>
+			<string>1 sessione di gruppo selezionata</string>
 			<key>other</key>
-			<string>%1$lu sessions de traitement groupé sélectionnées</string>
+			<string>%1$lu sessioni di gruppo selezionate</string>
 		</dict>
 	</dict>
 	<key>%lu Sessions Selected</key>
@@ -125,9 +125,9 @@
 			<key>NSStringFormatValueTypeKey</key>
 			<string>lu</string>
 			<key>one</key>
-			<string>1 session sélectionnée</string>
+			<string>1 sessione selezionata</string>
 			<key>other</key>
-			<string>%1$lu sessions sélectionnées</string>
+			<string>%1$lu sessioni selezionate</string>
 		</dict>
 	</dict>
 	<key>You’ve got %lu free Pro Exports!</key>
@@ -141,9 +141,9 @@
 			<key>NSStringFormatValueTypeKey</key>
 			<string>lu</string>
 			<key>one</key>
-			<string>Vous avez 1 exportation Pro !</string>
+			<string>Hai 1 esportazione Pro gratis</string>
 			<key>other</key>
-			<string>Vous avez %1$lu exportations Pro gratuites !</string>
+			<string>Hai %1$lu esportazioni Pro gratis!</string>
 		</dict>
 	</dict>
 	<key>Undo this on %lu sessions?</key>
@@ -157,9 +157,9 @@
 			<key>NSStringFormatValueTypeKey</key>
 			<string>lu</string>
 			<key>one</key>
-			<string>Défaire cela en une seule session ?</string>
+			<string>Annullarlo in 1 sessione?</string>
 			<key>other</key>
-			<string>Défaire cela en %1$lu seule session ?</string>
+			<string>Annullarlo in %1$lu sessione?</string>
 		</dict>
 	</dict>
 	<key>Export %lu Photos</key>
@@ -173,9 +173,9 @@
 			<key>NSStringFormatValueTypeKey</key>
 			<string>lu</string>
 			<key>one</key>
-			<string>Exporter 1 photo</string>
+			<string>Esporta 1 foto</string>
 			<key>other</key>
-			<string>Exporter %1$lu photos</string>
+			<string>Esporta %1$lu foto</string>
 		</dict>
 	</dict>
 </dict>

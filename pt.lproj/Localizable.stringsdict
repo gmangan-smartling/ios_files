@@ -13,9 +13,9 @@
 			<key>NSStringFormatValueTypeKey</key>
 			<string>lu</string>
 			<key>one</key>
-			<string>Annuler les modifications de 1 session ?</string>
+			<string>Desfazer edições em 1 sessão?</string>
 			<key>other</key>
-			<string>Annuler les modifications de %1$lu sessions ?</string>
+			<string>Desfazer edições em %1$lu sessões?</string>
 		</dict>
 	</dict>
 	<key>Edit %lu Photos</key>
@@ -29,9 +29,9 @@
 			<key>NSStringFormatValueTypeKey</key>
 			<string>lu</string>
 			<key>one</key>
-			<string>Modifier 1 photo</string>
+			<string>Editar 1 Foto</string>
 			<key>other</key>
-			<string>Modifier %1$lu photos</string>
+			<string>Editar %1$lu Fotos</string>
 		</dict>
 	</dict>
 	<key>Edit Photos</key>
@@ -45,9 +45,9 @@
 			<key>NSStringFormatValueTypeKey</key>
 			<string>lu</string>
 			<key>one</key>
-			<string>Modifier la photo</string>
+			<string>Editar Foto</string>
 			<key>other</key>
-			<string>Modifier les photos</string>
+			<string>Editar Fotos</string>
 		</dict>
 	</dict>
 	<key>Delete %lu Sessions</key>
@@ -61,9 +61,9 @@
 			<key>NSStringFormatValueTypeKey</key>
 			<string>lu</string>
 			<key>one</key>
-			<string>Supprimer la session</string>
+			<string>Apagar Sessão</string>
 			<key>other</key>
-			<string>Supprimer %1$lu sessions</string>
+			<string>Apagar %1$lu Sessões</string>
 		</dict>
 	</dict>
 	<key>Delete %lu Batch Sessions</key>
@@ -77,9 +77,9 @@
 			<key>NSStringFormatValueTypeKey</key>
 			<string>lu</string>
 			<key>one</key>
-			<string>Supprimer la session de traitement groupé</string>
+			<string>Apagar Sessão em Lote</string>
 			<key>other</key>
-			<string>Supprimer %1$lu sessions de traitement groupé</string>
+			<string>Apagar %1$lu Sessões em Lote</string>
 		</dict>
 	</dict>
 	<key>%lu Photos Selected</key>
@@ -93,9 +93,9 @@
 			<key>NSStringFormatValueTypeKey</key>
 			<string>lu</string>
 			<key>one</key>
-			<string>1 photo sélectionnée</string>
+			<string>1 Foto Selecionada</string>
 			<key>other</key>
-			<string>%1$lu photos sélectionnées</string>
+			<string>%1$lu Fotos Selecionadas</string>
 		</dict>
 	</dict>
 	<key>%lu Batch Sessions Selected</key>
@@ -109,9 +109,9 @@
 			<key>NSStringFormatValueTypeKey</key>
 			<string>lu</string>
 			<key>one</key>
-			<string>1 session de traitement groupé sélectionnée</string>
+			<string>1 Sessão em Lote Selecionada</string>
 			<key>other</key>
-			<string>%1$lu sessions de traitement groupé sélectionnées</string>
+			<string>%1$lu Sessões em Lote Selecionadas</string>
 		</dict>
 	</dict>
 	<key>%lu Sessions Selected</key>
@@ -125,9 +125,9 @@
 			<key>NSStringFormatValueTypeKey</key>
 			<string>lu</string>
 			<key>one</key>
-			<string>1 session sélectionnée</string>
+			<string>1 Sessão Selecionada</string>
 			<key>other</key>
-			<string>%1$lu sessions sélectionnées</string>
+			<string>%1$lu Sessões Selecionadas</string>
 		</dict>
 	</dict>
 	<key>You’ve got %lu free Pro Exports!</key>
@@ -141,9 +141,9 @@
 			<key>NSStringFormatValueTypeKey</key>
 			<string>lu</string>
 			<key>one</key>
-			<string>Vous avez 1 exportation Pro !</string>
+			<string>Você ganhou 1 Exportação Pro!</string>
 			<key>other</key>
-			<string>Vous avez %1$lu exportations Pro gratuites !</string>
+			<string>Você ganhou %1$lu Exportações Pro!</string>
 		</dict>
 	</dict>
 	<key>Undo this on %lu sessions?</key>
@@ -157,9 +157,9 @@
 			<key>NSStringFormatValueTypeKey</key>
 			<string>lu</string>
 			<key>one</key>
-			<string>Défaire cela en une seule session ?</string>
+			<string>Desfazer isso em uma sessão?</string>
 			<key>other</key>
-			<string>Défaire cela en %1$lu seule session ?</string>
+			<string>Desfazer isso %1$lu uma sessão?</string>
 		</dict>
 	</dict>
 	<key>Export %lu Photos</key>
@@ -173,9 +173,9 @@
 			<key>NSStringFormatValueTypeKey</key>
 			<string>lu</string>
 			<key>one</key>
-			<string>Exporter 1 photo</string>
+			<string>Exportar 1 Foto</string>
 			<key>other</key>
-			<string>Exporter %1$lu photos</string>
+			<string>Exportar %1$lu Fotos</string>
 		</dict>
 	</dict>
 </dict>
