@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Undo edits on %lu sessions?</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@Sessions@</string>
+		<key>Sessions</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>lu</string>
+			<key>one</key>
+			<string>Отменить изменения 1 сеанса?</string>
+			<key>few</key>
+			<string>Undo edits on %1$lu sessions?</string>
+			<key>many</key>
+			<string>Undo edits on %1$lu sessions?</string>
+			<key>other</key>
+			<string>Отменить изменения {1} сеансов?</string>
+		</dict>
+	</dict>
+	<key>Edit %lu Photos</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@Photos@</string>
+		<key>Photos</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>lu</string>
+			<key>one</key>
+			<string>Править 1 фото</string>
+			<key>few</key>
+			<string>Править %1$lu фото</string>
+			<key>many</key>
+			<string>Править %1$lu фото</string>
+			<key>other</key>
+			<string>Править %1$lu фото</string>
+		</dict>
+	</dict>
+	<key>Edit Photos</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@Photos@</string>
+		<key>Photos</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>lu</string>
+			<key>one</key>
+			<string>Править фото</string>
+			<key>few</key>
+			<string>Править фото</string>
+			<key>many</key>
+			<string>Править фото</string>
+			<key>other</key>
+			<string>Править фото</string>
+		</dict>
+	</dict>
+	<key>Delete %lu Sessions</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@Sessions@</string>
+		<key>Sessions</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>lu</string>
+			<key>one</key>
+			<string>Удалить сеанс</string>
+			<key>few</key>
+			<string>Удалить %1$lu сеанса</string>
+			<key>many</key>
+			<string>Удалить %1$lu сеансов</string>
+			<key>other</key>
+			<string>Удалить %1$lu сеанса</string>
+		</dict>
+	</dict>
+	<key>Delete %lu Batch Sessions</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@Sessions@</string>
+		<key>Sessions</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>lu</string>
+			<key>one</key>
+			<string>Удалить пакетный сеанс</string>
+			<key>few</key>
+			<string>Удалить %1$lu пакетных сеанса</string>
+			<key>many</key>
+			<string>Удалить %1$lu пакетных сеансов</string>
+			<key>other</key>
+			<string>Удалить %1$lu пакетных сеанса</string>
+		</dict>
+	</dict>
+	<key>%lu Photos Selected</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@Photos@</string>
+		<key>Photos</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>lu</string>
+			<key>one</key>
+			<string>Выбрано 1 фото</string>
+			<key>few</key>
+			<string>Выбрано %1$lu фото</string>
+			<key>many</key>
+			<string>Выбрано %1$lu фото</string>
+			<key>other</key>
+			<string>Выбрано %1$lu фото</string>
+		</dict>
+	</dict>
+	<key>%lu Batch Sessions Selected</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@Sessions@</string>
+		<key>Sessions</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>lu</string>
+			<key>one</key>
+			<string>Выбран 1 пакетный сеанс</string>
+			<key>few</key>
+			<string>Выбрано %1$lu пакетных сеанса</string>
+			<key>many</key>
+			<string>Выбрано %1$lu пакетных сеансов</string>
+			<key>other</key>
+			<string>Выбрано %1$lu пакетных сеанса</string>
+		</dict>
+	</dict>
+	<key>%lu Sessions Selected</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@Sessions@</string>
+		<key>Sessions</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>lu</string>
+			<key>one</key>
+			<string>Выбран 1 сеанс</string>
+			<key>few</key>
+			<string>Выбрано %1$lu сеанса</string>
+			<key>many</key>
+			<string>Выбрано %1$lu сеансов</string>
+			<key>other</key>
+			<string>Выбрано %1$lu сеанса</string>
+		</dict>
+	</dict>
+	<key>You’ve got %lu free Pro Exports!</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@Exports@</string>
+		<key>Exports</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>lu</string>
+			<key>one</key>
+			<string>Вы получили 1 бесплатный Pro-экспорт!</string>
+			<key>few</key>
+			<string>Вы получили %1$lu бесплатных Pro-экспорта!</string>
+			<key>many</key>
+			<string>Вы получили %1$lu бесплатных Pro-экспортов!</string>
+			<key>other</key>
+			<string>Вы получили %1$lu бесплатных Pro-экспорта!</string>
+		</dict>
+	</dict>
+	<key>Undo this on %lu sessions?</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@ThisSessions@</string>
+		<key>ThisSessions</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>lu</string>
+			<key>one</key>
+			<string>Отменить за 1 сеанс?</string>
+			<key>few</key>
+			<string>Отменить за %1$lu сеанс?</string>
+			<key>many</key>
+			<string>Отменить за %1$lu сеанс?</string>
+			<key>other</key>
+			<string>Отменить за %1$lu сеанс?</string>
+		</dict>
+	</dict>
+	<key>Export %lu Photos</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@Photos@</string>
+		<key>Photos</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>lu</string>
+			<key>one</key>
+			<string>Экспортировать 1 фото</string>
+			<key>few</key>
+			<string>Export %1$lu Photos</string>
+			<key>many</key>
+			<string>Export %1$lu Photos</string>
+			<key>other</key>
+			<string>Экспортировать {1} фото</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
