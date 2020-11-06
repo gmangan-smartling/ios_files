@@ -1,0 +1,1974 @@
+/*====================================*/
+/*======= Subscription Strings =======*/
+/*====================================*/
+
+/* Subscription header */
+"Lightleap Pro" = "Lightleap Pro";
+
+/* Subscription title 10% off */
+"Lightleap Pro - now 10% off!" = "Lightleap Pro - agora com 10% de desconto!";
+
+/* Subscription title 15% off */
+"Lightleap Pro - now 15% off!" = "Lightleap Pro - agora com 15% de desconto!";
+
+/* Subscription title 25% off */
+"Lightleap Pro - now 25% off!" = "Lightleap Pro - agora com 25% de desconto!";
+
+/* Subscription title 50% off */
+"Lightleap Pro - now 50% off!" = "Lightleap Pro - agora com 50% de desconto!";
+
+/* Subscription subtitle */
+"Primers, Filters, Sky, Strobe & unlimited Batch!" = "Primers, filtros, céu, strobe e lotes ilimitados!";
+
+/* Pro only banner (notice the line break) */
+"Pro Only\nRemove Limit" = "Apenas Pro\nRemover limite";
+
+/* Pro export banner */
+"Remove Limit" = "Remover limite";
+
+/* Pro features explanation */
+"You’ve used Pro features!" = "Utilizaste as funcionalidades Pro!";
+
+/* Pro max number of batch explanation 1 */
+"Unlimited batch with Pro" = "Lotes ilimitados com o Pro";
+
+/* Pro max number of batch explanation 2 */
+"Number of assets over the limit" = "Número de ativos sobre o limite";
+
+/* Label on a button for purchasing subscription that renews every 12 months */
+"ANNUAL" = "ANUAL";
+
+/* Label on a button for purchasing subscription that renews every month, in capital letters */
+"MONTHLY" = "MENSAL";
+
+/* Label on a button for purchasing the product at a single one-time price, instead of a renewable subscription plan */
+"ONE-TIME\nPURCHASE" = "COMPRA\nÚNICA";
+
+/* Abbreviation of the word month, representing per-month suffix of a price, as in $5/mo - $5 per month. The '/' should remain in the localized version */
+"/mo" = "/mês";
+
+/* A price displayed in the amount the user will pay for the item per year. Example: $34.99/year */
+"%@/year" = "%1$@/ano";
+
+/* Text informing the user of the most popular payment plan among users */
+"Most Popular" = "Mais popular";
+
+/* Unlimited sky thumbnail */
+"Unlimited\nSky" = "Céu\nilimitado";
+
+/* Batch editing thumbnail */
+"Batch\nEditing" = "Edição\nem lote";
+
+/* Filters thumbnail */
+"%d+\nFilters" = "%1$d+\nfiltros";
+
+/* Advanced tools thumbnail */
+"Advanced\nTools" = "Ferramentas\navançadas";
+
+/* Sky thumbnail */
+"20+\nSkies" = "20+\ncéus";
+
+/* Primer thumbnail */
+"30+\nPrimers" = "30+\nprimers";
+
+/* Subtitle appearing in the subscription screen, notifying users that by subscribing they can access all features of the app */
+"Access All Features" = "Acesso a todas as funcionalidades";
+
+/* Label on a button for purchasing subscription that renews every month
+ Text shown when 1 month of free trial is offered for new subscribers */
+"1 Month" = "1 mês";
+
+/* Button appearing in the subscription screen, notifying users that by pressing this button they are choosing an anual subscription plan - 12 months */
+"12 Months" = "12 meses";
+
+/* Label on a button for purchasing the product at a single one-time price, instead of a renewable subscription plan */
+"One-Time Purchase" = "Compra única";
+
+/* Title of a button suggesting to the user to continue to payment in the subscription screen */
+"Continue" = "Continuar";
+
+/* Title of a button suggesting to the user to continue to payment in the subscription screen option 2 */
+"Begin creation" = "Begin creation";
+
+/* Title of a button suggesting to the user to continue to payment in the subscription screen option 3 */
+"Begin advanced creation" = "Begin advanced creation";
+
+/* Label on a button that links to terms of use */
+"Terms of Use" = "Termos de Utilização";
+
+/* Label on a button that links to privacy policy */
+"Privacy Policy" = "Política de Privacidade";
+
+/* Label on a button that restored previously purchased products */
+"Restore Purchases" = "Restaurar comprar";
+
+/* Short terms of use for subscription */
+"Payment will be charged to your iTunes account at confirmation of purchase. Subscriptions will automatically renew unless auto-renew is turned off at least 24 hours before the end of current period. Your account will be charged according to your plan for renewal within 24 hours prior to the end of the current period. You can manage or turn off auto-renew in your Apple ID account settings at any time after purchase." = "O pagamento será cobrado na tua conta iTunes no momento de confirmação da compra. As assinaturas serão renovadas automaticamente, exceto se a renovação automática for desativada, pelo menos, 24 horas antes do fim do período atual. A tua conta será cobrada de acordo com o teu plano pela renovação no prazo de 24 horas antes do fim do período atual. Podes gerir ou desativar a renovação automática nas definições da tua conta ID Apple em qualquer altura após a compra.";
+
+/* Subtitle of a button appearing in the subscription screen, notifying users that by pressing this button they will be saving {0}% annualy */
+"Save {0}% per year" = "Poupa {0}%% por ano";
+
+/* Additional data for a button appearing in the subscription screen, notifying users the total amount to pay according to the chosen plan */
+"Total" = "Total";
+
+/* Title of a pop-up informing the user that they can save {0} amount by upgrading to an annual payment plan. Example: Upgrade to yearly and save 50% now! */
+"Upgrade to yearly and save {0}% now!" = "Atualiza para o plano anual e poupa já {0}%%!";
+
+/* Title of a button offering the user the continue using the monthly payment plan. Please keep as short as possible */
+"Continue with monthly" = "Manter mensal";
+
+/* Title of a button offering the user to upgrade to an annual payment plan. Please keep as short as possible */
+"Upgrade to yearly" = "Atualizar para anual";
+
+/* Message shown to the user if he is already a subscriber when accessing the subscription screen */
+"All the features are now available" = "Todas as funcionalidade estão agora disponíveis";
+
+/* Title of a message shown to the user if he is already a subscriber when accessing the subscription screen */
+"You're already a subscriber" = "Já és assinante";
+
+/* Subtitle appearing in the subscription screen, notifying users that by subscribing they can access all features of the app option 1 */
+"Access All Features - 3 Days Free" = "Acesso a todas as funcionalidades - 3 dias grátis";
+
+/* Subtitle appearing in the subscription screen, notifying users that by subscribing they can access all features of the app option 2 */
+"Your First 3 Days Free" = "Os teus primeiros 3 dias grátis";
+
+/* Subtitle appearing in the subscription screen, notifying users that by subscribing they can access all features of the app option 3 */
+"Unlimited and enjoyable usage" = "Unlimited and enjoyable usage";
+
+/* Subtitle trial button option 1*/
+"Start Trial" = "Iniciar período experimental";
+
+/* Subtitle trial button option 2*/
+"Start Free Trial" = "Iniciar período experimental gratuito";
+
+/* Subtitle trial button option 3*/
+"Start 3 Day Trial" = "Iniciar período experimental de 3 dias";
+
+/* Label above monthly subscription. */
+"Monthly subscription" = "Monthly subscription";
+
+/* Label above yearly subscription. */
+"Yearly subscription" = "Yearly subscription";
+
+/* Label above free trial. */
+"Free 3 day trial" = "Free 3 day trial";
+
+/* Label above yearly subscription and above free trial. */
+"Yearly subscription and 3 day trial" = "Yearly subscription and 3 day trial";
+
+/* String denoting that after trial ends, the user will pay the specified amount. Version 1. */
+"Afterwards" = "Afterwards";
+
+/* String denoting that after trial ends, the user will pay the specified amount. Version 2. */
+"After trial" = "After trial";
+
+/*====================================*/
+/*===== Subscription Trial Popup =====*/
+/*====================================*/
+
+/* Title of trial alert - 3 days, the translation is for "Your First 3 Days Free" */
+"Get 3 Days Free" = "Os teus primeiros 3 dias grátis";
+
+/* Body text in a button encouraging the user to start a 3 day free trial of Lightleap Pro */
+"Get 3 Days Free!" = "Obtém 3 dias grátis!";
+
+/* Subtitle of trial alert, the translation is for "Primers, Filters, Sky, Strobe & unlimited Batch!" */
+"Get the best results with unlimited access to Sky, Portrait, Primers, and more." = "Primers, filtros, céu, strobe e lotes ilimitados!";
+
+/* Buttons which takes the user to the subscription screen, translation is for "Show me" */
+"Claim Now" = "Mostrem-me";
+
+/*==============================*/
+/*===== Introductory Price =====*/
+/*==============================*/
+
+/* Introductory Price strings */
+"Get 3 months for %@" = "Obtém 3 meses por %1$@";
+
+/* Introductory Price strings */
+"Annual Plan" = "Plano anual";
+
+/* Introductory Price strings */
+"3 Months for %@" = "3 meses por %1$@";
+
+/* Introductory Price strings */
+"then only %@ billed yearly" = "posteriormente, apenas %1$@ cobrados anualmente";
+
+/** ----------- **/
+/** Help Videos **/
+/** ----------- **/
+/* Help screen title */
+"Help" = "Ajuda";
+
+/* Strobe mode pre capture 1 */
+"Takes multiple shots of a moving object and combines them into a single photo." = "Tira várias fotografias de um objeto em movimento e combina-as numa única fotografia.";
+
+/* Strobe mode pre capture 2 */
+"Combines multiple shots into a single photo." = "Combina várias fotografias numa só.";
+
+/* Strobe mode pre capture 3 */
+"Combines continuous shots into a single photo." = "Combina fotografias contínuas numa só.";
+
+/* Strobe mode post capture 1 */
+"Use the eraser to remove the strobe effect from unwanted areas." = "Usa a borracha para remover o efeito de strobe das áreas indesejadas.";
+
+/* Strobe mode post capture 2 */
+"Use the eraser to remove the effect from unwanted areas." = "Usa a borracha para remover o efeito das áreas indesejadas.";
+
+/* Strobe mode post capture 3 */
+"Erase the effect from unwanted areas." = "Apaga o efeito nas áreas indesejadas.";
+
+/* Lightleap mode pre capture */
+"Automatically straightens & crops your shot." = "Endireita e recorta automaticamente a tua fotografia.";
+
+/* HDR help 1 */
+"Fix dark images or harsh lighting." = "Corrige imagens escuras ou com luzes fortes.";
+
+/* HDR help 2 */
+"Fix shots with bad lighting." = "Corrija fotografias com fraca iluminação.";
+
+/* HDR help 3 */
+"Improve dark or harsh lighting." = "Melhora iluminação demasiado fraca ou forte.";
+
+/* Batch editing help title */
+"Batch Editing" = "Edição em lote";
+
+/* Batch editing help subtitle  */
+"Edit multiple photos at once." = "Edita várias fotografias em simultâneo.";
+
+/* Reset help title */
+"Batch Editing" = "Edição em lote";
+
+/* Reset help subtitle  */
+"Long press Undo button to reset." = "Mantém o botão Desfazer premido para repor.";
+
+/* Reset Slider help title*/
+"Reset Slider" = "Repor nivelador";
+
+/* Reset Slider help subtitle*/
+"Long press to reset values." = "Mantém premido para repor os valores.";
+
+/* Compare help title*/
+"Compare" = "Comparar";
+
+/* Compare help subtitle*/
+"Long press to compare." = "Mantém premido para comparar.";
+
+/* Apply to all help title*/
+"Apply To All" = "Aplicar a tudo";
+
+/*  Apply to all help subtitle*/
+"Apply the current style to all the photos." = "Aplica o estilo atual a todas as fotografias.";
+
+/* Primers help title*/
+"Primers" = "Primers";
+
+/* Primers help subtitle*/
+"Select a Primer. Tap again for further tweaking." = "Selecionar um primer. Toca novamente para fazeres mais retoques.";
+
+/* Sky help title*/
+"Sky" = "Céu";
+
+/* Sky help subtitle variation 1 */
+"Replace your overexposed sky." = "Substituir céu sobreexposto.";
+
+/* Sky help subtitle variation 2 */
+"Adjust Feather, Horizon and Ambient to match the Sky to your photo." = "Ajuste Pluma, Horizonte e Ambiente para combinar com o Céu com sua foto.";
+
+/* Help video for reseting changes - title */
+"Reset all" = "Repor tudo";
+
+/* Help video for reseting changes - subtitle */
+"Long press the Undo button to reset all changes." = "Mantém premido o botão Undo para repor todas as alterações.";
+
+/* Contact us button*/
+"Contact Us" = "Contacta-nos";
+
+/** ------ **/
+/** Camera **/
+/** ------ **/
+
+/* HDR pre light assessment message 1 */
+"Tap the screen for exposure calibration." = "Toca no ecrã para calibrar a exposição.";
+
+/* HDR during light assessment message 2 */
+"Calibrating..." = "A calibrar…";
+
+/* HDR during light assessment message 3 */
+"Ready!" = "Pronto!";
+
+/* Misalignment error message title */
+"Hold Steady!" = "Não te mexas!";
+
+/* Misalignment error message subtitle */
+"Try to hold still while taking the shot." = "Tenta não te mexeres enquanto tiras a fotografia.";
+
+/* Misalignment error message button */
+"Got it" = "OK";
+
+/* Message shown to user when camera moved while taking a shot */
+"For perfect shots, hold still while shooting" = "Para resultados perfeitos, mantenha premido enquanto tira a fotografia";
+
+/** ------------ **/
+/** Album screen **/
+/** ------------ **/
+
+/* My albums album header */
+"My Albums" = "Os meus álbuns";
+
+/* Lightleap photos album header */
+"Lightleap Photos" = "Fotos do Lightleap";
+
+/* sessions album header */
+"Sessions" = "Sessões";
+
+/* Batch sessions album header */
+"Batch Sessions" = "Sessões em lote";
+
+/* Title of an album containing demo photos supplied with the app */
+"Demo Photos" = "Fotografias de demonstração";
+
+/* favorites album header */
+"Favorites" = "Favoritos";
+
+/* Library album header */
+"Library" = "Biblioteca";
+
+/* Albums header */
+"Albums" = "Álbuns";
+
+/* Deselect button */
+"Deselect" = "Desassinalar";
+
+/* Deselect button */
+"Deselect all" = "Desassinalar tudo";
+
+/* Edit photo button */
+"Edit photo" = "Editar fotografia";
+
+/* Edit 2 photos button */
+"Edit 2 photos" = "Editar 2 fotografias";
+
+/* Delete sessions button */
+"Delete 2 sessions" = "Apagar 2 sessões";
+
+/* Delete session button */
+"Delete session" = "Apagar sessão";
+
+/* Delete batch sessions button */
+"Delete 2 Batch sessions" = "Apagar 2 sessões em lote";
+
+/* Delete batch session button */
+"Delete Batch session" = "Apagar sessão em lote";
+
+/* Edit button */
+"Edit" = "Editar";
+
+/* Cancel button */
+"Cancel" = "Cancelar";
+
+/* Select multiple photos button*/
+"Select" = "Selec.";
+
+/* Album section title - today*/
+"Today" = "Hoje";
+
+/* Album section title - this week*/
+"This Week" = "Esta semana";
+
+/* Album section title - this month*/
+"This Month" = "Este mês";
+
+/* Album section title - older*/
+"Older" = "Mais antigo";
+
+/* Section of the album containing photos from the current year */
+"This Year" = "Este ano";
+
+/* Section of the album containing photos taken earlier than this year */
+"Earlier" = "Anterior";
+
+/** ------------- **/
+/** Strobe helper **/
+/** ------------- **/
+
+/* Message button */
+"Eraser brush" = "Pincel de borracha";
+
+/* More button */
+"Restore brush" = "Restaurar pincel";
+
+/** ------ **/
+/** Export **/
+/** ------ **/
+
+/* save button */
+"Save" = "Guardar";
+
+/* Message button */
+"Message" = "Mensagem";
+
+/* More button */
+"More" = "Mais";
+
+/* Message shown to non-subscriber user trying to export image with pro features */
+"You’ve used Pro features!\nGo Pro to export edit as is or remove Pro effects." = "Utilizaste as funcionalidades Pro!\nVai a Pro para exportar a edição\ncomo está ou remover os efeitos Pro.";
+
+/* Remove pro edit option button */
+"Remove" = "Remover";
+
+/* Go Pro option */
+"Go Pro!" = "Torna-te Pro!";
+
+/* Alert informing user that pro edit will be removed */
+"This will undo all the Pro effects applied to your photo in order to export it." = "Desta forma, todos os efeitos Pro aplicados à fotografia são desfeitos para exportá-la.";
+
+/* Alert title */
+"Remove Pro Effects" = "Remover efeitos Pro";
+
+/* Alert button remove */
+"Remove now" = "Remover já";
+
+/* Message shown to user after image was saved to camera roll */
+"Saved to camera roll" = "Guardado no rolo da câmara";
+
+/* Message to the user that export succeeded */
+"Success!" = "Sucesso!";
+
+/* Button text that allows the user to dismiss an alert */
+"Dismiss" = "Ignorar";
+
+/* Message to the user that the export was canceled */
+"Canceled" = "Cancelado";
+
+/*=============================*/
+/*======= Import Screen =======*/
+/*=============================*/
+
+/* Export photos button title */
+"Export" = "Exportar";
+
+/* Delete photos button title */
+"Delete" = "Apagar";
+
+/* Undo all the edits of the selected photos */
+"Undo Edits" = "Desfazer edições";
+
+/* Adds the selected photos to the Favorites folder */
+"Add to Favorites" = "Adicionar aos favoritos";
+
+/* Removes the selected photos from the Favorites folder */
+"Remove from Favorites" = "Remover dos favoritos";
+
+/* Title in sessions album when it is empty */
+"No sessions yet" = "Ainda não há sessões";
+
+/* Subtitle in sessions album when it is empty */
+"Start editing - Edits are automatically saved and will appear here!" = "Começa a editar - As edições são guardadas automaticamente e aparecem aqui!";
+
+/* Title of an empty photos album */
+"Oops, no photos here." = "Ups, não há fotografias aqui.";
+
+/* Import screen what's new 1 - title */
+"New Import Screen" = "Novo ecrã de importação";
+
+/* Import screen what's new 1 - subtitle */
+"Use Select to Export, Delete, or Edit multiple shots" = "Usa Selecionar para exportar, apagar ou editar várias fotografias";
+
+/* Import screen what's new 2 - title */
+"All Sessions in One Place" = "Todas as sessões num só lugar";
+
+/* Import screen what's new 2 - subtitle */
+"Tap to find all your in-progress edits" = "Toca para encontrar todas as tuas edições em curso";
+
+/* Presented to a user that did not give access to his photos library, yet tries to perform an action that involves accessing it */
+"Lightleap does not have access to your photos. To enable access, go to iOS settings" = "O Lightleap não tem acesso às tuas fotografias. Para ativares o acesso, acede às Definições do iOS.";
+
+/* Positive resopnse to the import error message. Redirect to the settings. */
+"Let's do it!" = "Vamos a isso!";
+
+/*==================================*/
+/*======= Main Toolbar tools =======*/
+/*==================================*/
+
+ /* Primers tool, max 9 chars! */
+"Primers" = "Primers";
+
+/* Sky tool, max 9 chars! */
+"Sky" = "Céu";
+
+/* Filters tool, max 9 chars! */
+"Filters" = "Filtros";
+
+/* Details tool, max 9 chars! */
+"Details" = "Detalhes";
+
+/* Adjust tool, max 9 chars! */
+"Adjust" = "Ajustar";
+
+/* Canvas tool, max 9 chars! */
+"Canvas" = "Tela";
+
+/** ----------- **/
+/** Edit screen **/
+/** ----------- **/
+
+/* Apply to button */
+"Apply to all" = "Aplicar a tudo";
+
+/* Custom preset package */
+"Custom" = "Personalizado";
+
+/* Neutral preset package */
+"Neutral" = "Neutro";
+
+/* Button which takes the user back to the photo albums*/
+"Photos" = "Fotografias";
+
+/* Reset preset package */
+"Reset" = "Repor";
+
+/* Saved preset package */
+"Saved" = "Guardado";
+
+/* Nature preset package */
+"Nature" = "Natureza";
+
+/* Urban preset package */
+"Urban" = "Urbano";
+
+/* Portrait preset package */
+"Portrait" = "Retrato";
+
+/* Title that appears below the Sparkle overlays toolbar pack */
+"Sparkle" = "Brilho";
+
+/* Title of a slider controlling the size of the particles in the Sparkle effect */
+"Size" = "Tamanho";
+
+/* Title of a slider controlling the density of the particles in the Sparkle effect */
+"Density" = "Densidade";
+
+/* Chinese New Year overlay package */
+"New Year" = "Ano Novo";
+
+/* Mood overlay package */
+"Mood" = "Ambiente";
+
+/* Duo overlay package */
+"Duo" = "Duplo";
+
+/* IntroPresentation.pages.title */
+"Overlay" = "Sobreposição";
+
+/* Toolbar button, adds a lens flare effect. */
+"Lens Flare" = "Reflexo";
+
+/* Title that appears below the Weather overlays toolbar pack */
+"Weather" = "Meteorologia";
+
+/* Title for a pack of Valentines themed Overlays Packs */
+"Valentine's" = "São Valentim";
+
+/* Summer preset package */
+"Summer" = "Verão";
+
+/* Abstract preset package */
+"Abstract" = "Abstrato";
+
+/* Night preset package */
+"Night" = "Noite";
+
+/* B&W preset package */
+"B&W" = "P&B";
+
+/* Preset saved notification */
+"Preset saved as:" = "Predefinição guardada como:";
+
+/* Quickfix on notification */
+"Quickfix on" = "Correção rápida ativada";
+
+/* Quickfix off notification */
+"Quickfix off" = "Correção rápida desativada";
+
+/* Undo notification */
+"Undo" = "Desfazer";
+
+/* Redo notification */
+"Redo" = "Refazer";
+
+/* Redo notification */
+"Redo" = "Refazer";
+
+/* Filters button */
+"Filters" = "Filtros";
+
+/* Brightness button */
+"Brightness" = "Claridade";
+
+/* Exposure button */
+"Exposure" = "Exposição";
+
+/* Shadows button */
+"Shadows" = "Sombras";
+
+/* Highlights button */
+"Highlights" = "Altas luzes";
+
+/* Contrast button */
+"Contrast" = "Contraste";
+
+/* Sharpen button */
+"Sharpen" = "Nitidez";
+
+/* Saturation button */
+"Saturation" = "Saturação";
+
+/* Temp button */
+"Temp" = "Temp";
+
+/* Tint button */
+"Tint" = "Matiz";
+
+/* Hue button */
+"Hue" = "Tom";
+
+/* Depth button */
+"Depth" = "Profundidade";
+
+/* Filters button */
+"Filters" = "Filtros";
+
+/* Structure button */
+"Structure" = "Estrutura";
+
+/* Vibrance button */
+"Vibrance" = "Vibração";
+
+/* Vignette button */
+"Vignette" = "Vinheta";
+
+/* Bright preset package */
+"Bright" = "Brilhante";
+
+/* Drama preset package */
+"Drama" = "Drama";
+
+/* Faded preset package */
+"Faded" = "Dissolvido";
+
+/* HighCon (<- As in high contrast) preset package */
+"HighCon" = "Alto contraste";
+
+/* LowCon (<- As in low contrast) preset package */
+"LowCon" = "Baixo contraste";
+
+/* Go Pro button */
+"Go Pro" = "Atualizar para Pro";
+
+/*Pop tool button (As in "the color pops out") */
+"Pop" = "Destacar";
+
+/*cool tool button (Cool as in "colder") */
+"Cool" = "Arrefecer";
+
+/*calm tool button */
+"Calm" = "Calma";
+
+/*fade tool button */
+"Fade" = "Dissolução";
+
+/*Select All button */
+"Select All" = "Selecionar tudo";
+
+/* Day preset package */
+"Day" = "Dia";
+
+/* NEON preset package */
+"NEON" = "NÉON";
+
+/* Night preset package */
+"Night" = "Noite";
+
+/* Cinematic preset package */
+"Cinematic" = "Cinemático";
+
+/* Mystery preset package */
+"Mystery" = "Mistério";
+
+/* Radical preset package */
+"Radical" = "Radical";
+
+/* No filter */
+"None" = "Nenhum";
+
+/* essential filters */
+"Essential" = "Essencial";
+
+/* Adjust Primer tool */
+"Adjust Primer" = "Ajustar primer";
+
+/* Adjust Filter tool */
+"Adjust Filter" = "Ajustar filtro";
+
+/* Ratio tool */
+"Ratio" = "Proporção";
+
+/* Temperature (here we use ‘Temp’ because ‘Temperature’ is too long) button */
+"Temp" = "Temp";
+
+/* Light button */
+"Light" = "Luz";
+
+/* Straighten button */
+"Straighten" = "Endireitar";
+
+/* Horizontal skew button */
+"H-skew" = "Inclinar h.";
+
+/* Vertical skew button */
+"V-skew" = "Inclinar v.";
+
+/* Rotate button */
+"Rotate" = "Rodar";
+
+/* Flip horizontally button */
+"Flip H" = "Virar h.";
+
+/* Flip vertically button */
+"Flip V" = "Virar v.";
+
+/* Ratio button */
+"Ratio" = "Proporção";
+
+/* Ratios button */
+"Ratios" = "Proporções";
+
+/* Free ratio button */
+"Free" = "Livre";
+
+/* Grain tool */
+"Grain" = "Grão";
+
+/* Color */
+"Color" = "Cor";
+
+/* Title for a pack of Christmas themed Overlays and Sky Packs */
+"Christmas" = "Natal";
+
+/*=========================*/
+/*======= Sky Tool ========*/
+/*=========================*/
+
+/* Sky tool */
+"Sky" = "Céu";
+
+/* Randomizes the sky */
+"Random" = "Aleatório";
+
+/* Controlls the opacity of the sky */
+"Opacity" = "Opacidade";
+
+/* Changes the sky color according to a time of day */
+"Time" = "Hora";
+
+/* Adds clouds to the sky */
+"Clouds" = "Nuvens";
+
+/* Shifts the clouds */
+"Wind" = "Vento";
+
+/* Matches the color of the sky with the current filter option 1 */
+"Color Match" = "Correspondência de cor";
+
+/* Matches the color of the sky with the current filter option 2 */
+"Colorize" = "Colorir";
+
+/* Sky horizon button*/
+"Horizon" = "Horizonte";
+
+/* Feather horizon button*/
+"Feather" = "Pluma";
+
+/* Shift horizon button*/
+"Shift" = "Mudança";
+
+/* Ambient horizon button*/
+"Ambient" = "Ambiente";
+
+/* Sunny sky package*/
+"Sunny" = "Ensolarado";
+
+/* Fantasy sky package*/
+"Fantasy" = "Fantasia";
+
+/* Dusk sky package*/
+"Dusk" = "Crepúsculo";
+
+/* Sunset sky package*/
+"Sunset" = "Pôr-do-sol";
+
+/* Night sky package*/
+"Night" = "Noite";
+
+/* Aurora sky package*/
+"Aurora" = "Aurora";
+
+/* Storm sky package*/
+"Storm" = "Tempestade";
+
+/* New Sky package - Ablaze */
+"Ablaze" = "Resplandescente";
+
+/*===============================*/
+/*======= Portrait Tool =========*/
+/*===============================*/
+
+ /* Blur */
+"Blur" = "Desfocar";
+
+/* Glow */
+"Glow" = "Brilho";
+
+/* Smooth */
+"Smooth" = "Suavizar";
+
+/*==================================*/
+/*======= Primer Properties ========*/
+/*==================================*/
+
+/* Primers tool */
+"Primers" = "Primers";
+
+/* Changes the low mixing */
+"Lows" = "Baixos";
+
+/* Changes the mid mixing */
+"Mids" = "Intermédios";
+
+/* Changes the high mixing */
+"Highs" = "Altos";
+
+/* Changes the effect on people */
+"People" = "Pessoas";
+
+/* Changes the effect on people option 2 */
+"Person" = "Pessoa";
+
+/* Changes the luminance */
+"Luminance" = "Luminosidade";
+
+/* Changes the chroma (color) */
+"Chroma" = "Croma";
+
+/* Adds details */
+"Details" = "Detalhes";
+
+/*=============================*/
+/*======= Filter packages =====*/
+/*=============================*/
+
+ /* Vibrant Package */
+"Vibrant" = "Vibrante";
+
+/* Fade Package */
+"Fade" = "Dissolução";
+
+/* Portrait Package */
+"Portrait" = "Retrato";
+
+/* Urban Package */
+"Urban" = "Urbano";
+
+/* B&W (Black and white) Package */
+"B&W" = "P&B";
+
+/* Film Package */
+"Film" = "Rolo";
+
+/* Bright Package */
+"Bright" = "Brilhante";
+
+/* Neutral Package */
+"Neutral" = "Neutro";
+
+/* Cold Package */
+"Cold" = "Frio";
+
+/* Warm Package */
+"Warm" = "Calor";
+
+/* Thank you pop up - title */
+"Thank you!" = "Obrigado!";
+
+/* Thank you pop up - substitle */
+"We appreciate your support.\nPlease enjoy all-access to premium features and unlimited primers & filters." = "Agradecemos o seu apoio.\nCurta o acesso total a recursos premium, além de primários e filtros ilimitados.";
+
+/* Thank you pop up - continue button */
+"Get Started" = "Começar a Usar";
+
+/* New Filter package - Tones */
+"Tones" = "Tons";
+
+/*=============================*/
+/*======= Intro Strings =======*/
+/*=============================*/
+
+/* Intro first slide */
+"Welcome to Lightleap!" = "Damos-te as boas-vindas ao Lightleap!";
+
+/* Intro first slide subtitle */
+"Take amazing shots on the go" = "Tira fotografias fantásticas em qualquer lugar";
+
+/* Intro second slide variation 1 */
+"Make every photo you take beautiful" = "Melhora todas as tuas fotografias";
+
+/* Intro second slide variation 2 */
+"Make every sky breathtaking" = "Torna qualquer céu em algo indescritível";
+
+/* Into screen showing the portrait feature - option 1 */
+"And every portrait stunning" = "Todos os retratos ficam magníficos";
+
+/* Into screen showing the portrait feature - option 2 */
+"Create stunning portraits" = "Cria retratos magníficos";
+
+/* Intro fourth slide */
+"Save time! Edit multiple photos at once" = "Poupa tempo! Edita várias fotografias em simultâneo";
+
+/* Finish intro button */
+"Dive right in!" = "Mãos à obra!";
+
+/* Button displayed on the last slide of the app introduction */
+"Get Started!" = "Começar!";
+
+/*=================================*/
+/*======= Apple retail demo =======*/
+/*=================================*/
+
+/* Alert when demo version is launched */
+"This version of %@ has been created specifically for demonstration purposes" = "Esta versão do %1$@ foi criada especificamente para propósitos demonstrativos";
+
+/* Title of alert appearing when trying to enter a disabled feature */
+"Feature not enabled for this demo" = "Recurso não ativado nesta avaliação";
+
+/* Alert accept button */
+"OK" = "OK";
+
+/*====================================*/
+/*======= What's new component =======*/
+/*====================================*/
+
+/* What's new component title variation 1 */
+"New Portrait Tool" = "Nova ferramenta de retrato";
+
+/* What's new component subtitle variation 1 */
+"Try it now" = "Experimentar já";
+
+/* What's new component subtitle variation 2 */
+"Try it on your portraits!" = "Experimenta nos teus retratos!";
+
+/* What's new component subtitle variation 3 */
+"Professional portraits in a few taps" = "Retratos profissionais com poucos toques";
+
+/*=============================================*/
+/*======= Temporary Free Preset Strings =======*/
+/*=============================================*/
+
+/* Title of subscription banner */
+"Get unlimited access with Lightleap PRO." = "Obtém acesso ilimitado ao Lightleap Pro.";
+
+/* Subtitle of temporarily-free presets tool tip */
+"Quick, before they’re gone - Pro features with this icon are free!" = "Rápido, antes que desapareçam — as funcionalidades Pro com este ícone são grátis!";
+
+/* Local notification with new presets open up - title */
+"Try now!" = "Experimenta já!";
+
+/* Local notification with new presets open up - option 1 */
+"New FREE Presets available for a limited time only." = "Novas predefinições GRÁTIS disponíveis por tempo limitado.";
+
+/* Local notification with new presets open up - option 2 */
+"Brand new FREE Presets available for a limited time only." = "Novíssimas predefinições GRÁTIS disponíveis por tempo limitado.";
+
+/*================================*/
+/*======= Refferal Strings =======*/
+/*================================*/
+
+ /* Title of refferal pop up - option 1 */
+"Share for More Lightleap!" = "Partilha para mais Lightleap!";
+
+/* Title of refferal pop up - option 2 */
+"Share for Pro Exports!" = "Partilha para exportações Pro!";
+
+/* Title of refferal pop up - option 3 */
+"Share for more exports" = "Partilha para mais exportações";
+
+/* Subtitle of refferal pop up - option 1 */
+"Get 3 Pro exports and give a 7 day free trial - share Lightleap today!" = "Obtém 3 exportações Pro e oferece um período de experiência de 7 dias grátis — partilha já o Lightleap!";
+
+/* Subtitle of refferal pop up - option 2 */
+"Get 3 Pro exports and give a 7 day free trial when your friend downloads Lightleap - share Lightleap today!" = "Obtém 3 exportações Pro e oferece um período de experiência de 7 dias grátis quando o teu amigo descarregar o Lightleap — partilha já o Lightleap!";
+
+/* Thank you message after refferal - Title */
+"Thanks for sharing!" = "Obrigado pela partilha!";
+
+/* Thank you message after refferal - Subtitle */
+"Bonus! Here’s one free Export – on us :)" = "Bónus! Aqui tens uma exportação grátis — é por nossa conta. :)";
+
+/* Refferals explanation */
+"When your referred friend downloads Lightleap, you’ll get another 3 free Pro Exports!" = "Assim que o amigo recomendado descarregar o Lightleap, vais receber mais 3 exportações Pro grátis!";
+
+/* Button which opens the refferal pop up - option 1 */
+"Get free Pro Exports!" = "Obtém exportações Pro grátis!";
+
+/* Button which opens the refferal pop up - option 2 */
+"Want to get free Pro Exports?" = "Queres obter exportações Pro grátis?";
+
+/* Lightleap link share button */
+"Share" = "Partilhar";
+
+/* Message letting the user know that even though he used pro features, he can use pro exports */
+"You've used Pro tools! Continue to use a free export" = "Usaste ferramentas Pro! Continua para usares uma exportação grátis.";
+
+/*=====================*/
+/*======= Masks =======*/
+/*=====================*/
+
+/* Undo / Redo action name (will say "undo: brush") */
+"Brush" = "Pincel";
+
+/* Masks - help */
+"Use Eraser to remove or Brush to add your Sky or Portrait to certain areas." = "Usa a Borracha para remover ou o Pincel para adicionar Céu ou Retrato a determinadas áreas.";
+
+/* Masks - what's new title 1 */
+"Masks" = "Máscaras";
+
+/* Masks - what's new title 2 */
+"Brushes" = "Pincéis";
+
+/* Masks - what's new subtitle */
+"A perfect match in every photo. Adjust your Skies and Portrait Masks." = "Um par perfeito em todas as fotografias. Ajusta as máscaras de Céu e Retrato.";
+
+/*===================================*/
+/*======= Intro slides Screen =======*/
+/*===================================*/
+
+/* Intro slides - Sky 1 */
+"Replace gray (or any!) skies with incredible Sky presets" = "Substitui os céus cinzentos (ou outros!) com as magníficas predefinições Céu";
+
+/* Intro slides - Sky 2 */
+"Change any sky in one tap" = "Altera qualquer céu com um toque";
+
+/* Intro slides - portrait 1 */
+"Make portraits pop with background blur & multiple presets" = "Faz com que os retratos se destaquem com fundos desfocados e várias predefinições";
+
+/* Intro slides - portrait 2 */
+"Retouch portraits to perfection in one tap" = "Retoca retratos até à perfeição com um toque";
+
+/* Intro slides - portrait 3 */
+"Retouch portraits to perfection" = "Retoca retratos até à perfeição";
+
+/* Intro slides - filters 1 */
+"Adjust the mood of any shot with premium Filters" = "Ajusta o ambiente de qualquer fotografias com os filtros premium";
+
+/* Intro slides - filters 2 */
+"Adjust the mood in one tap" = "Ajusta o ambiente com um toque";
+
+/* Intro slides - filters 3 */
+"Adjust the mood with premium Filters" = "Ajusta o ambiente com filtros premium";
+
+/* Intro slides - Magic 1 */
+"Effortless auto-adjustment in just a tap!" = "Ajuste automático sem esforço com um só toque!";
+
+/* Intro slides - Magic 2 */
+"Fix photos magically in just one tap" = "Corrige fotografias de forma mágica com um toque";
+
+/* Intro slides - Magic 3 */
+"Magically fix every image" = "Corrige todas as imagens de forma mágica";
+
+/* Intro slides - overlays 1 */
+"Smart Overlays adjust automatically to properly match every photo!" = "As sobreposições inteligentes ajustam-se automaticamente de acordo com cada fotografia!";
+
+/* Intro slides - overlays 2 */
+"Add stunning special effects" = "Adiciona magníficos efeitos especiais";
+
+/* Intro slides - overlays 3 */
+"Special effects in one tap" = "Efeitos especiais com um toque";
+
+/* Intro slides - final slide 1 */
+"So many amazing photos, all in one tap!" = "Tantas fotografias fantásticas, apenas com um toque!";
+
+/* Intro slides - final slide 1 */
+"One photo, so many amazing looks!" = "Uma fotografia, inúmeros looks fantásticos!";
+
+/*========================*/
+/*======= Overlays =======*/
+/*========================*/
+
+/* What's new title */
+"New! Overlays" = "Novidade! Camadas";
+
+/* What's new subtitle */
+"Add a little something extra & transform your shots" = "Adiciona algo extra e transforma as tuas fotografias";
+
+/*=========================*/
+/*======= Magic Fix =======*/
+/*=========================*/
+
+/* Magic fix feature title */
+"Magic" = "Magia";
+
+/* What's New title */
+"Magic in a Tap" = "Magia com um toque";
+
+/* What's New subtitle */
+"Adjust and Enhance your photos - no effort necessary!" = "Ajusta e melhora as tuas fotografias sem esforço!";
+
+/*=============================*/
+/*======= Export screen =======*/
+/*=============================*/
+
+/* export - what's new title */
+"New Export Options" = "Novas opções de exportação";
+
+/* export - what's new subtitle */
+"Change your format, export to social media & more!" = "Altera o formato, exporta para as redes sociais e muito mais!";
+
+/* eraser tooltip */
+"Tap to Erase!" = "Toca para apagar!";
+
+/* export - save new photo over original photo */
+"Replace" = "Substituir";
+
+/* export - save new photo as new copy photo */
+"Save Copy" = "Guardar cópia";
+
+/* Save copy option explanation */
+"Saves an edited copy, but leaves original untouched" = "Guarda uma cópia editada, mas deixa o original inalterado";
+
+/* Save over option explanation */
+"Replaces original photo with edited version" = "Substitui a fotografia original pela versão editada";
+
+/* button which exports the edited photo to instagram */
+"Post to Instagram" = "Publicar no Instagram";
+
+/* explanation on button which provides export through other apps */
+"Other Apps and Services" = "Outros serviços e aplicações";
+
+/* export photo format type */
+"Format" = "Formato";
+
+/* label explaining the destination of the export */
+"Export to" = "Exportar para";
+
+/* Looks feature title */
+"Looks" = "Visuais";
+
+/* Looks what's new title */
+"Looks are combinations of tools, specially crafted by our design team. Check them out now!" = "Os visuais são combinações de ferramentas, especialmente desenvolvidas pela nossa equipa de design. Dá uma vista de olhos!";
+
+/* Primers what's new title */
+"Primers are still here! We've just moved them around and changed the icon." = "Os primers ainda estão cá! Apenas mudaram de sítio e têm um novo ícone.";
+
+/* Looks popup title */
+"Specially Crafted Lightleap Combinations" = "Combinações Lightleap especialmente desenvolvidas";
+
+/* Looks popup subtitle */
+"Looks are combinations of Lightleap tools, specially crafted by our design team." = "Os visuais são combinações de ferramentas Lightleap, especialmente desenvolvidas pela nossa equipa de design.";
+
+/* Tooltip explaining to the user how to erase a mask */
+"Tap here, then swipe your photo to erase the effect" = "Toca aqui e passa o dedo pela tua fotografia para apagar o efeito";
+
+/* Promotion screen title */
+"Hurry & get a month of Lightleap Pro for only %@!" = "Despacha-te e obtém um mês de Lightleap Pro por apenas %1$@!";
+
+/* Promotion screen second title */
+"Get even more with Lightleap Pro!" = "Aproveita ainda mais o Lightleap Pro!";
+
+/* Promotion screen features 1 */
+"Unlock all tools" = "Desbloquear todas as ferramentas";
+
+/* Promotion screen features 2 */
+"More Skies, more Filters!" = "Mais céus, mais filtros!";
+
+/* Promotion screen features 3 */
+"New Pro content every month" = "Novo conteúdo Pro todos os meses";
+
+/* Promotion screen price text */
+"Get 1 Month for %@" = "Obtém 1 mês por %1$@";
+
+/* Promotion screen price text 2 */
+"then only %@ (billed yearly)" = "depois, apenas %1$@ (cobrados mensalmente)";
+
+/* Promotion screen text explaining to the user he can cancel his subscription */
+"Cancel anytime" = "Cancela em qualquer altura";
+
+/* Banner explaining to the user he used pro features */
+"You've used Pro features! Unlock Pro features to save." = "Usaste as funcionalidades Pro! Desbloqueia as funcionalidades Pro para guardar.";
+
+/* Button on the banner, which opens the subscription screen */
+"Unlock Pro features" = "Desbloquear funcionalidades Pro";
+
+/* Button which removes the edits that were using pro features */
+"Remove Limit" = "Remover limite";
+
+/* Free trial button */
+"Free trial" = "Períodos experimental grátis";
+
+/* Crop tool title */
+"Crop" = "Recortar";
+
+/* Subtitle for an error message when a photo couldn't be saved 1 */
+"Oops, can't save over a demo photo" = "Ups, não podes guardar sobre uma fotografia de demonstração";
+
+/* Subtitle for an error message when a photo couldn't be saved 2 */
+"Oops, can't save over a video" = "Ups, não podes guardar sobre um vídeo";
+
+/* Message shown when user uses a tool which works on faces */
+"Couldn't find a face" = "Não foi possível encontrar um rosto";
+
+/* Referrals - message shown to referred user */
+"Your First 7 Days Free" = "Os teus primeiros 7 dias grátis";
+
+/* Notification text informing the user that they can try Lightleap VIP free for 7 days */
+"Try free for 7 days!" = "Experimenta 7 dias gratuitamente!";
+
+/* Trial push notification version 1 */
+"Time is almost up ⏲ get your free trial!" = "O tempo está a terminar ⏲ obtém o teu período experimental grátis!";
+
+/* Trial push notification version 2 */
+"Time is almost up ⏲ get a free trial of unlimited Skies, stunning Filters, and beautiful Overlays. Tap to get started!" = "O tempo está a terminar ⏲ obtém um período experimental grátis de céus ilimitados, filtros magníficos e bonitas sobreposições. Toca para começar!";
+
+/* Trial push notification version 3 */
+"Time is almost up ⏲ get a free week of unlimited Skies, stunning Filters, and beautiful Overlays. Tap to get started!" = "O tempo está a terminar ⏲ obtém uma semana grátis de céus ilimitados, filtros magníficos e bonitas sobreposições. Toca para começar!";
+
+/* Referrals - message shown to referred user 2 */
+"Have you tried Lightleap? Get 1 week free!" = "Já experimentaste o Lightleap? Obtém 1 semana grátis!";
+
+/* Message shown to the user when a reffered user downloads Lightleap - title */
+"Yay!" = "Boa!";
+
+/* Message shown to the user when a reffered user downloads Lightleap - subtitle */
+"You've got %lu Pro points!" = "Recebeste %1$lu pontos Pro!";
+
+/* Message shown to user when he is about to save a photo and use a point */
+"Use 1 Pro point" = "Usar 1 ponto Pro";
+
+/* Message shown to user when he wants to share Lightleap link but there is no connection */
+"No internet connection" = "Sem ligação à Internet";
+
+/* 'share Lightleap' dialog title */
+"Share and get Lightleap Pro" = "Partilha e obtém o Lightleap Pro";
+
+/* 'share Lightleap' dialog subtitle */
+"Get 3 Pro points every time a friend downloads Lightleap via this link. Use your points to save images with Pro features." = "Obtém 3 pontos Pro sempre que um amigo descarregar o Lightleap através desta hiperligação. Usa os pontos para guardares imagens com funcionalidades Pro.";
+
+/* button which will take users to the 'share Lightleap' dialog */
+"Get free Pro points!" = "Obtém pontos Pro grátis!";
+
+/* button which will take users to the 'share Lightleap' dialog 2 */
+"Want to get free Pro points?" = "Queres obter pontos Pro grátis?";
+
+/* Message shown to user after he shared the Lightleap link */
+"When your referred friend downloads Lightleap, you’ll get another 3 free Pro points!" = "Quando um amigo recomendado por ti descarregar o Lightleap, recebes mais 3 pontos Pro grátis!";
+
+/* Effects feature title */
+"Effects" = "Efeitos";
+
+/* Title for pop up which allows the user to save the current edit as a new look */
+"Name Your Look" = "Dá um nome ao teu aspeto visual";
+
+/* Subtitle for pop up which allows the user to save the current edit as a new look */
+"Name & save your signature editing style!" = "Dê um nome e guarde o seu estilo de edição característico!";
+
+/* Rename the look button */
+"Rename" = "Alterar o nome";
+
+/* Button which saves a Look in the Look feature */
+"Save Look" = "Guardar visual";
+
+/* Title of the pop up which enables you to rename a Look you previously saved */
+"Rename Look" = "Alterar nome do visual";
+
+/* Button text for accepting the changes you have made your Look's name  */
+"Done" = "OK";
+
+/* Message displayed to the user when the image is being saved */
+"Saving photo" = "A guardar fotografia";
+
+/* Message displayed to the user when multiple images are being saved */
+"Saving photos" = "A guardar fotografias";
+
+/* Pop up displayed when user tries to use a Pro feature */
+"This is Pro only. Go Pro to get this feature!" = "Esta funcionalidade é exclusiva da versão Pro. Torna-te Pro para a usares!";
+
+/* Label on a button that restores previously purchased products */
+"Already paid?" = "Já pagaste?";
+
+/* Chinese welcome popup title */
+"Welcome Bonus" = "Welcome Bonus";
+
+/* Chinese welcome popup subtitle */
+"You’ve received %lu days of Pro free! You can now access all features of the app for %lu days" = "You’ve received %1$lu days of Pro free! You can now access all features of the app for %2$lu days";
+
+/* Chinese intro subscription popup title */
+"Keep Using Pro" = "Keep Using Pro";
+
+/* Chinese intro subscription popup subtitle */
+"Hope you enjoyed your trial. Pay for 5 months of Pro, get another 7 months FREE!" = "Hope you enjoyed your trial. Pay for 5 months of Pro, get another 7 months FREE";
+
+/*=============================*/
+/*======= Custom looks ========*/
+/*=============================*/
+
+/* Looks - what's new Title */
+"New: Custom Looks" = "Novo: visuais personalizados";
+
+/* Looks - what's new Subtitle */
+"Name & save your signature editing style" = "Dá nome a guarda o teu estilo de edição pessoal";
+
+/* Looks Pro popup - appears when non-sub tries to save more looks than allowed - Title*/
+"Add more looks with Pro" = "Adiciona mais visuais com o Pro";
+
+/* Looks Pro popup - appears when non-sub tries to save more looks than allowed - Subtitle*/
+"Save up to %@ custom Looks" = "Guarda até %1$@ visuais personalizados";
+
+/* Save new Look tooltip */
+"Love your current edits? Tap here to name your Look & save it!" = "Adoras as tuas edições atuais? Toca aqui para dar nome ao teu visual e guardá-lo!";
+
+/* Custom Looks limit reached for subscribers message - title  */
+"Custom Looks are Full" = "Os visuais personalizados estão cheios";
+
+/* Custom Looks limit reached for subscribers message - title  */
+"We love that you're creating more Looks, but Lightleap can only handle 30 custom Looks at a time. Press & hold an older Look, then choose delete to make room for a new Look." = "Adora que estejas a criar mais visuais, mas o Lightleap só consegue gerir 30 visuais personalizados em simultâneo. Prime e mantém premido um visual antigo e, em seguida, elimina-o para ganhares espaço para um novo visual.";
+
+/*===================================*/
+/*======= Subscription offers =======*/
+/*===================================*/
+
+/* Title of a pop-up subscription screen offering a discounted product*/
+"Save %@%%" = "Poupa %1$@%%";
+
+/* Title of a pop-up subscription screen offering a discounted product*/
+"1 Year for Just %@" = "1 ano por apenas %1$@";
+
+/* Sub -Title of a pop-up subscription screen offering a discounted product*/
+"Renew now and save %@%% next year." = "Renova já e poupa %1$@%% no próximo ano.";
+
+/* Sub -Title of a pop-up subscription screen offering a discounted product*/
+"Renew now and save %@%% next year. \n Cancel anytime." = "Renova já e poupa %1$@%% no próximo ano.\n Cancela em qualquer altura.";
+
+/* Sub -Title of a pop-up subscription screen offering a discounted product*/
+"Renew your subscription and save %@%% on the following year." = "Renova já e poupa %1$@%% no próximo ano.";
+
+/* Sub -Title of a pop-up subscription screen offering a discounted product*/
+"Renew your subscription and save %@%% on the following year. \n Cancel anytime." = "Renova já e poupa %1$@%% no próximo ano.\n Cancela em qualquer altura.";
+
+/* Sub -Title of a pop-up subscription screen offering a discounted product*/
+"Then %@ the year after. \n Cancel anytime." = "%1$@ por ano posteriormente.\n Cancela em qualquer altura.";
+
+/* Sub -Title of a pop-up subscription screen offering a discounted product*/
+"Then %@ the year after." = "%1$@ por ano posteriormente.";
+
+/*Decline button of a  pop up subscription Screen*/
+"Decline offer" = "Rejeitar oferta";
+
+/* Current subscription box title  */
+"Your Pro Membership" = "A tua adesão Pro";
+
+/* Name of the current app, followed by Pro  */
+"%@ Pro" = "%1$@ Pro";
+
+/* Current sybscription type - yearly  */
+"Yearly member" = "Membro anual";
+
+/* Current sybscription type - monthly  */
+"Monthly member" = "Membro mensal";
+
+/* Enlight suite subscription box title  */
+"Meet the Suite" = "Conhece a Suite";
+
+/* Enlight suite banner button title  */
+"Be an Enlight Pro" = "Adere ao Enlight Pro";
+
+/* Enlight suite banner button subtitle  */
+"on all 4 apps" = "nas 4 aplicações";
+
+/* Enlight suite subscription button title  */
+"SAVE %@%%" = "POUPA %1$@%%";
+
+/* Yearly subscription button badge title  */
+"SAVE\n%@%%" = "POUPA\n%1$@%%";
+
+/* Enlight suite subscription button subtitle  */
+"Full yearly access for %@" = "Acesso anual total por %1$@";
+
+/* Button appearing in the subscription screen, notifying users that by pressing this button they are choosing an anual subscription plan - 5 + 7 months */
+"5 Months + 7 Months FREE" = "5 Months + 7 Months FREE";
+
+/* Subtitle of a button appearing in the subscription screen, notifying users that by pressing this button they will be saving an amount equal to {0}*/
+"Save {0}" = "Poupa {0}";
+
+/* Label on a button for purchasing subscription that renews every 3 months */
+"3 Months" = "3 Months";
+
+/* Label on a button for purchasing subscription that renews every week */
+"1 Week" = "1 Week";
+
+/* Title of a button offering the user to continue using the weekly payment plan. */
+"Continue with weekly" = "Continue with weekly";
+
+/* Subscription screen - custom looks thumbnail */
+"30\nCustom\nLooks" = "30\nvisuais\npersonalizados";
+
+/* Save custom look first tool tip */
+"Love your current edits? Go into Looks to save your new Look!" = "Adoras as tuas edições atuais? Acede a Visuais para guardar o teu novo visual!";
+
+/* Save custom look first tool tip */
+"Tap here to name & save your Look" = "Toca aqui para atribuir um nome e guardar o teu visual";
+
+/* Text under the button which provides the payment info */
+"30\nCustom\nLooks" = "30\nvisuais\npersonalizados";
+
+/* Weekly to yearly upgrade title - option 1 */
+"Upgrade to yearly for just %@" = "Atualiza para o plano anual por apenas %1$@";
+
+/* Weekly to yearly upgrade title - option 2 */
+"Upgrade to yearly and save %@%%" = "Atualiza para o plano anual e poupa %1$@%%";
+
+/* Weekly to yearly upgrade title - option 3 */
+"Upgrade and save %@%%" = "Atualiza e poupa %1$@%%";
+
+/* Weekly to yearly upgrade subtitle - option 1 */
+"Get a whole year for the price of 9 weeks." = "Obtém um ano completo pelo preço de 9 semanas.";
+
+/* Weekly to yearly upgrade subtitle - option 2 */
+"Upgrade to yearly for %@ and save %@" = "Atualiza para o plano anual por %1$@ e poupa %2$@";
+
+/* Weekly to yearly upgrade subtitle - option 3 */
+"Upgrade to yearly for %@.\n That's %@/mo." = "Atualiza para o plano anual por %1$@.\n Ou seja, %2$@/mês.";
+
+/* Trial auto renewal explanation */
+"If you do not cancel, you will be automatically charged 24 hours before the end of the trial." = "Se não cancelares, serás cobrado automaticamente 24 horas antes do final do período experimental.";
+
+/* Body text in a button encouraging the user to start a 7 day free trial */
+"Get 7 Days Free!" = "Obtém 7 dias grátis!";
+
+/* Description of a monthly price. */
+"%@ per month" = "%1$@ por mês";
+
+/* Button appearing in the subscription screen, notifying users that by pressing this button they are choosing an anual subscription plan - 6 + 6 months */
+"6 Months + 6 Months FREE" = "6 Months + 6 Months FREE";
+
+/* Button appearing in the subscription screen, notifying users that by pressing this button they are choosing an anual subscription plan - 6 months */
+"6 Months" = "6 Months";
+
+/* Button appearing in the subscription screen, notifying users that by pressing this button they are choosing an anual subscription including a trial */
+"12 Months + 3 Day Trial" = "12 Months + 3 Day Trial";
+
+/* Disclaimer text */
+"If you do not cancel, you will be automatically charged 24 hours before the end of the trial." = "Se não cancelares, serás cobrado automaticamente 24 horas antes do final do período experimental.";
+
+/* New filters what's new - title */
+"New Filters!" = "Novos filtros!";
+
+/* New filters what's new - subtitle */
+"Adjust the mood in one tap with 34 new Filters" = "Ajusta o ambiente com um toque";
+
+/*==============================*/
+/*======= Looks Catalog  =======*/
+/*==============================*/
+
+/* Looks catalog main title */
+"Looks Catalog" = "Catálogos de visuais";
+
+/* Looks Catalog toolbar title*/
+"Catalog" = "Catálogo";
+
+/* Looks catalog main title */
+"Look Book" = "Catálogo de visuais";
+
+/* Download button title */
+"Download" = "Descarregar";
+
+/* Download button title */
+"Download look" = "Descarregar visual";
+
+/* No internet connection error message title */
+"Let's get connected" = "Liga-te a nós";
+
+/* Download error message body */
+"Incredible edits and... no internet.\nCheck your connection and try downloading again." = "Edições incríveis e… sem ligação à Internet.\nVerifica a ligação e tenta descarregar outra vez.";
+
+/* No internet connection error message body */
+"Please check your connection and come back so we can show you the newest Looks!" = "Verifica a ligação e volta mais tarde para te mostrarmos os visuais mais recentes!";
+
+/* Disclaimer informing the user the trial is only offered with a yearly subscription. */
+"with a yearly subscription" = "com uma assinatura anual";
+
+/* Body text in a button encouraging the user to start a 1 month free trial */
+"Get 1 Month Free!" = "Obtenha 1 mês Grátis!";
+
+/* Title of the popup offering discount */
+"Get 1 year for %@ off" = "Obtém 1 ano com %1$@ de desconto";
+
+/* title of the popup view offering free days */
+"Get %@ days free" = "Obtém %1$@ dias grátis";
+
+/* Title of a button that takes the user to the subscription screen */
+"Show me" = "Mostrem-me";
+
+/* Description for Lightleap */
+"Unlimited access to more Looks, Filters, Skies & Effects!" = "Acesso ilimitado a mais visuais, filtros, céus e efeitos!";
+
+/* Button title for opening the catatlog */
+"View" = "Ver";
+
+/* Button title for opening the catatlog */
+"Try now" = "Experimentar agora";
+
+/* What's new title for looks catalog. */
+"Get more Looks" = "Obter mais visuais";
+
+/* What's new body for looks catalog. */
+"Browse to find your favorites, and get them instantly!" = "Explora para encontrares os teus favoritos e obtém-nos instantaneamente!";
+
+/*Looks catalog notification title. */
+"Gotta have it 🌅" = "Tens de os ter 🌅";
+
+/*Looks catalog notification body. */
+"You can't miss these new Looks!" = "Não podes perder estes novos visuais!";
+
+/*Looks catalog notification title. */
+" You're missing out..." = " Estás a perder…";
+
+/*Looks catalog notification body. */
+"Get in here and get these new Looks" = "Dá uma vista de olhos e obtém estes visuais";
+
+/*Looks catalog notification title. */
+"They're here ✨" = "Chegaram ✨";
+
+/*Looks catalog notification body. */
+"The great new Looks you've been waiting for!" = "Os novos visuais por que tens esperado!";
+
+/*Looks catalog notification title. */
+"Check it out!" = "Dá uma vista de olhos!";
+
+/*Looks catalog notification body. */
+"The newest trendy Looks" = "Os visuais mais recentes";
+
+/*Looks catalog notification title. */
+"Up your game" = "Eleva o teu jogo";
+
+/*Looks catalog notification body. */
+"Your pics will never be the same with these Looks!" = "As tuas fotografias nunca mais serão as mesmas com estes visuais!";
+
+/* Title of a Black Friday Sale popup */
+"Black Friday Sale" = "Promoção da Black Friday";
+
+/* Countdown timer for an offer - days */
+"days" = "dias";
+
+/* Countdown timer for an offer - hours */
+"hrs" = "h";
+
+/* Countdown timer for an offer - minutes */
+"mins" = "m";
+
+/* Countdown timer for an offer - seconds */
+"secs" = "s";
+
+/* Title of an offer plan */
+"YEARLY PLAN" = "PLANO ANUAL";
+
+/* Subtitle of an offer plan for first year discount. The placeholder is for the price of subscription for the first year. */
+"Get 1 year for %@" = "Obtém 1 ano por %1$@";
+
+/* Sub-subtitle of an offer plan for first year discount, that appears right after the previous string. The placeholder is for the price of subscription for every year after the first one. */
+"then %@ the year after" = "%1$@/ano posteriormente";
+
+/* Title of a popup offering discount. The placeholder is for number of percents for discount. */
+"Get your first year for %@ off!" = "Obtém %1$@ de desconto no primeiro ano!";
+
+/* Text informing the user that their device is no longer supported. */
+"Your device may not be supported" = "O teu dispositivo pode não ser compatível";
+
+/* Text informing the user that their device is no longer supported. */
+"Unfortunately, due to technical limitations we will no longer be supporting your device. For more information please feel free to contact us" = "Infelizmente, devido a limitações técnicas deixaremos de oferecer compatibilidade com o teu dispositivo. Para mais informações não hesites em contactar-nos.";
+
+/* Link instruction user how they can turn off automatic updates. */
+"https://support.apple.com/en-us/HT202180" = "https://support.apple.com/pt-pt/HT202180";
+
+/* Button that takes the user to a help link. */
+"How to turn off automatic updates" = "Como desativar as atualizações automáticas";
+
+/* Title of the Light Leaks Look's pack */
+"Light Leaks" = "Fugas de luz";
+
+/* Title of the Graceful Look's pack */
+"Graceful" = "Gracioso";
+
+/* Title of the Lovely Look's pack */
+"Lovely" = "Adorável";
+
+/* Title of the Winter Wonder Look's pack */
+"Winter Wonder" = "Belo inverno";
+
+/* Title of the Rainbow Look's pack */
+"Rainbow" = "Arco-íris";
+
+/* Title of the Enchanted Look's pack */
+"Enchanted" = "Encantado";
+
+/* Title of the Fireworks Look's pack */
+"Fireworks" = "Foguetes";
+
+/* Sky feature title for subscription screen */
+"All the Skies you need" = "Todos os céus de que precisas";
+
+/* Sky feature subtitle for subscription screen */
+"Pick unique Skies for your shots" = "Escolhe céus únicos para as tuas fotografias";
+
+/* Looks feature title for subscription screen */
+"Get your own Looks" = "Obtém os teus próprios visuais";
+
+/* Looks feature subtitle for subscription screen */
+"Express your individuality" = "Expressa a tua individualidade";
+
+/* Filter feature title for subscription screen */
+"Unique Filters" = "Filtros únicos";
+
+/* Filters feature subtitle for subscription screen */
+"Get a consistent vibe" = "Obtém uma vibe consistente";
+
+/* Effects feature title for subscription screen */
+"Effects that pop" = "Efeitos que se destacam";
+
+/* Effects feature subtitle for subscription screen */
+"Step up your editing" = "Leva a tua edição para outro nível";
+
+/* Primers feature title for subscription screen */
+"Colorful Primers" = "Primers coloridos";
+
+/* Primers feature subtitle for subscription screen */
+"You’ll have to show these off" = "Vais ter de exibir isto";
+
+/* Label indicating price per month */
+"Only %@/mo." = "Apenas %1$@/mês.";
+
+/* Label indication the possibility to cancel subscription anytime */
+"Cancel anytime." = "Cancela a qualquer momento.";
+
+/* Product label */
+"Best Deal" = "Melhor oferta";
+
+/* Price label for yearly product */
+"Only %@ Yearly" = "Apenas %1$@ por ano";
+
+/* Price label for yearly product */
+"%@ Yearly" = "%1$@ por ano";
+
+/* Subscription screen subtitle */
+"All the tools you need.\nGet in on the fun!" = "Todas as ferramentas de que precisas.\nÉ pura diversão!";
+
+/* Button offering to see other product plans */
+"See other plans" = "Ver outros planos";
+
+/* Label for lifetime membership */
+"Lifetime" = "Vitalício";
+
+/* Label for monthly membership */
+"Monthly" = "Mensal";
+
+/* Label for yearly membership */
+"Yearly" = "Anual";
+
+/* Label for the amount of percentage saved */
+"%@%% off" = "%1$@%% de desconto";
+
+/* Product plans screen title */
+"Your Special Offers" = "As tuas ofertas especiais";
+
+/* Label indication the possibility to cancel subscription anytime */
+"Limited Offer" = "Oferta limitada";
+
+/* Label indicating price per month */
+"%@/month" = "%1$@/mês";
+
+/* Label indication the possibility to cancel subscription anytime */
+"Limited time" = "Por tempo limitado";
+
+/* Yearly product with discount button title */
+"%@ Months for the price of %@" = "%1$@ meses peço preço de %2$@";
+
+/* Title for section of recently used items */
+"Recents" = "Recentes";
+
+/*==========================================*/
+/*======= Terms and conditions alert =======*/
+/*==========================================*/
+
+/* Terms and conditions popup title */
+"Terms & Conditions" = "Termos e Condições";
+
+/* Terms and conditions popup body */
+"By clicking Accept, I agree to Lightleap’s Terms of Use and Privacy Policy." = "Ao clicar em Aceito, aceito os Termos de Utilização e a Política de Privacidade do Lightleap.";
+
+/* Terms and conditions popup button title */
+"Accept" = "Aceito";
+
+/* Offer screen title */
+"Best Deal\non Lightleap Pro" = "Melhor oferta\nno Lightleap Pro";
+
+/* Inpainting intro screen slide */
+"Remove pesky spots to clean up your shot" = "Remove manchas irritantes para deixares a tua fotografia com um ar mais clean";
+
+/* Inpainting what's new title */
+"Heal for a Quick Fix" = "Reparar para uma correção rápida";
+
+/* Inpainting what's new body */
+"Use this powerful tool to get rid of problem spots and photobombs" = "Usa esta poderosa ferramenta para te livrares das manchas e objetos indesejados";
+
+/* Tupi's skies what's new title */
+"Tupi's Skies" = "Céus da Tupi";
+
+/* Tupi's skies what's new body */
+"New Skies submitted by Tupi Saravia and fans" = "Novos céus enviados por Tupi Saravia e pelos fãs";
+
+/* Tupi's skies notification title */
+"Breaking News!" = "Notícia de última hora!";
+
+/* Tupi's skies notification body */
+"Influencer Tupi Saravia has added Skies to Lightleap - check them out" = "A influencer Tupi Saravia adicionou Céus ao Lightleap - dá uma vista de olhos!";
+
+/* Heal feature title */
+"Heal" = "Reparar";
+
+/* Restore heal feature title */
+"Restore" = "Restaurar";
+
+/* SUNNY sky package*/
+"SUNNY" = "ENSOLARADO";
+
+/* FANTASY sky package*/
+"FANTASY" = "FANTASIA";
+
+/* DUSK sky package*/
+"DUSK" = "CREPÚSCULO";
+
+/* SUNSET sky package*/
+"SUNSET" = "PÔR-DO-SOL";
+
+/* NIGHT sky package*/
+"NIGHT" = "NOITE";
+
+/* AURORA sky package*/
+"AURORA" = "AURORA";
+
+/* STORM sky package*/
+"STORM" = "TEMPESTADE";
+
+/* ABLAZE sky package*/
+"ABLAZE" = "RESPLANDESCENTE";
+
+/* VALENTINE'S sky package*/
+"VALENTINE'S" = "SÃO VALENTIM";
+
+/* Title for a feature that enables users to add stickers to their projects */
+"Element" = "Elementos";
+
+/* Title for slider controling foreground opacity */
+"Foreground" = "Foreground";
+
+/* Title for slider controling temperature of the image */
+"Temperature" = "Temperature";
+
+/*====================================*/
+/*=========== 618 Strings ============*/
+/*====================================*/
+
+/* Main title of subscription screen */
+"Special 618 Offer\nSave 20% Off Yearly Plan" = "Special 618 Offer\nSave 20% Off Yearly Plan";
+
+/* Text of price in main screen */
+"%@ Yearly Price 618" = "%1$@/year";
+
+/* Title for continue button */
+"Unlock Pro now" = "Unlock Pro Now";
+
+/* Subtitle under continue button */
+"Valid until June 18th. 1st Year Only." = "Valid until June 18th. 1st Year Only.";
+
+/* Text for button that opens the other plans popup */
+"See more plans" = "Other Plans";
+
+/* Title of 618 promotion popup */
+"618 Celebration" = "618 Celebration";
+
+/* Text above yearly subscription button in other plans popup */
+"SPECIAL OFFER" = "SPECIAL OFFER";
+
+/* Title of yearly subscription button in other plans popup */
+"YEARLY" = "YEARLY";
+
+/* Price text of yearly subscription button in other plans popup */
+" %@/year\nSave 20%% Now." = " %1$@/year\nSave 20%% Now.";
+
+/* Text For continue button */
+"Unlock Lightleap Pro" = "Unlock Lightleap Pro";
+
+/* Title of monthly subscription button in other plans popup */
+"MONTHLY-618" = "MONTHLY";
+
+/* Title of lifetime subscription button in other plans popup */
+"LIFETIME" = "LIFETIME";
+
+/* Price text of monthly subscription button in other plans popup */
+"%@/month" = "%1$@/mês";
+
+/* Subtitle of yearly subscription button in other plans popup */
+"Valid until June 18th. 1st Year Only." = "Valid until June 18th. 1st Year Only.";
+
+/* Title of a button that takes user to all tutorials */
+"ALL TUTORIALS" = "TODOS OS TUTORIAIS";
+
+/* Title of a button that takes user to page where they can try it with their video */
+"Try with my video" = "Usar o meu vídeo";
+
+/* Title for a what's new slide of a new feature called Color */
+"Color Feature" = "Funcionalidade Cor";
+
+/* Subtitle for a what's new slide of a new feature called Color */
+"Make changes to each individual color in your shot!" = "Faz alterações em cada cor individual da tua fotografia!";
+
+/* Name of feature that adds city light to images. */
+"Soft Light" = "Luz Suave";
+
+/* Name of feature that adds city light to images. */
+"Bokeh" = "Bokeh";
+
+/* Name of feature that edit face features. */
+"Face" = "Face";
+
+/* What's new title for the new Effects feature. */
+"Add Stunning Effects" = "Adicione Efeitos Deslumbrantes";
+
+/* What's new body for the new Effects feature. */
+"Make your photos pop with these beautiful effects" = "Faça com que as suas fotos apareçam com estes bonitos efeitos";
+
+/* Terms and condition approval. Placeholders here are for the terms "Terms of Use" and "Privacy Policy" which are already localized. Example of usage: By continuing, I agree to Lightleap’s Terms of Use and Privacy Policy.*/
+"By continuing, I agree to Lightleap’s %@ and %@." = "Ao continuar, concorda com os %1$@ e %2$@ da Lightleap.";
+
+/* Terms and condition approval. Placeholders here are for the terms "Terms of Use" and "Privacy Policy" which are already localized. Example of usage: By clicking Accept, I agree to Lightleap’s Terms of Use and Privacy Policy.*/
+"By clicking Accept, I agree to Lightleap’s %@ and %@." = "Ao clicar em Aceitar, concordo com os %1$@ e %2$@ da Lightleap.";
+
+/* Label indicating undoing of all editing steps. */
+"Undo All" = "Anular Tudo";
+
+/* Label indicating redoing of all editing steps. */
+"Redo All" = "Refazer Tudo";
+
+/* Heal help slides intro title */
+"Heal Do’s and Don’ts" = "O que Fazer e Não fazer ao Reparar";
+
+/* Heal help slides intro body */
+"Here’s how to make erasing super easy!" = "Aqui está a forma de tornar a eliminação superfácil!";
+
+/* Heal help slide body 1 */
+"brush out just what you want erasing" = "Escolha apenas aquilo que quer apagar";
+
+/* Heal help slide body 2 */
+"stray over the object’s edges or sections of background will disappear!" = "Se dispersar pelas bordas dos objetos irão desaparecer secções do fundo!";
+
+/* Heal help slide body 3 */
+"use small brush strokes to remove individual spots" = "Utilize pinceladas pequenas para remover pontos individuais";
+
+/* Heal help slide body 4 */
+"brush over large areas of spots you want to erase" = "Escolha grandes áreas de locais que deseje apagar";
+
+/* Heal help slide body 5 */
+"choose smooth, uncluttered backgrounds, for easier erasing" = "Escolha fundos suaves e simples para uma eliminação mais fácil";
+
+/* Heal help slide body 6 */
+"go for busy backgrounds with loads of detail" = "Escolha fundos complexos com muitos detalhes";
+
+/* Heal help slide title */
+"✅ Do" = "✅ Faça";
+
+/* Heal help slide title */
+"⛔️ Don’t" = "⛔️ Não Faça";
+
+/*=============================*/
+/*======= Login =======*/
+/*=============================*/
+
+/* Manage settings section in setting menu */
+"MANAGE" = "GERIR";
+
+/* About Lightleap section in setting menu */
+"ABOUT" = "SOBRE";
+
+/* More Lightleap section in setting menu */
+"MORE" = "MAIS";
+
+/* Setting option leading to seeing user subscription plan */
+"Your Membership" = "A Sua Adesão";
+
+/* Setting option leading to ssubscription screen */
+"Get Lightleap Pro" = "Obter a Lightleap Pro";
+
+/* Setting option leading user to log in screen */
+"Log In" = "Iniciar Sessão";
+
+/* Setting option leading user to log out */
+"Log Out" = "Encerrar Sessão";
+
+/* Close caption for a screen */
+"Close" = "Fechar";
+
+/* Skip caption for a screen */
+"Skip" = "Ignorar";
+
+/* Login screen title */
+"Log in and unleash your creativity" = "Inicie sessão e solte a sua criatividade";
+
+/* Login screen  button title to log in with Apple */
+"Continue with Apple" = "Continuar com a Apple";
+
+/* Login screen  button title to log in with Facebook */
+"Continue with Facebook" = "Continuar com o Facebook";
+
+/* Login screen  button title to log in with Google */
+"Continue with Google" = "Continuar com o Google";
+
+/* Login screen error message title */
+"Oops!" = "Ups!";
+
+/* Login screen error message body */
+"There was a problem logging you in.\nPlease try again later." = "Houve um problema ao iniciar a sua sessão.\nPor favor, tente novamente mais tarde.";
+
+/* Log out message body */
+"You’re now logged out" = "Já encerrou a sua sessão";
+
+/* Pack name for pack displaying shdows from blinds. */
+"Shadow Blinds" = "Persianas com Sombras";
+
+/* Pack name for pack displaying shdows from leaves. */
+"Shadow Leaves" = "Folhas com Sombras";
+
+/* Title for what's new for new shadow packs */
+"Step into the light" = "Encontre a luz";
+
+/* Body for what's new for new shadow packs */
+"With Shadows effects for every mood" = "Com efeitos de Sombra para todos os gostos";
+
+/* Looks pack name for new shadows overlays */
+"Shadows" = "Sombras";
+
+/* Halloween What's new title */
+"Something wicked this way comes…" = "Algo malvado vem nesta direção…";
+
+/* Halloween What's new body */
+"Give your photos the scare factor with “SPOOKY”" = "Dê às suas fotos o fator susto com o “ASSUSTADOR”";
+
+/* Halloween pack name */
+"SPOOKY" = "ASSUSTADOR";
