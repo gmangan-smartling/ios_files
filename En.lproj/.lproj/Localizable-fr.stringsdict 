@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Undo edits on %lu sessions?</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@Sessions@</string>
+		<key>Sessions</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>lu</string>
+			<key>one</key>
+			<string>Annuler les modifications de 1 session ?</string>
+			<key>other</key>
+			<string>Annuler les modifications de %1$lu sessions ?</string>
+		</dict>
+	</dict>
+	<key>Edit %lu Photos</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@Photos@</string>
+		<key>Photos</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>lu</string>
+			<key>one</key>
+			<string>Modifier 1 photo</string>
+			<key>other</key>
+			<string>Modifier %1$lu photos</string>
+		</dict>
+	</dict>
+	<key>Edit Photos</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@Photos@</string>
+		<key>Photos</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>lu</string>
+			<key>one</key>
+			<string>Modifier la photo</string>
+			<key>other</key>
+			<string>Modifier les photos</string>
+		</dict>
+	</dict>
+	<key>Delete %lu Sessions</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@Sessions@</string>
+		<key>Sessions</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>lu</string>
+			<key>one</key>
+			<string>Supprimer la session</string>
+			<key>other</key>
+			<string>Supprimer %1$lu sessions</string>
+		</dict>
+	</dict>
+	<key>Delete %lu Batch Sessions</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@Sessions@</string>
+		<key>Sessions</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>lu</string>
+			<key>one</key>
+			<string>Supprimer la session de traitement groupé</string>
+			<key>other</key>
+			<string>Supprimer %1$lu sessions de traitement groupé</string>
+		</dict>
+	</dict>
+	<key>%lu Photos Selected</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@Photos@</string>
+		<key>Photos</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>lu</string>
+			<key>one</key>
+			<string>1 photo sélectionnée</string>
+			<key>other</key>
+			<string>%1$lu photos sélectionnées</string>
+		</dict>
+	</dict>
+	<key>%lu Batch Sessions Selected</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@Sessions@</string>
+		<key>Sessions</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>lu</string>
+			<key>one</key>
+			<string>1 session de traitement groupé sélectionnée</string>
+			<key>other</key>
+			<string>%1$lu sessions de traitement groupé sélectionnées</string>
+		</dict>
+	</dict>
+	<key>%lu Sessions Selected</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@Sessions@</string>
+		<key>Sessions</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>lu</string>
+			<key>one</key>
+			<string>1 session sélectionnée</string>
+			<key>other</key>
+			<string>%1$lu sessions sélectionnées</string>
+		</dict>
+	</dict>
+	<key>You’ve got %lu free Pro Exports!</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@Exports@</string>
+		<key>Exports</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>lu</string>
+			<key>one</key>
+			<string>Vous avez 1 exportation Pro !</string>
+			<key>other</key>
+			<string>Vous avez %1$lu exportations Pro gratuites !</string>
+		</dict>
+	</dict>
+	<key>Export %lu Photos</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@Photos@</string>
+		<key>Photos</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>lu</string>
+			<key>one</key>
+			<string>Exporter 1 photo</string>
+			<key>other</key>
+			<string>Exporter %1$lu photos</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
