@@ -444,4 +444,8 @@
 
     <string name="whats_new_sky_spooky_pack_title">Something wicked this way comes…</string>
     <string name="whats_new_sky_spooky_pack_body">Give your photos the scare factor with \“SPOOKY\”</string>
+    <string name="toolbar_item_remove">Remove</string>
+    <string name="toolbar_item_add">Add</string>
+    <string name="whats_new_multiple_elements_title">More Elements, more choice</string>
+    <string name="whats_new_multiple_elements_body">Your photos deserve more…\nadd Multiple Elements to your creation</string>
 </resources>
