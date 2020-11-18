@@ -1,0 +1,8 @@
+/* Permission text asking for permission to access the camera */
+NSCameraUsageDescription = "놀라운 이미지를 제작할 수 있도록 Lightleap이 카메라에 액세스하려 합니다.";
+
+/* Permission text asking for permission to access the the user's photos */
+NSPhotoLibraryUsageDescription = "여러분의 사진을 편집할 수 있게 됩니다";
+
+/* Permission text asking for permission to access the user's location */
+NSLocationWhenInUseUsageDescription = "사진에 지리적 정보를 삽입하기 위해 사용자의 위치를 알아야 합니다";

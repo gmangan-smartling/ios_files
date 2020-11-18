@@ -2,8 +2,11 @@
 /*======= Subscription Strings =======*/
 /*====================================*/
 
+/* Another update */
+"Another update" = "Another update";
+
 /* Push header */
-"Lightleap Push" = "라이트맵 푸시";
+"Lightleap Push." = "Lightleap Push.";
 
 /* New string */
 "Checking Push" = "Checking Push";
