@@ -17,7 +17,7 @@
     <string name="save_copy_button_text">Save Copy</string>
     <!--Share image to social media-->
     <string name="share_text_button">Share</string>
-    <string name="test_string">test string..</string>
+    <string name="test_string">test string...</string>
 
     <!--    Help Fragment   -->
     <string name="contact_us_email_subject">Lightleap Feedback #%016X</string>
