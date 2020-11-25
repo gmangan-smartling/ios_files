@@ -3,7 +3,7 @@
 
     <string name="app_name">Lightleap</string>
     <string name="user_locale">en</string>
-
+     <string name="user_bit">The user</string>
     <!--Title of album that represents all the photos on the device-->
     <string name="import_all_photos_album">All Photos</string>
     <string name="import_tab_title_gallery">Gallery</string>
