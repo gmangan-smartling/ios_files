@@ -39,7 +39,7 @@
 
     <!-- Terms and conditions dialog-->
     <string name="terms_and_condition_popup_title" tools:ignore="MissingTranslation">Terms and Conditions</string>
-    <string name="terms_and_condition_popup_message" tools:ignore="MissingTranslation">By tapping \"Accept\", you agree to Lightleap\'s \n
+    <string name="terms_and_condition_popup_message" tools:ignore="MissingTranslation">By tapping "Accept", you agree to Lightleap\'s \n
         Terms of Use and Privacy Policy.</string>
     <string name="terms_and_condition_terms_of_use" tools:ignore="MissingTranslation">Terms of Use</string>
     <string name="terms_and_condition_privacy_policy" tools:ignore="MissingTranslation">Privacy Policy</string>
