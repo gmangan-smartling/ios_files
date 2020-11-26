@@ -1,0 +1,454 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- smartling.includeOriginalStrings=false -->
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <string name="app_name" translatable="false">Lightleap</string>
+    <string name="user_locale">FR</string>
+
+    <!--Title of album that represents all the photos on the device-->
+    <string name="import_all_photos_album">Toutes les Photos</string>
+    <string name="import_tab_title_gallery">Galerie</string>
+    <string name="import_tab_title_sessions">Séances</string>
+    <string name="read_external_storage_permission_denied">Impossible d\'afficher les médias sans autorisation</string>
+    <string name="settings">Paramètres</string>
+    <string name="mod_test">Texte mod</string>
+
+    <!--Topbars-->
+    <string name="back_to_photos_string">Photos</string>
+    <!--Save copy of an image-->
+    <string name="save_copy_button_text">Sauvegarder une copie</string>
+    <!--Share image to social media-->
+    <string name="share_text_button">Partager</string>
+    <string name="test_string">test string...</string>
+
+    <!--    Help Fragment   -->
+    <string name="contact_us_email_subject">Avis Lightleap #%1$016X</string>
+    <string name="subscription_header">Lightleap Pro</string>
+    <string name="subscription_secondary_headline">Accéder à toutes les fonctionnalités</string>
+    <string name="subscription_continue_btn">Continuer</string>
+
+    <!-- WeChat login -->
+    <string name="login_network_error_message" tools:ignore="MissingTranslation">There was an error connecting to the network, preventing you from signing in</string>
+    <string name="login_wechat_app_not_installed_message" tools:ignore="MissingTranslation">It seems WeChat is not installed on this device</string>
+    <string name="login_wechat_service_not_supported" tools:ignore="MissingTranslation">WeChat service is not supported</string>
+    <string name="login_general_error_message" tools:ignore="MissingTranslation">Oops! Something went wrong</string>
+    <string name="login_temporary_unavailable_error_message" tools:ignore="MissingTranslation">Sorry, an unknown error occurred, please try again later</string>
+    <string name="login_success_message" tools:ignore="MissingTranslation">You are successfully signed in</string>
+    <string name="login_cancelled_message" tools:ignore="MissingTranslation">Operation cancelled</string>
+    <string name="log_out_title" tools:ignore="MissingTranslation">Sign out</string>
+    <string name="login_with_wechat_title" tools:ignore="MissingTranslation">Sign In With WeChat</string>
+    <string name="skip_button" tools:ignore="MissingTranslation">Passer</string>
+
+    <!-- Terms and conditions dialog-->
+    <string name="terms_and_condition_popup_title" tools:ignore="MissingTranslation">Terms and Conditions</string>
+    <string name="terms_and_condition_popup_message" tools:ignore="MissingTranslation">En touchant « Accepter », vous acceptez les Conditions d\'utilisation et la Politique de confidentialité de Lightleap.</string>
+    <string name="terms_and_condition_terms_of_use" tools:ignore="MissingTranslation">Conditions d\'utilisation</string>
+    <string name="terms_and_condition_privacy_policy" tools:ignore="MissingTranslation">Règles de confidentialité</string>
+
+    <string name="terms_and_condition_popup_terms_of_use_button" tools:ignore="MissingTranslation">Conditions d\'utilisation</string>
+    <string name="terms_and_condition_popup_privacy_policy_button" tools:ignore="MissingTranslation">Règles de confidentialité</string>
+    <string name="terms_and_condition_popup_accept_button" tools:ignore="MissingTranslation">Accepter</string>
+
+    <!--Pdf Displayer-->
+    <string name="no_pdf_viewer_error_msg" tools:ignore="MissingTranslation">Download a PDF reader to your device to open this link</string>
+
+    <!--    Subscription    -->
+    <!-- Privacy policy title for subscription screen -->
+    <string name="subscription_privacy_policy">Politique de confidentialité</string>
+    <!-- Terms of use title for subscription screen -->
+    <string name="subscription_terms_of_use">Conditions d\'utilisation</string>
+    <!-- Restore purchase title for subscription screen -->
+    <string name="subscription_restore_purchase">Déjà payé ?</string>
+    <string name="subscription_short_terms_of_use_text">Facturation récurrente, annulation possible à tout moment.</string>
+    <string name="subscription_monthly_title">1 mois</string>
+    <string name="subscription_yearly_title">12 mois</string>
+    <!-- Text for subscription plan, where the plan is lifetime product plan -->
+    <string name="subscription_otp_title">Achat unique</string>
+    <!-- Text tag for Most popular subscription plan -->
+    <string name="subscription_most_popular_tag">Le plus populaire</string>
+    <string name="subscription_progress_dialog_title">Chargement…</string>
+    <string name="subscription_progress_dialog_message">Veuillez patienter.</string>
+    <string name="subscription_thank_for_purchasing">Merci pour votre achat !</string>
+    <string name="subscription_header_content_description">Image Lightleap Pro</string>
+    <string name="error_dialog_ok_btn">OK</string>
+    <string name="subscription_save">Sauvegarder {0}% !</string>
+    <string name="subscription_yearly_total_price">%1$s / an</string>
+
+    <!-- Title of a dialog informing the user of a network related error -->
+    <string name="subscription_network_error_dialog_title">Erreur de réseau</string>
+    <!-- Body of a dialog informing the user of a network related error,
+     suggesting to check their internet connection -->
+    <string name="subscription_network_error_dialog_message">Vérifiez que vos données Wi-Fi ou mobiles sont activées, puis réessayez.</string>
+    <!-- A message displayed to the user who clicks on restore purchases button and as a result at least one
+     purchase has been restored -->
+    <string name="purchases_restored_success_message">Vos achats ont été restaurés avec succès</string>
+    <!-- An alert displayed to the user who tries to restore purchases but actually doesn't have any purchases
+     that need to be restored -->
+    <string name="no_purchases_to_restore">Il n\'y a pas d\'achats à restaurer</string>
+    <!-- An alert displayed to the user when user tries to restore purchases
+     but there are network connectivity issues -->
+    <string name="restore_network_error">Impossible de restaurer les achats. Veuillez vérifier votre connexion internet</string>
+    <!-- An alert displayed to the user when an unexpected error occurs during one of the billing actions -->
+    <string name="subscription_generic_error_message">Oups… Quelque chose a mal tourné.</string>
+    <!-- Body of a dialog informing the user of a network related error,
+     suggesting to check their internet connection -->
+    <string name="subscription_network_error">Assurez-vous que vos données Wi-Fi ou mobiles sont activées, puis réessayez.</string>
+    <!-- An alert displayed to the user if he already purchased premium and tries again -->
+    <string name="subscription_premium_already_owned">Vous avez déjà acheté ce produit</string>
+    <!-- An alert displayed to the user who tries to purchase a product that is not available for purchase -->
+    <string name="subscription_item_unavailable">Le produit demandé n\'est pas disponible à l\'achat</string>
+    <!-- An alert displayed to the user who tries to access a feature that is not supported by Play Store
+     on the current device -->
+    <string name="subscription_feature_not_supported">Cette fonctionnalité n\'est pas disponible dans le Play Store sur cet appareil</string>
+    <!-- An alert displayed to the user who tries to purchase a product with no google account
+     or valid play store version -->
+    <string name="subscription_billing_unavailable">Assurez-vous qu\'un utilisateur de Google est connecté et que Google Play est à jour, puis réessayez.</string>
+    <!-- a short version of the word "month" example usage : 10$ per mo-->
+    <string name="subscription_price_per_month_suffix">/ mois</string>
+    <!-- Text displayed if user is already has a subscription-->
+    <string name="pro_member_dialog_title">Vous êtes déjà un membre Pro</string>
+    <!-- Text displayed if user has subscription, with subscription all app features are available -->
+    <string name="pro_member_dialog_body">Toutes les fonctionnalités sont désormais disponibles</string>
+    <string name="approve_pro_membership_notice">OK</string>
+
+    <!--Export-->
+    <string name="export_button_text">Exporter</string>
+    <!--Error message when user denies the permission to write to phone storage -->
+    <string name="write_external_storage_permission_denied">Impossible de sauvegarder la photo. Veuillez mettre à jour vos autorisations</string>
+    <!--Short title displayed on top of the list of the available apps when sharing a project. Should be short-->
+    <string name="share_title">Partager sur</string>
+
+    <!--Title that will be displayed as the subject when sharing the photo. For example when photo the video with
+     gmail it will be displayed as the subject of the email ,
+      Lightleap the name of the app should not be translated-->
+    <string name="share_project_title">Créée avec Lightleap</string>
+    <!--Text is displayed if app permissions are required -->
+    <string name="permissions_required">Autorisations requises</string>
+    <!--Text is displayed when image was saved successfully-->
+    <string name="save_copy_success">Copie sauvegardée avec succès !</string>
+    <!--Text is displayed when image was saved unsuccessfully-->
+    <string name="save_copy_failed">Échec de la sauvegarde d\'une copie</string>
+    <!--Title is displayed when sharing image to social media fails-->
+    <string name="share_failed">Échec du partage</string>
+    <!--Text for setting menu, under it more settings options are displayed  -->
+    <string name="more">Plus</string>
+
+    <!--    Navigation Menu-->
+    <!--Sub title in navigation menu-->
+    <string name="navigation_drawer_section_header_join_the_community">Rejoindre la communauté</string>
+    <string name="navigation_drawer_become_pro">Passer Pro</string>
+    <string name="navigation_drawer_become_help">Aide</string>
+    <string name="navigation_drawer_become_facebook">Facebook</string>
+    <string name="navigation_drawer_instagram">Instagram</string>
+    <string name="navigation_drawer_section_header_more">Plus</string>
+    <string name="navigation_drawer_rate_us">Donnez-nous une note</string>
+    <!-- Share Lightleap to social media-->
+    <string name="navigation_drawer_share_us">Partager Lightleap</string>
+    <string name="navigation_drawer_contact_us">Nous contacter</string>
+    <string name="navigation_drawer_work_with_us">Travailler avec nous</string>
+
+    <!--    Share-->
+    <string name="share_us_window_title">Partager</string>
+    <!-- Lightleap (name of the application) and Lightricks(name of the company) should not be translated.-->
+    <string name="share_us_subject">Lightleap par Lightricks Ltd.</string>
+    <!-- Title, check out our application (Lightleap),
+    Lightleap should not be translated, name of the app-->
+    <string name="share_us_body">Découvrez Lightleap :</string>
+
+    <!-- Help Items Title and Bodies-->
+    <string name="help_topbar_title">Aide</string>
+    <string name="help_compare_title">Comparer</string>
+    <!-- Text shown in help screen, long press will compare between the edited and unedited photos-->
+    <string name="help_compare_body">Appuyez longtemps pour comparer.</string>
+    <string name="help_reset_title">Réinitialiser</string>
+    <string name="help_reset_body">Appuyez longtemps sur le bouton Annuler pour réinitialiser.</string>
+    <string name="help_sky_title">Ciel</string>
+    <!-- text body, Feather Horizon and Ambient are features in the app-->
+    <string name="help_sky_body">Ajustez la plume, l\'horizon et l\'ambiance pour faire correspondre le ciel à votre photo.</string>
+    <string name="help_brush_title">Brosse</string>
+    <string name="help_brush_body">Utilisez la Gomme pour enlever ou la Brosse pour ajouter votre ciel à certaines zones.</string>
+    <!-- Slider - allows users to make selections from a range of values.-->
+    <string name="help_reset_slider_title">Réinitialiser le curseur</string>
+    <string name="help_reset_slider_body">Appuyez longtemps pour réinitialiser les valeurs.</string>
+
+    <string name="contact_us_button_text">Nous contacter</string>
+
+    <!-- Settings screen -->
+    <string name="settings_title">Paramètres</string>
+    <!-- button title for sending app usage data-->
+    <string name="settings_analytics">Envoyer des données d\'utilisation</string>
+    <string name="settings_analytics_description">Aidez-nous à améliorer Lightleap en nous permettant d\'obtenir des informations régulières sur la façon dont vous utilisez l\'application. Vous pouvez vous désinscrire à tout moment.</string>
+    <string name="settings_licenses">Licences libres</string>
+    <string name="settings_privacy_policy">Politique de confidentialité</string>
+    <string name="settings_terms_of_use">Conditions d\'utilisation</string>
+    <string name="settings_version">Version</string>
+
+    <!-- delete WeChat account -->
+    <!-- Delete account confirmation dialog title -->
+    <string name="delete_account_title" tools:ignore="MissingTranslation">Delete Account</string>
+    <!-- Text that displayed on a confirmation dialog which is shown when user tries to delete their account -->
+    <string name="delete_account_message" tools:ignore="MissingTranslation">Deleting your account is permanent and cannot be undone. If you delete your account you won\'t be able to login the account through the same login.\nDo you still want to delete your account?</string>
+    <!-- Text on "Yes" button that appears on delete account confirmation dialog -->
+    <string name="delete_account_agree_title" tools:ignore="MissingTranslation">Yes</string>
+    <!-- Text on "No" button that appears on delete account confirmation dialog -->
+    <string name="delete_account_deny_title" tools:ignore="MissingTranslation">No</string>
+    <string name="not_logged_in_error_message" tools:ignore="MissingTranslation">You need to be signed in to perform this action.</string>
+    <string name="email_app_missing" tools:ignore="MissingTranslation">Unable to find email app</string>
+
+    <!-- Toolbar item titles -->
+    <!-- Item title for feature "Looks" -->
+    <string name="toolbar_item_looks">Styles</string>
+    <!-- Item title for feature "Sky" -->
+    <string name="toolbar_item_sky">Ciel</string>
+    <!-- Item title for feature "Filters" -->
+    <string name="toolbar_item_filters">Filtres</string>
+    <!-- Item title for feature "Overlay" -->
+    <string name="toolbar_item_overlay">Superposition</string>
+    <!-- Item title for feature "Element" -->
+    <string name="toolbar_item_element">Élément</string>
+    <!-- Item title for feature "Details" -->
+    <string name="toolbar_item_details">Détails</string>
+    <!-- Item title for feature "Adjust" -->
+    <string name="toolbar_item_adjust">Ajuster</string>
+    <!-- Item title for feature "Crop" -->
+    <string name="toolbar_item_crop">Recadrer</string>
+    <!-- Item title for feature "Magic" -->
+    <string name="toolbar_item_magic">Magie</string>
+
+    <!--Redo feature -->
+    <string name="caption_redo_label">Rétablir : %1$s</string>
+    <!--Undo feature -->
+    <string name="caption_undo_label">Annuler : %1$s</string>
+    <string name="caption_undo_all">Annuler tout</string>
+    <string name="caption_redo_all">Rétablir tout</string>
+    <string name="toolbar_item_none">Aucun</string>
+
+    <!--    MagicFix feature    -->
+    <!-- Caption text for Magic and its current value-->
+    <string name="caption_magicfix">Magie : %1$d</string>
+    <string name="caption_magicfix_initial">Magie</string>
+
+    <!--    Adjust feature  -->
+    <!--    Item titles for Adjust sub features -->
+    <string name="toolbar_item_light">Lumière</string>
+    <string name="toolbar_item_contrast">Contraste</string>
+    <string name="toolbar_item_vibrance">Vibrance</string>
+    <string name="toolbar_item_shadows">Ombres</string>
+    <string name="toolbar_item_vignette">Vignette</string>
+    <string name="toolbar_item_exposure">Exposition</string>
+    <string name="toolbar_item_highlights">Reflets</string>
+    <string name="toolbar_item_saturation">Saturation</string>
+    <string name="toolbar_item_temperature">Température</string>
+    <string name="toolbar_item_tint">Teinte</string>
+    <string name="toolbar_item_hue">Ton</string>
+
+    <!--    Caption text for adjust sub features and their current value -->
+    <string name="caption_adjust_light">Lumière : %1$d</string>
+    <string name="caption_adjust_contrast">Contraste : %1$d</string>
+    <string name="caption_adjust_vibrance">Vibrance : %1$d</string>
+    <string name="caption_adjust_shadows">Ombres : %1$d</string>
+    <string name="caption_adjust_vignette">Vignette : %1$d</string>
+    <string name="caption_adjust_exposure">Exposition : %1$d</string>
+    <string name="caption_adjust_highlights">Reflets : %1$d</string>
+    <string name="caption_adjust_tint">Teinte : %1$d</string>
+    <string name="caption_adjust_hue">Ton : %1$d</string>
+    <string name="caption_adjust_saturation">Saturation : %1$d</string>
+    <string name="caption_adjust_temperature">Temp : %1$dt</string>
+    <!--    Caption text that is shown when Adjust feature is being reset -->
+    <string name="caption_reset_adjust">Réinitialisation de l\'ajustement</string>
+
+    <!--    Sky feature-->
+    <!--    Caption text for Sky sub features and their current value -->
+    <string name="caption_sky">Ciel : %1$s</string>
+    <string name="caption_sky_feather">Plume : %1$d</string>
+    <string name="caption_sky_horizon">Horizon : %1$d</string>
+    <string name="caption_sky_shift">Basculer : %1$d</string>
+    <string name="caption_sky_ambient">Ambiance : %1$d</string>
+    <string name="caption_sky_details">Détails : %1$d</string>
+    <string name="caption_opacity">Opacité : %1$d</string>
+    <!--    Item titles for Sky sub features -->
+    <string name="toolbar_item_random">Aléatoire</string>
+    <string name="toolbar_item_sky_feather">Plume</string>
+    <string name="toolbar_item_sky_horizon">Horizon</string>
+    <string name="toolbar_item_sky_shift">Basculer</string>
+    <string name="toolbar_item_sky_ambient">Ambiance</string>
+    <string name="toolbar_item_sky_details">Détails</string>
+    <string name="toolbar_item_opacity">Opacité</string>
+    <!--    Caption text that is shown when Sky feature is being reset -->
+    <string name="caption_reset_sky">Réinitialiser le ciel</string>
+
+    <!-- Sky packs titles -->
+    <!--Tupi is a name, not a word-->
+    <string name="tupi" translatable="false">Tupi</string>
+    <string name="sunny">Soleil</string>
+    <string name="fantasy">Fantaisie</string>
+    <string name="dusk">Crépuscule</string>
+    <string name="sunset">Coucher de soleil</string>
+    <string name="storm">Tempête</string>
+    <string name="night">Nuit</string>
+    <string name="aurora">Aurore</string>
+    <string name="ablaze">De feu</string>
+    <string name="valentines">Saint-Valentin</string>
+    <string name="spooky">Effrayant</string>
+
+    <!--    Details feature -->
+    <!--    Item titles for Details sub features -->
+    <string name="toolbar_item_structure">Structure</string>
+    <string name="toolbar_item_depth">Profondeur</string>
+    <string name="toolbar_item_sharpen">Netteté</string>
+    <string name="toolbar_item_grain">Grain</string>
+
+    <!--    Caption text for Details sub features and their current value -->
+    <string name="caption_details_structure">Structure : %1$d</string>
+    <string name="caption_details_depth">Profondeur : %1$d</string>
+    <string name="caption_details_sharpen">Netteté : %1$d</string>
+    <string name="caption_details_grain">Grain : %1$d</string>
+    <!--    Caption text that is shown when Details feature is being reset -->
+    <string name="caption_reset_details">Réinitialiser les détails</string>
+
+    <!--Crop Feature-->
+    <!--    Item titles for Crop sub features -->
+    <string name="crop_feature_free">Libre</string>
+    <string name="crop_feature_square">Carré</string>
+    <!-- Instagram "story"-->
+    <string name="crop_feature_story">Story</string>
+    <string name="crop_feature_photo">Photo</string>
+    <string name="crop_feature_rotate">Faire tourner</string>
+    <!--    Caption text that is shown when Crop feature is being reset -->
+    <string name="caption_reset_crop">Réinitialiser le recadrage</string>
+
+    <!-- Filters packs titles -->
+    <!--    Item titles for Filters in Filter feature -->
+    <string name="essential">Essentiel</string>
+    <string name="fade">Fondu</string>
+    <string name="vibrant">Vibrant</string>
+    <string name="tones">Tons</string>
+    <string name="portrait">Portrait</string>
+    <string name="urban">Ville</string>
+    <!-- Black and White filter-->
+    <string name="black_and_white">Noir et blanc</string>
+    <string name="film">Film</string>
+    <string name="bright">Clair</string>
+    <string name="neutral">Neutre</string>
+    <string name="cold">Froid</string>
+    <string name="warm">Chaud</string>
+
+    <!--    Caption text for Filter used and its intensity (how strong it is) -->
+    <string name="caption_filters">Filtre : %1$s</string>
+
+    <!--    Caption text that is shown when Filter feature is being reset -->
+    <string name="caption_reset_filters">Réinitialiser les filtres</string>
+
+    <string name="caption_brush">Brosse</string>
+
+    <!--    Looks-->
+    <!--    Caption text for Look used in Looks feature and its intensity (how strong it is) -->
+    <string name="caption_looks">Styles : %1$s</string>
+    <!--    Caption text that is shown when Looks feature is being reset -->
+    <string name="caption_reset_looks">Réinitialiser les styles</string>
+
+    <!--    Item titles for Looks in Looks feature -->
+    <string name="looks_day_pack_title">Jour</string>
+    <string name="looks_night_pack_title">Nuit</string>
+    <string name="looks_storm_pack_title">Tempête</string>
+    <string name="looks_sparkle_pack_title">Étincelles</string>
+    <string name="looks_bw_pack_title">Noir et blanc</string>
+    <string name="looks_light_leaks_pack_title">Effets de lumière</string>
+    <string name="looks_dusk_pack_title">Crépuscule</string>
+    <string name="looks_winter_wonder_pack_title">Merveilles hivernales</string>
+    <string name="looks_vibrant_pack_title">Vibrant</string>
+    <string name="looks_enchanted_pack_title">Enchanté</string>
+    <string name="looks_fantasy_pack_title">Fantaisie</string>
+    <string name="looks_lovely_pack_title">Adorable</string>
+    <string name="looks_fade_pack_title">Fondu</string>
+    <string name="looks_fireworks_pack_title">Feu d\'artifice</string>
+    <string name="looks_rainbow_pack_title">Arc-en-ciel</string>
+    <string name="looks_graceful_pack_title">Gracieux</string>
+
+    <!--Overlays-->
+    <!--    Caption text that is shown when Overlay feature is being reset -->
+    <string name="caption_reset_overlay">Réinitialiser la superposition</string>
+    <!--    Caption text for Overlay used in Overlay feature and its intensity (how strong it is) -->
+    <string name="caption_overlay">Superposition : %1$s</string>
+    <!--    Titles for Overlay packages in Overlay feature -->
+    <string name="sparkle">Étincelles</string>
+    <string name="mood">Humeur</string>
+    <string name="lens_flare">Facteur de Flare</string>
+    <string name="weather">Temps</string>
+    <string name="christmas">Noël</string>
+    <string name="valentine">Saint-Valentin</string>
+
+    <!--Overlays-->
+    <!--    Caption text that is shown when Element feature is being reset -->
+    <string name="caption_reset_element">Réinitialiser l\'élément</string>
+    <!--    Caption text for Element used in Element feature and its intensity (how strong it is) -->
+    <string name="caption_element">Élément : %1$s</string>
+
+    <!--Onboarding-->
+    <!-- Text in button that takes the user out of the onBoarding screen (tutorial) to the App -->
+    <string name="onboarding_start_button_text">Démarrez !</string>
+    <string name="onboarding_sky_text">Modifiez n\'importe quel ciel en un seul clic</string>
+    <string name="onboarding_looks_text">Une photo, une multitude de possibilités</string>
+    <string name="onboarding_overlay_text">Ajoutez des effets spéciaux époustouflants</string>
+    <string name="onboarding_magic_text">Corrigez chaque image comme par magie</string>
+    <string name="onboarding_heal_text">Nettoyez les taches indésirables présentes sur vos photos</string>
+
+    <!-- Rate the app dialog actions - popup dialog displayed to the user to ask them to give us a review in the play store -->
+    <string name="rate_app_dialog_title">Vous appréciez Lightleap ?</string>
+    <string name="rate_app_dialog_message">Si vous appréciez Lightleap, merci de laisser un avis sur Google Play. Cela ne prendra qu’un instant !</string>
+    <string name="rate_app_dialog_rate_button">Noter</string>
+    <string name="rate_app_dialog_dismiss_button">Pas maintenant</string>
+
+    <!-- Delete Session-->
+    <string name="import_screen_delete_dialog_delete_btn">Oui, supprimer la session</string>
+    <string name="import_screen_delete_dialog_cancel_btn">La garder</string>
+    <string name="import_screen_delete_dialog_title">Supprimer la session ?</string>
+    <string name="import_screen_delete_dialog_body">ttention, cette action est irréversible !</string>
+    <string name="import_delete">Supprimer</string>
+
+    <!-- Carousel items-->
+    <string name="carousel_title_effects">Effets</string>
+    <string name="carousel_title_filters">+ de 100\nfiltres</string>
+    <string name="carousel_title_sky">Outil Ciel\nillimité</string>
+    <string name="carousel_title_advanced_tools">Outils\navancés</string>
+    <string name="general_error_message">Un problème est survenu</string>
+
+    <string name="toolbar_item_overlay_portrait">Portrait</string>
+    <string name="caption_overlay_portrait">Portrait : %1$d</string>
+    <string name="toolbar_item_overlay_foreground">Premier plan</string>
+    <string name="caption_overlay_foreground">Premier plan : %1$d</string>
+
+    <!-- Item title for feature "Heal" -->
+    <string name="toolbar_item_heal">Tache</string>
+    <!--    Caption text that is shown when heal feature is being reset -->
+    <string name="toolbar_item_heal_restore">Restaurer</string>
+    <string name="try_it_now">Testez les nouveautés</string>
+    <string name="whats_new_heal_title">Pour des corrections rapides, utilisez Tache</string>
+    <string name="whats_new_heal_body">Utilisez ce puissant outil pour éliminer les taches et le photobombing</string>
+
+    <string name="toolbar_item_effects">Effets</string>
+    <!--    Caption text for Look used in Sparkle feature and its intensity (how strong it is) -->
+    <string name="caption_sparkle">Étincelles: %1$s</string>
+    <!--    Caption text that is shown when effects feature is being reset -->
+    <string name="caption_reset_effects">Réinitialiser les effets</string>
+    <string name="caption_density">Densité: %1$d</string>
+    <string name="toolbar_item_density">Densité</string>
+    <string name="toolbar_item_size">Taille</string>
+    <string name="caption_size">Taille: %1$d</string>
+    <string name="toolbar_item_color">Couleur</string>
+    <string name="caption_color">Couleur: %1$d</string>
+
+    <string name="shadow_blinds">L\'ombre des stores</string>
+    <string name="shadow_leaves">L\'ombre des feuilles</string>
+    <string name="looks_shadows_pack_title">Ombres</string>
+
+    <string name="whats_new_overlay_shadow_pack_title">Entrez dans la lumière</string>
+    <string name="whats_new_new_overlay_shadow_pack_body">Avec des effets d\'ombres pour chaque humeur</string>
+
+    <string name="whats_new_sky_spooky_pack_title">Quelque chose de terrifiant arrive…</string>
+    <string name="whats_new_sky_spooky_pack_body">Donnez à vos photos une tournure terrifiante avec « EFFRAYANT »</string>
+    <string name="toolbar_item_remove">Supprimer</string>
+    <string name="toolbar_item_add">Ajouter</string>
+    <string name="whats_new_multiple_elements_title">Plus d\'éléments, plus de choix</string>
+    <string name="whats_new_multiple_elements_body">Vos photos méritent plus…\najoutez Multiple Elements à vos créations</string>
+</resources>
