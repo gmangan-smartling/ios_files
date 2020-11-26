@@ -10,6 +10,7 @@
     <string name="import_tab_title_sessions">Sessions</string>
     <string name="read_external_storage_permission_denied">Can\'t display media without permission</string>
     <string name="settings">Settings</string>
+    <string name="mod_test">Mod text</string>
 
     <!--Topbars-->
     <string name="back_to_photos_string">Photos</string>
