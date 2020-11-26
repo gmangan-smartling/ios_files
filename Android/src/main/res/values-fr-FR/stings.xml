@@ -11,7 +11,7 @@
     <string name="import_tab_title_sessions">Séances</string>
     <string name="read_external_storage_permission_denied">Impossible d\'afficher les médias sans autorisation</string>
     <string name="settings">Paramètres</string>
-    <string name="mod_test">Texte mod</string>
+    <string name="mod_test">Text Mod..</string>
 
     <!--Topbars-->
     <string name="back_to_photos_string">Photos</string>
