@@ -1,0 +1,42 @@
+/*====================================*/
+/*======= Subscription Strings =======*/
+/*====================================*/
+
+/* Another update */
+"Another update" = "다른 업데이트";
+
+/* Push header */
+"Lightleap Push." = "라이트맵 푸시다.";
+
+/* New string */
+"Checking Push" = "푸시 체크";
+
+/* Subscription header */
+"Lightleap Pro" = "Lightleap Pro";
+
+/* Subscription title 10% off */
+"Lightleap Pro - now 10% off!" = "Lightleap Pro - 지금 10% 할인!";
+
+/* Subscription title 15% off */
+"Lightleap Pro - now 15% off!" = "Lightleap Pro - 지금 15% 할인!";
+
+/* Subscription title 25% off */
+"Lightleap Pro - now 25% off!" = "Lightleap Pro - 지금 25% 할인!";
+
+/* Subscription title 50% off */
+"Lightleap Pro - now 50% off!" = "Lightleap Pro - 지금 50% 할인!";
+
+/* Subscription subtitle */
+"Primers, Filters, Sky, Strobe & unlimited Batch!" = "프라이머, 필터, 하늘, 플래시 및 무제한 배치 편집 기능!";
+
+/* Pro only banner (notice the line break) */
+"Pro Only\nRemove Limit" = "Pro 전용\n기능 제한 제거";
+
+/* Pro export banner */
+"Remove Limit" = "제한 제거하기";
+
+/* Pro features explanation */
+"You’ve used Pro features!" = "Pro 기능을 활성화했습니다!";
+
+/* Pro max number of batch explanation 1 */
+"Unlimited batch with Pro" = "Pro 계정으로 무제한 배치 편집";
