@@ -1,0 +1,42 @@
+/*====================================*/
+/*======= Subscription Strings =======*/
+/*====================================*/
+
+/* Another update */
+"Another update" = "Un altro aggiornamento";
+
+/* Push header */
+"Lightleap Push." = "Push Lightleap.";
+
+/* New string */
+"Checking Push" = "Controllo push";
+
+/* Subscription header */
+"Lightleap Pro" = "Lightleap Pro";
+
+/* Subscription title 10% off */
+"Lightleap Pro - now 10% off!" = "Lightleap Pro - ora 10% di sconto!";
+
+/* Subscription title 15% off */
+"Lightleap Pro - now 15% off!" = "Lightleap Pro - ora 15% di sconto!";
+
+/* Subscription title 25% off */
+"Lightleap Pro - now 25% off!" = "Lightleap Pro - ora 25% di sconto!";
+
+/* Subscription title 50% off */
+"Lightleap Pro - now 50% off!" = "Lightleap Pro - ora 50% di sconto!";
+
+/* Subscription subtitle */
+"Primers, Filters, Sky, Strobe & unlimited Batch!" = "Primer, filtri, cielo, effetti stroboscopici e gruppi illimitati!";
+
+/* Pro only banner (notice the line break) */
+"Pro Only\nRemove Limit" = "Solo Pro\nRimuovi limite";
+
+/* Pro export banner */
+"Remove Limit" = "Rimuovi limite";
+
+/* Pro features explanation */
+"You’ve used Pro features!" = "Hai usato funzioni Pro!";
+
+/* Pro max number of batch explanation 1 */
+"Unlimited batch with Pro" = "Gruppi illimitati con Pro";
