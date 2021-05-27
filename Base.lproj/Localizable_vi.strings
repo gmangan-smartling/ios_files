@@ -1,0 +1,45 @@
+/*====================================*/
+/*======= Subscription Strings =======*/
+/*====================================*/
+
+/* Another update */
+"Another update" = "Một bản cập nhật khác";
+
+/* Push header */
+"Lightleap Push." = "Đẩy nhẹ bản đồ.";
+
+/* New string */
+"Checking Push" = "Kiểm tra Đẩy";
+
+/* Subscription header */
+"Lightleap Pro" = "Lightleap Pro";
+
+/* Subscription title 10% off */
+"Lightleap Pro - now 10% off!" = "Lightleap Pro - đang giảm giá 10%!";
+
+/* Subscription title 15% off */
+"Lightleap Pro - now 15% off!" = "Lightleap Pro - đang giảm giá 15%!";
+
+/* Subscription title 25% off */
+"Lightleap Pro - now 25% off!" = "Lightleap Pro - đang giảm giá 25%!";
+
+/* Subscription title 50% off */
+"Lightleap Pro - now 50% off!" = "Lightleap Pro - đang giảm giá 50%!";
+
+/* Subscription subtitle */
+"Primers, Filters, Sky, Strobe & unlimited Batch!" = "Màu nền, Bộ lọc, Bầu trời, Nhấp nháy và Chỉnh sửa Hàng loạt không giới hạn!";
+
+/* Pro only banner (notice the line break) */
+"Pro Only\nRemove Limit" = "Chỉ dành cho phiên bản Pro\nLoại bỏ Giới hạn";
+
+/* Pro export banner */
+"Remove Limit" = "Loại bỏ Giới hạn";
+
+/* Pro features explanation */
+"You’ve used Pro features!" = "Bạn đã sử dụng các tính năng Pro!";
+
+/* Pro max number of batch explanation 1 */
+"Unlimited batch with Pro" = "Chỉnh sửa hàng loạt không giới hạn với phiên bản Pro";
+
+/* testing this */
+"Testing github" = "thử nghiệm github";
