@@ -1,0 +1,42 @@
+/*====================================*/
+/*======= Subscription Strings =======*/
+/*====================================*/
+
+/* Another update */
+"Another update" = "Еще одно обновление";
+
+/* Push header */
+"Lightleap Push." = "Lightleap Push.";
+
+/* New string */
+"Checking Push" = "Проверка Push";
+
+/* Subscription header */
+"Lightleap Pro" = "Lightleap Pro";
+
+/* Subscription title 10% off */
+"Lightleap Pro - now 10% off!" = "Lightleap Pro: скидка 10%!";
+
+/* Subscription title 15% off */
+"Lightleap Pro - now 15% off!" = "Lightleap Pro: скидка 15%!";
+
+/* Subscription title 25% off */
+"Lightleap Pro - now 25% off!" = "Lightleap Pro: скидка 25%!";
+
+/* Subscription title 50% off */
+"Lightleap Pro - now 50% off!" = "Lightleap Pro: скидка 50%!";
+
+/* Subscription subtitle */
+"Primers, Filters, Sky, Strobe & unlimited Batch!" = "Праймеры, фильтры, замена неба, стробоскоп и пакетная обработка без ограничений!";
+
+/* Pro only banner (notice the line break) */
+"Pro Only\nRemove Limit" = "Только для Pro\nУбрать ограничение";
+
+/* Pro export banner */
+"Remove Limit" = "Убрать ограничение";
+
+/* Pro features explanation */
+"You’ve used Pro features!" = "Вы использовали функцию Pro!";
+
+/* Pro max number of batch explanation 1 */
+"Unlimited batch with Pro" = "Станьте Pro, чтобы снять ограничение";
