@@ -1,0 +1,42 @@
+/*====================================*/
+/*======= Subscription Strings =======*/
+/*====================================*/
+
+/* Another update */
+"Another update" = "別の更新";
+
+/* Push header */
+"Lightleap Push." = "lightleap プッシュ";
+
+/* New string */
+"Checking Push" = "プッシュのチェック";
+
+/* Subscription header */
+"Lightleap Pro" = "Lightleap Pro";
+
+/* Subscription title 10% off */
+"Lightleap Pro - now 10% off!" = "Lightleap Pro - 今なら10%オフ！";
+
+/* Subscription title 15% off */
+"Lightleap Pro - now 15% off!" = "Lightleap Pro - 今なら15%オフ！";
+
+/* Subscription title 25% off */
+"Lightleap Pro - now 25% off!" = "Lightleap Pro - 今なら25%オフ！";
+
+/* Subscription title 50% off */
+"Lightleap Pro - now 50% off!" = "Lightleap Pro - 今なら50%オフ！";
+
+/* Subscription subtitle */
+"Primers, Filters, Sky, Strobe & unlimited Batch!" = "プライマー, フィルタ, 空, ストロボ & 無制限バッチ！";
+
+/* Pro only banner (notice the line break) */
+"Pro Only\nRemove Limit" = "Pro限定\n制限を解除";
+
+/* Pro export banner */
+"Remove Limit" = "制限を解除";
+
+/* Pro features explanation */
+"You’ve used Pro features!" = "Pro機能を使用しています！";
+
+/* Pro max number of batch explanation 1 */
+"Unlimited batch with Pro" = "Proで無制限バッチ";
