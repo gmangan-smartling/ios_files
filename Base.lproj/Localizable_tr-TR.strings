@@ -1,0 +1,42 @@
+/*====================================*/
+/*======= Subscription Strings =======*/
+/*====================================*/
+
+/* Another update */
+"Another update" = "Başka bir güncelleme";
+
+/* Push header */
+"Lightleap Push." = "Lightleap it.";
+
+/* New string */
+"Checking Push" = "İtme Kontrol Ediliyor";
+
+/* Subscription header */
+"Lightleap Pro" = "Lightleap Pro";
+
+/* Subscription title 10% off */
+"Lightleap Pro - now 10% off!" = "Lightleap Pro - şimdi %10 indirim!";
+
+/* Subscription title 15% off */
+"Lightleap Pro - now 15% off!" = "Lightleap Pro - şimdi %15 indirim!";
+
+/* Subscription title 25% off */
+"Lightleap Pro - now 25% off!" = "Lightleap Pro - şimdi %25 indirim!";
+
+/* Subscription title 50% off */
+"Lightleap Pro - now 50% off!" = "Lightleap Pro - şimdi %50 indirim!";
+
+/* Subscription subtitle */
+"Primers, Filters, Sky, Strobe & unlimited Batch!" = "Dolgular, Filtreler, Gökyüzü, Döner Flaş ve sınırsız Toplu Düzenleme!";
+
+/* Pro only banner (notice the line break) */
+"Pro Only\nRemove Limit" = "Pro’ya Özel\nSınırı Kaldır";
+
+/* Pro export banner */
+"Remove Limit" = "Sınırı Kaldır";
+
+/* Pro features explanation */
+"You’ve used Pro features!" = "Pro özelliklerini kullandınız!";
+
+/* Pro max number of batch explanation 1 */
+"Unlimited batch with Pro" = "Pro ile sınırsız toplu düzenleme";
