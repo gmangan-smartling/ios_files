@@ -1,0 +1,45 @@
+/*====================================*/
+/*======= Subscription Strings =======*/
+/*====================================*/
+
+/* Another update */
+"Another update" = "另一個更新";
+
+/* Push header */
+"Lightleap Push." = "Lightleap Push。";
+
+/* New string */
+"Checking Push" = "檢查推送";
+
+/* Subscription header */
+"Lightleap Pro" = "Lightleap 專業版";
+
+/* Subscription title 10% off */
+"Lightleap Pro - now 10% off!" = "Lightleap 專業版 - 現享 10% 折扣！";
+
+/* Subscription title 15% off */
+"Lightleap Pro - now 15% off!" = "Lightleap 專業版 - 現享 15% 折扣！";
+
+/* Subscription title 25% off */
+"Lightleap Pro - now 25% off!" = "Lightleap 專業版 - 現享 25% 折扣！";
+
+/* Subscription title 50% off */
+"Lightleap Pro - now 50% off!" = "Lightleap 專業版 - 現享 50% 折扣！";
+
+/* Subscription subtitle */
+"Primers, Filters, Sky, Strobe & unlimited Batch!" = "底漆、濾鏡、天空、閃光燈 & 無限批量！";
+
+/* Pro only banner (notice the line break) */
+"Pro Only\nRemove Limit" = "限專業版使用\n移除限制";
+
+/* Pro export banner */
+"Remove Limit" = "移除限制";
+
+/* Pro features explanation */
+"You’ve used Pro features!" = "您使用了專業版的功能！";
+
+/* Pro max number of batch explanation 1 */
+"Unlimited batch with Pro" = "以專業版無限量整批編輯";
+
+/* testing this */
+"Testing github" = "測試github";
