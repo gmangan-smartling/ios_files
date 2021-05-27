@@ -3,7 +3,7 @@
 /*====================================*/
 
 /* Another update */
-"Another update" = "另一个更新";
+"Another update" = "另一个更新1";
 
 /* Push header */
 "Lightleap Push." = "轻跳推";
@@ -40,3 +40,6 @@
 
 /* Pro max number of batch explanation 1 */
 "Unlimited batch with Pro" = "使用专业版，无限批量编辑";
+
+/* testing this */
+"Testing github" = "测试github";
