@@ -1,6 +1,9 @@
 /* Label that describes the user albums on the device, presented as the title of the album browsing screen */
 "Albums" = "Albums";
 
+/* This is a comment. */
+"This is a new string" = "This is a new string";
+
 /* Text on a button that closes the help screen */
 "Close Help" = "Close Help";
 
