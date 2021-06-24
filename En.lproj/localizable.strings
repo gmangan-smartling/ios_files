@@ -2,6 +2,12 @@
 /*======= Subscription Strings =======*/
 /*====================================*/
 
+/* test update */
+"test update" = "test update";
+
+/* testing updates */
+"testing updates" = "testing updates";
+
 /* Another update */
 "Another update" = "Another update";
 
